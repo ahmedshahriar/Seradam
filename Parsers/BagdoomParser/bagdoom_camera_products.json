@@ -1,0 +1,412 @@
+{
+    "Products": [
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d500-dslr-camera-only-body.html",
+            "product_title": "Nikon D500 DSLR Camera (only body)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d850-dslr-camera-only-body.html",
+            "product_title": "Nikon D850 DSLR Camera (only body)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d810-dslr-camera-only-body.html",
+            "product_title": "Nikon D810 DSLR Camera (only body)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d7500-dslr-camera-with-18-140mm-lens.html",
+            "product_title": "Nikon D7500 DSLR Camera with 18-140mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d7200-dslr-24-1-mp-wi-fi-with-18-55mm-dx-vr-lens.html",
+            "product_title": "Nikon D7200 DSLR 24.1 MP Wi-Fi With 18-55mm DX VR Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d7200-dslr-24-2-mp-with-18-140-mm-lens.html",
+            "product_title": "Nikon D7200 DSLR 24.2 MP With 18-140 mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d7100-dslr-24-1-mp-with-18-105mm-ed-vr-lens.html",
+            "product_title": "Nikon D7100 DSLR 24.1 MP With 18-105mm ED VR Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d5600-dslr-camera-with-18-140mm-lens.html",
+            "product_title": "Nikon D5600 DSLR Camera with 18-140mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d5500-dslr-24-2-mp-touch-lcd-with-18-55mm-lens.html",
+            "product_title": "Nikon D5500 DSLR 24.2 MP Touch LCD With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d5300-dslr-24-2-mp-builtin-wi-fi-with-18-55mm-lens.html",
+            "product_title": "Nikon D5300 DSLR 24.2 MP Builtin Wi-Fi With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d5200-dslr-24-1-mp-with-18-55mm-lens.html",
+            "product_title": "Nikon D5200 DSLR 24.1 MP With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d5100-dslr-camera-with-18-55mm-lens.html",
+            "product_title": "Nikon D5100 DSLR Camera with 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d3400-dslr-camera-with-18-55-lens.html",
+            "product_title": "Nikon D3400 DSLR Camera With 18-55 Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d3300-dslr-24-2-mp-fhd-video-with-18-55mm-lens.html",
+            "product_title": "Nikon D3300 DSLR 24.2 MP FHD Video With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d3200-dslr-24-2-mp-with-18-55mm-lens.html",
+            "product_title": "Nikon D3200 DSLR 24.2 MP With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/nikon-d3100-dslr-camera-with-18-55mm-lens.html",
+            "product_title": "Nikon D3100 DSLR Camera With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-5d-mark-iv-dslr-camera-only-body-248175.html",
+            "product_title": "Canon EOS 5D Mark IV DSLR Camera (Only Body)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-m50-dslr-camera-with-15-45-lens.html",
+            "product_title": "Canon EOS M50 DSLR Camera with 15-45 Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-77d-dslr-camera-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 77D DSLR Camera With 18-55MM Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-6d-dslr-camera-only-body.html",
+            "product_title": "Canon Eos 6D DSLR Camera (Only Body)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-80d-dslr-with-with-18-55mm-lens-camera.html",
+            "product_title": "Canon EOS 80D DSLR with With 18-55mm Lens Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-70d-dslr-18-135-lens-camera.html",
+            "product_title": "Canon 70D DSLR 18-135 Lens Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-800d-camera-with-18-55-is-stm-lens.html",
+            "product_title": "Canon EOS 800D Camera With 18-55 IS STM Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-2000d-dslr-camera-with-18-55mm-kit-lens.html",
+            "product_title": "Canon 2000D DSLR Camera With 18-55mm Kit Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-4000d-18mp-2-7inch-display-with-18-55mm-lens-dslr-camera.html",
+            "product_title": "Canon Eos 4000D 18MP 2.7inch Display With 18-55mm Lens Dslr Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-kiss-x8i-dslr-camera-with-18-55mm-lens.html",
+            "product_title": "Canon Kiss X8i DSLR camera WITH 18-55MM Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-760d-24-2-mp-built-in-wi-fi-with-18-55mm-lens-dslr-camera.html",
+            "product_title": "Canon EOS 760D 24.2 MP Built-in Wi-Fi With 18-55mm Lens DSLR Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-700d-dslr-18-0-mp-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 700D DSLR 18.0 MP With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-650d-dslr-18-0-mp-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 650D DSLR 18.0 MP With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-750d-dslr-24-2-mp-built-in-wi-fi-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 750D DSLR 24.2 MP Built-in Wi-Fi With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-600d-18-55-lens-dslr-camera.html",
+            "product_title": "Canon EOS 600D 18-55 Lens DSLR Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-1300d-dslr-18-0-mp-built-in-wi-fi-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 1300D DSLR 18.0 MP Built-in Wi-Fi With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-1200d-dslr-18-0-mp-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 1200D DSLR 18.0 MP With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-eos-1100d-dslr-camera-with-18-55mm-lens.html",
+            "product_title": "Canon EOS 1100D DSLR Camera With 18-55mm Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/2-7-inch-tft-lcd-hd-1080p-16mp-hiperdeal-16x-zoom-digital-camcorder-dv-video-camera.html",
+            "product_title": "2.7 Inch TFT LCD HD 1080P 16MP HIPERDEAL 16X Zoom Digital Camcorder DV Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/hp-lc200w-action-waterproof-camera-wifi-full-hd-1080p.html",
+            "product_title": "HP lc200w Action Waterproof Camera WiFi Full HD 1080P"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/generic-kids-camera-digital-video-hd-sports-action-camera.html",
+            "product_title": "Generic Kids Camera Digital Video HD Sports Action Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/1-44-inch-5mp-hd-digital-kids-camera.html",
+            "product_title": "1.44 inch 5MP HD Digital Kids Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/eken-4k-25fps-wifi-action-sports-camera-with-2-4g-wireless-remote-233171.html",
+            "product_title": "EKEN 4K/25fps Wifi Action Sports Camera With 2.4G Wireless Remote"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/wifi-smart-camera.html",
+            "product_title": "Wifi Smart Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/ordro-ep-5-wearable-1080p-hd-wifi-camera.html",
+            "product_title": "Ordro EP-5 Wearable 1080P HD WIFI Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/ordro-ac3-4k-ultra-hd-60fps-video-camera-with-wifi-external-microphone-handy-camera.html",
+            "product_title": "ORDRO AC3 4K Ultra HD 60FPS Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/ordro-v7-plus-24mp-hd-1080p-video-camera.html",
+            "product_title": "ORDRO V7 Plus 24MP HD 1080P Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/ordro-hdv-z20-1080p-wifi-digital-video-handy-camera.html",
+            "product_title": "ORDRO HDV-Z20 1080P WIFI Digital Video Handy Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/full-metal-banner-dusk-and-dawn-telescope-black.html",
+            "product_title": "Full Metal Banner Dusk and Dawn Telescope - Black"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/eken-4k-25fps-wifi-action-sports-camera-with-2-4g-wireless-remote.html",
+            "product_title": "EKEN 4K/25fps Wifi Action Sports Camera With 2.4G Wireless Remote"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-action-sports-camera-1080p-hd-camcorder.html",
+            "product_title": "Mini Action Sports Camera 1080P HD Camcorder"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/sq13-waterproof-action-camera.html",
+            "product_title": "SQ13 Waterproof Action Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/camera-4k-wifi-eis-16mp-ultra-hd.html",
+            "product_title": "Camera 4K WiFi EIS 16MP Ultra HD"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/full-hd-1080p-sports-action-camera-2mp-black.html",
+            "product_title": "Full HD 1080P Sports Action Camera 2MP - Black"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/ultra-hd-dual-screen-4k-wifi-action-camera-30m.html",
+            "product_title": "Ultra HD Dual screen 4K WIFI Action Camera 30m"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/hd-1080p-wifi-12mp-action-camera-waterproof-4k.html",
+            "product_title": "HD 1080P Wifi 12MP Action Camera Waterproof 4K"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-photography-studio-folding-light-box-led-light.html",
+            "product_title": "Mini Photography Studio Folding Light-box LED Light"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/sq8-mini-camera-12mp-camera.html",
+            "product_title": "SQ8 Mini Camera 12MP Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-q7-mini-wifi-camera.html",
+            "product_title": "Mini Q7 Mini Wifi Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/v380-wifi-camera-night-vision.html",
+            "product_title": "V380 Wifi Camera Night Vision"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mi-action-camera-4k-global-version.html",
+            "product_title": "Mi Action Camera 4k Global Version"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/waterproof-monocular.html",
+            "product_title": "Waterproof Monocular"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/eken-h9r-4k-25fps-wifi-action-camera-with-2-4g-wireless-remote-control-black.html",
+            "product_title": "EKEN H9R 4K 25fps Wifi Action Camera With 2.4G Wireless Remote Control - Black"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mi-xiaofang-smart-square-1080p-wifi-ip-camera.html",
+            "product_title": "Mi Xiaofang Smart Square 1080P WiFi IP Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/night-scope-binoculars-4x30-telescope-golden-and-gray.html",
+            "product_title": "Night Scope Binoculars 4x30 Telescope - Golden and Gray"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/xiaomi-mijia-mi-camera-ip-wifi-cctv-1080p.html",
+            "product_title": "XIAOMI Mijia Mi Camera IP Wifi CCTV 1080p"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/xiaomi-mijia-smart-dome-thuis-camera-112-ip-camera.html",
+            "product_title": "Xiaomi Mijia Smart Dome Thuis Camera 112 \"IP Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/eken-h9r-4k-action-camera-wifi-sports-cam-remote-control-shutter.html",
+            "product_title": "EKEN H9R 4K Action Camera Wifi Sports Cam + Remote Control Shutter"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/canon-powershot-g9-x.html",
+            "product_title": "Canon PowerShot G9 X"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/folding-portable-drone-with-hd-camera.html",
+            "product_title": "Folding Portable Drone with HD Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/eken-h9r-4k-wifi-action-camera-with-remote.html",
+            "product_title": "Eken H9R - 4K Wifi Action Camera with Remote"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/wifi-camera-ip-1080p-g9378.html",
+            "product_title": "WiFi Camera IP 1080P-G9378"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/wifi-ip-security-camera-double-antenna.html",
+            "product_title": "WiFi IP Security Camera Double Antenna"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/aluminum-tripod-with-bluetooth-remote-for-camera-and-mobile-phone-5208-series.html",
+            "product_title": "Aluminum Tripod With Bluetooth Remote for Camera and Mobile Phone (5208 Series)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/aluminum-alloy-tripod-for-camera-and-mobile-3110-series.html",
+            "product_title": "Aluminum Alloy Tripod For Camera and Mobile (3110 Series)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/fisheye-360-degree-panoramic-cctv-vr-camera.html",
+            "product_title": "Fisheye 360 Degree Panoramic CCTV VR Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/xiaomi-xiaofang-smart-1080p-wifi-ip-camera.html",
+            "product_title": "Xiaomi Xiaofang Smart 1080P WiFi IP Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/wifi-smart-net-camera-v380-137677.html",
+            "product_title": "V380 Rotate WIFI Live IP Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/q6s-v380-720p-hd-cctv-smart-home-camera.html",
+            "product_title": "Q6S V380 720P HD CCTV Smart Home Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/xiaomi-smart-wifi-degree-home-camera.html",
+            "product_title": "Xiaomi Smart WiFi Degree Home Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/super-wide-angle-macro-camera-lens.html",
+            "product_title": "Super Wide Angle macro Camera Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/wifi-3d-360-night-vision-camera.html",
+            "product_title": "Wifi 3D 360 Night Vision camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-camera-2-0-mega.html",
+            "product_title": "Mini Camera 2.0 Mega Pixels"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/yunteng-tripod-smartphone-camera.html",
+            "product_title": "YunTeng Tripod Smartphone Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/live-video-camera-gsm-sim-on-off-black.html",
+            "product_title": "Live Video Camera GSM Sim On Off"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/button-video-camera-black.html",
+            "product_title": "Button Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/hello-kitty-camera.html",
+            "product_title": "Instax Hello Kitty Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-50s-piano-white.html",
+            "product_title": "Instax 50S Piano White"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-50s-piano-black.html",
+            "product_title": "Instax 50S Piano Black"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-25-pink.html",
+            "product_title": "Instax Mini 25 - Pink"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-70-black-blue-yellow.html",
+            "product_title": "Instax Mini 70 (Black, Blue, Yellow)"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-25-blue.html",
+            "product_title": "Instax Mini 25 - Blue"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-90-nc.html",
+            "product_title": "Instax Mini 90 NC Instant Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/mini-film-stained-glass.html",
+            "product_title": "Instax Mini Film Stained Glass"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/white-film-double-pack.html",
+            "product_title": "Instax Mini White Film Double Pack"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-8-back.html",
+            "product_title": "Instax Mini 8 Black"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-8-pink.html",
+            "product_title": "Instax Mini 8 Pink"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-8-yellow.html",
+            "product_title": "Instax Mini 8 Yellow"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-8-white.html",
+            "product_title": "Instax Mini 8 White"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-7s-white.html",
+            "product_title": "Instax Mini 7S White"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/instax-mini-7s-chocolate.html",
+            "product_title": "Instax Mini 7S Chocolate"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/dslr-type-hd-video-camera.html",
+            "product_title": "DSLR Type Mini HD Video Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/night-vision-camera.html",
+            "product_title": "Jovision Full HD Wi-Fi IP Night Vision Camera"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/universal-camera-lens.html",
+            "product_title": "4 in 1 Universal Clamp Camera Lens"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/shutter-remote.html",
+            "product_title": "Bluetooth Camera Shutter Remote"
+        },
+        {
+            "product_link": "https://www.bagdoom.com/electronics/camera/sony-cyber-short-dsc-h90-digital-camera.html",
+            "product_title": "Sony Cyber Short DSC H90 Digital Camera"
+        }
+    ]
+}
