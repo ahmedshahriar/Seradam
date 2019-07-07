@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17f98e4-edfc-4e90-83b0-ba911ab1cbd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_linnex_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_maximus_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_metrocem_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_micromax_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_nokia_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_samsung_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeaturePhone_symphony_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pickaboo_all_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pickaboo_all_products.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_alcatel_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_asus_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_helio_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_huawei_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_iphone_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_lenovo_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_motorola_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_nokia_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_oneplus_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_oppo_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_samsung_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_symphony_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_techno_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_vivo_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmartPhone_xiaomi_list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pickaboo_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pickaboo_links.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b17f98e4-edfc-4e90-83b0-ba911ab1cbd3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +22,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="510">
               <caret line="150" selection-start-line="150" selection-end-line="150" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -203,16 +175,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562431523476</updated>
       <workItem from="1562431550193" duration="12527000" />
-      <workItem from="1562495609858" duration="5268000" />
+      <workItem from="1562495609858" duration="5591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17795000" />
+    <option name="totallyTimeSpent" value="18118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2533512" />
@@ -225,7 +196,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.41301274" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.41301274" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -287,7 +258,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="510">
           <caret line="150" selection-start-line="150" selection-end-line="150" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
