@@ -2,39 +2,92 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import json
 
-def get_smartphone_categories():
-    html = urlopen("https://www.pickaboo.com/mobile-phone/smartphone.html")
-    data = html.read()
-    soup = BeautifulSoup(data, 'html.parser')
-    categories = soup.findAll('div', {"class": "submain-categ"} )
-    smartphone_categories = []
-    for category in categories:
-        link = category.a['href'];
-        smartphone_categories.append(link.split('/')[-1].split('.')[-2])
-
-    return smartphone_categories
 
 
+def get_mobile_list():
 
-
-def get_smartphone_list(category):
-    url = "https://www.pickaboo.com/mobile-phone/smartphone/" + category + ".html"
-
-    json_file = "./json/mobile/SmartPhone_" + category + "_list.json"
+    print("parsing mobiles")
+    json_file = "./json/mobile_list.json"
     write_file = open(json_file, 'w')
-
     total_products = []
+
+    url = "https://www.pickaboo.com/mobile-phone/smartphone.html"
     while url:
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
-        products = soup.find_all('h2', {'class': 'product-name newname'});
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
         for product in products:
-            product_url = product.a['href']
-            title = product.a.string
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
             product_records = {
-                "product_title": title,
-                "product_link": product_url
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
+            }
+            total_products.append(product_records)
+
+        url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
+
+        if url:
+            url = url.get('href')
+        else:
+            break
+    #json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+    print("smart phone done")
+
+
+    url = "https://www.pickaboo.com/mobile-phone/feature-phone.html"
+    while url:
+        html = urlopen(url)
+        data = html.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
+        for product in products:
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i + 1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
+            product_records = {
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
             }
             total_products.append(product_records)
 
@@ -45,46 +98,56 @@ def get_smartphone_list(category):
         else:
             break
     json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+    print("feature phone done")
     write_file.close()
 
 
 
 
 
+def get_mobileAccessories_list():
 
-def get_featurephone_categories():
-    html = urlopen("https://www.pickaboo.com/mobile-phone/feature-phone.html")
-    data = html.read()
-    soup = BeautifulSoup(data, 'html.parser')
-    categories = soup.findAll('p', {"class": "main-parent-category"})
-    featurephone_categories = []
-    for category in categories:
-        link = category.a['href'];
-        featurephone_categories.append(link.split('/')[-1].split('.')[-2])
-
-    return featurephone_categories
-
-
-
-
-def get_featurephone_list(category):
-    url = "https://www.pickaboo.com/mobile-phone/feature-phone/" + category + ".html"
-
-    json_file = "./json/mobile/FeaturePhone_"+category+"_list.json"
+    print("parsing mobile accessories")
+    json_file = "./json/mobileAccessories_list.json"
     write_file = open(json_file, 'w')
-
     total_products = []
+    page = 1
+    url = "https://www.pickaboo.com/mobile-accessories.html/"
     while url:
+        print(page)
+        page +=1
+
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
-        products = soup.find_all('h2', {'class': 'product-name newname'});
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
         for product in products:
-            product_url = product.a['href']
-            title = product.a.string
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
             product_records = {
-                "product_title": title,
-               "product_link": product_url
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
             }
             total_products.append(product_records)
 
@@ -94,57 +157,298 @@ def get_featurephone_list(category):
             url = url.get('href')
         else:
             break
+
+    print("mobile accessories done")
+
     json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+
     write_file.close()
 
 
 
 
-def get_laptop_categories():
-    html = urlopen("https://www.pickaboo.com/computer-pc/laptop-notebook.html/")
-    data = html.read()
-    soup = BeautifulSoup(data, 'html.parser')
-    categories = soup.findAll('p', {"class": "main-parent-category"})
-    laptop_categories = []
-    for category in categories:
-        link = category.a['href'];
-        laptop_categories.append(link.split('/')[-1].split('.')[-2])
 
-    return laptop_categories
+def get_computer_list():
 
-
-
-
-
-def get_laptop_list(category):
-    url = "https://www.pickaboo.com/computer-pc/laptop-notebook/" + category + ".html"
-
-    json_file = "./json/laptop/Laptop_"+category+"_list.json"
+    print("parsing computers")
+    json_file = "./json/computer_list.json"
     write_file = open(json_file, 'w')
-
     total_products = []
+
+    url = "https://www.pickaboo.com/computer-pc/laptop-notebook.html/"
     while url:
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
-        products = soup.find_all('h2', {'class': 'product-name newname'});
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
         for product in products:
-            product_url = product.a['href']
-            title = product.a.string
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
 
             product_records = {
-                "product_title": title,
-               "product_link": product_url
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
             }
             total_products.append(product_records)
+
         url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
 
         if url:
             url = url.get('href')
         else:
             break
+    #json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+    print("laptop done")
+
+
+    url = "https://www.pickaboo.com/computer-pc/desktop-computer.html"
+    while url:
+        html = urlopen(url)
+        data = html.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
+        for product in products:
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
+            product_records = {
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
+            }
+            total_products.append(product_records)
+
+        url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
+
+        if url:
+            url = url.get('href')
+        else:
+            break
+
+    print("desktop done")
+
+
+
+    url = "https://www.pickaboo.com/computer-pc/tablet.html/"
+
+    while url:
+        html = urlopen(url)
+        data = html.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
+        for product in products:
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
+            product_records = {
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
+            }
+            total_products.append(product_records)
+
+        url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
+
+        if url:
+            url = url.get('href')
+        else:
+            break
+
+    print("tablet done")
+
+
     json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
     write_file.close()
+
+
+
+
+
+def get_computerAccessories_list():
+
+
+    print("computer accessories")
+    json_file = "./json/computerAccessories_list.json"
+    write_file = open(json_file, 'w')
+    total_products = []
+    page = 1
+    url = "https://www.pickaboo.com/computer-pc/computer-accessories.html/"
+    while url:
+        print(page)
+        page +=1
+
+        html = urlopen(url)
+        data = html.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
+        for product in products:
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
+            product_records = {
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
+            }
+            total_products.append(product_records)
+
+        url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
+
+        if url:
+            url = url.get('href')
+        else:
+            break
+
+    print("computer accessories done")
+
+    json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+
+    write_file.close()
+
+
+
+
+
+def get_gaming_console_list():
+
+
+    print("gaming console")
+    json_file = "./json/gaming_console_list.json"
+    write_file = open(json_file, 'w')
+    total_products = []
+    page = 1
+    url = "https://www.pickaboo.com/computer-pc/gaming-console.html/"
+    while url:
+        print(page)
+        page +=1
+
+        html = urlopen(url)
+        data = html.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        products = soup.find_all('div', {'class': 'product-item'})
+        i = 0
+        for product in products:
+
+            product_url = product.h2.a['href']
+            title = product.h2.a.string.strip()
+
+            img_link = product.a.img['data-original']
+
+            price = soup.find_all(attrs={"itemprop": "price"})[i]
+
+            i = i+1
+            price = price.text
+            price = str(price).replace('৳', '')
+            price = str(price).replace(',', '').strip()
+
+            if product.find('div', {'class': 'bottom syn-soldout'}):
+                status = "not available"
+            else:
+                status = "available"
+
+            product_records = {
+                "status": status,
+                "img_link": img_link,
+                "price": price,
+                "product_link": product_url,
+                "product_title": title
+            }
+            total_products.append(product_records)
+
+        url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
+
+        if url:
+            url = url.get('href')
+        else:
+            break
+
+    print("gaming console done")
+
+    json.dump({"Products": total_products}, write_file, sort_keys=True, indent=4, separators=(',', ': '))
+
+
+    write_file.close()
+
+
+
+
 
 
 
