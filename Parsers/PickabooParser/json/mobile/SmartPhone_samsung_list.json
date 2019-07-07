@@ -25,10 +25,6 @@
             "product_title": " Samsung Galaxy A70 "
         },
         {
-            "product_link": "https://www.pickaboo.com/mobile-phone/smartphone/samsung/samsung-m10.html",
-            "product_title": " Samsung Galaxy M10 "
-        },
-        {
             "product_link": "https://www.pickaboo.com/mobile-phone/smartphone/samsung/galaxy-m20.html",
             "product_title": " Samsung Galaxy M20 "
         },
@@ -43,6 +39,10 @@
         {
             "product_link": "https://www.pickaboo.com/mobile-phone/smartphone/samsung/samsung-galaxy-s10e.html",
             "product_title": " Samsung Galaxy S10e "
+        },
+        {
+            "product_link": "https://www.pickaboo.com/mobile-phone/smartphone/samsung/samsung-m10.html",
+            "product_title": " Samsung Galaxy M10 "
         },
         {
             "product_link": "https://www.pickaboo.com/mobile-phone/smartphone/samsung/note-9.html",

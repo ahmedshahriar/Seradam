@@ -1,46 +1,6 @@
 pickaboo:
 	mobile/smartphone:
-	
-https://www.pickaboo.com/mobile-phone/smartphone/alcatel.html
-https://www.pickaboo.com/mobile-phone/smartphone/umidigi.html
-https://www.pickaboo.com/mobile-phone/smartphone/motorola.html
-https://www.pickaboo.com/mobile-phone/smartphone/techno.html
-https://www.pickaboo.com/mobile-phone/smartphone/vivo.html
-https://www.pickaboo.com/mobile-phone/smartphone/samsung.html
-https://www.pickaboo.com/mobile-phone/smartphone/iphone.html
-https://www.pickaboo.com/mobile-phone/smartphone/blackberry.html
-https://www.pickaboo.com/mobile-phone/smartphone/symphony.html
-https://www.pickaboo.com/mobile-phone/smartphone/asus.html
-https://www.pickaboo.com/mobile-phone/smartphone/asus.html
-https://www.pickaboo.com/mobile-phone/smartphone/micromax.html
-https://www.pickaboo.com/mobile-phone/smartphone/micromax.html
-https://www.pickaboo.com/mobile-phone/smartphone/micromax.html
-https://www.pickaboo.com/mobile-phone/smartphone/lenovo.html
-https://www.pickaboo.com/mobile-phone/smartphone/oppo.html
-https://www.pickaboo.com/mobile-phone/smartphone/realme.html
-https://www.pickaboo.com/mobile-phone/smartphone/nokia.html
-https://www.pickaboo.com/mobile-phone/smartphone/oneplus.html
-https://www.pickaboo.com/mobile-phone/smartphone/huawei.html
-https://www.pickaboo.com/mobile-phone/smartphone/helio.html
-https://www.pickaboo.com/mobile-phone/smartphone/xiaomi.html
-https://www.pickaboo.com/mobile-phone/smartphone/we.html
-https://www.pickaboo.com/mobile-phone/smartphone/we.html
-https://www.pickaboo.com/mobile-phone/smartphone/infinix.html
-https://www.pickaboo.com/mobile-phone/smartphone/linnex.html
-https://www.pickaboo.com/mobile-phone/smartphone/lava.html
+	https://www.pickaboo.com/mobile-phone/smartphone.html
 
-
-
-	featuer phones
-
-
-https://www.pickaboo.com/mobile-phone/feature-phone/linnex.html
-https://www.pickaboo.com/mobile-phone/feature-phone/nokia.html
-https://www.pickaboo.com/mobile-phone/feature-phone/symphony.html
-https://www.pickaboo.com/mobile-phone/feature-phone/samsung.html
-https://www.pickaboo.com/mobile-phone/feature-phone/micromax.html
-https://www.pickaboo.com/mobile-phone/feature-phone/maximus.html
-https://www.pickaboo.com/mobile-phone/feature-phone/maximus.html
-https://www.pickaboo.com/mobile-phone/feature-phone/metrocem.html
-https://www.pickaboo.com/mobile-phone/feature-phone/linnex.html
-
+	featuer phones:
+    https://www.pickaboo.com/mobile-phone/feature-phone.html
