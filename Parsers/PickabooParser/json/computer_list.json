@@ -1,0 +1,746 @@
+{
+    "Products": [
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_26.jpg",
+            "price": "310000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-gx501vi-gz037t-core-i7-7th-gen.html",
+            "product_title": "ASUS GX501VI-GZ037T Core i7 7th Gen Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-12inch-high-space-grey-2_1_3_1.jpg",
+            "price": "149350",
+            "product_link": "https://www.pickaboo.com/apple-12-inch-core-i5-512gb-space-grey-mnyg2-macbook.html",
+            "product_title": "Apple 12\" MacBook Intel Core i5 8GB/512GB Retina Display (Space Grey-MNYG2PA/A)",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro_4.jpg",
+            "price": "140400",
+            "product_link": "https://www.pickaboo.com/apple-13-3-inchs-macbook-pro-intel-core-i5-retina-display-mpxt2-macbook.html",
+            "product_title": "Apple 13.3\" MacBook Pro Intel Core i5 8GB/256GB Retina Display (Space Gray-MPXT2) 2017",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-13.3-inch-display_5_1_1_1_1.jpg",
+            "price": "210600",
+            "product_link": "https://www.pickaboo.com/apple-15-4-macbook-pro-intel-core-i7-16gb-512gb-2gb-gpu-touch-bar-retina-display-mptr2.html",
+            "product_title": "Apple 15.4\" MacBook Pro Intel Core i7 16GB/256GB 2GB GPU with Touch Bar Retina Display (Space Gray-MPTR2) 2017",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/r/mr932ll-1.jpg",
+            "price": "221400",
+            "product_link": "https://www.pickaboo.com/apple-15-4-macbook-pro-6-core-intel-core-i7-16gb-256gb-ssd-with-touch-id-mr932ll-a-space-gray.html",
+            "product_title": "Apple 15.4\u201d MacBook Pro 6-Core Intel Core i7 16GB/256GB SSD with Touch ID and 4GB Graphics (MR932LL/A) - Space Gray 2018",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/r/mree2ll-1_1.jpg",
+            "price": "140400",
+            "product_link": "https://www.pickaboo.com/apple-macbook-air-core-i5-13-3-8gb-256gb-ssd-with-retina-display-mrfe2ll-a-gold.html",
+            "product_title": "Apple MacBook Air Core i5 13.3\" 8GB/256GB SSD with Retina Display (MRFE2LL/A)-Gold",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/p/mpxr2-1.jpg",
+            "price": "127440",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/apple-macbook-pro-core-i5-13-3-8gb-128gb-ssd-with-graphics-mpxr2.html",
+            "product_title": "Apple Macbook Pro Core i5 13.3\" 8GB/128GB SSD with Graphics (MPXR2) 2017",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_18_5.jpg",
+            "price": "104000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-gl503ge-8th-gen-core-i5-8gb-1tb-128gb-ssd-laptop-with-4gb-graphics.html",
+            "product_title": "Asus GL503GE 8th Gen Core i5 8GB/1TB Plus 128GB SSD Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_18_7.jpg",
+            "price": "126000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-gl503ge-8th-gen-core-i7-16gb-1tb-256gb-ssd-8gb-ssh-laptop-with-4gb-graphics.html",
+            "product_title": "Asus GL503GE 8th Gen Core i7 16GB/1TB Plus 128GB SSD Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_20.jpg",
+            "price": "630000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-gx800vh-core-i7-7820hk-18-4-64gb-1-5tb-ssd-laptop-with-16gb-graphics.html",
+            "product_title": "Asus GX800VH Core i7-7820HK 18.4\u201d 64GB/1.5TB SSD Laptop with 16GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_20_1_1.jpg",
+            "price": "88000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-n580gd-8th-gen-core-i5-15-6-8gb-1tb-hdd-plus-256gb-ssd-laptop-with-4gb-graphics.html",
+            "product_title": "Asus N580GD 8th Gen Core i5 15.6\u201d 8GB/ 1TB HDD Plus 256GB SSD Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_20_1.jpg",
+            "price": "97000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-n580gd-8th-gen-core-i7-15-6-8gb-1tb-hdd-plus-256gb-ssd-laptop-with-4gb-graphics.html",
+            "product_title": "Asus N580GD 8th Gen Core i7 15.6\u201d 8GB/ 1TB HDD Plus 256GB SSD Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_20_4.jpg",
+            "price": "69500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-s510un-8th-gen-core-i5-15-6-8gb-1tb-128gb-ssd-laptop-with-2gb-graphics.html",
+            "product_title": "Asus S510UN 8th Gen Core i5 15.6\u201d 8GB/1TB & 256GB SSD 2GB Graphics Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/t/p/tp410ua-1_3.jpg",
+            "price": "51500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-tp410ua-8th-gen-core-i3-14-4gb-1tb-laptop.html",
+            "product_title": "Asus TP410UA 8th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/4/s410ua-1_3.jpg",
+            "price": "57500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-vivobook-s410ua-8th-gen-core-i5-8gb-1tb-laptop.html",
+            "product_title": "Asus VivoBook S410UA 8th Gen Core i5 14\" 8GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_21_5.jpg",
+            "price": "57500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-vivobook-s510ua-8th-gen-core-i5-15-inch-8gb-1tb-laptop.html",
+            "product_title": "ASUS VivoBook S510UA 8th Gen Core i5 15.6\u2019\u2019 8GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_22_2.jpg",
+            "price": "43000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x505bp-ej230t-amd-dual-core-15-6-4gb-1tb-laptop-with-2gb-graphics.html",
+            "product_title": "Asus VivoBook X505BP (EJ230T) AMD Dual Core 15.6\u201d4GB/1TB Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_22_3.jpg",
+            "price": "41000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x505bp-amd-a6-15-6-4gb-1tb-laptop-128gb-ssd-with-2gb-graphics.html",
+            "product_title": "Asus VivoBook X505BP AMD A6 15.6\u201d 4GB/1TB Laptop Plus 128GB SSD with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/x/5/x510uf-1_3.jpg",
+            "price": "72000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x510uf-8th-gen-core-i7-8gb-1tb-15-6-laptop-with-2gb-graphics.html",
+            "product_title": "Asus VivoBook X510UF 8th Gen Core i7 8GB/1TB 15.6\u201d Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_4.jpg",
+            "price": "29800",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ma-intel-celeron-n4000-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407MA Intel PQC N5000 14\u201d4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_5.jpg",
+            "price": "35000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ua-6th-gen-core-i3-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407UA 6th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_6_1.jpg",
+            "price": "37000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ua-7th-gen-core-i3-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407UA 7th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_6.jpg",
+            "price": "45500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ua-7th-gen-core-i5-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407UA 7th Gen Core i5 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_7_1.jpg",
+            "price": "39500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ua-8th-gen-core-i3-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407UA 8th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_7.jpg",
+            "price": "48500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x407ua-8th-gen-core-i5-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X407UA 8th Gen Core i5 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_8.jpg",
+            "price": "51000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x411ua-8th-gen-core-i5-14-4gb-1tb-laptop.html",
+            "product_title": "Asus X411UA 8th Gen Core i5 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_9.jpg",
+            "price": "31800",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x507la-5th-gen-core-i3-15-6-4gb-1tb-laptop-1.html",
+            "product_title": "Asus X507LA 5th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_11.jpg",
+            "price": "24500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x507ma-intel-cdc-n4000-15-6-4gb-500gb-laptop.html",
+            "product_title": "Asus X507MA Intel CDC N4000 15.6\u201d 4GB/500GB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_13.jpg",
+            "price": "37000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x507ua-7th-gen-core-i3-15-6-4gb-1tb-laptop-1.html",
+            "product_title": "Asus X507UA 7th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_25.jpg",
+            "price": "53000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x507uf-8th-gen-core-i5-15-6-4gb-1tb-laptop-with-2gb-graphics.html",
+            "product_title": "Asus X507UF 8th Gen Core i5 15.6\u201d 4GB/1TB Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/s/asus-x540ub-laptop-b.jpg",
+            "price": "43000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x540ub-7th-gen-core-i3-4gb-1tb-15-6-inch-2gb-graphics-laptop.html",
+            "product_title": "ASUS X540UB 7th Gen Core i3 4GB/1TB 15.6\" 2GB Graphics laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/s/asus-x540ub-laptop-b_1.jpg",
+            "price": "51000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x540ub-8th-gen-core-i5-4gb-1tb-15-6-inch-2gb-graphics-laptop.html",
+            "product_title": "ASUS X540UB 8th Gen Core i5 4GB/1TB 15.6\" 2GB Graphics laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_25_6.jpg",
+            "price": "63500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-zenbook-ux410ua-8th-gen-core-i5-14-8gb-1tb-laptop.html",
+            "product_title": "Asus ZenBook UX410UA 8th Gen Core i5 14\u201d 8GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/3/4/3490-4.jpg",
+            "price": "55200",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/dell-latitude-3490-8th-gen-core-i5-14-4gb-1tb-laptop.html",
+            "product_title": "Dell Latitude 3490 8th Gen Core i5 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-110-laptop-1.jpg",
+            "price": "27500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-110-intel-pqc-n3710-15-6-inch-4gb-1tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 110 Intel PQC N3710 15.6\" 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ip-120s-laptop-13.jpg",
+            "price": "27300",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-cdc-n3350-120s-11-6-inch-4gb-1tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 120s CDC-N3350  11.6\" 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-7th-gen-core-i7-15.6-16gb_2tb-nvidia-920mx-2gb-laptop_1_6_2.jpg",
+            "price": "41000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-7th-gen-i3-14-inch-2tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 7th Gen Core i3 14\" 4GB/2TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-7th-gen-core-i7-15.6-16gb_2tb-nvidia-920mx-2gb-laptop_1_2.jpg",
+            "price": "42000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-7th-gen-i3-14-inch-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 7th Gen Core i3 14\" 8GB/2TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-intel-core-i3-15.6--4gb_1tb-laptop_4.jpg",
+            "price": "41000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-7th-gen-i3-15-inch-2tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 7th Gen Core i3 15.6\" 4GB/2TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-7th-gen-core-i7-15.6-16gb_2tb-nvidia-920mx-2gb-laptop_8.jpg",
+            "price": "64000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-7th-gen-i7-15-6-inch-8gb-1tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 7th Gen Core i7 15.6\" 8GB/1TB NVIDIA 920MX 2GB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-intel-core-i3-15.6--4gb_1tb-laptop_1_1.jpg",
+            "price": "51500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-8th-gen-i5-15-inch-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 8th Gen Core i5 15.6\" 4GB/1TB 2GB Graphics Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-intel-core-i3-15.6--4gb_1tb-laptop_1.jpg",
+            "price": "49500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-8th-gen-i5-15-inch-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 8th Gen Core i5 15.6\" 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-7th-gen-core-i7-15.6-16gb_2tb-nvidia-920mx-2gb-laptop_8_1_1.jpg",
+            "price": "59500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-8550u-15-6-inch-4gb-1tb-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 8th Gen Core i7 15.6\" 4GB/1TB 2GB Graphics Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320-7th-gen-core-i7-15.6-16gb_2tb-nvidia-920mx-2gb-laptop_8_1_1_1.jpg",
+            "price": "65000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320-8550u-15-6-inch-8gb-2tb-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 320 8th Gen Core i7 15.6\" 8GB/2TB 2GB Graphics Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320s-7th-gen-core-i3-14-4gb_512gb-ssd-laptop_2.jpg",
+            "price": "44500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ip-320s-7th-gen-i3-1-tb-14-inch-laptop.html",
+            "product_title": "Lenovo IdeaPad 320s 7th Gen Core i3 14\" 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320s-7th-gen-core-i3-14-4gb_512gb-ssd-laptop_2_1.jpg",
+            "price": "45000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ip-320s-7th-gen-i3-1-tb-14-inch-ips-laptop.html",
+            "product_title": "Lenovo IdeaPad 320s 7th Gen Core i3 14\" FHD IPS 4GB/1TB Win 10 Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320s-7th-gen-core-i3-14-4gb_512gb-ssd-laptop_1_1.jpg",
+            "price": "63500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320s-8250u-14-inch-8gb-1tb-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 320s 8th Gen Core i5 14\" 8GB/1TB 2GB Graphics Win 10 Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovo-ideapad-320s-7th-gen-core-i3-14-4gb_512gb-ssd-laptop_1_1_1.jpg",
+            "price": "66500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-320s-8250u-15-6-inch-8gb-1tb-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 320s 8th Gen Core i5 15.6\" 8GB/1TB 2GB Graphics Win 10 Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_26_2.jpg",
+            "price": "37000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-7020u-14-inch-4gb-1tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 330 7th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_27.jpg",
+            "price": "42000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-7020u-15-6-inch-4gb-1tb-2gb-graphics-laptop.html",
+            "product_title": "Lenovo IdeaPad 330 7th Gen Core i3 15.6\u201d 4GB/1TB 2GB Graphics Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_27_1.jpg",
+            "price": "37000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-7020u-15-6-inch-4gb-1tb-laptop.html",
+            "product_title": "Lenovo IdeaPad 330 7th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_27_2.jpg",
+            "price": "37500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-7100u-15-6-4gb-1tb-laptop.html",
+            "product_title": "Lenovo Ideapad 330 7th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_27_3.jpg",
+            "price": "40000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-8th-gen-core-i3-15-6-4gb-1tb-laptop.html",
+            "product_title": "Lenovo Ideapad 330 8th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_28.jpg",
+            "price": "51000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-8250u-15-6-inch-4gb-1tb-laptop.html",
+            "product_title": "Lenovo Ideapad 330 8th Gen Core i5 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_28_1.jpg",
+            "price": "60500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-8th-gen-core-i5-15-6-8gb-1tb-laptop-with-4gb-graphics.html",
+            "product_title": "Lenovo Ideapad 330 8th Gen Core i5 15.6\u201d 8GB/1TB Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_28_2.jpg",
+            "price": "70000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-8th-gen-core-i7-15-6-8gb-1tb-laptop-with-4gb-graphics.html",
+            "product_title": "Lenovo Ideapad 330 8th Gen Core i7 15.6\u201d 8GB/1TB Laptop with 4GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_28_3.jpg",
+            "price": "27500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-a4-9125-14-4gb-1tb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD A4-9125 14\u201d 4GB/1TB Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29.jpg",
+            "price": "27500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-a4-9125-15-6-4gb-1tb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD A4-9125 15.6\u201d 4GB/1TB Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_1.jpg",
+            "price": "41000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-a9-9425-15-6-4gb-1tb-laptop-with-2gb-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD A9-9425 15.6\u201d 4GB/1TB Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_2.jpg",
+            "price": "26500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-quad-core-e2-9000-14-4gb-1tb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD Quad Core E2-9000 14\u201d 4GB/1TB Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_3.jpg",
+            "price": "26500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-quad-core-e2-9000-15-6-4gb-1tb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD Quad Core E2-9000 15.6\u201d 4GB/1TB Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_4.jpg",
+            "price": "57000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-amd-ryzen-5-15-6-8gb-1tb-laptop-with-2gb-graphics.html",
+            "product_title": "Lenovo Ideapad 330 AMD Ryzen 5 15.6\u201d 8GB/1TB Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_5.jpg",
+            "price": "25500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-cdc-n4000-15-6-4gb-1tb-laptop.html",
+            "product_title": "Lenovo Ideapad 330 CDC N4000 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_29_6.jpg",
+            "price": "45000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-ryzen-3-15-6-4gb-1tb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 Ryzen 3 15.6\u201d 4GB/1TB Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30.jpg",
+            "price": "70000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330-ryzen-7-15-6-8gb-1tb-128gb-laptop-with-graphics.html",
+            "product_title": "Lenovo Ideapad 330 Ryzen 7 15.6\u201d 8GB/1TB plus 128GB SSD Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_2.jpg",
+            "price": "125000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-720s-8th-gen-core-i7-13-3-8gb-512gb-ssd-laptop.html",
+            "product_title": "Lenovo Ideapad 720s 8th Gen core i7 13.3\u201d 8GB/512GB SSD Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/3/2/320-1.jpg",
+            "price": "33900",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ip320-6th-gen-core-i3-15-6-4gb-1tb-laptop-with-original-windows-10.html",
+            "product_title": "Lenovo IP320 6th Gen Core i3 15.6\u201d 4GB/1TB Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_4.jpg",
+            "price": "44000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-yoga-330-pqc-n5000-11-6-4gb-256gb-ssd-laptop.html",
+            "product_title": "Lenovo Yoga 330 PQC-N5000 11.6\u201d 4GB/256GB SSD Laptop",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_6.jpg",
+            "price": "94000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-yoga-530-8th-gen-core-i5-14-8gb-512gb-ssd-laptop-graphics.html",
+            "product_title": "Lenovo Yoga 530 8th Gen Core i5 14\u201d 8GB/512GB SSD Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_7.jpg",
+            "price": "112000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-yoga-530-8th-gen-core-i7-14-8gb-512gb-ssd-laptop-graphics.html",
+            "product_title": "Lenovo Yoga 530 8th Gen Core i7 14\u201d 8GB/512GB SSD Laptop with 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/g/a/gaming-1.jpg",
+            "price": "121900",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/xiaomi-8th-gen-core-i7-15-6-16gb-1tb-hdd-plus-256gb-ssd-gaming-laptop-with-graphics.html",
+            "product_title": "Xiaomi 8th Gen Core i7 15.6\u201d 16GB/1TB HDD Plus 256GB SSD Gaming Laptop with Graphics",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-12inch-high-space-grey-2_1_2.jpg",
+            "price": "123600",
+            "product_link": "https://www.pickaboo.com/apple-12-inch-core-m3-256gb-space-grey-mnyf2pa-a-macbook.html",
+            "product_title": "Apple 12\" MacBook Intel Core m3 8GB/256GB Retina Display (Space Grey-MNYF2PA/A)",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/a/macbook-pro-2018-base_1.jpg",
+            "price": "192240",
+            "product_link": "https://www.pickaboo.com/apple-13-3-inch-core-i5-8gb-512gb-macbook-pro-with-touch-bar-mr9r2ll-a-2018-space-grey.html",
+            "product_title": "Apple 13.3\" Core i5 8GB/512GB Macbook Pro with Touch Bar (MR9R2LL/A) 2018 -Space Grey",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/r/mre82ll-1.jpg",
+            "price": "118800",
+            "product_link": "https://www.pickaboo.com/apple-13-3-macbook-air-core-i5-8gb-128gb-ssd-with-retina-display-mre82ll-a.html",
+            "product_title": "Apple 13.3\" MacBook Air Core i5 8GB/128GB SSD with Retina Display (MRE82LL/A)",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-air_2_1_1.jpg",
+            "price": "108000",
+            "product_link": "https://www.pickaboo.com/apple-13-3-inch-macbook-air-core-i5-8gb-256gb-mqd42.html",
+            "product_title": "Apple 13.3\" MacBook Air Core i5 8GB/256GB (MQD42) 2017",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/p/mpxw2-1.jpg",
+            "price": "175100",
+            "product_link": "https://www.pickaboo.com/apple-13-3-macbook-pro-intel-core-i5-8gb-512gb-ssd-space-grey-mpxw2.html",
+            "product_title": "Apple 13.3\" MacBook Pro Retina Display Intel Core i5 with Touch Bar-8GB/512GB SSD (Space Grey-MPXW2)",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop-recovered.jpg",
+            "price": "26800",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-e203mah-cdc-n4000-11-6-4gb-500gb-laptop.html",
+            "product_title": "Asus E203MAH CDC N4000 11.6\" 4GB/500GB Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_21_4_1.jpg",
+            "price": "41500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-vivobook-s510ua-8th-gen-core-i3-15-inch-4gb-1tb-laptop.html",
+            "product_title": "ASUS VivoBook S510UA 8th Gen Core i3 15.6\u2019\u2019 4GB/1TB Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/a/s/asus-vivobook-x442ua-7th-gen-i5-14--4gb_1tb-laptop_2.jpg",
+            "price": "49000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-vivobook-x442ua-8th-gen-i5-14-inch-laptop.html",
+            "product_title": "ASUS VivoBook X442UA 8th Gen i5 14\" 4GB/1TB Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_23_10.jpg",
+            "price": "25500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-x507ma-intel-cdc-n4000-15-6-4gb-1tb-laptop.html",
+            "product_title": "Asus X507MA Intel CDC N4000 15.6\u201d 4GB/1TB Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/g/v/gv188t-2.jpg",
+            "price": "78000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/asus-zenbook-ux430uq-7th-gen-core-i5-14-8gb-512gb-ssd-laptop.html",
+            "product_title": "ASUS Zenbook UX430UQ 7th Gen Core i5 14\u2019\u2019 8GB/512GB SSD 2GB Graphics Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/f/u/fujitsu-lifebook-s937.jpg",
+            "price": "125000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/fujitsu-lifebook-s937-7th-gen-core-i7-8gb-1tb-13-3-inch-laptop.html",
+            "product_title": "FUJITSU LIFEBOOK S937 7th Gen Core i7 8GB/1TB 13.3\" Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/f/u/fujitshu-lifebook-s937.jpg",
+            "price": "130000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/fujitsu-lifebook-s937-7th-gen-core-i7-8gb-256gb-ssd-13-3-inch-fhd-laptop.html",
+            "product_title": "FUJITSU LIFEBOOK S937 7th Gen Core i7 8GB/256GB SSD 13.3\" FHD Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/f/u/fujitsu-lifebook-u537-5_1.jpg",
+            "price": "75000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/fujitsu-lifebook-u537-7th-gen-core-i5-4gb-1tb-13-3-inch-laptop.html",
+            "product_title": "FUJITSU LIFEBOOK U537 7th Gen Core i5 4GB/1TB  13.3\" Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/f/u/fujitsu-lifebook-u537-5.jpg",
+            "price": "85000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/fujitsu-lifebook-u537-7th-gen-core-i7-4gb-1tb-13-3-laptop.html",
+            "product_title": "FUJITSU LIFEBOOK U537 7th Gen Core i7 4GB/1TB  13.3\" Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/c/c/cc617tx-1.jpg",
+            "price": "54384",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/hp-pavilion-15-cc617tx-8th-gen-core-i5-15-6-4gb-1tb-laptop-with-2gb-graphics.html",
+            "product_title": "HP Pavilion 15-cc617TX 8th Gen Core i5 15.6\u201d 4GB/1TB Laptop with 2GB Graphics",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_1.jpg",
+            "price": "46000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-ideapad-330s-8th-gen-core-i3-14-4gb-1tb-laptop.html",
+            "product_title": "Lenovo Ideapad 330s 8th Gen Core i3 14\u201d 4GB/1TB Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_3.jpg",
+            "price": "38500",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-yoga-310-intel-pqc-11-6-inch-laptop.html",
+            "product_title": "Lenovo Yoga 310 Intel PQC N4200 11.6\" 4GB/1TB Touch Laptop - Black",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/p/h/photoshop_30_5.jpg",
+            "price": "88000",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/lenovo-yoga-530-8th-gen-core-i5-14-8gb-512gb-ssd-laptop.html",
+            "product_title": "Lenovo Yoga 530 8th Gen Core i5 14\u201d 8GB/512GB SSD Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/c/scuderia-ferrari-slim-computer-backpack-15_.gif",
+            "price": "6050",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/scuderia-ferrari-slim-computer-backpack-15.html",
+            "product_title": "Scuderia Ferrari Slim Computer Backpack 15\u201d",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-notebook-8th-gen-i5.jpg",
+            "price": "69490",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/xiaomi-8th-gen-core-i5-8gb-256gb-15-6-notebook.html",
+            "product_title": "Xiaomi Mi 8th Gen Core i5 8GB/256GB 13.3\" Notebook",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/i/mi_13_2_1.jpg",
+            "price": "56719",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/xiaomi-mi-notebook-air-12-5-inch-display-256gb.html",
+            "product_title": "Xiaomi Mi Intel Core m3 12.5\" Notebook Air - 4GB/256GB With Free Mi Wireless Mouse",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-mi-notebook-air-updated-version-5.jpg",
+            "price": "71550",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/xiaomi-mi-notebook-air-core-i5-13-3-inch-advanced-fingerprint-ed-laptop.html",
+            "product_title": "Xiaomi Mi Notebook Air 7th Gen Core i5 13.3\" 8GB/256GB SSD 2GB Graphics Fingerprint Ed. Laptop",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/m/i/mi-1.jpg",
+            "price": "100700",
+            "product_link": "https://www.pickaboo.com/computer-pc/laptop-notebook/xiaomi-mi-notebook-pro-8th-gen-i7-15-6-inch.html",
+            "product_title": "Xiaomi Mi Notebook Pro 8th Gen Core i7 15.6\u203316GB/256GB With Free Mi Wireless Mouse",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/3/0/3050mt_1_1.jpg",
+            "price": "55400",
+            "product_link": "https://www.pickaboo.com/computer-pc/desktop-computer/dell-optiplex-3050mt-i7-7th-gen-pc.html",
+            "product_title": "Dell Optiplex 3050MT 7th Gen Core i7 4GB/1TB - PC",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/l/e/lenevo-v520-tower-7th-gen-core--2.jpg",
+            "price": "36360",
+            "product_link": "https://www.pickaboo.com/computer-pc/desktop-computer/lenevo-v520-tower-7th-gen-core-i3-4gb-1tb-pc.html",
+            "product_title": "Lenevo V520 Tower 7th Gen Core i3 4GB/1TB PC",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/h/u/huawei-mediapad-t3-10.jpg",
+            "price": "19490",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/huawei-mediapad-t3-10-2gb-16gb.html",
+            "product_title": "Huawei MediaPad T3 10 2GB/16GB",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/t/3/t3.jpg",
+            "price": "9690",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/huawei-mediapad-t3-7-1gb-8gb.html",
+            "product_title": "Huawei MediaPad T3 7 1GB/8GB",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/h/u/huawei-mediapad-t3-8.jpg",
+            "price": "15990",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/huawei-mediapad-t3-8-inch.html",
+            "product_title": "HUAWEI MediaPad T3 8\" 2GB/16GB",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-tab-e.jpg",
+            "price": "20990",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/samsung-galaxy-tab-e-sm-t561.html",
+            "product_title": "Samsung Galaxy Tab E",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-tab-a7.jpg",
+            "price": "14900",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/samsung-tab-a-7-0.html",
+            "product_title": "Samsung Tab A (7.0)",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-tab-j-max-1.5gb-8gb.jpg",
+            "price": "16990",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/samsung-tab-j-max-1-5gb-8gb.html",
+            "product_title": "Samsung Tab J Max 1.5GB/8GB",
+            "status": "available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/t/3/t3_1.jpg",
+            "price": "11990",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/huawei-mediapad-t3-7-2gb-16gb-1.html",
+            "product_title": "Huawei MediaPad T3 7 2GB/16GB",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/y/symphony-sym-tab-20.jpg",
+            "price": "5460",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/symphony-tab-20.html",
+            "product_title": "Symphony Sym Tab 20",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/y/symphony-symtab-25.jpg",
+            "price": "8490",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/symphony-symtab-25.html",
+            "product_title": "Symphony SymTab 25",
+            "status": "not available"
+        },
+        {
+            "img_link": "https://d1lwfjp709sq0o.cloudfront.net/media/catalog/product/cache/1/thumbnail/205x205/9df78eab33525d08d6e5fb8d27136e95/s/y/symphony-tab-50.jpg",
+            "price": "8490",
+            "product_link": "https://www.pickaboo.com/computer-pc/tablet/symphony-tab-50.html",
+            "product_title": "Symphony Tab 50",
+            "status": "not available"
+        }
+    ]
+}
