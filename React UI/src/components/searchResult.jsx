@@ -50,12 +50,63 @@ TabContainer.propTypes = {
   children: PropTypes.node.isRequired
 };
 
-export default function SimpleExpansionPanel() {
+export default function SimpleExpansionPanel(props) {
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
 
   function handleChange(event, newValue) {
     setValue(newValue);
+  }
+
+  function FormatSite1() {
+    return props.searchResult.site1price === undefined ? (
+      ""
+    ) : (
+      <React.Fragment>
+        <Typography variant="body2" gutterBottom>
+          <Button size="small" variant="contained" color="primary" fullWidth>
+            <Link href={props.searchResult.site1url} color="inherit">
+              {props.searchResult.site1name} <br />
+              {props.searchResult.site1price}
+            </Link>
+          </Button>
+        </Typography>
+      </React.Fragment>
+    );
+  }
+
+  function FormatSite2() {
+    return props.searchResult.site2price === undefined ? (
+      ""
+    ) : (
+      <React.Fragment>
+        <Typography variant="body2" gutterBottom>
+          <Button size="small" variant="contained" color="primary" fullWidth>
+            <Link href={props.searchResult.site2url} color="inherit">
+              {props.searchResult.site2name} <br />
+              {props.searchResult.site2price}
+            </Link>
+          </Button>
+        </Typography>
+      </React.Fragment>
+    );
+  }
+
+  function FormatSite3() {
+    return props.searchResult.site3price === undefined ? (
+      ""
+    ) : (
+      <React.Fragment>
+        <Typography variant="body2" gutterBottom>
+          <Button size="small" variant="contained" color="primary" fullWidth>
+            <Link href={props.searchResult.site3url} color="inherit">
+              {props.searchResult.site3name} <br />
+              {props.searchResult.site3price}
+            </Link>
+          </Button>
+        </Typography>
+      </React.Fragment>
+    );
   }
 
   return (
@@ -72,8 +123,8 @@ export default function SimpleExpansionPanel() {
                 <ButtonBase className={classes.image}>
                   <img
                     className={classes.img}
-                    alt="complex"
-                    src="https://picsum.photos/220"
+                    alt={props.searchResult.name}
+                    src={props.searchResult.imageUrl}
                   />
                 </ButtonBase>
               </Grid>
@@ -88,58 +139,19 @@ export default function SimpleExpansionPanel() {
                 >
                   <Grid item xs zeroMinWidth>
                     <Typography gutterBottom variant="subtitle1">
-                      Ram 16 GB
+                      {props.searchResult.name}
                     </Typography>
                     <Typography variant="body2" gutterBottom>
-                      5400 rpm high tech
-                    </Typography>
-                    <Typography variant="body2" color="textSecondary">
-                      Ratings: 4
+                      {props.searchResult.desc}
                     </Typography>
                   </Grid>
                 </Grid>
                 <center>
                   <Grid item xs container direction="column" spacing={2}>
                     <Grid item xs borderBottom={5}>
-                      <Typography variant="body2" gutterBottom>
-                        <Button
-                          size="small"
-                          variant="contained"
-                          color="primary"
-                          fullWidth
-                        >
-                          <Link href="https://google.com/" color="inherit">
-                            StarTech <br />
-                            50$
-                          </Link>
-                        </Button>
-                      </Typography>
-                      <Typography variant="body2" gutterBottom>
-                        <Button
-                          size="auto"
-                          variant="contained"
-                          color="primary"
-                          fullWidth
-                        >
-                          <Link href="https://google.com/" color="inherit">
-                            Ryans <br />
-                            60$
-                          </Link>
-                        </Button>
-                      </Typography>
-                      <Typography variant="body2" gutterBottom>
-                        <Button
-                          size="small"
-                          variant="contained"
-                          color="primary"
-                          fullWidth
-                        >
-                          <Link href="https://google.com/" color="inherit">
-                            Pickaboo <br />
-                            65$
-                          </Link>
-                        </Button>
-                      </Typography>
+                      <FormatSite1 />
+                      <FormatSite2 />
+                      <FormatSite3 />
                       <Typography variant="body2" gutterBottom>
                         <Button
                           size="small"
@@ -184,8 +196,18 @@ export default function SimpleExpansionPanel() {
               </Tabs>
             </AppBar>
           </ExpansionPanelDetails>
-          {value === 0 && <TabContainer>Info</TabContainer>}
-          {value === 1 && <TabContainer>Photos</TabContainer>}
+          {value === 0 && (
+            <TabContainer>{props.searchResult.desc}</TabContainer>
+          )}
+          {value === 1 && (
+            <TabContainer>
+              <img
+                className={classes.img}
+                alt={props.searchResult.name}
+                src={props.searchResult.imageUrl}
+              />
+            </TabContainer>
+          )}
           {value === 2 && <TabContainer>Deals</TabContainer>}
         </ExpansionPanel>
       </div>
