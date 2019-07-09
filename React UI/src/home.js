@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import AppBar from "./components/myAppBar";
 import Footer from "./components/footer";
 import SearchBar from "./components/searchBar";
-import SearchResult from "./components/searchResult";
-import Test from "./components/test1";
+import SearchResults from "./components/searchResults";
 
 class Home extends Component {
   render() {
@@ -11,7 +10,7 @@ class Home extends Component {
       <React.Fragment>
         <AppBar />
         <SearchBar />
-        <SearchResult />
+        <SearchResults />
         <Footer />
       </React.Fragment>
     );
