@@ -1,0 +1,137 @@
+{
+    "Products": [
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/m/amazon_kindle_fire_7_blue.jpg",
+            "price": "9000",
+            "product_link": "https://ryanscomputers.com/amazon-fire-7-quad-core-1-3-ghz-1gb-ram-8gb-storage-7-inch-display-marine-blue-tablet-with-alexa-apps.html",
+            "product_title": "Amazon Fire 7 (Quad Core 1.3 GHz, 1GB RAM, 8GB Storage, 7 Inch Display) Marine Blue Tablet with Alexa Apps",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/e/mediapad-t3-7-1.jpg",
+            "price": "9690",
+            "product_link": "https://ryanscomputers.com/huawei-mediapad-t3-7-mtk-mt8127-quad-core-a7-processor-1-3-ghz-1gb-ram-8gb-rom-2mp-2mp-camera-4100mah-battery-7-inch-space-gray-tablet.html",
+            "product_title": "HUAWEI MediaPad T3 7 MTK MT8127 Quad-core A7 Processor (1.3 GHz, 1GB RAM, 8GB ROM, 2MP/2MP Camera, 4100mAh Battery) 7 Inch Space Gray Tablet",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/b/g/bg2-u01-1.jpg",
+            "price": "11990",
+            "product_link": "https://ryanscomputers.com/huawei-mediapad-t3-7-bg2-u01-3g-tablet-1-3ghz-2gb-ram-16gb-rom-7-inch-ips-2mp-2mp-camera-4100mah-battery-microsd-support-upto-128gb-space-grey-tablet.html",
+            "product_title": "Huawei MediaPad T3 7 BG2-U01 3G Tablet (1.3GHz, 2GB Ram, 16GB Rom) 7 Inch IPS (2MP+2MP Camera) 4100mAH Battery, microSD Support upto 128GB, Space Grey Tablet\t",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/m/amazon-kindle-fire-hd-8-black-tablet-4.jpg",
+            "price": "12000",
+            "product_link": "https://ryanscomputers.com/tablet-pc/all-brands/amazon-kindle-fire-hd-8-quad-core-1-3-ghz-1-5gb-ram-16gb-storage-8-inch-hd-display-black-tablet-with-alexa.html",
+            "product_title": "Amazon Kindle Fire HD 8 (Quad Core 1.3 GHz, 1.5GB RAM, 16GB Storage, 8 Inch HD Display) Black Tablet with Alexa",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/e/lenovotab4-8blk-1.jpg",
+            "price": "15800",
+            "product_link": "https://ryanscomputers.com/lenovo-tab-4-8-quad-core-snapdragon-425-1-4ghz-2gb-16gb-4g-8-inch-hd-1280x800-ips-display-black-tablet-lenovotab4-8blk.html",
+            "product_title": "Lenovo Tab 4 8 Quad Core Snapdragon 425 (1.4GHz, 2GB, 16GB) 4G, 8 Inch HD (1280x800) IPS Display, Black Tablet #LENOVOTAB4-8BLK\t",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/m/amazon-kindle-paperwhite-11.jpg",
+            "price": "16500",
+            "product_link": "https://ryanscomputers.com/amazon-kindle-paperwhite-300-ppi-6-inch-display-4gb-storage-built-in-light-wi-fi-black-e-reader-6675.html",
+            "product_title": "Amazon Kindle Paperwhite (300 ppi,6 Inch Display, 4GB Storage, Built-in Light, Wi-Fi) Black E-Reader",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/p/h/phab-2-plus-gray-2.jpg",
+            "price": "19000",
+            "product_link": "https://ryanscomputers.com/tablet-pc/all-brands/lenovo-phab-2-plus-octa-core-1-30ghz-3gb-32gb-6-4-ips-full-hd-gray-tablet.html",
+            "product_title": "Lenovo Phab 2 Plus Octa Core (1.30GHz,3GB,32GB) 6.4\" IPS Full HD Gray Tablet",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/e/mediapad-t3-10-1.jpg",
+            "price": "19490",
+            "product_link": "https://ryanscomputers.com/tablet-pc/all-brands/huawei-mediapad-t3-10-qualcomm-msm8917-quad-core-a53-1-4ghz-2gb-ram-16gb-rom-9-6-inch-space-gray-tablet.html",
+            "product_title": "Huawei MediaPad T3 10, Qualcomm MSM8917, Quad Core A53 1.4GHz, 2GB RAM, 16GB ROM) 9.6 Inch Space Gray Tablet",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/z/a/za2k0049in-1.jpg",
+            "price": "22900",
+            "product_link": "https://ryanscomputers.com/lenovo-tab4-10-tb-x304l-blk-quad-core-snapdragon-425-1-4ghz-2gb-16gb-10-inch-hd-1280x800-ips-display-black-tablet-za2k0049in.html",
+            "product_title": "Lenovo TAB4 10-TB X304L-BLK Quad Core Snapdragon 425 (1.4GHz,2GB,16GB) 10 inch HD (1280x800) IPS Display Black Tablet#ZA2K0049IN",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/y/o/yoga-book-2_1.jpg",
+            "price": "40500",
+            "product_link": "https://ryanscomputers.com/lenovo-yoga-book-tablet.html",
+            "product_title": "Lenovo Yoga Book Intel Atom X5-Z8550 Quad Core (1.44-2.40GHz,4GB,64GB eMCC) 10.1 inch FHD Win-10 Home Black Tablet",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr7j2ll-03.jpg",
+            "price": "42000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-9-7-inch-128gb-wi-fi-space-gray-tablet-mr7j2ll-a.html",
+            "product_title": "Apple iPad 9.7 Inch 128GB, Wi-Fi, Space Gray Tablet #MR7J2LL/A",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mrjp2ll-02.jpg",
+            "price": "42000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-9-7-inch-128gb-wifi-gold-tablet-mrjp2ll-a-mrjp2cl-a.html",
+            "product_title": "Apple iPad 9.7 Inch 128GB, Wifi, Gold Tablet #MRJP2LL/A, MRJP2CL/A",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/z/a/za2r0040in-01.jpg",
+            "price": "43500",
+            "product_link": "https://ryanscomputers.com/lenovo-tab-4-10-plus-android-7-1-octa-core-snapdragon-625-2-0-ghz-4gb-64gb-4g-10-1-inch-fhd-ips-display-black-tablet-za2r0040in-za2r0094in.html",
+            "product_title": "Lenovo Tab 4 10 Plus Android 7.1 Octa-Core Snapdragon 625 (2.0 GHz, 4GB, 64GB, 4G, 10.1 Inch, FHD, IPS display) Black Tablet #ZA2R0040IN/ZA2R0094IN",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/t/mtxn2ll-02.jpg",
+            "price": "82500",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-late-2018-edition-11-inch-64gb-wifi-space-gray-tablet-mtxn2ll-a.html",
+            "product_title": "Apple iPad Pro (Late 2018) Edition 11 Inch 64GB, WiFi, Space Gray Tablet #MTXN2LL/A\t",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/t/mtxn2ll-02_1.jpg",
+            "price": "95000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-late-2018-edition-11-inch-64gb-wifi-cellular-space-gray-tablet-mu0t2ll-a.html",
+            "product_title": "Apple iPad Pro (Late 2018) Edition 11 Inch 64GB, WiFi, Cellular, Space Gray Tablet #MU0T2LL/A",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/t/mtxn2ll-02_2.jpg",
+            "price": "98000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-late-2018-edition-11-inch-256gb-wifi-space-gray-tablet-mtxq2ll-a.html",
+            "product_title": "Apple iPad Pro (Late 2018) Edition 11 Inch 256GB, WiFi, space Gray Tablet #MTXQ2LL/A",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/u/mu122ll-02.jpg",
+            "price": "110000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-11-inch-256gb-wifi-cellular-space-gray-tablet-mu122ll-a.html",
+            "product_title": "Apple iPad Pro 11 inch 256GB, Wifi + Cellular, Space Gray Tablet #MU122LL/A\t",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/u/mu1d2ll-02.jpg",
+            "price": "111000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-11-inch-256gb-wifi-cellular-silver-tablet-mu1d2ll-a.html",
+            "product_title": "Apple iPad Pro 11 Inch 256GB, Wifi + Cellular, Silver Tablet #MU1D2LL/A",
+            "status": ""
+        },
+        {
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/p/mpll2ll-02.jpg",
+            "price": "145000",
+            "product_link": "https://ryanscomputers.com/apple-ipad-pro-12-9-inch-512gb-wifi-cellular-gold-tablet-mpll2ll-a.html",
+            "product_title": "Apple iPad Pro 12.9 Inch 512GB, WiFi, Cellular, Gold Tablet #MPLL2LL/A",
+            "status": ""
+        }
+    ]
+}
