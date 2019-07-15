@@ -3,6 +3,7 @@ import AppBar from "./components/myAppBar";
 import Footer from "./components/footer";
 import SearchBar from "./components/searchBar";
 import SearchResults from "./components/searchResults";
+import Filter from "./components/filter";
 
 class Home extends Component {
   render() {
@@ -10,6 +11,7 @@ class Home extends Component {
       <React.Fragment>
         <AppBar />
         <SearchBar />
+        <Filter />
         <SearchResults />
         <Footer />
       </React.Fragment>
