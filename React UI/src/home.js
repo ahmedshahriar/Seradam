@@ -1,19 +1,14 @@
 import React, { Component } from "react";
-import AppBar from "./components/myAppBar";
-import Footer from "./components/footer";
-import SearchBar from "./components/searchBar";
-import SearchResults from "./components/searchResults";
-import Filter from "./components/filter";
+import { BrowserRouter as Router } from "react-router-dom";
+import BaseRouter from "./routes";
 
 class Home extends Component {
   render() {
     return (
       <React.Fragment>
-        <AppBar />
-        <SearchBar />
-        <Filter />
-        <SearchResults />
-        <Footer />
+        <Router>
+          <BaseRouter />
+        </Router>
       </React.Fragment>
     );
   }

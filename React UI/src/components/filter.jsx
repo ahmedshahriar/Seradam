@@ -17,9 +17,6 @@ import ListItemText from "@material-ui/core/ListItemText";
 import Select from "@material-ui/core/Select";
 import Checkbox from "@material-ui/core/Checkbox";
 //sortby
-import OutlinedInput from "@material-ui/core/OutlinedInput";
-import FilledInput from "@material-ui/core/FilledInput";
-import FormHelperText from "@material-ui/core/FormHelperText";
 import NativeSelect from "@material-ui/core/NativeSelect";
 
 //price
@@ -117,22 +114,8 @@ const MenuProps = {
     }
   }
 };
-const brandNames = [
-  "Intel",
-  "AMD",
-  "Asrock",
-  "Asus",
-  "Gigabyte",
-  "Corsair",
-  "Seasonic",
-  "Samsung",
-  "Sandisk",
-  "Seagate"
-];
-//site
-const siteNames = ["StarTech", "Pickaboo", "Kiksha", "Google"];
 
-export default function CustomizedSlider() {
+export default function Filter(props) {
   const classes = useStyles();
 
   const [brandName, setbrandName] = React.useState([]); //brand
@@ -186,7 +169,7 @@ export default function CustomizedSlider() {
                   renderValue={selected => selected.join(", ")}
                   MenuProps={MenuProps}
                 >
-                  {brandNames.map(name => (
+                  {props.filterBrandNames.map(name => (
                     <MenuItem key={name} value={name}>
                       <Checkbox checked={brandName.indexOf(name) > -1} />
                       <ListItemText primary={name} />
@@ -209,7 +192,7 @@ export default function CustomizedSlider() {
                   renderValue={selected => selected.join(", ")}
                   MenuProps={MenuProps}
                 >
-                  {siteNames.map(name => (
+                  {props.filterSiteNames.map(name => (
                     <MenuItem key={name} value={name}>
                       <Checkbox checked={siteName.indexOf(name) > -1} />
                       <ListItemText primary={name} />
