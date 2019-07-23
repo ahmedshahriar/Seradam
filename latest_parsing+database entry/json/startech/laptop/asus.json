@@ -1,0 +1,1724 @@
+{
+    "Products": [
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus PQC/ASUS E203NAH/ASUS E203NAH-228x228.jpg",
+            "price": "28800",
+            "product_link": "https://www.startech.com.bd/asus-e203nah-vivobook",
+            "product_title": "ASUS E203NAH N4200 Pentium Quad Core 11.6\" VivoBook With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/fx505du/fx505du-01-228x228.jpg",
+            "price": "83000",
+            "product_link": "https://www.startech.com.bd/asus-tuf-fx505dt-gaming-laptop",
+            "product_title": "Asus Tuf FX505DT AMD Ryzen 5 3550H Nvidia GTX 1650 4GB Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/fx505du/fx505du-01-228x228.jpg",
+            "price": "104000",
+            "product_link": "https://www.startech.com.bd/asus-tuf-fx505du-amd-ryzen7-gaming-laptop",
+            "product_title": "Asus Tuf FX505DU AMD Ryzen 7 3750H Nvidia GTX 1660Ti Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/pentium-quad-core/tp203nah-golden-228x228.png",
+            "price": "38000",
+            "product_link": "https://www.startech.com.bd/asus-tp203nah-pqc-laptop",
+            "product_title": "Asus VivoBook Flip 12 TP203NAH Pentium Quad Core Touch Laptop With Genuine  Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x402ya/x402ya-228x228.png",
+            "price": "23500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x402ya-laptop",
+            "product_title": "Asus VivoBook X402YA AMD Dual Core 14\"HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/asus-laptop/x540ya/x540ya-228x228.jpg",
+            "price": "24500",
+            "product_link": "https://www.startech.com.bd/asus-x540ya-dual-core-laptop",
+            "product_title": "Asus X540YA Amd Dual Core 15.6\" Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e203mah/e203mah-228x228.jpg",
+            "price": "27000",
+            "product_link": "https://www.startech.com.bd/asus-e203mah-cdc-laptop",
+            "product_title": "Asus E203MAH Celeron Dual Core 11.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ma/x507ma-6-228x228.jpg",
+            "price": "23500",
+            "product_link": "https://www.startech.com.bd/asus-x507ma-cdc-laptop",
+            "product_title": "Asus X507MA Celeron Dual Core N4000 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ma/x507ma-6-228x228.jpg",
+            "price": "24000",
+            "product_link": "https://www.startech.com.bd/asus-x507ma-cdc-1tb-hdd-laptop",
+            "product_title": "Asus X507MA Celeron Dual Core 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x453ma/x453ma-main-228x228.jpg",
+            "price": "27000",
+            "product_link": "https://www.startech.com.bd/asus-x543m-cdc-laptop",
+            "product_title": "Asus X543MA Celeron Dual Core 15.6\" HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ma/x507ma-228x228.jpg",
+            "price": "29500",
+            "product_link": "https://www.startech.com.bd/asus-x407ma-pqc-laptop",
+            "product_title": "Asus X407MA Pentium Quad Core 14\" HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ma/x507ma-6-228x228.jpg",
+            "price": "29200",
+            "product_link": "https://www.startech.com.bd/asus-x507ma-pqc-laptop",
+            "product_title": "Asus X507MA Pentium Quad Core 15.6\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x505bp/x505bp-dark-228x228.jpg",
+            "price": "40000",
+            "product_link": "https://www.startech.com.bd/asus-x505bp-amd-laptop",
+            "product_title": "ASUS VivoBook 15 X505BP AMD A9-9420 15.6\" Full HD Laptop With Genuine Win 10 home",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/g531gv/g531gv-228x228.jpg",
+            "price": "187000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-g531gv-core-i7-laptop",
+            "product_title": "ASUS ROG STRIX SCAR III G531GV 9th Gen Core i7 15.6\" FHD Laptop Wth NVIDIA RTX 2060 6GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507la/x507la-1-228x228.jpg",
+            "price": "31500",
+            "product_link": "https://www.startech.com.bd/asus-x507la-core-i3-laptop",
+            "product_title": "Asus X507LA Core i3 5th Gen 15.6\" HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ua/x407ua-228x228.jpg",
+            "price": "36000",
+            "product_link": "https://www.startech.com.bd/asus-x407ua-core-i3-laptop",
+            "product_title": "Asus X407UA 6th Gen Core i3 Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ua/x507ua-228x228.jpg",
+            "price": "33800",
+            "product_link": "https://www.startech.com.bd/asus-x507ua-core-i3-laptop",
+            "product_title": "Asus X507UA 6th Gen Core i3 15.6\" HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ua/x407ua-gold-228x228.jpg",
+            "price": "38500",
+            "product_link": "https://www.startech.com.bd/asus-x407ua-i3-8th-gen-laptop",
+            "product_title": "Asus X407UA 8th Gen Core i3 14.0\" HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x540ub/asus-x540ub-228x228.jpg",
+            "price": "43000",
+            "product_link": "https://www.startech.com.bd/asus-x540ub-core-i3-laptop",
+            "product_title": "Asus X540UB Core i3 7th Gen 15.6\" HD Laptop With Windows 10  Genuine ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x412fa/x412ua-228x228.png",
+            "price": "39800",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x412ua-laptop",
+            "product_title": "Asus VivoBook 14 X412UA Core i3 7th Gen 14\" HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x543ua/x543ua-228x228.jpg",
+            "price": "37000",
+            "product_link": "https://www.startech.com.bd/asus-x543ua-i3-laptop",
+            "product_title": "Asus X543UA Core i3 8th Gen Laptop 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x543ua/x543ua-228x228.jpg",
+            "price": "34500",
+            "product_link": "https://www.startech.com.bd/asus-x543ua-i3-7th-gen-laptop",
+            "product_title": "Asus X543UA Core i3 7th Gen Laptop 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x412fa/x412fa-228x228.jpg",
+            "price": "42500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x412fa-core-i3-laptop",
+            "product_title": "Asus VivoBook 14 X412FA Core i3 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512fa/x512fa-228x228.jpg",
+            "price": "44000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-15-x512fa-core-i3-laptop",
+            "product_title": "Asus VivoBook 15 X512FA Core i3 8th Gen TN Screen Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-409-fa/x409-fa-228x228.jpg",
+            "price": "52500",
+            "product_link": "https://www.startech.com.bd/asus-14-x409fa-core-i5-laptop",
+            "product_title": "Asus X409FA 8th Gen Core i5 14\" Full HD Laptop with Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-409-fa/x409-fa-228x228.jpg",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/asus-x409fa-core-i3-laptop",
+            "product_title": "Asus X409FA Core i3 8th Gen 14\" HD Laptop with Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-509/x509-2-228x228.jpg",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/asus-15-x509fa-core-i3-laptop",
+            "product_title": "ASUS X509FA Core i3 8th Gen 15.6\" FHD Laptop with Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-509/x509-2-228x228.jpg",
+            "price": "52300",
+            "product_link": "https://www.startech.com.bd/asus-x509fa-core-i5-laptop",
+            "product_title": "ASUS X509FA Core i5 8th Gen 15.6\" FHD Laptop with Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-509/x509-2-228x228.jpg",
+            "price": "47000",
+            "product_link": "https://www.startech.com.bd/asus-x509fb-core-i3-laptop",
+            "product_title": "ASUS X509FB Core i3 8th Gen 15.6\" HD Laptop with MX110 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-509/x509-2-228x228.jpg",
+            "price": "59000",
+            "product_link": "https://www.startech.com.bd/asus-x509fj-core-i5-laptop",
+            "product_title": "ASUS X509FJ Core i5 8th Gen 15.6\" Full HD Laptop with NVIDIA GeForce MX230 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x-509/x509-2-228x228.jpg",
+            "price": "62000",
+            "product_link": "https://www.startech.com.bd/asus-x509fl-core-i5-laptop",
+            "product_title": "ASUS X509FL Core i5 8th Gen 15.6\" Full HD Laptop with NVIDIA GeForce MX250 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x570zd/x570zd-01-228x228.jpg",
+            "price": "58000",
+            "product_link": "https://www.startech.com.bd/asus-x570zd-amd-ryzen-5-2500u-laptop",
+            "product_title": "ASUS X570ZD AMD Ryzen 5 2500U 15.6\" Full HD Laptop with 4GB Graphics and Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fa/s530fa-228x228.jpg",
+            "price": "47500",
+            "product_link": "https://www.startech.com.bd/asus-s530fa-i3-laptop",
+            "product_title": "Asus VivoBook S15 S530FA Core i3 8th Gen Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp410ua/tp410ua-3-228x228.jpg",
+            "price": "50500",
+            "product_link": "https://www.startech.com.bd/asus-vivoBook-tp410ua-8th-gen-i3-laptop",
+            "product_title": "Asus VivoBook Flip 14 TP410UA Core i3 8th Gen 14\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ua/x407ua-gold-228x228.jpg",
+            "price": "43500",
+            "product_link": "https://www.startech.com.bd/asus-x407ua-7th-gen-i5-laptop",
+            "product_title": "Asus X407UA 7th Gen Core i5 Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1440fa/p1440fa-228x228.jpg",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/asus-asuspro-p1440fa-core-i3-laptop",
+            "product_title": "Asus ASUSPRO P1440FA 8th Gen Core i3 14\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1440fa/p1440fa-228x228.jpg",
+            "price": "52500",
+            "product_link": "https://www.startech.com.bd/asus-asuspro-p1440fa-core-i5-laptop",
+            "product_title": "Asus ASUSPRO P1440FA 8th Gen Core i5 14\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1440fa/p1440fa-228x228.jpg",
+            "price": "57000",
+            "product_link": "https://www.startech.com.bd/asus-asuspro-p1440fb-core-i5-laptop",
+            "product_title": "Asus ASUSPRO P1440FB Core i5 8th Gen 14\" Full HD Laptop With NVIDIA GeForce MX110 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/x442ua/x442ua-228x228.png",
+            "price": "48300",
+            "product_link": "https://www.startech.com.bd/asus-x442UAua-8th-gen-core-i5-laptop",
+            "product_title": "Asus VivoBook X442UA 8th Gen Core i5 14\" HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp412fa/tp412fa-1-228x228.jpg",
+            "price": "71000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-tp412fa-core-i5-laptop ",
+            "product_title": "Asus VivoBook Flip 14 TP412FA Core i5 8th Gen 14\" Full HD Touch Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ua/x407ua-gold-228x228.jpg",
+            "price": "47000",
+            "product_link": "https://www.startech.com.bd/asus-x407ua-core-i5-8th-gen-laptop",
+            "product_title": "Asus X407UA 8th Gen Core i5 14\" HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ub/x512fb-228x228.jpg",
+            "price": "55000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-15-x512fb-i5-laptop",
+            "product_title": "Asus VivoBook 15 X512FB Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512fl/x51fl-228x228.jpg",
+            "price": "69000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x512fl-core-i5-laptop",
+            "product_title": "Asus VivoBook 15 X512FL Core i5 8th Gen 15.6\" Full HD Graphics Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/k403fa/k403fa-228x228.jpg",
+            "price": "63500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-k403fa-core-i5-laptop",
+            "product_title": "Asus VivoBook K403FA Core i5 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512fb/x512fa-1-228x228.jpg",
+            "price": "59000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-15-x512fb-core-i5-laptop",
+            "product_title": "Asus VivoBook 15 X512FB Core i5 8th Gen 120GB SSD 15.6\" FHD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x540ub/asus-x540ub-228x228.jpg",
+            "price": "50000",
+            "product_link": "https://www.startech.com.bd/asus-x540ub-i5-laptop",
+            "product_title": "Asus X540UB Core i5 8th Gen 2GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x542uf/x542uf-228x228.jpg",
+            "price": "54500",
+            "product_link": "https://www.startech.com.bd/asus-x542uf-core-i5-laptop",
+            "product_title": "Asus X542UF 8th Gen Core i5 15.6\" Full HD Laptop With Genuine Win 10 and Dedicated Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/S410ua/s410ua-228x228.png",
+            "price": "56700",
+            "product_link": "https://www.startech.com.bd/asus-s410ua-i5-laptop",
+            "product_title": "Asus VIvoBook S410UA 8th Gen Core i5 Laptop With Genuine Windows 10 ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s510ua_i3/s510ua-228x228.png",
+            "price": "56000",
+            "product_link": "https://www.startech.com.bd/asus-s510ua-i5-laptop",
+            "product_title": "Asus VivoBook S510UA Core i5 Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530ua/s530uf-yellow-1-228x228.jpg",
+            "price": "58500",
+            "product_link": "https://www.startech.com.bd/asus-s530ua-core-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530UA Core i5 Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s430fa/s430fa-gold-228x228.jpg",
+            "price": "59800",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s430fa-core-i5-laptop",
+            "product_title": "Asus VivoBook S14 S430FA Core i5 8th Gen 14\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fa/s530fa-228x228.jpg",
+            "price": "59800",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s530fa-core-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530FA Core i5 8th Gen 15.6\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s430fa/s430fa-228x228.jpg",
+            "price": "54000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s430fa-laptop",
+            "product_title": "Asus VivoBook S14 S430FA Core i5 8th Gen 14\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fa/s530fa-228x228.jpg",
+            "price": "54000",
+            "product_link": "https://www.startech.com.bd/asus-vivibook-s530fa-4gb-ram-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530FA 4GB Ram Core i5 8th Gen 15.6\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fa/s530fa-228x228.jpg",
+            "price": "59800",
+            "product_link": "https://www.startech.com.bd/asus-s530fa-core-i5-512gb-ssd-laptop",
+            "product_title": "Asus VivoBook S15 S530FA 512GB SSD Core i5 8th Gen 15.6\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512fl/x51fl-228x228.jpg",
+            "price": "82500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x512fl-core-i7-laptop",
+            "product_title": "Asus VivoBook 15 X512FL Core i7 8th Gen 15.6\" Full HD Graphics Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s510ua_i3/s510ua-228x228.png",
+            "price": "68800",
+            "product_link": "https://www.startech.com.bd/asus-s510un-core-i5-ssd-laptop",
+            "product_title": "Asus VivoBook S510UN Core i5 2GB Graphics Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fn/s530un-2-228x228.jpg",
+            "price": "73500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s530fn-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s430fn/s430fn-1-228x228.jpg",
+            "price": "70800",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s430fn-i5-laptop",
+            "product_title": "Asus VivoBook S14 S430FN Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-s530fn/asus-s530fn-1-228x228.jpg",
+            "price": "87500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s530fn-i7-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fn/s530un-2-228x228.jpg",
+            "price": "73000",
+            "product_link": "https://www.startech.com.bd/asus-s530fn-1tb-core-i7-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i7 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fn/s530fn-01-228x228.jpg",
+            "price": "70200",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s530fn-core-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i5 8th Gen 15.6\" Full HD Laptop With 2GB GDDR5 and Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s410un/S410UN-228x228.png",
+            "price": "72500",
+            "product_link": "https://www.startech.com.bd/asus-s410un-i5-laptop",
+            "product_title": "Asus VivoBook S410UN 8th Gen Core i5 With Graphics 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp410ua/tp410ua-3-228x228.jpg",
+            "price": "62000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-flip-tp410ua-8th-gen-core-i5-laptop",
+            "product_title": "Asus VivoBook Flip 14 TP410UA Core i5 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530un/s530un-228x228.jpg",
+            "price": "82800",
+            "product_link": "https://www.startech.com.bd/asus-s530un-core-i7-laptop",
+            "product_title": "Asus VivoBook S15 S530UN Core i7 2GB Graphics Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s430fn/s430fn-1-228x228.jpg",
+            "price": "82800",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s430fn-i7-laptop",
+            "product_title": "Asus VivoBook S14 S430FN Core i7 8th Gen 14\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp412fa/tp412fa-1-228x228.jpg",
+            "price": "84000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-flip-tp412fa-core-i7-laptop",
+            "product_title": "Asus VivoBook Flip 14 TP412FA Core i7 8th Gen 14\" Full HD Touch Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fn/asus-s530fn-1-228x228.jpg",
+            "price": "63500",
+            "product_link": "https://www.startech.com.bd/asus-s530fn-4gb-ram-i5-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i5 4GB Ram 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512fj/x512fj-228x228.jpg",
+            "price": "59500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x512fj-core-i5-laptop ",
+            "product_title": "ASUS VivoBook 15 X512FJ 8th Gen Core i5 15.6\" Full HD Laptop With NVIDIA MX230 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX430UQ-Gold Metal/Asus UX430UQ-7200U-1-228x228.png",
+            "price": "75500",
+            "product_link": "https://www.startech.com.bd/asus-ux430uq-7500u-i5-laptop",
+            "product_title": "Asus Zenbook UX430UQ-7200U i5 8GB RAM 2GB Graphics with SSD & Win-10 14.0\" FHD Ultrabook With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux533fd/ux333fa-228x228.png",
+            "price": "92500",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux333fa-laptop",
+            "product_title": "Asus Zenbook UX333FA core i7 8th Gen Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux362fa/ux362fa-1-228x228.jpg",
+            "price": "87000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux362fa-core-i5-laptop ",
+            "product_title": "Asus Zenbook UX362FA core i5 8th Gen Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p5440fa/p5440fa-228x228.jpg",
+            "price": "75000",
+            "product_link": "https://www.startech.com.bd/asus-asuspro-p5440fa-i5-laptop",
+            "product_title": "Asus ASUSPRO P5440FA Core 8th Gen Core i5 512GB SSD 14\" Full HD Laptop ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux362fa/ux362fa-1-228x228.jpg",
+            "price": "103000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux362fa-core-i7-laptop",
+            "product_title": "Asus Zenbook UX362FA core i7 8th Gen Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux433fn/ux433fa-main-228x228.jpeg",
+            "price": "84500",
+            "product_link": "https://www.startech.com.bd/asus-ux433fa-i5-laptop",
+            "product_title": "Asus ZenBook UX433FA 8265U i5 8th Gen 14\" Full HD Ultra-Slim Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p5440fa/p5440fa-228x228.jpg",
+            "price": "80500",
+            "product_link": "https://www.startech.com.bd/asus -asuspro-p5440ff-core-i5-laptop",
+            "product_title": "Asus ASUSPRO P5440FF Core 8th Gen Core i5 14\" Full HD Laptop With NVIDIA MX130 2GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux461fn/ux461fn-228x228.jpg",
+            "price": "97000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux461fn-core-i5-laptop",
+            "product_title": "Asus ZenBook Flip 14 UX461FN Core i5 8th gen 14\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux433fn/ux433fn-228x228.jpg",
+            "price": "88500",
+            "product_link": "https://www.startech.com.bd/asus-ux433fn-i5-laptop",
+            "product_title": "Asus ZenBook UX433FN Core i5 8th Gen 14\" Full HD Ultra-Slim Laptop  With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux461fa/ux461fa-228x228.jpg",
+            "price": "83500",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux461fa-laptop",
+            "product_title": "Asus ZenBook Flip 14 UX461FA Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux433fn/ux433fn-m-228x228.jpg",
+            "price": "101500",
+            "product_link": "https://www.startech.com.bd/asus-zenBook-ux433fn-i7-laptop",
+            "product_title": "Asus ZenBook UX433FN Core i7 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/asus-228x228.jpg",
+            "price": "65700",
+            "product_link": "https://www.startech.com.bd/asus-p2440uq-laptop",
+            "product_title": "Asus P2440UQ 7th Gen Core i7 14.0\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/gray-228x228.png",
+            "price": "82000",
+            "product_link": "https://www.startech.com.bd/asus-p2540uq",
+            "product_title": "ASUS P4540UQ 7th Gen Core i7 15.6\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s510ua_i3/s510ua-228x228.png",
+            "price": "79000",
+            "product_link": "https://www.startech.com.bd/asus-s510un-8th-gen-i7-laptop",
+            "product_title": "Asus VivoBook S510UN Core I7 Graphics Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux433fn/ux433fa-main-228x228.jpeg",
+            "price": "92000",
+            "product_link": "https://www.startech.com.bd/asus-ux433fa-i7-laptop",
+            "product_title": "Asus ZenBook UX433FA Core i7 8th Gen  14\" Full HD Ultra-Slim Laptop  With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux533fd/ux533-228x228.jpg",
+            "price": "113000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux533fd-laptop",
+            "product_title": "Asus Zenbook 15 UX533FD Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/n580gd/n580gd-228x228.jpg",
+            "price": "86000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-n580gb-i5-laptop",
+            "product_title": "Asus VivoBook Pro 15 N580GD Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/n580gd/n580gd-228x228.jpg",
+            "price": "94000",
+            "product_link": "https://www.startech.com.bd/asus-nN580gd-i7-laptop",
+            "product_title": "Asus VivoBook Pro 15 N580GD Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "88000",
+            "product_link": "https://www.startech.com.bd/asus-fx505ge-i5-gaming-laptop",
+            "product_title": "Asus Tuf FX505GE Core i5 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "101500",
+            "product_link": "https://www.startech.com.bd/asus-tuf-fx505gm-i5-gaming-laptop",
+            "product_title": "Asus Tuf FX505GM (AL414T) Core i5 8th Gen 15.6\" Full HD 120hz Display Gaming Laptop ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "81500",
+            "product_link": "https://www.startech.com.bd/asus-fx505ge-core-i5-gaming-laptop",
+            "product_title": "ASUS Tuf FX505GE Core i5 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Window 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/asus-laptop/gl503vm/gl503vm-228x228.jpg",
+            "price": "155000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-gl503vm-i7-gaming-laptop",
+            "product_title": "Asus Rog Strix GL503VM 7th Gen Core i7 16 GB Ram 15.6\" Full HD Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/fx504gm/asus-fx504-228x228.jpg",
+            "price": "108700",
+            "product_link": "https://www.startech.com.bd/asus-tuf-gaming-fx504gm-core-i5-laptop",
+            "product_title": "Asus TUF Gaming FX504GM (Strix Hero Edition) Core i5 8th Gen 15.6\" Full HD 6 GB Graphics Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG GL702VM/ASUS ROG GL702VM-2-228x228.jpg",
+            "price": "165000",
+            "product_link": "https://www.startech.com.bd/asus-rog-gl702vm-7th-gen-i7",
+            "product_title": "Asus ROG GL702VM 7th Gen Core i7 16GB Ram 17.3\" Full HD Gaming Laptop With Genuine Windows ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl503ge/gl503ge-228x228.jpg",
+            "price": "93000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-gl503ge-core-i5-laptop",
+            "product_title": "Asus ROG Strix GL503GE (Hero Edition) Core i5 8th Gen 4GB Graphics 15.6\" Full HD Gaming Laptop With Genuine Windows 10 ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/g531gt/g531gt-228x228.jpg",
+            "price": "101000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-g531gt-core-i5-gaming-laptop",
+            "product_title": "Asus ROG Strix G531GT Core i5 9th Gen NVIDIA GeForce GTX 1650 Graphics 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/g531gt/g531gt-228x228.jpg",
+            "price": "129000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-g531gt-core-i7-gaming-laptop",
+            "product_title": "Asus ROG Strix G531GT Core i7 9th Gen NVIDIA GeForce GTX 1650 Graphics 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG GL702VM/ASUS ROG GL702VM-2-228x228.jpg",
+            "price": "181500",
+            "product_link": "https://www.startech.com.bd/asus-rog-gl502vs-i7-laptop",
+            "product_title": "Asus ROG GL502VS-7700HQ 7th Gen i7 Full HD Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl503ge/asus-scar-edition-228x228.jpg",
+            "price": "93000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-gl503ge-i5-8th-gen-gaming-laptop",
+            "product_title": "Asus ROG Strix GL503GE (Scar Edition) Core i5 4GB Graphics Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl503ge/hero-228x228.jpg",
+            "price": "116000",
+            "product_link": "https://www.startech.com.bd/asus-gl503ge-i7-laptop",
+            "product_title": "Asus ROG Strix GL503GE (Hero Edition) Core i7 4GB Graphics Gaming Laptop With Genuine Windows 10 ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/UX490UA/royel blue-228x228.png",
+            "price": "168500",
+            "product_link": "https://www.startech.com.bd/asus-3-deluxe-ux490ua-zenbook",
+            "product_title": "Asus 3 Deluxe UX490UA 7th Gen Core i7 With Windows Full HD 14\" Ultrabook With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "126000",
+            "product_link": "https://www.startech.com.bd/asus-tuf-fx505gm-i7-laptop",
+            "product_title": "Asus Tuf FX505GM Core i7 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG GL702VM/ASUS ROG GL702VM-2-228x228.jpg",
+            "price": "155000",
+            "product_link": "https://www.startech.com.bd/asus-rog-gl702vm-i7-laptop",
+            "product_title": "Asus ROG GL702VM-7700HQ 7th Gen i7 Full HD Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl503ge/asus-scar-edition-228x228.jpg",
+            "price": "116000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-gl503ge-scar-core-i7-laptop",
+            "product_title": "Asus ROG Strix GL503GE (Scar Edition) Core i7 4GB Graphics Gaming Laptop With Genuine Windows 10 Gaming ",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-ii-gl504gv/gl504gv-01-228x228.jpg",
+            "price": "165000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-scar-ii-gl504gv-core-i7-laptop ",
+            "product_title": "ASUS ROG Strix SCAR II GL504GV Core i7 8th Gen 6GB GDDR6 Graphics Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-rog-hero-ii-gl504gv/gl504gv-1-228x228.jpg",
+            "price": "165000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-hero-ii-gl504gv-gaming-laptop",
+            "product_title": "ASUS ROG Strix HERO II GL504GV Core i7 8th Gen 6GB GDDR6 Graphics Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-strix-scar-ii-gl704gv/gl704gv-01-228x228.jpg",
+            "price": "180000",
+            "product_link": "https://www.startech.com.bd/asus-rog-strix-scar-ii-gl704gv-core-i7-gaming-laptop",
+            "product_title": "ASUS ROG Strix SCAR II GL704GV Core i7 8th Gen Gaming Laptop with 6GB GDDR6 Graphics and Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG G752VS/Asus ROG G752VS-2-228x228.jpg",
+            "price": "224000",
+            "product_link": "https://www.startech.com.bd/asus-rog-g752vs-i7-laptop",
+            "product_title": "Asus ROG G752VS Core i7 7th Gen 32GB Ram 17.3\" Full HD Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus_GX501/asus_gx501-228x228.jpg",
+            "price": "309700",
+            "product_link": "https://www.startech.com.bd/asus-rog-zephyrus-gx501-i7-gaming-laptop",
+            "product_title": "Asus Rog Zephyrus GX501 7th Gen Core i7 15.6\u201d Full HD Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s-gx531/s-gx-531-228x228.jpg",
+            "price": "225000",
+            "product_link": "https://www.startech.com.bd/asus-rog-zephyrus-s-gx531-core-i7-gaming-laptop",
+            "product_title": "Asus ROG Zephyrus S GX531 9th Gen Core i7 15.6\u201d Full HD Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG G701VO-6820HK-228x228.jpg",
+            "price": "300000",
+            "product_link": "https://www.startech.com.bd/asus-rog-g701vo",
+            "product_title": "Asus ROG G701VO Core i7 6th Gen 64GB Ram 8GB Graphics 17.3\" Full HD Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX410UA/gaming laptop-228x228.jpg",
+            "price": "390000",
+            "product_link": "https://www.startech.com.bd/asus-g701vik-core-i7-512gb-ssd-with-graphics-laptop",
+            "product_title": "Asus G701VIK 17.3\" Core i7 512GB SSD With Graphics Gaming Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG GX800VH-7820HK/Asus ROG GX800VH-7820HK-1-228x228.jpg",
+            "price": "616500",
+            "product_link": "https://www.startech.com.bd/asus-rog-gx800vh-7820hk-i7-laptop",
+            "product_title": "Asus ROG GX800VH-7820HK i7 7th Gen 18.4\" UHD Gaming Laptop with (512x3)GB SSD and Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "99000",
+            "product_link": "https://www.startech.com.bd/asus-fx505ge",
+            "product_title": "Asus Tuf FX505GE Core i7 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl504gm-scare/gl504gm-scare-1-228x228.jpg",
+            "price": "141500",
+            "product_link": "https://www.startech.com.bd/asus-gl504gm-core-i7-gaming-laptop",
+            "product_title": "Asus GL504GM (Scar Edition) Core i7 15.6\" Narrow Bezel 144hz Full Hd Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ua/x407ua-228x228.jpg",
+            "price": "36000",
+            "product_link": "https://www.startech.com.bd/asus-x407ua-i3-7th-gen-laptop",
+            "product_title": "Asus X407UA Core i3 7th Gen Laptop With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ua/x507ua-228x228.jpg",
+            "price": "35500",
+            "product_link": "https://www.startech.com.bd/asus-x507ua-7th-gen-i3-laptop",
+            "product_title": "Asus X507UA 7th Gen Core i3 15.6\" HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ua/x507ua-gold-228x228.jpg",
+            "price": "38800",
+            "product_link": "https://www.startech.com.bd/asus-x507ua-i3-8th-gen-laptop",
+            "product_title": "Asus X507UA 8th Gen Core i3 Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x542ua/x542ua-2-228x228.jpg",
+            "price": "40700",
+            "product_link": "https://www.startech.com.bd/asus-x542ua-i3-8th-gen-laptop",
+            "product_title": "Asus X542UA Core i3 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux410ua/ux410ua-228x228.jpg",
+            "price": "62000",
+            "product_link": "https://www.startech.com.bd/asus-ux410ua-i5-8th-gen-laptop",
+            "product_title": "ASUS ZenBook UX410UA i5 8th Gen 14.0\" Full HD Ultrabook With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x542uf/x542uf-228x228.jpg",
+            "price": "67200",
+            "product_link": "https://www.startech.com.bd/asus-x542uf-core-i7-laptop",
+            "product_title": "Asus X542UF 8th Gen Core i7 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX310UA/UX310UA-GL673R-OSS_1._1-228x228.jpg",
+            "price": "54500",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux310ua-i5-laptop",
+            "product_title": "ASUS ZenBook UX310UA i5 13.3\" Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX410UA/x10ua 1-228x228.png",
+            "price": "59000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux410ua-i5-laptop",
+            "product_title": "ASUS ZenBook UX410UA i5 7th Gen 14.0\" Ultrabook With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX360UAK/Asus UX360UAK-7200U-228x228.jpg",
+            "price": "78000",
+            "product_link": "https://www.startech.com.bd/asus-ux360uak-7200u-i5-laptop",
+            "product_title": "Asus Zenbook UX360UAK Core i5 7th Gen 13.3\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG FX553VE/Asus ROG FX553VE-1-228x228.jpg",
+            "price": "105000",
+            "product_link": "https://www.startech.com.bd/asus-rog-fx553ve-i7-laptop",
+            "product_title": "Asus ROG FX553VE-7700HQ 7th Gen i7 Full HD Gaming Laptop with 256GB SSD",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus 310UQ-1-228x228.jpg",
+            "price": "89700",
+            "product_link": "https://www.startech.com.bd/asus-ux310uq-i7-laptop",
+            "product_title": "Asus ZenBook UX310UQ Core i7 13.3\" LED backlit QHD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/6th/x441na-228x228.jpg",
+            "price": "24000",
+            "product_link": "https://www.startech.com.bd/asus-x441na-pqc-laptop",
+            "product_title": "ASUS X441NA N4200 Intel Pentium Quad Core 14\" VivoBook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/ASUS P2430UA-1-228x228.jpg",
+            "price": "38000",
+            "product_link": "https://www.startech.com.bd/asus-p2440ua-i3-laptop",
+            "product_title": "ASUS P2440UA-7100U 7th Gen i3 14.0\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/ASUS P2430UA-1-228x228.jpg",
+            "price": "45000",
+            "product_link": "https://www.startech.com.bd/asus-p2440ua-7200u-7th-gen-i5",
+            "product_title": "ASUS P2440UA-7200U 7th Gen i5 14.0\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG GL753VE/Asus ROG GL753VE-1-228x228.jpg",
+            "price": "122000",
+            "product_link": "https://www.startech.com.bd/asus-rog-gl753ve-i7-laptop",
+            "product_title": "Asus ROG GL753VE Core i7 7th Gen 16GB Ram 17.3\" Full HD Gaming Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX410UA/UX430UA-228x228.png",
+            "price": "91000",
+            "product_link": "https://www.startech.com.bd/asus-ux430uq-7500u-i7-laptop",
+            "product_title": "Asus ZenBook UX430UQ-7500U Core i7 7th Gen 8GB Ram 14.0\" FHD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/p2540/p540-228x228.jpg",
+            "price": "42000",
+            "product_link": "https://www.startech.com.bd/asuspro-p2540uv",
+            "product_title": "Asus Pro P2540UV Core i3 GeForce 2GB Graphics 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/n580vd/an580vd-228x228.jpg",
+            "price": "113000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-pro-15-n580vd-i7-gaming-laptop",
+            "product_title": "ASUS VivoBook Pro 15 N580VD 7th Gen Core i7 16GB Ram 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/x542un/x542un-228x228.jpg",
+            "price": "63000",
+            "product_link": "https://www.startech.com.bd/asus-x542un-i5-laptop",
+            "product_title": "Asus X542UN 8th Gen Core i5 With Graphics 15.6\" Full HD Laptop With Genuine Windows 10 ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/x54la-228x228.jpg",
+            "price": "30000",
+            "product_link": "https://www.startech.com.bd/asus-x540la-core-i3-laptop",
+            "product_title": "Asus X540LA Core i3 Genuine Windows 10 15.6\" HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x505bp/x505bp-dark-228x228.jpg",
+            "price": "35500",
+            "product_link": "https://www.startech.com.bd/asus-x505bp-amd-a6-9225-laptop",
+            "product_title": "ASUS VivoBook 15 X505BP AMD A6-9225 15.6\" Full HD Laptop With Genuine Win 10 home",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x540ub/asus-x540ub-228x228.jpg",
+            "price": "43700",
+            "product_link": "https://www.startech.com.bd/asus-x540ub-i3-8th-gen-laptop",
+            "product_title": "Asus X540UB Core i3 8th Gen 2GB Graphics 15.6\" FHD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530un/asus-vivobook-s15-s530un-228x228.jpg",
+            "price": "69000",
+            "product_link": "https://www.startech.com.bd/asus-s530un-core-i5-laptop",
+            "product_title": "ASUS VivoBook S15 S530UN Core i5 2GB Graphics Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ua/x507ua-gray-3-228x228.jpg",
+            "price": "47300",
+            "product_link": "https://www.startech.com.bd/asus-x507ua-i5-8th-gen-laptop",
+            "product_title": "Asus X507UA 8th Gen Core i5 Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s510ua/s510ua-grey-228x228.jpg",
+            "price": "44500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s510ua-i3-8th-gen-laptop",
+            "product_title": "Asus VivoBook S15 S510UA Core i3 8th Gen Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/X456UB-400x400-1-228x228.jpg",
+            "price": "45800",
+            "product_link": "https://www.startech.com.bd/asus-x540up-7200u-laptop",
+            "product_title": "Asus X540UP Core i5 7th Gen 4GB Ram With Graphics 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/asus-laptop/x441na/x441na-228x228.jpg",
+            "price": "21800",
+            "product_link": "https://www.startech.com.bd/asus-x441na-intel-cdc-n3350-notebook",
+            "product_title": "Asus X441NA Intel Celeron Duel Core N3350 Notebook ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX360UAK/Asus UX360UAK-7200U-228x228.jpg",
+            "price": "96200",
+            "product_link": "https://www.startech.com.bd/asus-ux360uak-i7-laptop",
+            "product_title": "Asus ZenBook UX360UAK Core i7 7th Gen 13.3\" IPS Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop-1-228x228.jpg",
+            "price": "88000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop",
+            "product_title": "ASUS VivoBook Pro 15 N580VD 7th Gen i7  8GB Ram 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop-1-228x228.jpg",
+            "price": "81000",
+            "product_link": "https://www.startech.com.bd/asus-n580vd-i7-gaming-laptop",
+            "product_title": "ASUS VivoBook Pro 15 N580VD 7th Gen Core i7 Full HD 15.6\" Gaming Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/x542un/x542un-228x228.jpg",
+            "price": "72500",
+            "product_link": "https://www.startech.com.bd/asus-x542un-8th-gen-i7-laptop",
+            "product_title": "Asus X542UN 8th Gen Core i7 15.6\" Full HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x510uf/x510uf-228x228.jpg",
+            "price": "59500",
+            "product_link": "https://www.startech.com.bd/asus-x510uf-core-i5-laptop",
+            "product_title": "Asus X510UF Core i5 8th gen 15.6\" Full HD Laptop With Graphics  With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x542uf/x542uf-228x228.jpg",
+            "price": "46200",
+            "product_link": "https://www.startech.com.bd/asus-x542uf-i3-laptop",
+            "product_title": "Asus X542UF 8th Gen Core i3 15.6\" Full HD Laptop With Genuine Win 10 and Graphics",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s510ua_i3/s510ua-228x228.png",
+            "price": "67000",
+            "product_link": "https://www.startech.com.bd/asus-s510un-i5-laptop",
+            "product_title": "Asus VivoBook S510UN 8th Gen Core i5 With Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/ASUS Vivobook X556UR-228x228.jpg",
+            "price": "39500",
+            "product_link": "https://www.startech.com.bd/asus-x556ur-i3-laptop",
+            "product_title": "ASUS X556UR-7100U Core i3 7th Gen Graphics Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/s510uq/510uq-228x228.png",
+            "price": "55700",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s510uq-i5-laptop",
+            "product_title": "Asus VivoBook S15 S510UQ i5 7th Gen Full HD Graphics Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/s510uq/510uq-228x228.png",
+            "price": "70000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s510uq-i7-with-graphics-laptop",
+            "product_title": "Asus VivoBook S15 S510UQ i7 7th Gen With Full HD Graphics Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530uf/s530uf-3-228x228.jpg",
+            "price": "48500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s530uf-core-i3-laptop",
+            "product_title": "Asus VivoBook S15 S530UF Core i3 2GB Graphics Laptop With Genuine WIn 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus 310UQ-1-228x228.jpg",
+            "price": "79500",
+            "product_link": "https://www.startech.com.bd/asus-ux310uq-i5-laptop",
+            "product_title": "Asus Zenbook UX310UQ Core i5 7th Gen 13.3\" Full HD Ultrabook With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus UX303UA-6200U-228x228.jpg",
+            "price": "68000",
+            "product_link": "https://www.startech.com.bd/asus-ux303ub-i5-laptop",
+            "product_title": "Asus Zenbook UX303UB-6200U 6th gen i5 13.3\" Ultrabook With Graphics With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX430UQ-Gold Metal/Asus UX430UQ-7200U-1-228x228.png",
+            "price": "70200",
+            "product_link": "https://www.startech.com.bd/asus-ux430ua-7200u-i5-laptop",
+            "product_title": "Asus ZenBook UX430UA-7200U i5 8GB RAM with SSD 14.0\" FHD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530uf/s530uf-228x228.jpeg",
+            "price": "60500",
+            "product_link": "https://www.startech.com.bd/asus-s530uf-core-i5-2gb-graphics-laptop",
+            "product_title": "Asus VivoBook S15 S530UF Core i5 2GB Graphics Laptop With Genuine WIn 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux461fn/ux461fn-228x228.jpg",
+            "price": "109000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux461fn-i7-laptop",
+            "product_title": "Asus ZenBook Flip 14 UX461FN Core i7 8th gen 14\" Full HD laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/fx504/fx504-228x228.jpg",
+            "price": "87500",
+            "product_link": "https://www.startech.com.bd/asus-fx504-gaming-laptop",
+            "product_title": "Asus TUF Gaming FX504GD (Scar Edition) Core i5 8th Gen 15.6\" Full HD 4 GB Graphics Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG FX553VD/ASUS ROG FX553VD-1-228x228.jpeg",
+            "price": "85500",
+            "product_link": "https://www.startech.com.bd/asus-rog-fx553vd-7th-gen-i7-laptop",
+            "product_title": "Asus ROG FX553VD 7th Gen Core i7 8GB Ram 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Gaming/Asus ROG FX553VD/ASUS ROG FX553VD-1-228x228.jpeg",
+            "price": "78700",
+            "product_link": "https://www.startech.com.bd/asus-rog-fx553vd-i5-gaming-laptop",
+            "product_title": "Asus ROG FX553VD 7th Gen i5 8GB Ram 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/x442ua/x442ua-228x228.png",
+            "price": "46000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x442ua-i5-laptop",
+            "product_title": "Asus VivoBook X442UA 7th Gen Core i5 14\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop/asus-vivobook-pro-15-n580vd-i7-128gb-ssd-gaming-laptop-1-228x228.jpg",
+            "price": "66000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-pro-n580vd-i5-laptop",
+            "product_title": "Asus VivoBook Pro 15 N580VD 7th Gen Core i5 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/s510ua_i3/s510ua-228x228.png",
+            "price": "43500",
+            "product_link": "https://www.startech.com.bd/asus-s510ua-laptop",
+            "product_title": "Asus VivoBook S510UA Core i3 Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th-gen/core-i3/s410ua-228x228.png",
+            "price": "43300",
+            "product_link": "https://www.startech.com.bd/asus-s410ua-7th-gen-core-i3-laptop",
+            "product_title": "Asus S410UA VivoBook Core i3 Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x505bp/x505bp-dark-228x228.jpg",
+            "price": "40500",
+            "product_link": "https://www.startech.com.bd/asus-x505bp-amd-128gb-ssd-laptop",
+            "product_title": "ASUS VivoBook 15 X505BP AMD A6-9225 1TB HDD+128GB SSD 15.6\" Full HD Laptop With Genuine Win 10 home",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x407ma/x407ma/x407ma-2-228x228.jpg",
+            "price": "23500",
+            "product_link": "https://www.startech.com.bd/asus-x407ma-cdc-laptop",
+            "product_title": "Asus X407MA Intel Celeron Dual Core 14\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/504gs/asus-gl504gs-228x228.jpg",
+            "price": "197000",
+            "product_link": "https://www.startech.com.bd/asus-gl504gs-i7-gaming-laptop",
+            "product_title": "Asus ROG Strix SCAR II GL504GS Core i7 8th Gen 15.6' Full HD Gaming Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s430fa/s430fa-228x228.jpg",
+            "price": "47500",
+            "product_link": "https://www.startech.com.bd/asus-vvobook-s14-s430fa-i3-laptop",
+            "product_title": "Asus VivoBook S14 S430FA Core i3 8th Gen 14\" Full HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x560ud/asus-x560ud-1-228x228.jpg",
+            "price": "73500",
+            "product_link": "https://www.startech.com.bd/asus-x560ud-core-i5-laptop",
+            "product_title": "ASUS X560UD Core i5 8th Gen 15.6\" Full HD Laptop with 4GB Graphics and Genuine Win-10 ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x512ua/x512ua-01-228x228.jpg",
+            "price": "39400",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-15-x512ua-core-i3-laptop",
+            "product_title": "Asus VivoBook 15 X512UA Core i3 7th Gen Laptop with Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x505bp/x505bp-dark-228x228.jpg",
+            "price": "42500",
+            "product_link": "https://www.startech.com.bd/asus-x505bp-amd-a9-9425-laptop",
+            "product_title": "ASUS VivoBook 15 X505BP AMD A9-9425 1TB HDD+128GB SSD 15.6\" Full HD Laptop With Genuine Win 10 home",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/ux410ua/asus-ux410ua-228x228.jpg",
+            "price": "48700",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux410ua-8th-gen-i3-laptop",
+            "product_title": "ASUS ZenBook UX410UA Core i3 8th Gen Ultrabook With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x411ua/x411ua-228x228.jpg",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/asus-x411ua-core-i3-laptop",
+            "product_title": "Asus X411UA Core i3 7th Gen 14\" Full HD Laptop With Genuine  Windows 10 ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x510ua/x510ua-gold-228x228.png",
+            "price": "41700",
+            "product_link": "https://www.startech.com.bd/asus-x510ua-i3-laptop",
+            "product_title": "Asus X510UA 7th Gen Core i3 15.6\" Full HD laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX410UQ-1-228x228.jpg",
+            "price": "74500",
+            "product_link": "https://www.startech.com.bd/asus-ux410uq-i5-laptop",
+            "product_title": "Asus ZenBook UX410UQ 7200U i5 7th Gen 8GB RAM 2GB GFX SSD 14\" Full HD Ultrabook With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus PQC/ASUS E203NAH/ASUS E203NAH-228x228.jpg",
+            "price": "27000",
+            "product_link": "https://www.startech.com.bd/asus-e203nah-cdc-notebook",
+            "product_title": "Asus E203NAH N3350 Intel Celeron Dual Core 11.6\" Notebook",
+            "status": "available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x411ua/x411ua-228x228.png",
+            "price": "50000",
+            "product_link": "https://www.startech.com.bd/asus-x411ua-core-i5-laptop",
+            "product_title": "Asus X411UA Core i5 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x510ua/x510ua-228x228.png",
+            "price": "50800",
+            "product_link": "https://www.startech.com.bd/asus-x510ua-core-i5-laptop",
+            "product_title": "Asus X510UA 8th Gen Core i5 15.6\" Full HD laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s410un/s410un-4-228x228.jpg",
+            "price": "83700",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s14-s410un-core-i7-laptop",
+            "product_title": "Asus VivoBook S14 S410UN Core i7 8th Gen 14\" Full HD Laptop With Genuine Windows ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x442ua/x442ua-228x228.jpg",
+            "price": "39800",
+            "product_link": "https://www.startech.com.bd/asus-x442ua-i3-8th-gen-laptop",
+            "product_title": "Asus X442UA 8th Gen Core i3 14\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x510uf/x510uf-228x228.jpg",
+            "price": "69500",
+            "product_link": "https://www.startech.com.bd/asus-x510uf-i7-laptop",
+            "product_title": "Asus X510UF Core i7 8th gen 2GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s510uf/s510uf-228x228.jpg",
+            "price": "49500",
+            "product_link": "https://www.startech.com.bd/asus-s510uf-i3-8th-gen-laptop",
+            "product_title": "Asus VivoBook S15 S510UF Core i3 8th 2GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s410ua/s410ua-228x228.jpg",
+            "price": "45500",
+            "product_link": "https://www.startech.com.bd/asus-s410ua-8th-gen-i3-laptop",
+            "product_title": "Asus VivoBook S410UA 8th Gen Core i3 14.0\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530ua/530ua-green-228x228.jpg",
+            "price": "45500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s530ua-i3-laptop",
+            "product_title": "Asus VivoBook S15 S530UA Core i3 Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x510ua/x510ua-gold-228x228.png",
+            "price": "41800",
+            "product_link": "https://www.startech.com.bd/asus-x510ua-i3-8th-gen-laptop",
+            "product_title": "Asus Vivobook X510UA 8th Gen Core i3 Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x411ua/x411ua-228x228.jpg",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/asus-x411UA-i3-8th-gen-laptop",
+            "product_title": "Asus X411UA Core i3 8th Gen 14\" Full HD Laptop With Genuine  Windows 10 ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus X442UA/Asus X442UA-g-228x228.jpg",
+            "price": "37800",
+            "product_link": "https://www.startech.com.bd/asus-x442ua-i3-with-windows-laptop",
+            "product_title": "Asus X442UA-7100U Core i3 7th gen Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/6th/X441UA-600x600-228x228.jpg",
+            "price": "33500",
+            "product_link": "https://www.startech.com.bd/asus-x441ua-6th-gen-i3-laptop",
+            "product_title": "Asus X441UA Core i3 6th Gen 14\" HD Laptop with genuine windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX310UA/UX310UA-GL673R-OSS_1._1-228x228.jpg",
+            "price": "42000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux310ua",
+            "product_title": "ASUS ZenBook UX310UA Core i3 13.3\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus X542UR/Asus X542UR-gray-228x228.jpeg",
+            "price": "42300",
+            "product_link": "https://www.startech.com.bd/asus-x542ur-i3-graphics-laptop",
+            "product_title": "Asus X542UR-7100U Core i3 7th Gen 15.6\" Graphics Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/Asus UX410UA/x10ua 1-228x228.png",
+            "price": "43000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux410ua",
+            "product_title": "ASUS ZenBook UX410UA Core i3 14.0\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/asus-laptop/x542uq/x542uq-228x228.png",
+            "price": "51500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x542uq-i5-laptop",
+            "product_title": "Asus VivoBook X542UQ Core i5 2GB Graphics 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/Asus X556UB-6500U-228x228.png",
+            "price": "64500",
+            "product_link": "https://www.startech.com.bd/asus-x556uq-i7-laptop",
+            "product_title": "ASUS X556UQ-7500u i7 7th Gen with Graphics Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/i7 golden-228x228.png",
+            "price": "61500",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-x542uq-i7-laptop",
+            "product_title": "Asus VivoBook 15 X542UQ Core i7 2GB Graphics 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/s15/s 15-228x228.png",
+            "price": "46700",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s510ur",
+            "product_title": "Asus VivoBook S510UR Core i3 GeForce 2GB Graphics 15.6\" Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/asus-228x228.jpg",
+            "price": "54500",
+            "product_link": "https://www.startech.com.bd/asus-p2440uq-core-i5-laptop",
+            "product_title": "Asus P2440UQ 7th Gen Core i5 8GB Ram With Graphics 14.0\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-x507ua/asus-x507ua-1-228x228.png",
+            "price": "45300",
+            "product_link": "https://www.startech.com.bd/asus-x507ua-laptop",
+            "product_title": "Asus X507UA 7th Gen Core i5 15.6\" Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/celeron-dual-core/tp203nah-1-228x228.jpg",
+            "price": "33000",
+            "product_link": "https://www.startech.com.bd/asus-tp-203nah-cdc-laptop",
+            "product_title": "Asus VivoBook Flip 12 TP203NAH Celeron Dual Core Touch Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/8th-gen/s510uq-228x228.png",
+            "price": "65500",
+            "product_link": "https://www.startech.com.bd/asus-s510uq-8th-gen-i5-laptop",
+            "product_title": "Asus VivoBook S15 S510UQ 8th Gen Core i5 Full HD Graphics Laptop With SSD With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp410ua/tp410ua-3-228x228.jpg",
+            "price": "78000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-flip-tp410ua-8th-gen-core-i7-laptop",
+            "product_title": "Asus VivoBook Flip 14 TP410UA Core i7 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507ub/x507ub-228x228.jpg",
+            "price": "49000",
+            "product_link": "https://www.startech.com.bd/asus-x507ub-core-i5-laptop",
+            "product_title": "Asus X507UB Core i5 7th Gen 2GB Graphics 15.6\" Full HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/blue-228x228.png",
+            "price": "82000",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux430ua-i7-laptop",
+            "product_title": "Asus ZenBook UX430UA 7th Gen Core i7 8GB Ram With 512GB SSD 14.0\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/n552vw/asus-vivobook-pro-n552vw-1-228x228.jpg",
+            "price": "95000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-pro-n552vw-core-i7-gaming-laptop",
+            "product_title": "Asus VivoBook Pro N552VW Core i7 16GB RAM With Genuine Win 10 15.6\" Full HD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ASUS P2540UV/ASUS P2540UV-228x228.jpg",
+            "price": "66000",
+            "product_link": "https://www.startech.com.bd/asus-p2540uv-i7-laptop",
+            "product_title": "Asus P2540UV 7th Gen Core i7 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/8th-gen/core-i7/ux370ua-228x228.png",
+            "price": "150700",
+            "product_link": "https://www.startech.com.bd/asus-zenbook-ux370ua-8th-gen-core-i7-laptop",
+            "product_title": "Asus ZenBook Flip S UX370UA 8th Gen Core i7 16GB Ram With SSD 13.3\" Full HD Ultrabook With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/asus-505/505-4-228x228.jpg",
+            "price": "108500",
+            "product_link": "https://www.startech.com.bd/asus-tuf-fx505gm-i5-gaming-laptop-144hz",
+            "product_title": "ASUS Tuf FX505GM (ES101T) Core i5 8th Gen 15.6\" FHD 144hz Display Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/asus/7th Gen/ux390ua/41VzIQkQKNL._SY355_-228x228.jpg",
+            "price": "139000",
+            "product_link": "https://www.startech.com.bd/asus-ux390ua-i7-laptop",
+            "product_title": "Asus ZenBook UX390UA Core i7 7th Gen 16GB Ram 12.5\" FHD Ultrabook With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/fx504/fx504-228x228.jpg",
+            "price": "103700",
+            "product_link": "https://www.startech.com.bd/asus-fx504ge-core-i7-gaming-laptop",
+            "product_title": "Asus TUF Gaming FX504GE (Scar Edition) Core i7 8th Gen 4GB Graphics 15.6\" Full HD Gaming Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/gl504gm/gl504gm-hero-black-228x228.jpg",
+            "price": "150200",
+            "product_link": "https://www.startech.com.bd/asus-gl504gm-black-metal-hero-core-i7-gaming-laptop",
+            "product_title": "Asus GL504GM (Hero Edition) Core i7 15.6\" Narrow Bezel 144hz Full Hd Gaming Laptop ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x542ua/x542ua-2-228x228.jpg",
+            "price": "38000",
+            "product_link": "https://www.startech.com.bd/asus-x542ua-core-i3-laptop",
+            "product_title": "Asus X542UA Core i3 7th Gen 15.6\" HD Laptop With Windows 10 Genuine ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/tp410ua/tp410ua-3-228x228.jpg",
+            "price": "50000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-flip-14-tp410ua-core-i3-laptop",
+            "product_title": "Asus VivoBook Flip 14 TP410UA Core i3 7th Gen 14\" Full HD Laptop With Genuine Windows 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507uf/x507uf-4-228x228.jpg",
+            "price": "51500",
+            "product_link": "https://www.startech.com.bd/asus-x507uf-core-i5-laptop",
+            "product_title": "Asus X507UF Core i5 8th Gen 4GB Ram 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/x507uf/x507uf-4-228x228.jpg",
+            "price": "56500",
+            "product_link": "https://www.startech.com.bd/asus-x507uf-core-i5-2gb-graphics-laptop",
+            "product_title": "Asus X507UF Core i5 8th Gen (1TB HDD + 120GB SSD) 15.6\" Full HD Laptop With Genuine Win 10 ",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s530fn/asus-s530fn-1-228x228.jpg",
+            "price": "63000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s530fn-i5-8gb-ram-laptop",
+            "product_title": "Asus VivoBook S15 S530FN Core i5 8GB Ram 15.6\" Full HD Laptop With Genuine Win 10",
+            "status": "not available"
+        },
+        {
+            "brand": "asus",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/s510ua/s510ua-grey-228x228.jpg",
+            "price": "40000",
+            "product_link": "https://www.startech.com.bd/asus-vivobook-s15-s510ua-Corei3-8th-gen-laptop",
+            "product_title": "Asus VivoBook S15 S510UA Core i3 8th Gen Laptop",
+            "status": "not available"
+        }
+    ]
+}

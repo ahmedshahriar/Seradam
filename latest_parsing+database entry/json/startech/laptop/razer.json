@@ -1,0 +1,28 @@
+{
+    "Products": [
+        {
+            "brand": "razer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-15/base-main-228x228.PNG",
+            "price": "212000",
+            "product_link": "https://www.startech.com.bd/razer-blade-15-base-gaming-laptop",
+            "product_title": "Razer Blade 15 (Base) Core i7 9th Gen 15.6\u2033 Full HD Gaming Laptop With RTX 2060 6GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "razer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-advance/blade-2-228x228.jpg",
+            "price": "253000",
+            "product_link": "https://www.startech.com.bd/razer-blade-15-advance-core-i7-gaming-laptop",
+            "product_title": "Razer Blade 15 (Advance) Core i7 9th Gen 15.6\u2033 Full HD Gaming Laptop With RTX 2070 Max-Q 8GB Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "razer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-pro-17/razer-blade-pro-17-228x228.jpg",
+            "price": "312000",
+            "product_link": "https://www.startech.com.bd/razer-blade-pro-17-gaming-laptop",
+            "product_title": "Razer Blade Pro 17 Core i7 9th Gen 17.3\u2033 Full HD Gaming Laptop With RTX 2080 Max-Q 8GB Graphics",
+            "status": "available"
+        }
+    ]
+}

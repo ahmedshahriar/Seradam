@@ -1,0 +1,28 @@
+{
+    "Products": [
+        {
+            "brand": "chuwi",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-228x228.jpg",
+            "price": "19900",
+            "product_link": "https://www.startech.com.bd/chuwi-herobook",
+            "product_title": "Chuwi HeroBook 14.1\" HD Laptop With Genuine Windows 10",
+            "status": "available"
+        },
+        {
+            "brand": "chuwi",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-air/air-228x228.jpg",
+            "price": "36000",
+            "product_link": "https://www.startech.com.bd/chuwi-lapbook-air",
+            "product_title": "Chuwi LapBook Air 14.1 inch Full HD Display",
+            "status": "available"
+        },
+        {
+            "brand": "chuwi",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-se/lapbook-se-228x228.jpg",
+            "price": "29000",
+            "product_link": "https://www.startech.com.bd/chuwi-lapbook-se",
+            "product_title": "Chuwi Lapbook SE 13.3\" Full HD IPS Display",
+            "status": "available"
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "Products": [
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-21/acer-a315-21-228x228.jpg",
+            "price": "22500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-21-amd-laptop",
+            "product_title": "Acer Aspire A315-21 28F1 AMD E2-9000 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/cdc/es1-533/acer-s533-228x228.jpeg",
+            "price": "22700",
+            "product_link": "https://www.startech.com.bd/acer-aspire-es1-533-cdc-laptop",
+            "product_title": "Acer Aspire ES1-533 Intel Celeron Dual Core 15.6\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a311-31/a311-31-228x228.jpg",
+            "price": "26500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a311-31-cdc-laptop",
+            "product_title": "Acer Aspire 3 A311-31 Celeron Dual Core 11.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
+            "price": "23200",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-cdc-laptop",
+            "product_title": "Acer Aspire A315-31 C421 Intel Celeron Dual Core 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
+            "price": "26000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-p9v3-pqc-laptop",
+            "product_title": "Acer Aspire A314-31 P9V3 PQC 14\" laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
+            "price": "26000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-pqc-laptop",
+            "product_title": "Acer Aspire A315-31 P8GP PQC 15.6\" laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3 Processor/315-228x228.png",
+            "price": "38200",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-576-i3-laptop",
+            "product_title": "Acer Aspire E5-576 Core i3 7th Gen 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3 Processor/315-228x228.png",
+            "price": "38700",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-576-core-i3-laptop",
+            "product_title": "Acer Aspire E5-576 Core i3 7th Gen 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Spin 513-51 i5/as-1-228x228.jpg",
+            "price": "37000",
+            "product_link": "https://www.startech.com.bd/acer-a515-5-i3-laptop",
+            "product_title": "Acer Aspire A515-51 Core i3 7th Gen HD 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/e5-476/E5-476-228x228.jpg",
+            "price": "43500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-476-core-i3-laptop",
+            "product_title": "Acer Aspire E5-476 Core i3 8th Gen 14\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/tmp-249-g3-m/travelmate-p2-228x228.jpg",
+            "price": "37500",
+            "product_link": "https://www.startech.com.bd/acer-tmp-249-g3-m-i3-laptop",
+            "product_title": "Acer Travelmate TMP249-G3-M Core i3 8th gen Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-53/a315-53-228x228.jpg",
+            "price": "46500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-3-a315-53-i5-laptop",
+            "product_title": "Acer Aspire 3 A315-53 Core i5 8th Gen 15.6\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/tmp-249-g3-m/travelmate-p2-228x228.jpg",
+            "price": "43000",
+            "product_link": "https://www.startech.com.bd/acer-tmp-249-g3-m-i5-laptop",
+            "product_title": "Acer Travelmate TMP249-G3-M Core i5 8th gen Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a515-52g/aspire-a515-52g-1-228x228.jpg",
+            "price": "61000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-52g-laptop",
+            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop ",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-52g/aspire-5-a515-52g-228x228.jpg",
+            "price": "66000",
+            "product_link": "https://www.startech.com.bd/acer-a515-52g-i5-2gb-graphics-laptop",
+            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop With Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
+            "price": "81000",
+            "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-i5-laptop",
+            "product_title": "Acer Nitro AN515-52 Core i5 (128GB SSD + 1TB HDD) 15.6\" Full HD Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
+            "price": "87000",
+            "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-59e4-i5-8th-gen-ips-full-hd-gaming-laptop",
+            "product_title": "Acer Nitro AN515-52 59E4 i5 8th Gen 15.6\" IPS Full HD Backlit Keyboard Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
+            "price": "98000",
+            "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-i7-gaming-laptop",
+            "product_title": "Acer Nitro AN515-52 Core i7 15.6\" Full HD Gaming Laptop With Graphics",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ph315/ph315-228x228.jpg",
+            "price": "95000",
+            "product_link": "https://www.startech.com.bd/acer-ph315-51-i5-laptop",
+            "product_title": "Acer Predator Helios 300 PH315-51 Core i5 8th Gen 15.6\" Full HD IPS Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ph315/ph315-228x228.jpg",
+            "price": "115000",
+            "product_link": "https://www.startech.com.bd/acer-ph315-51-core-i7-laptop",
+            "product_title": "Acer Predator Helios 300 PH315-51 Core i7 15.6\" Full HD IPS Gaming Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i7-laptop/acer-predator/acer-predator-228x228.png",
+            "price": "180500",
+            "product_link": "https://www.startech.com.bd/acer-predator-g9-793-73hr-i7-16gb-ram-6gb-graphics-with-ssd-laptop",
+            "product_title": "Acer Predator G9-793 73HR 7th Gen Core i7 15.6\" IPS Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i7-laptop/helios/predator-helios-228x228.png",
+            "price": "125500",
+            "product_link": "https://www.startech.com.bd/acer-predator-helios-300-g3-572-533d-i5-laptop",
+            "product_title": "Acer Predator Helios 300 G3-572 533D 7th Gen Core i5 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/7th-gen/i7-laptop/predator-helios-228x228.png",
+            "price": "145500",
+            "product_link": "https://www.startech.com.bd/acer-predator-helios-300-g3-572-i7-graphics-with-windows-laptop",
+            "product_title": "Acer Predator Helios 300 G3-572 7th Gen Core i7 Full HD IPS 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/e5-476/E5-476-228x228.jpg",
+            "price": "44500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-476-core-i5-laptop",
+            "product_title": "Acer Aspire E5-476 Core i5 8th Gen 14\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Acer Aspire E5-575 i3-228x228.jpg",
+            "price": "35500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-575-i3-7th-gen-laptop",
+            "product_title": "Acer Aspire E5-575 7th Gen Core i3 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-42/an515-42-228x228.jpg",
+            "price": "64500",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-an515-42-laptop",
+            "product_title": "Acer Nitro 5 AN515-42 Ryzen R5-2500 15.6\" Full HD IPS Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3 Processor/Acer Aspire ES1-572-1-228x228.jpg",
+            "price": "35500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-475-i3-7th-gen-laptop",
+            "product_title": "Acer Aspire E5-475 Core i3 7th Gen 14\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/e5-476/e5-476-1-228x228.jpg",
+            "price": "41000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-476-core-i5-7th-gen-laptop",
+            "product_title": "Acer Aspire E5-476 Core i5 7th Gen 14\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-51g-59at/Aspire-5-228x228.jpg",
+            "price": "57000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51g-51gw-i5-2gb-graphics-laptop",
+            "product_title": "ACER ASPIRE A515-51G 51GW 8th Gen Core i5 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Aspire S5-371 i5 7th Gen-228x228.jpg",
+            "price": "69000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-s5-371-i5-7th-gen-512gb-ssd",
+            "product_title": "Acer Aspire S5-371 7th Gen Core i5 13.3\" FHD IPS Display Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Spin 513-51 i5/Acer Spin 513-51 i5-1-228x228.jpg",
+            "price": "72000",
+            "product_link": "https://www.startech.com.bd/acer-spin-513-51-i5",
+            "product_title": "Acer Spin 513-51 7th gen Core i5 13.3\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer Aspire SWIFT3 SF314 51-53XD i5 7th Gen-1-228x228.jpg",
+            "price": "85000",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf314-52-8th-gen-laptop",
+            "product_title": "Acer Swift SF314-52 8th Gen Core i7 14\" FULL HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer Swift SF514-51 i7/Acer Swift SF514-51 i7-1-228x228.jpg",
+            "price": "85000",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf514-51-i7",
+            "product_title": "Acer Swift SF514-51 7th gen Core i7 14\" Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/ACER ASPIRE SWIFT7 SF13 51-M96X-1/ACER ASPIRE SWIFT7 SF13 51-M96X-3-228x228.jpg",
+            "price": "122000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-swift-7-sf13-51-m96x",
+            "product_title": "Acer Swift SF713-51 7th gen Core i7 13.3\" Full HD Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3 Processor/315-228x228.png",
+            "price": "34500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-51-7th-gen-i3-laptop",
+            "product_title": "Acer Aspire A315-51 7th gen Core i3 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-21/acer-a315-21-228x228.jpg",
+            "price": "0",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-21-amd-a4-9120-laptop",
+            "product_title": "Acer Aspire A315-21 AMD A4-9120 15.6\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i7 laptop/ACER NITRO 5-228x228.jpg",
+            "price": "92000",
+            "product_link": "https://www.startech.com.bd/acer-nitroan515-51-laptop",
+            "product_title": "Acer Nitro AN515-51 7th Gen Core i7 15.6\" Full HD  Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/swift-sf314-52/acer-swift-314-52-228x228.jpg",
+            "price": "57000",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf314-52-50df-core-i5-laptop",
+            "product_title": "Acer Swift SF314-52 50DF 8th Gen Core i5 14\" Full HD IPS Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer Aspire SWIFT3 SF314 51-53XD i5 7th Gen-1-228x228.jpg",
+            "price": "67000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-swift-sf314-52-i5-7th-gen-512gb",
+            "product_title": "Acer Swift SF314-52 7th Gen i5 14\" Ultrabook with 512GB SSD",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Spin 513-51 i5/as-1-228x228.jpg",
+            "price": "37500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51-7130u-laptop",
+            "product_title": "Acer Aspire A515-51-7130U Core i3 7th Gen 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i5-laptop/swift-sf315-51/sf315-51-228x228.jpg",
+            "price": "60000",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf315-51-i5-laptop",
+            "product_title": "Acer Swift SF315-51 8th Gen Core i5 Full HD 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Acer Aspire F5-573-228x228.jpg",
+            "price": "68000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-f5-573-i7",
+            "product_title": "Acer Aspire F5-573G 6th Gen Core i7 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i5-laptop/np-515-51/acer-nitro-228x228.jpg",
+            "price": "89000",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-spin-np515-51-506x-i5-laptop",
+            "product_title": "Acer Nitro 5 Spin NP515-51 506X 8th Gen Core i5 Full HD IPS Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Aspire S5-371 i5 7th Gen-228x228.jpg",
+            "price": "65000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-s5-371-i5-7th-gen",
+            "product_title": "Acer Aspire S5-371 7th Gen Core i5 13.3\" FHD IPS Display Ultrabook",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/gaming/Acer Predator G9-793 i7/Acer Predator G9-793 i7-228x228.png",
+            "price": "167000",
+            "product_link": "https://www.startech.com.bd/acer-predator-g9-793-i7",
+            "product_title": "Acer Predator G9-793 i7 7th Gen 17.3\" FHD Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i7-laptop/acer-predator/acer-predator-228x228.png",
+            "price": "171500",
+            "product_link": "https://www.startech.com.bd/acer-predator-g9-593-70db-i7-ssd-with-graphics-laptop",
+            "product_title": "Acer Predator G9-593 70DB Core i7 7th Gen 15.6\" IPS Full HD laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/NITRO 5_1-228x228.png",
+            "price": "72900",
+            "product_link": "https://www.startech.com.bd/acer-nitro-an515-51-i5-laptop",
+            "product_title": "Acer Nitro AN515-51 Core i5 7th 15.6\" Full HD Backlit Keyboard Gaming Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/PCQ/Midnight Black-228x228.jpg",
+            "price": "25500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-es1-pqc-432",
+            "product_title": "Acer Aspire ES1-432 Pentium Quad Core Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/PCQ/es-533pqc-228x228.jpg",
+            "price": "25500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-es1-533-pqc-laptop",
+            "product_title": "Acer Aspire ES1-533 Pentium Quad Core 15.6\" Laptop ",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-51/Aspire-3_blue-500x554-228x228.jpg",
+            "price": "31500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-51-i3-6th-gen-laptop",
+            "product_title": "Acer Aspire A315-51 362Z 6th Gen Core i3 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-51g-59at/aspire-gray-228x228.jpg",
+            "price": "37500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51-core-i3-7th-gen-laptop",
+            "product_title": "Acer Aspire A515-51-7130U Core i3 7th Gen 15.6\" Full HD Laptop With backlit Keyboard",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/acer-laptop/a515-51g/51g-228x228.jpg",
+            "price": "40400",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51g-i3-graphics-laptop",
+            "product_title": "Acer Aspire A515-51G 7th Gen Core i3 With Graphics 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/7th-gen/i3-laptop/a315-51/acer-315-51-228x228.png",
+            "price": "40500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-51-54pg-i5-laptop",
+            "product_title": "Acer Aspire A315-51 7th Gen Core i5 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3 Processor/Acer Aspire ES1-572-1-228x228.jpg",
+            "price": "41000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-575-i5-7th-gen",
+            "product_title": "Acer Aspire E5-575 7th Gen Core i5 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Aspire E5-474 i5-1-228x228.png",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-474-i5-laptop",
+            "product_title": "Acer Aspire E5-474 6th Gen Core i5 14\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Aspire E5-474 i5-1-228x228.png",
+            "price": "41500",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-474-i5-7th-gen",
+            "product_title": "Acer Aspire E5-475 7th Gen Core i5 14\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Spin 513-51 i5/as-1-228x228.jpg",
+            "price": "43000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-5-core-i5-laptop",
+            "product_title": "Acer Aspire A515-51 Core i5 7th Gen HD 15.6\" Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-51g/aspire-a515-228x228.jpg",
+            "price": "44000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51g-8th-gen-i3-laptop",
+            "product_title": "Acer Aspire A515-51G 8th Gen Core i3 With Graphics 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a515-51/aspire-a515-51-1-228x228.jpeg",
+            "price": "45000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-52-laptop",
+            "product_title": "Acer Aspire A515-52 Core i5 8th Gen 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/i5-laptop/acer-swft/acer_swift-228x228.jpg",
+            "price": "52500",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf315-51-58tu-i5-laptop",
+            "product_title": "Acer Swift SF315-51 58TU 8th Gen Core i5 IPS 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/Acer Spin 513-51 i5/51g-228x228.jpg",
+            "price": "55000",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-51g-core-i5-laptop",
+            "product_title": "Acer Aspire A515-51G Core i5 7th Gen with Graphics 15.6\" HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/8th-gen/sf315-51g/swift-3-sf315-51g-228x228.jpg",
+            "price": "68000",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf315-51g-8th-gen-i5-laptop",
+            "product_title": "Acer Swift SF315-51G 8th Gen Core i5 8GB Ram With 2GB Graphics IPS 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "acer",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i5 Processor/as-1-500x5001-228x228.jpg",
+            "price": "68500",
+            "product_link": "https://www.startech.com.bd/acer-a515-51g-i7-laptop",
+            "product_title": "Acer Aspire A515-51G Core i7 7th Gen With Graphics 15.6\" Laptop",
+            "status": "not available"
+        }
+    ]
+}

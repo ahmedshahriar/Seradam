@@ -1,0 +1,864 @@
+{
+    "Products": [
+        {
+            "brand": "dell",
+            "description": "Processor - Intel CDC N3060<br/>Processor Clock Speed - 1.60GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR3<br/>Storage - 500GB HDD<br/>Operating System - Free Dos<br/>Made in/ Assemble - China",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3552-black-1.jpg",
+            "model": "Dell Inspiron 15-3552",
+            "price": "24500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3552-intel-cdc-n3060-1-60ghz-4gb-500gb-15-6-inch-hd-1366x768-display-black-notebook-2-yr-warranty-iris15bsw1703008.html",
+            "product_title": "Dell Inspiron 15-3552 Intel CDC N3060 (1.60GHz, 4GB, 500GB) 15.6 Inch HD (1366X768) Display, Black Notebook (2 Yr Warranty) #IRIS15BSW1703008",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel CDC N4000<br/>Processor Clock Speed - 1.1-2.6GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 500GB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3567-gray-5_2.jpg",
+            "model": "Dell Inspiron 15-3573",
+            "price": "24500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3573-intel-cdc-n4000-1-1ghz-2-6ghz-4gb-500gb-dvd-rw-15-6-inch-hd-1366x768-led-display-free-dos-fog-grey-notebook-turis15glk19053101-turis15glk19013101.html",
+            "product_title": "Dell Inspiron 15-3573 Intel CDC N4000 (1.1GHz-2.6GHz, 4GB, 500GB, DVD RW) 15.6 Inch HD (1366X768) LED Display, Free DOS, FOG Grey Notebook #TURIS15GLK19053101/TURIS15GLK19013101",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel CDC N4000<br/>Processor Clock Speed - 1.1-2.6GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3552-black-1_2.jpg",
+            "model": "Dell Inspiron 15-3573",
+            "price": "24700",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3573-intel-cdc-n4000-1-1ghz-2-6ghz-4gb-500gb-dvd-rw-15-6-inch-hd-1366x768-led-display-free-dos-black-notebook-turis15glk19053101-turis15glk19013101.html",
+            "product_title": "Dell Inspiron 15-3573 Intel CDC N4000 (1.1GHz-2.6GHz, 4GB, 500GB, DVD RW) 15.6 Inch HD (1366X768) LED Display, Free DOS, Black Notebook #TURIS15GLK19053101/TURIS15GLK19013101",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel PQC Silver N5000<br/>Processor Clock Speed - 1.10-2.70GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 500GB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3567-black-1_8.jpg",
+            "model": "Dell Inspiron 15-3573",
+            "price": "26800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3573-intel-pqc-silver-n5000-1-10ghz-2-70ghz-4gb-ddr4-500gb-15-6-inch-hd-1366x768-display-free-dos-black-notebook-turis15glk19053105p.html",
+            "product_title": "Dell Inspiron 15-3573 Intel PQC Silver N5000 (1.10GHz-2.70GHz, 4GB DDR4, 500GB) 15.6 Inch HD (1366x768) Display, Free DOS, Black Notebook #TURIS15GLK19053105P",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel PQC Silver N5000<br/>Processor Clock Speed - 1.10-2.70GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 500GB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3567-gray-5_3.jpg",
+            "model": "Dell Inspiron 15-3573",
+            "price": "26800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3573-intel-pqc-silver-n5000-1-10ghz-2-70ghz-4gb-ddr4-500gb-15-6-inch-hd-1366x768-display-free-dos-fog-grey-notebook-turis15glk19053105p.html",
+            "product_title": "Dell Inspiron 15-3573 Intel PQC Silver N5000 (1.10GHz-2.70GHz, 4GB DDR4, 500GB) 15.6 Inch HD (1366x768) Display, Free DOS, Fog Grey Notebook #TURIS15GLK19053105P",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel PQC N4200<br/>Processor Clock Speed - 1.10-2.50GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR3L<br/>Storage - 500GB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3462-bl-1.jpg",
+            "model": "Dell Inspiron 14-3462",
+            "price": "29800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3462-intel-pqc-n4200-notebook.html",
+            "product_title": "Dell Inspiron 14-3462 Intel PQC N4200 (1.10-2.50GHz, 4GB, 500GB, DVD-RW) 14 Inch HD Display, Blue Notebook (2 Yr Warranty) #TURIS14APL1805010",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel PQC N4200<br/>Processor Clock Speed - 1.10-2.50GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR3L<br/>Storage - 500GB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3462-1.jpg",
+            "model": "Dell Inspiron 14-3462",
+            "price": "29800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3462-intel-pqc-n4200-1-10-2-50ghz-4gb-500gb-dvd-rw-14-inch-hd-display-black-notebook-2-yr-warranty-turis14apl1805010.html",
+            "product_title": "Dell Inspiron 14-3462 Intel PQC N4200 (1.10-2.50GHz, 4GB, 500GB, DVD-RW) 14 Inch HD Display, Black Notebook (2 Yr Warranty) #TURIS14APL1805010",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 7020U<br/>Generation - 7th Gen<br/>Processor Clock Speed - 2.3GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3567-b-01.jpg",
+            "model": "Dell Inspiron 15-3567",
+            "price": "35700",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3567-7th-gen-intel-core-i3-7020u-2-3ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-hd-1368x766-display-win-10-home-black-notebook.html",
+            "product_title": "Dell Inspiron 15-3567 7th Gen Intel Core i3 7020U (2.3GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch HD (1368x766) Display, Win 10 Home, Black Notebook",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.10-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "39200",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i3-8145u-2-10ghz-3-9ghz-4gb-ddr4-1tb-14-0-inch-hd-1366x768-display-win-10-matte-black-ntoebook-lokin314whl2001105-2y.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i3 8145U (2.10GHz-3.9GHz, 4GB DDR4, 1TB, 14.0 Inch HD (1366x768) Display, Win 10, Matte Black Ntoebook #LOKIN314WHL2001105-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.10-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01_4.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "39200",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i3-8145u-2-10ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-matte-black-lokin315whl2001106-2y.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i3 8145U (2.10GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Matte Black #LOKIN315WHL2001106-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.10-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "39500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i3-8145u-2-10ghz-3-9ghz-4gb-ddr4-1tb-14-0-inch-hd-1366x768-display-win-10-platinum-silver-notebook-lokin314whl2001105-2y.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i3 8145U (2.10GHz-3.9GHz, 4GB DDR4, 1TB, 14.0 Inch HD (1366x768) Display, Win 10, Platinum Silver Notebook #LOKIN314WHL2001105-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Procesdellsor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.2-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3576-1_9.jpg",
+            "model": "Dell Inspiron 15-3576",
+            "price": "39500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3576-8th-gen-intel-core-i3-8130u-2-2ghz-3-4ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-fog-grey-notebook-turis15mlk1905106dw.html",
+            "product_title": "Dell Inspiron 15-3576 8th Gen Intel Core i3 8130U (2.2GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Fog Grey Notebook #TURIS15MLK1905106DW",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.1-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01_3.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "40000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i3-8145u-2-1ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-platinum-silver-notebook-lokin315whl2001106-2y.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i3 8145U (2.1GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKIN315WHL2001106-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.10-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3580-bl-01.jpg",
+            "model": "Dell Inspiron 15-3580",
+            "price": "40000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i3-8145u-2-10ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-fhd-1920x1080-display-win-10-ultra-blue-notebook-lokin315whl2001106-2y.html",
+            "product_title": "Dell Inspiron 15-3580 8th Gen Intel Core i3 8145U (2.10GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Ultra Blue Notebook #LOKIN315WHL2001106-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i3 8130U<br/>Processor Clock Speed - 2.2-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3576-1_2.jpg",
+            "model": "Dell Inspiron 15-3576",
+            "price": "40500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3576-8th-gen-intel-core-i3-8130u-2-2-3-4ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-hd-1366x768-display-black-notbook-2-yr-warranty-turis15mlk1901143cp.html",
+            "product_title": "Dell Inspiron 15-3576 8th Gen Intel Core i3 8130U (2.2-3.4GHz, 4GB DDR4, 1TB, DVD-RW) 15.6 Inch HD (1366x768) Display, Black Notbook (2 Yr Warranty) #TURIS15MLK1901143CP",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.20-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3578-b-04.jpg",
+            "model": "Dell Vostro 15-3578",
+            "price": "41500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-15-3578-8th-gen-intel-core-i3-notebook.html",
+            "product_title": "Dell Vostro 15-3578 8th Gen Intel Core i3 8130U (2.20GHz-3.4GHz, 4GB DDR4 2400MHz, 1TB, DVD RW) 15.6 inch HD (1366x768) Display, Free DOS, Black Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.2-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-bk-1_2.jpg",
+            "model": "Dell Inspiron 15-5570",
+            "price": "42000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i3-notebook-13231.html",
+            "product_title": "Dell Inspiron 15-5570 8th Gen Intel Core i3 8130U (2.2GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19052390R\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.2-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-bk-1_3.jpg",
+            "model": "Dell Inspiron 15-5570",
+            "price": "42000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i3-notebook.html",
+            "product_title": "Dell Inspiron 15-5570 8th Gen Intel Core i3 8130U (2.2GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch FHD (1920x1080) Display, Win 10, Locaric Black #LOKI15KBL19052390R\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.20-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3578-red-01.jpg",
+            "model": "Dell Vostro 15 3578",
+            "price": "42500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-15-3578-8th-gen-intel-core-i3-notebook-13172.html",
+            "product_title": "Dell Vostro 15 3578 8th Gen Intel Core i3 8130U (2.20GHz-3.4GHz, 4GB DDR4 2400MHz, 1TB, DVD RW) 15.6 Inch HD (1366x768) Display, RED Notebook #VEG15KBLR19052058W-3Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8130U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.20-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3578-b-01_1.jpg",
+            "model": "Dell Vostro 15-3578",
+            "price": "42500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-15-3578-8th-gen-intel-core-i3-notebook-13370.html",
+            "product_title": "Dell Vostro 15-3578 8th Gen Intel Core i3 8130U (2.20GHz-3.4GHz, 4GB DDR4 2400MHz, 1TB, DVD RW) 15.6 Inch HD (1366x768) Display, Free DOS, Era Grey Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 7th Gen<br/>Processor - Intel Core i5 7200U<br/>Processor Clock Speed - 2.50-3.10GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5468-silver-1.jpg",
+            "model": "Dell Inspiron 14-5468",
+            "price": "45500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5468-7th-gen-intel-core-i5-notebook.html",
+            "product_title": " Dell Inspiron 14-5468 7th Gen Intel Core i5 7200U (2.50GHz-3.10GHz, 4GB DDR4, 1TB) 14 Inch Silver Notebook (2 Yr Warranty) #TULIP14MLK18052283 ",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.40GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3576-1_7.jpg",
+            "model": "Dell Inspiron 15-3576",
+            "price": "47000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3576-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 15-3576 8th Gen Intel Core i5 8250U (1.60GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch HD (1366x768) Display, Win 10, Fog Grey Notebook #TURIS15MLK1901132W",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01_1.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "47000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB DDR4, 1TB) 14.0 Inch HD (1366x768) Display, Win 10, Matte Black Notebook #LOKIN314WHL2001107-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01_1.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "47000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-14-0-inch-hd-1366x768-display-win-10-platinum-silver-notebook-lokin314whl2001107-2y.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB DDR4, 1TB) 14.0 Inch HD (1366x768) Display, Win 10, Platinum Silver Notebook #LOKIN314WHL2001107-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.40GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3476-bk-1_3.jpg",
+            "model": "Dell Inspiron 14-3476",
+            "price": "48500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3476-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 14-3476 8th Gen Intel Core i5 8250U (1.60GHz-3.4GHz, 4GB DDR4, 1TB, DVD RW) 14.0 Inch HD (1366x768) Display, Win 10, Black notebook #TURIS14MLK1901121P-W",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3580-ps-01.jpg",
+            "model": "Dell Inspiron 15-3580",
+            "price": "48500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i5-8265u-1-60ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-hd-1366x768-display-win-10-platinum-silver-lokin315whl2001132.html",
+            "product_title": "Dell Inspiron 15-3580 8th Gen Intel Core i5 8265U (1.60GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch HD (1366x768) Display, Win 10, Platinum Silver #LOKIN315WHL2001132",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i5 8250U<br/>Processor Clock Speed - 1.60-3.40GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3476-bk-1.jpg",
+            "model": "Dell Inspiron 14-3476",
+            "price": "49500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3476-8th-gen-intel-core-i5-8250u-1-60-3-40ghz-4gb-ddr4-1tb-dvd-rw-14-inch-hd-1366x768-display-2gb-amd-radeon-520-gddr5-black-notebook-2-yr-warranty-turis14mlk1901115.html",
+            "product_title": "Dell Inspiron 14-3476 8th Gen Intel Core i5 8250U (1.60-3.40GHz, 4GB DDR4, 1TB, DVD-RW) 14 Inch HD (1366X768) Display, 2GB AMD Radeon 520 GDDR5, BLACK Notebook (2 Yr Warranty) #TURIS14MLK1901115",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01_2.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "50000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-amd-radeon-520-2gb-gddr5-graphics-14-0-inch-hd-1366x768-display-win-10-platinum-silver-notebook-lokin314whl2001115-2y.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB DDR4, 1TB) AMD Radeon 520 2GB GDDR5 Graphics, 14.0 Inch HD (1366x768) Display, Win 10, Platinum Silver Notebook #LOKIN314WHL2001115-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 7th Gen<br/>Processor - Intel Core i5 7200U<br/>Processor Clock Speed - 2.50GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5468-silver-1_1.jpg",
+            "model": "Dell Inspiron 14-5468",
+            "price": "50500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5468-7th-gen-intel-core-i5-notebook-9709.html",
+            "product_title": "Dell Inspiron 14-5468 7th Gen Intel Core i5 7200U (2.50GHz, 4GB DDR4, 1TB) AMD Radeon R5 M440 2GB Graphics, 14 Inch Silver Notebook (2 Yr Warranty) #TULIP14MLK18052290",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.40GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3478-1_1.jpg",
+            "model": "Dell Vostro 14-3478",
+            "price": "51000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-14-3478-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Vostro 14-3478 8th Gen Intel Core i5 8250U (1.60GHz-3.4GHz, 4GB DDR4 2400MHz, 1TB, DVD RW) 14.0 Inch HD (1366x768) Display, Finger Print Sensor, Free DOS, Black Notebook #VEG14KBLR1901085P-3Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3580-b-01.jpg",
+            "model": "Dell Inspiron 15-3580",
+            "price": "52000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i5-8265u-1-60ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-15-6-inch-hd-1366x768-display-win-10-black-matte-notebook-lokin315whl2001132.html",
+            "product_title": "Dell Inspiron 15-3580 8th Gen Intel Core i5 8265U (1.60GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) 15.6 Inch HD (1366x768) Display, Win 10, Black Matte Notebook #LOKIN315WHL2001132",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01_4.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "52800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-amd-radeon-520-2gb-gddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-platinum-silver-notebook-lokin315whl2001131.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) AMD Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKIN315WHL2001131",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01_5.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "52800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i5-8265u-1-6ghz-3-9ghz-4gb-ddr4-1tb-dvd-rw-amd-radeon-520-2gb-gddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-matte-black-notebook-lokin315whl2001131.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 4GB DDR4, 1TB, DVD RW) AMD Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Matte Black Notebook #LOKIN315WHL2001131",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2666MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-1_5.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "56800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-8265u-1-60ghz-3-90-ghz-4gb-ddr4-2666mhz-1tb-14-0-inch-fhd-1920x1080-display-finger-print-sensore-backlit-kb-win-10-platinum-silver-notebook-buckyn5141905302-2y.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90 GHz, 4GB DDR4 2666MHz, 1TB) 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, BackLit KB, Win 10, Platinum Silver Notebook #BUCKYN5141905302-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2666MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-bb-1_2.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "56800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-13243.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4 2666MHz, 1TB) 14.0 Inch FHD (1920x1080) Display, Backlit KB, Win 10, Burgundy Blaze Notebook #BUCKYN5141905302\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.1-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "58800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i3-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i3 8145U (2.1GHz-3.9GHz, 4GB DDR4, 1TB) 14.0 Inch FHD (1920x1080) Touch, Dell Active Pen, Finger Print Sensor, Backlit KB, Win 10, Platinum Silver Notebook",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i3 8145U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 2.1-3.9GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "58800",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i3-notebook-13251.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i3 8145U (2.1GHz-3.9 GHz, 4GB DDR4, 1TB) 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Urban Grey Notebook #BEN14M219055013",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-ps-01_4.jpg",
+            "model": "Dell Inspiron 15 5570",
+            "price": "62500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i5-8250u-1-6ghz-3-4ghz-8gb-ddr4-1tb-dvd-rw-15-6-fhd-1920x1080-display-win-10-platinum-silver-notebook-loki15kbl19053310r.html",
+            "product_title": "Dell Inspiron 15 5570 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 8GB DDR4, 1TB, DVD RW) 15.6 FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19053310R",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-1_7.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "65000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-13245.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4 2666MHz, 256 GB SSD) 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKYN5141905270",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-bb-1_3.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "65000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-13247.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4 2666MHz, 256GB SSD) 14.0 Inch FHD (1920x1080) Display, Win 10, Backlit KB, Burgundy Blaze Notebook #BUCKYN5141905270",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01_3.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "66500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i7 8565U (1.6GHz-4.6GHz, 8GB DDR4, 1TB) AMD Radeon 520 2GB GDDR5 Graphics, 14.0 Inch HD (1366x768) Display, Win 10, Matte Black Notebook #LOKIN314WHL2001116\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.4GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-ps-01.jpg",
+            "model": "Dell Inspiron 15-5570",
+            "price": "67000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 15-5570 8th Gen Intel Core i5 8250U (1.60GHz-3.4GHz, 8GB DDR4, 256GB SSD) Radeon 530 4GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19012413\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2666MHz<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-1_6.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "67000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-13244.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4 2666MHz, 128GB SSD + 1TB) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKYN5141905261",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i5 8265U<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 4GB<br/>RAM Type - DDR4 2666MHz<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-01_1.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "67000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-14447.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 4GB DDR4 2666MHz, 1TB HDD, 128GB SSD) nVidia Geforce MX250 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKY",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8550U<br/>Processor Clock Speed - 1.80-4.00GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD<br/>Graphics Chipset - AMD Radeon 520 GDDR5 Graphics",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-s-01_5.jpg",
+            "model": "Dell Inspiron 14 3480",
+            "price": "67000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-3480-8th-gen-intel-core-i7-notebook-14454.html",
+            "product_title": "Dell Inspiron 14 3480 8th Gen Intel Core i7 8550U (1.80GHz-4.00GHz, 8GB DDR4, 1TB) AMD Radeon 520 2GB GDDR5 Graphics, 14.0 Inch HD (1366x768) Display, Win 10, Platinum Silver Notebook #LOKIN314WHL2001116-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.80-4.60GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 2TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3580-b-01_1.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "68000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i7-notebook-14443.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i7 8565U (1.80GHz-4.6GHz, 8GB DDR4, 2TB, DVD RW) AMD Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Matte Black Notebook #LOKIN315WHL2001242-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-4.6GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-3480-01_7.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "68500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i7 8565U (1.6GHz-4.6GHz, 8GB DDR4, 256 GB SSD, DVD RW) AMD Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Matte Black Notebook #LOKIN315WHL2001149",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.4GHz<br/>Display Size - 13.3\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/3/13-5370-s-01.jpg",
+            "model": "Dell Vostro 13-5370",
+            "price": "69000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-13-5370-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Vostro 13-5370 8th Gen Intel Core i5 8250U (1.6-3.4GHz, 8GB 2400MHz, 256GB SSD) 13.3 Inch FHD (1920x1080), Intel UHD 620 Graphics, Backlit Keyboard, Grey Notebook (3 Yr Warranty) #ARM13KBL1805123P",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.80-4.60GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 2TB HDD<br/>SSD Expansion Slot - 1 x M.2 Blank SSD Slot",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3580-s-01.jpg",
+            "model": "Dell Inspiron 15 3580",
+            "price": "69000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-3580-8th-gen-intel-core-i7-notebook-14446.html",
+            "product_title": "Dell Inspiron 15 3580 8th Gen Intel Core i7 8565U (1.80GHz-4.6GHz, 8GB DDR4, 2TB, DVD RW) AMD Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKIN315WHL2001242-2Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i5 8250U<br/>Processor Clock Speed - 1.6-3.4GHz<br/>Display Size - 13.3\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/v/o/vostro-13-5370-1_1.jpg",
+            "model": "Dell Vostro 13-5370",
+            "price": "69500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-13-5370-8th-gen-i5-notebook.html",
+            "product_title": "Dell Vostro 13-5370 8th Gen Intel Core i5 8250U (1.6-3.4GHz, 8GB 2400MHz, 256GB SSD) 13.3 Inch FHD (1920x1080), Intel UHD 620 Graphics, Backlit Keyboard, Silver Notebook (3 Yr Warranty) #ARM13KBL1805123P",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8550U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.80-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 1TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3578-1_5.jpg",
+            "model": "Dell Vostro 15-3578",
+            "price": "70000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-15-3578-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell Vostro 15-3578 8th Gen Intel Core i7 8550U (1.80GHz-4.0GHz, 8GB DDR4 2400MHz, 1 TB, DVD RW) Radeon 520 2GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Free DOS, Era Grey Notebook #VEG15KBLR19052067W-3Y",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i5 8265U<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-1_8.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "70500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-13248.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4 2666MHz, 256GB SSD) nVidia MX150 2GB GDDR5 Graphics, 14.0 FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKYN5141905300",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i5 8265U<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-01_3.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "71000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-14452.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4 2666MHz, 256GB SSD) nVidia Geforce MX250 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKYN51420013",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i5 8265U<br/>Processor Clock Speed - 1.60-3.90GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-01_4.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "71000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i5-notebook-14453.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i5 8265U (1.60GHz-3.90GHz, 8GB DDR4 2666MHz, 256GB SSD) nVidia Geforce MX250 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Burgundy Blaze Notebook #BUCKYN514200130",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8550U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.80-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>Graphics Memory - 4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-ps-01_1.jpg",
+            "model": "Dell Inspiron 15-5570",
+            "price": "73000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell Inspiron 15-5570 8th Gen Intel Core i7 8550U (1.80GHz-4.0GHz, 8GB DDR4, 256GB SSD, DVD RW) AMD Radeon 530 4GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19052387RP\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.60-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_1.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "74000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.60GHz-3.9GHz, 8GB DDR4, 1TB) 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Platinum Silver Notebook #BEN14M219055008",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i7 8550U<br/>Processor Clock Speed - 1.8-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 1TB HDD<br/>Operating System - Free Dos",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-3578-1.jpg",
+            "model": "Dell Vostro 15-3578",
+            "price": "75500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-vostro-15-3578-8th-gen-intel-core-i7-notebook-9727.html",
+            "product_title": "Dell Vostro 15-3578 8th Gen Intel Core i7 8550U (1.8-4.0GHz, 8GB 2400MHz, 1TB, DVD-RW) 15.6 Inch FHD Display, FingerPrint, 2GB AMD Radeon 520 gDDR5, Black Notebook (3 Yr Warranty) #VEG15KBLR1901067",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8550U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.80-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 2TB HDD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-ps-01_3.jpg",
+            "model": "Dell Inspiron 15 5570",
+            "price": "75500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i7-8550u-1-80ghz-4-0ghz-8gb-ddr4-2tb-dvd-rw-amd-radeon-530-4gb-gddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-platinum-silver-notebook-loki15kbl19053418ar.html",
+            "product_title": "Dell Inspiron 15 5570 8th Gen Intel Core i7 8550U (1.80GHz-4.0GHz, 8GB DDR4, 2TB, DVD RW) AMD Radeon 530 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19053418AR",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_3.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "77000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook-13257.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz--3.9GHz, 8GB DDR4, 256GB SSD) 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLite KB, Win 10, Platinum Silver Notebook #BEN14M219055009",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_3.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "77000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook-13258.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz-3.9 GHz, 8GB DDR4, 256GB SSD) 14.0 FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Urban Grey Notebook #BEN14M219055009",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8250U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.4GHz<br/>Display Size - 12.5\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/a/latitude-5290-02_1.jpg",
+            "model": "Dell Latitude 5290",
+            "price": "77500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-latitude-5290-8th-gen-intel-core-i5-notebook-13194.html",
+            "product_title": "Dell Latitude 5290 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 8GB DDR4 2400MHz, 256GB SSD) 12.5 Inch HD (1366x768) BackLit KB, Free DOS, Black Notebook",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_2.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "79000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook-13255.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB DDR4, 1TB) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Fingerprint Sensor, BackLit KB, Win 10, Platinum Silver Notebook #BEN14M2190",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_2.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "79000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook-13256.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB DDR4, 1TB) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Urban Grey Notebook #BEN14M21905501",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8550U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.80-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-l-b-01.jpg",
+            "model": "Dell Inspiron 15 5570",
+            "price": "79500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-i7-notebook.html",
+            "product_title": "Dell Inspiron 15 5570 8th Gen Intel Core i7 8550U (1.80GHz-4.0GHz, 8GB DDR4, 256GB SSD, DVD RW) AMD Radeon 530 4GB DDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Licorice Black Notebook #LOKI15KBL19052387RP",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8550U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.8-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5570-ps-01_2.jpg",
+            "model": "Dell Inspiron 15 5570",
+            "price": "79500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-5570-8th-gen-intel-core-i7-8550u-1-8ghz-4-0ghz-8gb-ddr4-128gb-ssd-1tb-dvd-rw-amd-radeon-530-4gb-gddr5-graphics-15-6-inch-fhd-1920x1080-display-win-10-platinum-silver-notebook-loki15kbl19052418rp.html",
+            "product_title": "Dell Inspiron 15 5570 8th Gen Intel Core i7 8550U 1.8GHz-4.0GHz, 8GB DDR4, 128GB SSD + 1TB, DVD RW) AMD Radeon 530 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Platinum Silver Notebook #LOKI15KBL19052418RP",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_4.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "83000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB DDR4, 256GB SSD) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Platinum Silver.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i5 8265U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.6-3.9GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_4.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "83000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i5-notebook-13342.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i5 8265U (1.6GHz-3.9GHz, 8GB DDR4, 256GB SSD) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Urban Gray Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.80-4.60GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2666MHz<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5480-ps-01_2.jpg",
+            "model": "Dell Inspiron 14-5480",
+            "price": "84000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5480-8th-gen-intel-core-i7-notebook-14449.html",
+            "product_title": "Dell Inspiron 14-5480 8th Gen Intel Core i7 8565U (1.80GHz-4.60GHz, 8GB DDR4 2666MHz, 1TB HDD, 128GB SSD) nVidia Geforce MX250 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Display, Finger Print Sensore, Backlit KB, Win 10, Platinum Silver Notebook #BUCKY",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i5 8250U<br/>Processor Clock Speed - 1.60-3.40GHz<br/>Display Size - 13.3\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>HDD - 256GB SSD\n",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/3/13-7370-1.jpg",
+            "model": "Dell Inspiron 13-7370",
+            "price": "88000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-13-7370-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell Inspiron 13-7370 8th Gen Intel Core i5 8250U (1.60GHz-3.40GHz, 8GB DDR4, 256GB SSD) 13.3 FHD Display, FingerPrint Sensore, Win-10, Backlit Keyboard, Silver Notebook (2 Yr Warranty) #KYLOREN13KBL1805001",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_5.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "88000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i7-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 8GB DDR4, 256GB SSD) 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Platinum Silver Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_5.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "88000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i7-notebook-13346.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6 GHz, 8GB DDR4, 256GB SSD) 14.0 FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Urban Gray Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 7th Gen<br/>Processor - Intel Core i5 7300HQ<br/>Processor Clock Speed - 2.5-3.5GHz<br/>Display Size - 15.6\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>HDD - 1TB<br/>Operating System - Windows 10 Home",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/n/inspiron-15-7567-1_1.jpg",
+            "model": "DELL Inspiron 15-7567",
+            "price": "88500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-7567-intel-core-i7-notebook.html",
+            "product_title": "DELL Inspiron 15-7567 7th Gen Intel Core i5 7300HQ (2.5-3.5GHz, 4GB DDR4, 1TB) 4GB NVIDIA GeForce GTX 1050, 15.6 Inch FHD, Backlit Keyboard, Win-10 Home, Black Gaming Notebook (2 Yr Warranty)",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ps-01_6.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "93000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-i7-notebook-13347.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 8GB DDR4, 256GB SSD) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Platinum Silver Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8565U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_6.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "93000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-core-i7-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 8GB DDR4, 256GB SSD) nVidia MX150 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, Backlit KB, Win 10, Urban Grey Notebook.",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 256GB SSD<br/>Graphics Chipset - Nvidia MX130 GDDR5 Graphics",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-2-1-ps-03_5.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "94500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-intel-core-i7-notebook-14437.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 8GB DDR4, 256GB SSD) nVidia MX130 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, BackLit KB, Win 10, Platinum Silver Notebook #BEN",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i5 8300H<br/>Processor Clock Speed - 2.30-4.0GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/7/g7-15-7588-1_1.jpg",
+            "model": "Dell G7 15-7588",
+            "price": "106500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-g7-15-7588-8th-gen-intel-core-i5-8300h-notebook.html",
+            "product_title": "Dell G7 15-7588 8th Gen Intel Core i5 8300H (2.30-4.0GHz, 8GB DDR4, 128GB SSD, 1TB,) 15.6 Inch FHD (1920x1080) Display, Finger Print Sensore, Nvidia GTX 1050Ti 4GB GDDR5 Graphics, BLUE BackLight KB, Win 10, Licorice Black Notebook #GAMING FSTARB15CFL19019",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i5 8300H<br/>Processor Clock Speed - 2.30-4.00GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD + 128GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/5/15-5590-03.jpg",
+            "model": "Dell G5 15-5590",
+            "price": "106500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-g5-15-5590-8th-gen-intel-core-i5-notebook.html",
+            "product_title": "Dell G5 15-5590 8th Gen Intel Core i5 8300H (2.30GHz-4.00GHz, 8GB DDR4, 1TB HDD + 128GB SSD) nVidia GTX 1050Ti 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) IPS Display, FingerPrint Sensore, Backlit KB, Win 10, Deep Space Black Notebook #GAMING VulcanA152",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 7th Gen<br/>Processor - Intel Core i7 7700HQ<br/>Processor Clock Speed - 2.8-3.8GHz<br/>Display Size - 15.6\"<br/>RAM - 8GB<br/>RAM Type - DDR4<br/>HDD - 128GB SSD+500GB HDD\n",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/d/e/dell_inspiron_15-7567-1_1.jpg",
+            "model": "Dell Inspiron 15-7567",
+            "price": "109500",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-15-7567-core-i7-7700hq-notebook.html",
+            "product_title": "Dell Inspiron 15-7567 7th Gen Intel Core i7 7700HQ (2.8-3.8GHz, 8GB DDR4, 128GB SSD, 500GB HDD) 15.6 FHD Display, 4GB NVIDIA GeForce GTX 1050Ti, Black Gaming Notebook (2 Yr Warranty)",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 16GB<br/>RAM Type - DDR4",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-2-1-ps-03_4.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "117000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-intel-core-i7-notebook-14435.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 16GB DDR4, 512GB SSD) nVidia MX130 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, Backlit KB, Win 10, Platinum Silver Notebook #BE",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8565U<br/>Processor Clock Speed - 1.8-4.6GHz<br/>Display Size - 14\"<br/>RAM - 16GB<br/>RAM Type - DDR4<br/>Storage - 512GB SSD<br/>Graphics Chipset - Nvidia MX130 GDDR5 Graphics",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/1/4/14-5482-ug-01_1_2.jpg",
+            "model": "Dell Inspiron 14 5482",
+            "price": "117000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-inspiron-14-5482-2-in-1-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell Inspiron 14 5482 2 in 1 8th Gen Intel Core i7 8565U (1.8GHz-4.6GHz, 16GB DDR4, 512GB SSD) nVidia MX130 2GB GDDR5 Graphics, 14.0 Inch FHD (1920x1080) Touch Display, Dell Active Pen, Finger Print Sensor, Backlit KB, Win 10, Urban Grey Notebook #BEN14M2",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8650U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.90-4.2GHz<br/>Display Size - 14\"<br/>RAM - 8GB<br/>RAM Type - DDR4 2400MHz<br/>Storage - 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/7/4/7490-b-01.jpg",
+            "model": "Dell Latitude 7490",
+            "price": "124000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-latitude-7490-8th-gen-core-i7-8650u-notebook.html",
+            "product_title": "Dell Latitude 7490 8th Gen Intel Core i7 8650U (1.90-4.2GHz, 8GB DDR4 2400MHz, 256GB SSD) 14.0 Inch FHD (1920x1080) Display, BackLit KB, Free DOS, Black Notebook",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i5 8250U<br/>Processor Clock Speed - 1.6-3.4GHz<br/>Display Size - 13.3\"<br/>RAM - 8GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/x/p/xps-13-9370-02.jpg",
+            "model": "Dell XPS 13 9370",
+            "price": "154000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-xps-13-9370-8th-gen-intel-core-i5-8250u-1-6ghz-3-4ghz-8gb-256gb-pcie-ssd-13-3-inch-4k-multitouch-display-backlit-keyboard-win-10-pro-silver-notebook-italia-1905002-xps13.html",
+            "product_title": "Dell XPS 13 9370 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 8GB, 256GB PCIe SSD) 13.3 Inch 4K MultiTouch Display, BackLit Keyboard, Win 10 Pro, Silver Notebook #Italia 1905002-XPS13",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8750H<br/>Processor Clock Speed - 2.20-4.10GHz<br/>Display Size - 15.6\"<br/>RAM - 16GB<br/>RAM Type - DDR4<br/>Storage - 1TB HDD + 256GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/7/g7-15-7590-01.jpg",
+            "model": "Dell G7 15-7590",
+            "price": "167000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-g7-15-7590-8th-gen-intel-core-i7-notebook.html",
+            "product_title": "Dell G7 15-7590 8th Gen Intel Core i7 8750H (2.20GHz-4.10GHz, 16GB DDR4, 256GB SSD + 1TB HDD) nVidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) IPS Display, FingerPrint Sensore, Backlit KB, WIN 10, Deep Space Black Notebook #GAMING VulcanB1520",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Generation - 8th Gen<br/>Processor - Intel Core i7 8650U<br/>Processor Clock Speed - 1.90GHz<br/>Display Size - 13.3\"<br/>RAM - 16GB<br/>RAM Type - DDR4 2400MHz",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/l/a/latitude-7390-1.jpg",
+            "model": "Dell Latitude 7390 2in1",
+            "price": "172000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-latitude-7390-2in1-8th-gen-core-i7-notebook.html",
+            "product_title": "Dell Latitude 7390 2in1 8th Gen Intel Core i7 8650U (1.90GHz, 16GB DDR4 2400MHz, 512GB SSD) 13.3 Inch FHD (1920X1080) Touch Display, Win-10 Pro, Black 2in1 Notebook\t",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor - Intel Core i7 8650U<br/>Generation - 8th Gen<br/>Processor Clock Speed - 1.90-4.2GHz<br/>Display Size - 12.3\"<br/>RAM - 16GB<br/>RAM Type - DDR3 2133MHz<br/>Storage - 512GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/5/2/5290-b-01_2.jpg",
+            "model": "Dell Latitude 5290",
+            "price": "187000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-latitude-5290-2-in-1-8th-gen-core-i7-notebook.html",
+            "product_title": "Dell Latitude 5290 2 in 1 8th Gen Intel Core i7 8650U (1.90GHz-4.2Ghz, 16GB DDR3 2133 MHz, 512GB SSD) 12.3 Inch FHD (1920x1280) Touch Display, Dell Active Pen, BackLit KB, Win 10 Pro, Black Notebook",
+            "status": ""
+        },
+        {
+            "brand": "dell",
+            "description": "Processor Generation - 8th Gen<br/>Processor - Intel Core i7 8750H<br/>Processor Clock Speed - 2.20-4.10GHz<br/>Display Size - 15.6\"<br/>RAM - 16GB<br/>RAM Type - DDR4<br/>Storage - 512GB SSD",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/7/g7-15-7590-01_1.jpg",
+            "model": "Dell G7 15-7590",
+            "price": "187000",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all/dell-g7-15-7590-8th-gen-intel-core-i7-notebook-14747.html",
+            "product_title": "Dell G7 15-7590 8th Gen Intel Core i7 8750H (2.20GHz-4.10GHz, 16GB DDR4, 512GB SSD) nVidia RTX 2070 8GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) IPS Display, FingerPrint Sensore, Backlit KB, WIN 10, Deep Space Black Notebook #GAMING VulcanB1520012531CP",
+            "status": ""
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "Products": [
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-2017-500x500-228x228.jpg",
+            "price": "215000",
+            "product_link": "https://www.startech.com.bd/apple-15-inch-core-i9-macbook-pro",
+            "product_title": "Apple MacBook Pro with 15\" Retina Display Core i9 16GB RAM and 256GB SSD-Z0V0MLL/A 2018",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-mqd32hn-500x500-228x228.jpg",
+            "price": "87000",
+            "product_link": "https://www.startech.com.bd/apple-13.3-inch-macbook-air-mqd32zp",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 128GB SSD (MQD32LL/A,MQD32HN/A,MQD32ZP/A) 2017",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/zouu3ll--500x500-228x228.jpg",
+            "price": "95000",
+            "product_link": "https://www.startech.com.bd/apple-mackbook-air-zouu3ll-a-laptop",
+            "product_title": "Apple MacBook Air Core i7 Z0UU3LL/A 13.3 inch 8GB Ram 128GB SSD",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
+            "price": "110000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-128gb-ssd",
+            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MRE82LL/A Space Gray (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
+            "price": "110000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mree2ll-a-core-i5",
+            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MREE2LL/A Gold (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
+            "price": "125000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mref2ll-a",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MREF2LL/A) Gold 2018",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
+            "price": "125000",
+            "product_link": "https://www.startech.com.bd/macbook-air-core-i5-a1932",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD Space Gray (MRE92LL/A) 2018",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": "115000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxq2zp-a-i5-laptop",
+            "product_title": "Apple MacBook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD, Space Gray MPXQ2LL/A (2017) ",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": "130000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-2017-mpxu2ll",
+            "product_title": "Apple Macbook Pro 13.3 inch Core i5, 8GB Ram, 256GB SSD Retina Display MPXU2LL/A (2017)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/Apple Macbook Pro 13.3-inch Retina Display-228x228.jpg",
+            "price": "130000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxt2ll-a-2017",
+            "product_title": "Apple Macbook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 256GB SSD, Space Gray MPXT2LL/A (2017)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "155000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-13-inch-mr9q2ll-a-i5-laptop",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 256GB SSD, Space Gray MR9Q2LL/A (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": "170000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr9r2lla-laptop",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MR9R2LL/A (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "170000",
+            "product_link": "https://www.startech.com.bd/apple-mv962zp-a-i5-256gb-ssd-laptop",
+            "product_title": "Apple MacBook Pro 13.3\" 8th Gen Core i5 256GB SSD With Touch Bar (MV962ZP/A, Space Gray, Mid 2019)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "188000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv972ll-a-i5-laptop",
+            "product_title": "Apple MacBook Pro 13.3\" 8th Gen Core i5 512GB SSD With Touch Bar (MV972ZP/A, Space Gray, Mid 2019)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-mr962ll-a-500x500-228x228.jpg",
+            "price": "209000",
+            "product_link": "https://www.startech.com.bd/apple-mr962ll-a-core-i7-laptop",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Silver MR962LL/A (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "209000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr932ll-a-i7-laptop",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Space Gray MR932LL/A (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "235000",
+            "product_link": "https://www.startech.com.bd/macbook-pro-retina-touchbar-i7",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 512GB SSD, Dedicated Graphics, Space Gray MR942LL/A (2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "265000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv912ll-a-laptop",
+            "product_title": "Apple MacBook Pro 15.4\" 9th Gen Core i9 with Touch Bar ( MV912LL/A , Space Gray, Mid 2019 )",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/mnf72zpa/61w-228x228.jpg",
+            "price": "8000",
+            "product_link": "https://www.startech.com.bd/apple-61w-adapter",
+            "product_title": "Apple 61W USB-C Power Orginal Adapter (MNF72ZP/A)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/adapter/apple/mnf82zp/87w-228x228.jpg",
+            "price": "8000",
+            "product_link": "https://www.startech.com.bd/apple-mnf82zp-adapter",
+            "product_title": "Apple 87W USB-C Power Original Adapter (MNF82ZP)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/Accssories Laptop/Apple Magic Keyboard-228x228.jpg",
+            "price": "9500",
+            "product_link": "https://www.startech.com.bd/apple-magic-keyboard",
+            "product_title": "Apple Magic Bluetooth Keyboard",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/magic-keyboard-mouse/apple-magic-keyboard-mouse-228x228.jpg",
+            "price": "17000",
+            "product_link": "https://www.startech.com.bd/apple-bluetooth-keyboard-mouse-combo",
+            "product_title": "Apple Bluetooth Magic Keyboard And Mouse Combo",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/keyboard/Apple/magic-keyboard-numberpad/magic-keyboard-numberpad-1-228x228.jpg",
+            "price": "13000",
+            "product_link": "https://www.startech.com.bd/apple-magic-keyboard-number-pad ",
+            "product_title": "Apple Magic Keyboard with Number Pad",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": "192000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mptr2ll-a-laptop",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Space Gray MPTR2LL/A (2017) ",
+            "status": "not available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/apple-laptop/airpod-mmef2za/mmef2za-1-228x228.jpg",
+            "price": "15000",
+            "product_link": "https://www.startech.com.bd/apple-mmef2za-a-airpod",
+            "product_title": "Apple MMEF2ZA/A Airpods",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/thunderbolt/thunderbolt-228x228.jpg",
+            "price": "4500",
+            "product_link": "https://www.startech.com.bd/thunder-bolt-type-c",
+            "product_title": "Type-c 7 in 1 Hub for MacBook Pro (2016, 2017, 2018)",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/apple/apple-adapter/apple-adapter-228x228.jpg",
+            "price": "6200",
+            "product_link": "https://www.startech.com.bd/apple-usb-c-vga-multiport-adapter",
+            "product_title": "Apple USB-C VGA Multiport Adapter",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/Accessories/Apple/Apple Magic Mouse 2-1-228x228.jpg",
+            "price": "7900",
+            "product_link": "https://www.startech.com.bd/apple-magic-mouse-2",
+            "product_title": "Apple (MLA02ZA/A) Magic Mouse 2",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/Accessories/Apple/Adapter/MJ1K2-228x228.jpg",
+            "price": "6000",
+            "product_link": "https://www.startech.com.bd/apple-usb-c-digital-av-multiport-adapter",
+            "product_title": "Apple USB-C Digital AV HDMI & USB Multiport Adapter",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/Apple/Apple MQD32ZP/trackpad 2-228x228.jpg",
+            "price": "12000",
+            "product_link": "https://www.startech.com.bd/apple-magic-trackpad-2 ",
+            "product_title": "Apple Magic Trackpad 2 ",
+            "status": "available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-500x500-228x228.jpg",
+            "price": "97000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mqd42hna-2017",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MQD42HN/A / MQD42LL/A) 2017",
+            "status": "not available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-1-228x228.jpg",
+            "price": "220000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mjlt2ll-a-i7-laptop",
+            "product_title": "Apple Macbook Pro MJLT2LL/A 15.4 Inch Laptop Core i7 16GB Ram,512 GB SSD With Graphics",
+            "status": "not available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/macbook-pro2017-1-228x228.jpg",
+            "price": "235000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mptt2hn-a-2017",
+            "product_title": "Apple Macbook Pro 15.4 inch Core i7, 16GB Ram, 512GB SSD Retina Display, with Dedicated Graphics Card & Touch Bar, MPTT2LL/A (2017)",
+            "status": "not available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/pencil/apple-pencil-2-228x228.jpg",
+            "price": "10800",
+            "product_link": "https://www.startech.com.bd/apple-pencil",
+            "product_title": "Apple Pencil",
+            "status": "not available"
+        },
+        {
+            "brand": "apple",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-2017-500x500-228x228.jpg",
+            "price": "169000",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxw2ll-a-2017",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MPXW2LL/A (2017) ",
+            "status": "not available"
+        }
+    ]
+}

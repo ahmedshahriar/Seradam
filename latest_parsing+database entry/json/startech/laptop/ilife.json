@@ -1,0 +1,68 @@
+{
+    "Products": [
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air/zedair-228x228.jpg",
+            "price": "16500",
+            "product_link": "https://www.startech.com.bd/i-life-zedair",
+            "product_title": "i-Life Zed Air 14'' Quad Core Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air3/zedair3-228x228.jpg",
+            "price": "28000",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-3",
+            "product_title": "i-Life ZedAir 3 Pentium Quad Core 13.3\" Full HD IPS Laptop with 128GB SSD",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/i-Life/i-Life ZedAir H2/Zedair-H2-Silver-p1-228x228.jpg",
+            "price": "19999",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-h",
+            "product_title": "i-Life Zed Air H 14 Inch Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/i-Life/i-Life ZedAir H2/Zedair-H2-Silver-p1-228x228.jpg",
+            "price": "21500",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-h2",
+            "product_title": "i-Life Zed Air H2 14 Inch Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zedbook-w/zedbook-w-228x228.jpg",
+            "price": "15990",
+            "product_link": "https://www.startech.com.bd/i-life-zed-book-w",
+            "product_title": "i-Life Zed Book W Atom Quad Core Z3735F 10.1\" IPS Touch Notebook With Genuine Win 10",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air/i-life-zedair-h6-laptop-228x228.jpg",
+            "price": "24000",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-h6-laptop",
+            "product_title": "i-Life ZedAir H6 14.1\" HD Laptop",
+            "status": "available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-plus/zedairplus-5-228x228.jpg",
+            "price": "24000",
+            "product_link": "https://www.startech.com.bd/i-life-zed-air-plus-laptop",
+            "product_title": "I-Life Zed Air Plus Celeron Dual Core 15.6\" Full HD Laptop",
+            "status": "not available"
+        },
+        {
+            "brand": "ilife",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zedbook-2/zedbook-2-1-228x228.jpg",
+            "price": "25000",
+            "product_link": "https://www.startech.com.bd/i-life-zedbook-2-laptop",
+            "product_title": "i-Life ZedBook 2 Atom Quad Core z8350 11.6\" Full HD Laptop",
+            "status": "not available"
+        }
+    ]
+}

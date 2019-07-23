@@ -1,0 +1,33 @@
+Metadata-Version: 2.0
+Name: djangorestframework
+Version: 3.10.1
+Summary: Web APIs for Django, made easy.
+Home-page: https://www.django-rest-framework.org/
+Author: Tom Christie
+Author-email: tom@tomchristie.com
+License: BSD
+Project-URL: Funding, https://fund.django-rest-framework.org/topics/funding/
+Project-URL: Source, https://github.com/encode/django-rest-framework
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 1.11
+Classifier: Framework :: Django :: 2.0
+Classifier: Framework :: Django :: 2.1
+Classifier: Framework :: Django :: 2.2
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Internet :: WWW/HTTP
+Requires-Python: >=3.5
+
+UNKNOWN
+
+
