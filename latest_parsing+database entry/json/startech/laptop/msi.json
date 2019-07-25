@@ -1,188 +1,386 @@
 {
     "Products": [
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/msi/msi-pl62m-7rc-228x228.png",
             "price": "65000",
             "product_link": "https://www.startech.com.bd/msi-pl62m-7rc-core-i5-laptop",
             "product_title": "MSI PL62 7RC 7th Gen Core i5 15.6\" FHD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/pl62m-7rrc/pl62m-7rrc-01-228x228.jpg",
             "price": "73000",
             "product_link": "https://www.startech.com.bd/msi-pl62m-7rrc-7th-gen-core-i7-gaming-laptop",
             "product_title": "MSI PL62M 7RRC 7th Gen Core i7 15.6\" Full HD Gaming Laptop with 2GB Graphics and Windows 10 ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/MSI/msi-pl62m-7rrc-228x228.png",
             "price": "75000",
             "product_link": "https://www.startech.com.bd/msi-pl62m-7rc-7th-gen-core-i7-graphics-laptop",
             "product_title": "MSI PL62 7RC 7th Gen Core i7 15.6\" FHD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gf63-8rc/gf63-228x228.jpg",
             "price": "88000",
             "product_link": "https://www.startech.com.bd/msi-gf63-8rc-i7-laptop",
             "product_title": "MSI GF63 8RC\u00a0Core i7 8th Gen 15.6\" Full HD IPS Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gs63-7rd/gs63-7rd-228x228.jpg",
             "price": "90000",
             "product_link": "https://www.startech.com.bd/msi-gs63-7rd-stealth-core-i7-laptop",
             "product_title": "MSI GS63 7RD Stealth Core i7 7th Gen 15.6\" Full HD IPS Gaming Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "",
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gl63-8rc/gl63-8rc-228x228.jpg",
             "price": "92000",
             "product_link": "https://www.startech.com.bd/msi-gl63-9rds-9th-gen-i7-9750h-1050ti-gaming-laptop",
             "product_title": "MSI GL63 9RDS Core i7 9th Gen NVIDIA GeForce GTX 1050 TI 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gl63-8rc/gl63-8rc-228x228.jpg",
             "price": "99000",
             "product_link": "https://www.startech.com.bd/msi-gl63-8re-i5-laptop",
             "product_title": "MSI GL63 8RE Core i5 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gl63-8rc/gl63-8rc-228x228.jpg",
             "price": "125000",
             "product_link": "https://www.startech.com.bd/msi-gl63-8re-i7-gaming-laptop",
             "product_title": "MSI GL63 8RE Core i7 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gp63-8re/gp63-8re-228x228.jpg",
             "price": "140000",
             "product_link": "https://www.startech.com.bd/msi-gp63-8re-leopard-core-i7-laptop",
             "product_title": "MSI GP63 8RE Leopard Core i7 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gl63-8se/gl63-8se-1-228x228.jpg",
             "price": "154500",
             "product_link": "https://www.startech.com.bd/msi-gl63-8se-core-i7-laptop",
             "product_title": "MSI GL63 8SE Core i7 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "17.3\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gE75-8re/gE75-8re-228x228.jpg",
             "price": "163000",
             "product_link": "https://www.startech.com.bd/msi-ge75-raider-8re-i7-gaming-laptop",
             "product_title": "MSI GE75 Raider 8RE Core i7 8th Gen 17.3\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ge63-raider/ge63-raider-228x228.jpg",
             "price": "190000",
             "product_link": "https://www.startech.com.bd/msi-ge63-raider-rgb-8rf-core-i7-laptop",
             "product_title": "MSI GE63 Raider RGB 8RF Core i7 8th Gen 15.6\" Full HD Gaming Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ge63-raider-8sf/ge63-raider-8sf-1-228x228.jpg",
             "price": "213000",
-            "product_link": "https://www.startech.com.bd/msi-ge63-raider-8sf-core-i7-gaming-laptop ",
+            "product_link": "https://www.startech.com.bd/msi-ge63-raider-8sf-core-i7-gaming-laptop%20",
             "product_title": "MSI GE63 Raider 8SF Core i7 8th Gen 15.6'' Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "17.3\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ge75-raider-8sf/ge75-raider-8sf-1-228x228.jpg",
             "price": "220000",
             "product_link": "https://www.startech.com.bd/msi-ge75-raider-8sf-core-i7-gaming-laptop",
             "product_title": "MSI GE75 Raider 8SF Core i7 8th Gen 17.3'' Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gs65-thin/gs65-228x228.jpg",
             "price": "190000",
             "product_link": "https://www.startech.com.bd/msi-gs65-stealth-thin-8re-laptop",
             "product_title": "MSI GS65 Stealth THIN 8RE Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gs65-8sf/gs65-thin-8sf-1-228x228.jpg",
             "price": "234000",
-            "product_link": "https://www.startech.com.bd/msi-gs65-stealth-thin-8sf-core-i7-laptop ",
+            "product_link": "https://www.startech.com.bd/msi-gs65-stealth-thin-8sf-core-i7-laptop%20",
             "product_title": "MSI GS65 Stealth THIN 8SF Core i7 8th Gen 15.6'' Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ws65-8sk/ws65-8sk-1-228x228.jpg",
             "price": "0",
             "product_link": "https://www.startech.com.bd/msi-ws65-8sk-core-i7-laptop",
             "product_title": "MSI WS65 8SK Core i7 8th Gen 15.6'' Full HD Work Station Laptop",
-            "status": "not available"
+            "ram": "32GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "17.3\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ge73-8rf-raider-rgb/ge73-8rf-raider-rgb-1-228x228.jpg",
             "price": "190000",
             "product_link": "https://www.startech.com.bd/msi-ge73-8rf-raider-rgb-core-i7-laptop",
             "product_title": "MSI GE73 8RF Raider RGB 8th Gen Core i7 17.3\" Full HD Gaming Laptop with 8GB GDDR5 Graphics and Windows 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "17.3\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gE75-8re/gE75-8re-228x228.jpg",
             "price": "192000",
             "product_link": "https://www.startech.com.bd/msi-ge75-8Rf-core-i7-gaming-laptop",
             "product_title": "MSI GE75 Raider 8RF Core i7 8th Gen 17.3\" Full HD 144Hz Gaming Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "17.3\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gE75-8re/gE75-8re-228x228.jpg",
             "price": "205000",
             "product_link": "https://www.startech.com.bd/msi-Gge75-raider-8rf-i7-120hz-laptop",
             "product_title": "MSI GE75 Raider 8RF Core i7 8th Gen 17.3\" Full HD 120Hz Gaming Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "15.6\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/p65-8rf/p65-main-228x228.jpg",
             "price": "208000",
             "product_link": "https://www.startech.com.bd/msi-p65-8rf-i-core-i7-gaming-laptop",
             "product_title": "MSI P65 8RF Core i7 8th Gen 15.6\" FHD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "32GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ps42/ps42-228x228.jpg",
             "price": "89990",
             "product_link": "https://www.startech.com.bd/msi-ps42-8m-core-i7-gaming-laptop",
             "product_title": "MSI PS42 8M Core i7 8th Gen 14\" FHD Gaming Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "msi",
+            "brand": "MSI",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ps42/ps42-228x228.jpg",
             "price": "79990",
             "product_link": "https://www.startech.com.bd/msi-ps42-8m-core-i5-laptop",
             "product_title": "MSI PS42 8M Core i5 8th Gen 14\" FHD Gaming Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         }
     ]
 }

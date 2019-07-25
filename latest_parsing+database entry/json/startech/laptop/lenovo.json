@@ -1,764 +1,1526 @@
 {
     "Products": [
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "10.1\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/d330/d330-5-228x228.jpg",
             "price": "29500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-d330-cdc-laptop",
             "product_title": "Lenovo Ideapad D330 Celeron Dual Core 10\" Touch  FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "64GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "13.9\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-c930/yoga-c930-1-228x228.jpg",
-            "price": "186000",
+            "price": "183400",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-c930-i7-8th-gen-laptop",
             "product_title": "Lenovo YOGA C930 Core i7 8th Gen 13.9\" UHD 4K Touch Screen Laptop with 360 Degree Rotation",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Netbook/Lenovo YB1-X91L-228x228.JPG",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Netbook/Lenovo%20YB1-X91L-228x228.JPG",
             "price": "43500",
             "product_link": "https://www.startech.com.bd/lenovo-yb1-x91l-yoga-book",
             "product_title": "Lenovo Yoga Book 10\" windows tablet",
-            "status": "available"
+            "ram": "",
+            "ram_type": "",
+            "status": "available",
+            "storage": {},
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-03-228x228.jpg",
-            "price": "28000",
+            "price": "24400",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-cdc-grey-14-inch-laptop",
             "product_title": "Lenovo Ideapad 330 Celeron Dual Core 14\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/330-ideapad-blue-228x228.jpg",
-            "price": "25000",
+            "price": "24400",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330cdc-blue-laptop",
             "product_title": "Lenovo Ideapad 330 Celeron Dual Core 15.6\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/330-ideapad-blue-228x228.jpg",
-            "price": "28500",
+            "price": "24900",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-amd-14-inch-blue-laptop",
             "product_title": "Lenovo Ideapad 330 AMD E2-9000 14 \" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-130/ip-130-228x228.jpg",
             "price": "33500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-130-i3-laptop",
             "product_title": "Lenovo IdeaPad 130 Core i3 6th Gen 15.6\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-grey-2-228x228.jpg",
-            "price": "28500",
+            "price": "24900",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-amd-14-inch-black-laptop",
             "product_title": "Lenovo Ideapad 330 AMD E2-9000 14\" HD Laptop With Genuine Win 10 (Black)",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/330-ideapad-blue-228x228.jpg",
-            "price": "25500",
+            "price": "23400",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-amd-blue-laptop",
             "product_title": "Lenovo Ip 330 AMD Dual Core 15.6\" HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "33500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-14-inch",
             "product_title": "Lenovo IP320 Core i3 6th Gen 14\" Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-03-228x228.jpg",
-            "price": "29500",
+            "price": "26400",
             "product_link": "https://www.startech.com.bd/lenovo-ip330-amd-9125-laptop",
             "product_title": "Lenovo Ideapad 330 AMD A4-9125 15.6\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-03-228x228.jpg",
-            "price": "45000",
+            "price": "40400",
             "product_link": "https://www.startech.com.bd/lenovo-ip330-2gb-graphics-pqc-laptop",
             "product_title": "Lenovo Ideapad 330 AMD A9-9425 2GB Graphics 15.6\" HD Laptop with Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-grey-2-228x228.jpg",
-            "price": "28500",
+            "price": "24900",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-pqc-black-laptop",
             "product_title": "Lenovo Ideapad 330 AMD E2-9000 15.6\" HD Laptop With Genuine Win 10 (Black)",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "11.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-330/lenovo-yoga-330-228x228.jpg",
-            "price": "43000",
+            "price": "42400",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-330-pqc-laptop",
             "product_title": "Lenovo yoga 330 Pentium Quad Core Touch laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "39000",
             "product_link": "https://www.startech.com.bd/lenovo-idea-pad-320-core-i3-15.6inch-laptop",
             "product_title": "Lenovo IP320 Core i3 7th Gen 15.6\" Full HD Laptop with Genuine win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "40000",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i3-laptop-with-graphics",
             "product_title": "Lenovo IP320 Core i3 7th Gen 15.6\" Full HD Laptop with NVIDIA GeForce 920MX 2GB Graphics",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo IP320s Core i3 7th Gen/Lenovo IP320s Core i3 7th Gen-1-228x228.jpg",
-            "price": "39500",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo%20IP320s%20Core%20i3%207th%20Gen/Lenovo%20IP320s%20Core%20i3%207th%20Gen-1-228x228.jpg",
+            "price": "38900",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320s-i3-laptop",
             "product_title": "Lenovo IP320S Core i3 7th Gen 14\" Full HD Ultra Book with genuine win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-330/ideapad-330-1-228x228.jpg",
-            "price": "44000",
+            "price": "37900",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-8th-gen-i3-laptop",
             "product_title": "Lenovo Ideapad 330 8th Gen Core i3 15.6\" FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-330s-14/ip330s-228x228.jpg",
             "price": "48000",
             "product_link": "https://www.startech.com.bd/lenovo-ip330s-core-i3-laptop",
             "product_title": "Lenovo IP330s 8th Gen Core i3  Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip330/ip330-1-228x228.jpeg",
-            "price": "44000",
-            "product_link": "https://www.startech.com.bd/lenovo-ip330-8th-gen-core-i3-laptop ",
+            "price": "37900",
+            "product_link": "https://www.startech.com.bd/lenovo-ip330-8th-gen-core-i3-laptop%20",
             "product_title": "Lenovo IP330 8th Gen Core i3 15.6\" FHD Laptop With AMD Radeon 530 2 GB Graphics",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/tp-e480/tp-e480-228x228.jpg",
-            "price": "51000",
+            "price": "44400",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e480-core-i3-laptop",
             "product_title": "Lenovo ThinkPad E480 8th Gen Core i3 Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinpad-e580/e580-228x228.jpg",
-            "price": "51000",
+            "price": "44400",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e580-i3-laptop",
             "product_title": "Lenovo Thinkpad E580 Core i3 8th Gen15.6\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/lenovo-thinkpad-l470-228x228.png",
             "price": "60500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-l470",
             "product_title": "Lenovo Thinkpad L470 i5 7th Gen Windows 10 Professional 14\" Full HD Laptop ",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
-            "price": "41000",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
+            "price": "36900",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-4gb-2tb-hdd-laptop",
             "product_title": "Lenovo IP320 Core i3 7th Gen 15.6\" Full HD Laptop With 2TB HDD ",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/E470-1-228x228.png",
             "price": "67500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e470-i5-laptop",
             "product_title": "Lenovo ThinkPad E470 Core i5 7th Gen 14\" Business Laptop with Windows",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo ThinkPad E570/Lenovo ThinkPad E570-228x228.jpg",
-            "price": "59000",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo%20ThinkPad%20E570/Lenovo%20ThinkPad%20E570-228x228.jpg",
+            "price": "58400",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e570-core-i5-graphics-laptop",
             "product_title": "Lenovo ThinkPad E570 Core i5 7th Gen 2GB Graphics 15.6\" Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-130/ip-130-228x228.jpg",
-            "price": "46000",
+            "price": "45400",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-130-core-i5-laptop",
             "product_title": "Lenovo IdeaPad 130 Core i5 8th Gen 15.6\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/330-ideapad-blue-3-228x228.jpg",
-            "price": "55000",
+            "price": "50400",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-i5-laptop",
             "product_title": "Lenovo Ideapad 330 8th Gen Core i5 Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/s145/s145-main-228x228.jpg",
-            "price": "48500",
+            "price": "47900",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-s145-i5-laptop",
             "product_title": "Lenovo IdeaPad S145 Core i5 8th Gen 14\" Full HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-ip330-i5-2gb-graphics-laptop-228x228.JPG",
-            "price": "59000",
+            "price": "57900",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-8th-gen-i5-8250u-amd-radeon-530-graphics-laptop",
             "product_title": "Lenovo IP330 Core i5 8th Gen 2gb graphics Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/tp-e480/tp-e480-228x228.jpg",
-            "price": "62000",
+            "price": "55400",
             "product_link": "https://www.startech.com.bd/lenovo-tp-e480-core-i5-laptop",
             "product_title": "Lenovo ThinkPad E480 8th Gen Core i5 Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-02-228x228.jpg",
-            "price": "67000",
+            "price": "57900",
             "product_link": "https://www.startech.com.bd/lenovo-ip330-i5-4gb-graphics-grey-color-laptop",
             "product_title": "Lenovo Ideapad 330 8th Gen Core i5 4GB Graphics 15.6\" FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th-gen/i5-laptop/320s-228x228.png",
             "price": "59000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320s-i5-laptop",
             "product_title": "Lenovo IP320s 8th Gen Core i5 15.6\" Full HD IPS Slim Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th-gen/i5-laptop/320s-228x228.png",
-            "price": "61500",
+            "price": "60900",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320s-graphics-laptop",
             "product_title": "Lenovo IP320s 8th Gen Core i5 15.6\" Full HD IPS Slim Laptop with graphics ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/8th-gen/i5-laptop/lenovo-ip-520s-228x228.png",
             "price": "60000",
             "product_link": "https://www.startech.com.bd/lenovo-ip520-8th-gen-i5-laptop",
             "product_title": "Lenovo IP520 8th Gen Core i5 15.6\" Full HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-330s/ip330s-228x228.jpg",
-            "price": "76000",
+            "price": "69400",
             "product_link": "https://www.startech.com.bd/lenovo-ip330s-core-i5-laptop",
             "product_title": "Lenovo IP330s 8th Gen Core i5 2GB Graphics Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-02-228x228.jpg",
             "price": "35500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-3307th-gen-i3-laptop",
             "product_title": "Lenovo Ideapad 330 7th Gen Core i3 Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-320/lenovo-ideapad-320-228x228.jpg",
             "price": "57000",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-8th-gen-i7-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i7 15.6\" HD Laptop with 2GB Graphics Card",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/tp-e480/tp-e480-228x228.jpg",
-            "price": "90000",
+            "price": "80400",
             "product_link": "https://www.startech.com.bd/lenovo-tp-e480-core-i7-laptop",
             "product_title": "Lenovo ThinkPad E480 Core i7 8th Gen Radeon 530 2GB Graphics",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinpad-e580/e580-228x228.jpg",
-            "price": "90000",
+            "price": "79400",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e580-core-i7-laptop",
             "product_title": "Lenovo Thinkpad E580 Core i7 8th 15.6\" HD Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-t480/t480-228x228.jpg",
             "price": "135000",
             "product_link": "https://www.startech.com.bd/lenovo-tp-t480-i7-laptop",
             "product_title": "Lenovo ThinkPad T480 Core i7 512GB SSD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/legion-y520/y520-228x228.jpg",
             "price": "98000",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y520",
             "product_title": "Lenovo Legion Y520 Core i7 7th Gen GTX 1050 Ti 4GB Graphics 15.6\" Full HD Gaming Laptop With Win 10",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th-gen/i7-laptop/lenovo-legion-y720-228x228.png",
             "price": "136500",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y720-core-i7-laptop",
             "product_title": "Lenovo Legion Y720 7th Gen Core i7 15.6\" Full HD Gaming Laptop",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/y530/y530-228x228.jpg",
-            "price": "98500",
+            "price": "97900",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y530-gaming-laptop",
             "product_title": "Lenovo Legion Y530 Core i5 8th Gen 15.6\" Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/y530/y530-228x228.jpg",
-            "price": "118000",
+            "price": "117900",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y530-core-i7-gaming-laptop",
             "product_title": "Lenovo Legion Y530 Core i7 8th Gen 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-720s/ip-720s-228x228.jpg",
             "price": "106500",
             "product_link": "https://www.startech.com.bd/lenovo-ip720s-core-i7-laptop",
             "product_title": "Lenovo IP720s 7th Gen Core i7 13.3\" Full HD IPS Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-02-228x228.jpg",
             "price": "53500",
             "product_link": "https://www.startech.com.bd/lenovo-ip330-core-i7-laptop",
             "product_title": "Lenovo Ideapad 330 8th Gen Core i7 15.6\" HD Laptop With AMD Radeon 530 2GB Graphics",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "12.5\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinpad-x280/thinkpad-x280-228x228.jpg",
             "price": "163000",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-x280-core-i7-laptop",
             "product_title": "Lenovo ThinkPad X280 Core i7 512GB SSD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {},
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "12.5\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinpad-x280/thinkpad-x280-228x228.jpg",
-            "price": "173000",
+            "price": "172400",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-x280-1tb-ssd-laptop",
             "product_title": "Lenovo ThinkPad X280 Core i7 1TB SSD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/8th-gen/i5-laptop/lenovo-ip-320-228x228.png",
             "price": "47500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-8th-gen-i5-1tb-hdd-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i5 4GB Ram 1TB HDD 15.6\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-ip330-i5-2gb-graphics-laptop-228x228.JPG",
-            "price": "67000",
+            "price": "57900",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-8th-gen-i5-8250u-amd-radeon-530-4gb-graphics-laptop",
             "product_title": "Lenovo IP330 8th Gen Core i5 15.6\u201d FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/Legion-y740/y740-228x228.jpg",
             "price": "161000",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y740-core-i7-laptop",
             "product_title": "Lenovo Legion Y740 Core i7 8th Gen 15.6\" FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/Legion-y740/y740-228x228.jpg",
-            "price": "250000",
+            "price": "247400",
             "product_link": "https://www.startech.com.bd/lenovo-legion-y740-core-i7-gaming-laptop",
             "product_title": "Lenovo Legion Y740 Core i7 8th Gen RTX 2070 8GB Graphics Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "32GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Gaming/Lenovo Y520 i7-7700HQ-1-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Gaming/Lenovo%20Y520%20i7-7700HQ-1-228x228.jpg",
             "price": "100000",
             "product_link": "https://www.startech.com.bd/lenovo-y520-i7-7th-gen",
             "product_title": "Lenovo Y520 Core i7 7th Gen 15.6\" Full HD Gaming Laptop",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "12\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/miix-720/lenovo-miix-720-228x228.jpg",
             "price": "107500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-miix-720-core-i5-laptop",
             "product_title": "Lenovo Ideapad Miix 720 7th Gen Core i5 8GB Ram 12\" QHD Touch Laptop + Tablet",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/lenovo-laptop/ideapad-520/lenovo-ideapad-520-1-228x228.jpg",
             "price": "60000",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-520-8th-gen-core-i5-laptop",
             "product_title": "Lenovo Ideapad 520 8th Gen Core i5 15.6\" Full HD Laptop With NVIDIA 920MX 2GB Graphics",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-530/yoga-530-blue-228x228.jpg",
             "price": "85500",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-530-core-i5-laptop",
             "product_title": "Lenovo Yoga 530 Core i5 8th Gen 14\" Full HD Touch Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-320/ip-320-6-228x228.jpg",
             "price": "43000",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i5-1tb-laptop",
             "product_title": "Lenovo IP320 Core i5 7th Gen 2GB Graphics 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-320/320-228x228.jpg",
             "price": "52000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320-core-i5-2gb-graphics-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i5 15.6\" Full HD Laptop with Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/8th-gen/i5-laptop/lenovo-ip320-228x228.png",
             "price": "50000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320-8th-gen-i5-with-graphics-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i5 15.6\" Full HD Laptop with Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-720/yoga-720-2-228x228.jpg",
             "price": "140000",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-720-i7-laptop",
             "product_title": "Lenovo Yoga 720 Core i7 8th Gen 13.3\" Touch Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ip-130/ip-130-main-228x228.png",
             "price": "32500",
             "product_link": "https://www.startech.com.bd/lenovo-ip-130-core-i3-laptop",
             "product_title": "Lenovo IdeaPad 130 Core i3 6th Gen 14\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th Gen/i3-laptop/ideapad-520s-228x228.jpeg",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th%20Gen/i3-laptop/ideapad-520s-228x228.jpeg",
             "price": "54500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-520s-i5-laptop",
             "product_title": "Lenovo Ideapad 520s 7th Gen Core i5 14.1\" Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "50500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i5-15.6inch-laptop-with-graphics",
             "product_title": "Lenovo IP320 Core i5 7th Gen 15.6\" Full HD Laptop with Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/E470-1-228x228.png",
             "price": "76500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e470-core-i7-laptop",
             "product_title": "Lenovo ThinkPad E470 Core i7 7th Gen 14\" Business Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo ThinkPad E570/Lenovo ThinkPad E570-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo%20ThinkPad%20E570/Lenovo%20ThinkPad%20E570-228x228.jpg",
             "price": "58000",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpade-570-core-i5-laptop",
             "product_title": "Lenovo ThinkPad E570 Core i5 7th Gen 15.6\" Business Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "17.3\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/y700/y700-5-228x228.jpg",
             "price": "70000",
             "product_link": "https://www.startech.com.bd/lenovo-y700-i7",
             "product_title": "Lenovo Y700 Core i7 6th Gen 17.3\" Full HD Gaming Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/lenovo-laptop/ideapad-520/lenovo-ideapad-520-1-228x228.jpg",
             "price": "59000",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-520-core-i5-laptop",
             "product_title": "Lenovo Ideapad 520 7th Gen Core i5 8GB Ram With 4GB  Graphics 15.6\" FHD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo Ideapad 110-15inch-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo%20Ideapad%20110-15inch-228x228.jpg",
             "price": "40000",
             "product_link": "https://www.startech.com.bd/lenovo-idea-pad-110-core-i5-laptop-with-graphics",
             "product_title": "Lenovo IP110 Core i5 6th Gen 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th-gen/i7-laptop/lenovo-ip320-228x228.png",
             "price": "66000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320--8th-gen-i7-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i7 8GB Ram 1TB HDD With Graphics Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/7th-gen/i7-laptop/lenovo-ip320-228x228.png",
             "price": "69000",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i7-2tb-hdd-laptop",
             "product_title": "Lenovo IP320 8th Gen Core i7 8GB Ram 2TB HDD With Graphics Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo ThinkPad E570/Lenovo ThinkPad E570-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/Lenovo%20ThinkPad%20E570/Lenovo%20ThinkPad%20E570-228x228.jpg",
             "price": "76500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e570-core-i7-laptop",
             "product_title": "Lenovo ThinkPad E570 Core i7 7th Gen 2GB Graphics 15.6\" Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-520/yoga-520-228x228.jpg",
             "price": "74500",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-520-core-i5-8th-gen-laptop",
             "product_title": "Lenovo Yoga 520 Core i5 8th Gen 14\" Full HD Touch Screen With Windows Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Lenovo ThinkPad E560-j2-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "14.1\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Lenovo%20ThinkPad%20E560-j2-228x228.jpg",
             "price": "64500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e460",
             "product_title": "Lenovo ThinkPad E460 Core i7 6th Gen 14\" Business Laptop with graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "33500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i3-6th-gen",
             "product_title": "Lenovo IP320 Core i3 6th Gen 15.6\" HD Laptop with Graphics Card",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinpad-e580/e580-228x228.jpg",
             "price": "56000",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e580-i5-laptop",
             "product_title": "Lenovo Thinkpad E580 Core i5 8th 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "13.9\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/yoga-920/yoga-920-1-228x228.jpg",
             "price": "195000",
             "product_link": "https://www.startech.com.bd/lenovo-yoga-920core-i7-laptop",
             "product_title": "Lenovo Yoga 920 Core i7 Touch Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "11.1\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/120s-228x228.png",
             "price": "26000",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-120s-cdc-laptop",
             "product_title": "Lenovo IP120s Celeron Dual Core 11.1\" Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo Ideapad 110-15inch-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo%20Ideapad%20110-15inch-228x228.jpg",
             "price": "38000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-110-6th-gen-i5-15.6",
             "product_title": "Lenovo IP110 Core i5 6th Gen 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo IP320s Core i3 7th Gen/Lenovo IP320s Core i3 7th Gen-1-228x228.jpg",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/Lenovo%20IP320s%20Core%20i3%207th%20Gen/Lenovo%20IP320s%20Core%20i3%207th%20Gen-1-228x228.jpg",
             "price": "58500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320s-i3-7th-gen",
             "product_title": "Lenovo IP320S Core i3 7th Gen 14\" Full HD Ultra Book",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Thinkpad/E470-1-228x228.png",
             "price": "56000",
-            "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e470-core-i5 ",
+            "product_link": "https://www.startech.com.bd/lenovo-thinkpad-e470-core-i5%20",
             "product_title": "Lenovo ThinkPad E470 Core i5 7th Gen 14\" Business Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/x1-carbon/x1-carbon-3-228x228.jpg",
             "price": "191000",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-x1-carbon-i7-laptop",
             "product_title": "Lenovo ThinkPad X1 Carbon 8th Gen Core i7 Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "40500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-core-i3-graphics-laptop",
             "product_title": "Lenovo IP320 Core i3 7th Gen 2TB HDD With Graphics 15.6\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "12.5\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/lenovo-laptop/thinkpad-x270/x270-228x228.jpg",
             "price": "116500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-x270-core-i5-laptop",
             "product_title": "Lenovo Thinkpad X270 7th Gen Core i5 12.5\" IPS Full HD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "12.5\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/lenovo-laptop/thinkpad-x270/x270-228x228.jpg",
             "price": "161500",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-x270-laptop",
             "product_title": "Lenovo Thinkpad X270 7TH Gen Core i7 12.5\" IPS Full HD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-03-228x228.jpg",
             "price": "25000",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-330-cdc-grey-laptop",
             "product_title": "Lenovo Ideapad 330 Celeron Dual Core 15.6\" HD Laptop (Grey)",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "37500",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-i3-8gb-ram-2tb-hdd-laptop",
             "product_title": "Lenovo IP320 Core i3 7th Gen 15.6\" Full HD Laptop 2TB HDD",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/lenovo-laptop/ip-320-amd/lenovo-ideapad-320-4-228x228.png",
             "price": "25500",
             "product_link": "https://www.startech.com.bd/lenovo-ideapad-320-amd-laptop",
             "product_title": "Lenovo IP320 AMD E2-9000 14\" HD Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/Ideapad/ip-110/ip-110-228x228.jpg",
             "price": "26500",
             "product_link": "https://www.startech.com.bd/lenovo-ip-110-pqc-laptop",
             "product_title": "Lenovo IP110 Pentium Quad Core 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/6th-gen/i3-laptop/lenovo-ip320-228x228.png",
             "price": "35000",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320-i3-with-windows-laptop",
             "product_title": "Lenovo IP320 6th Gen Core i3 2GB Graphics 14\" HD Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/6th-gen/i3-laptop/lenovo-ip-320-1jpg-228x228.jpg",
             "price": "35000",
             "product_link": "https://www.startech.com.bd/lenovo-ip320-i3-with-windows-laptop",
             "product_title": "Lenovo IP320 6th Gen Core i3 2GB Graphics 15.6\" HD Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo 320/lenovo-ip320-228x228.png",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/lenovo/lenovo%20320/lenovo-ip320-228x228.png",
             "price": "35500",
             "product_link": "https://www.startech.com.bd/lenovo-ip-320-core-i3-7th-gen-14-inch-laptop",
             "product_title": "Lenovo IP320 Core i3 7th Gen 14\" Full HD Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/lenovo-laptop-ideapad-330-14-feature-02-228x228.jpg",
             "price": "41500",
             "product_link": "https://www.startech.com.bd/lenovo-ip-330-7th-gen-i3-graphics-laptop",
             "product_title": "Lenovo IP330 Core i3 2GB Graphics Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/idapad-330/330-ideapad-blue-3-228x228.jpg",
-            "price": "58500",
+            "price": "57900",
             "product_link": "https://www.startech.com.bd/lenovo-ip-330-4gb-graphics-i5-laptop",
             "product_title": "Lenovo Ideapad 330 8th Gen Core i5 4GB Graphics 15.6\" HD Laptop With Genuine Win 10 (Blue)",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "lenovo",
+            "brand": "Lenovo",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/thinkpad-t480/t480-228x228.jpg",
             "price": "131000",
             "product_link": "https://www.startech.com.bd/lenovo-thinkpad-t480-core-i7-laptop",
             "product_title": "Lenovo ThinkPad T480 Core i7 1TB SSD Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
         }
     ]
 }

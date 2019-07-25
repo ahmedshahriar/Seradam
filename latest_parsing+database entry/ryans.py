@@ -1,19 +1,134 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import json
+import pprint
 
 
+def ryans_parse_single_laptop_details(url):
 
-def get_laptop_description(url):
     html = urlopen(url)
     data = html.read()
     soup = BeautifulSoup(data, 'html.parser')
-    description = soup.find_all('div', {'class': 'std'})[0].text
-    model = soup.find_all('td',{'class':'data'})[1].text
-    return description, model
+    description = soup.find('div', {'class': 'std'}).text.split("\r\n")
+    table = soup.find("tbody")
+    trs = table.find_all('tr')
 
-def get_laptop_list(url,brand):
+    details = dict(description=description)
 
+    for tr in trs:
+        details[tr.find('th').text] = tr.find('td').text
+
+    return details
+
+
+def ryans_analyze_storage(storage_text):
+
+    storage = dict()
+
+    if "HDD" in storage_text or "hdd" in storage_text or "Hard Disk Drive" in storage_text or "hard drive" in storage_text:
+        if 'HDD' in storage_text:
+            pos = storage_text.find("HDD")
+        elif 'hdd' in storage_text:
+            pos = storage_text.find("hdd")
+        elif "Hard Disk Drive" in storage_text:
+            pos = storage_text.find("Hard Disk Drive")
+        else:
+            pos = storage_text.find("hard drive")
+
+        storage_amount_type = ""
+        for i in range(pos - 1, 1, -1):
+            if storage_text[i] == 'B':
+                if storage_text[i - 1] == 'T' or storage_text[i - 1] == 'G':
+                    pos = i
+                    storage_amount_type = storage_text[i - 1] + storage_text[i]
+                    break
+        pos -= 2
+        if storage_text[pos] == ' ':
+            pos -= 1
+
+        size = ""
+        for i in range(pos, -1, -1):
+            if storage_text[i] == ' ' or storage_text[i] == '+':
+                break
+            size = size + storage_text[i]
+        storage["HDD"] = size[::-1] + storage_amount_type
+
+    if "SSD" in storage_text or "ssd" in storage_text:
+        if 'SSD' in storage_text:
+            pos = storage_text.find("SSD")
+        else:
+            pos = storage_text.find("ssd")
+
+        storage_amount_type = ""
+
+        for i in range(pos - 1, 1, -1):
+            if storage_text[i] == 'B':
+                if storage_text[i - 1] == 'T' or storage_text[i - 1] == 'G':
+                    pos = i
+                    storage_amount_type = storage_text[i - 1] + storage_text[i]
+                    break
+        pos -= 2
+        if storage_text[pos] == ' ':
+            pos -= 1
+
+        size = ""
+        for i in range(pos, -1, -1):
+            if storage_text[i] == ' ' or storage_text[i] == '+':
+                break
+            size = size + storage_text[i]
+        storage["SSD"] = size[::-1] + storage_amount_type
+
+    if "SSH" in storage_text or "ssh" in storage_text:
+        if 'SSH' in storage_text:
+            pos = storage_text.find("SSH")
+        else:
+            pos = storage_text.find("ssh")
+
+        storage_amount_type = ""
+
+        for i in range(pos - 1, 1, -1):
+            if storage_text[i] == 'B':
+                if storage_text[i - 1] == 'T' or storage_text[i - 1] == 'G':
+                    pos = i
+                    storage_amount_type = storage_text[i - 1] + storage_text[i]
+                    break
+        pos -= 2
+        if storage_text[pos] == ' ':
+            pos -= 1
+
+        size = ""
+        for i in range(pos, -1, -1):
+            if storage_text[i] == ' ' or storage_text[i] == '+':
+                break
+            size = size + storage_text[i]
+        storage["SSH"] = size[::-1] + storage_amount_type
+
+    if len(storage) == 0:
+
+        pos = len(storage_text)
+        storage_amount_type = ""
+
+        for i in range(pos - 1, 1, -1):
+            if storage_text[i] == 'B':
+                if storage_text[i - 1] == 'T' or storage_text[i - 1] == 'G':
+                    pos = i
+                    storage_amount_type = storage_text[i - 1] + storage_text[i]
+                    break
+        pos -= 2
+        if storage_text[pos] == ' ':
+            pos -= 1
+
+        size = ""
+        for i in range(pos, -1, -1):
+            if storage_text[i] == ' ' or storage_text[i] == '+':
+                break
+            size = size + storage_text[i]
+        storage["HDD"] = size[::-1] + storage_amount_type
+
+    return storage
+
+
+def ryans_parse_laptop_list(url,brand):
 
     print("Ryans laptop parsing-"+brand)
     json_file = "./json/ryans/laptop/"+brand+".json"
@@ -24,15 +139,19 @@ def get_laptop_list(url,brand):
     print("page : ",end="")
 
     while url:
-        print(" {},".format(page),end="")
+        print("page {}".format(page))
         page += 1
 
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
         products = soup.find_all('div', {'class': 'item-inner'})
+        p = 0
         for product in products:
+            p += 1
+
             product_url = product.div.a['href']
+            print(product_url)
             img_link = product.div.a.img['src']
             title = product.find('h2', {'class': 'product-name'}).a.text
 
@@ -42,18 +161,40 @@ def get_laptop_list(url,brand):
             else:
                 price = str(product.find('div', {'class': 'price-box'}).span.span.text).replace("Tk ", '').replace(',', '')
 
-            description,model = get_laptop_description(product_url)
-            description= description.replace("\r\n","<br/>")
-            status = ""
+            details = ryans_parse_single_laptop_details(product_url)
+
+            # doing this because in some product's details this filed may be missing
+            if "RAM type" in details.keys():
+                ram_type = details['RAM type'].split(' ')[0]
+            else:
+                ram_type = ""
+
+            if "Display Size" in details.keys():
+                display_size = details['Display Size']
+            else:
+                display_size = ""
+            storage = dict()
+            if "Storage" in details.keys():
+                storage = ryans_analyze_storage(details['Storage'])
+
+            status = "available"
+
             product_records = {
                 "status": status,
                 "img_link": img_link,
                 "price": price,
                 "product_link": product_url,
                 "product_title": title,
-                "description": description,
-                "model": model,
-                "brand": brand
+                "description": details['description'],
+                "model": details['Model'],
+                "ram": details['RAM'],
+                "ram_type": ram_type,
+                "brand": brand,
+                "graphics_memory": details['Graphics memory'],
+                "display_size": display_size,
+                "display_type": details['Display Type'],
+                "storage": storage,
+                "website": "ryanscomputers.com"
             }
             total_products.append(product_records)
         url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
@@ -68,59 +209,51 @@ def get_laptop_list(url,brand):
     write_file.close()
 
 
-
-
-
-
-
-
-def ryans_all_laptop():
+def ryans_parse_all_laptop():
     # ryans
 
     url = "https://ryanscomputers.com/laptop-notebook/acer-laptop-price-all.html"
-    brand = 'acer'
-    get_laptop_list(url, brand)
+    brand = 'Acer'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/apple-laptop-all.html"
-    brand = 'apple'
-    get_laptop_list(url, brand)
+    brand = 'Apple'
+    ryans_parse_laptop_list(url, brand)
 
 
     url = "https://ryanscomputers.com/laptop-notebook/asus-laptop-price-all.html"
-    brand = 'asus'
-    get_laptop_list(url, brand)
+    brand = 'Asus'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/dell-laptop-price-all.html"
-    brand = 'dell'
-    get_laptop_list(url, brand)
+    brand = 'Dell'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/hp-laptop-price-all.html"
-    brand = 'hp'
-    get_laptop_list(url, brand)
+    brand = 'HP'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/lenovo-laptop-price-all.html"
-    brand = 'lenovo'
-    get_laptop_list(url, brand)
+    brand = 'Lenovo'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all.html"
-    brand = 'ilife'
-    get_laptop_list(url, brand)
+    brand = 'iLife'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/microsoft.html"
-    brand = 'microsoft'
-    get_laptop_list(url, brand)
+    brand = 'Microsoft'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/msi.html"
-    brand = 'msi'
-    get_laptop_list(url, brand)
+    brand = 'MSI'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/fujitsu.html"
-    brand = 'fujitsu'
-    get_laptop_list(url, brand)
+    brand = 'Fujitsu'
+    ryans_parse_laptop_list(url, brand)
 
     url = "https://ryanscomputers.com/laptop-notebook/chuwi.html"
-    brand = 'chuwi'
-    get_laptop_list(url, brand)
-
-
+    brand = 'Chuwi'
+    ryans_parse_laptop_list(url, brand)
 

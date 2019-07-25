@@ -1,28 +1,52 @@
 {
     "Products": [
         {
-            "brand": "chuwi",
+            "brand": "Chuwi",
+            "display_size": "\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-228x228.jpg",
             "price": "19900",
             "product_link": "https://www.startech.com.bd/chuwi-herobook",
             "product_title": "Chuwi HeroBook 14.1\" HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "64GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "chuwi",
+            "brand": "Chuwi",
+            "display_size": "\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-air/air-228x228.jpg",
             "price": "36000",
             "product_link": "https://www.startech.com.bd/chuwi-lapbook-air",
             "product_title": "Chuwi LapBook Air 14.1 inch Full HD Display",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "chuwi",
+            "brand": "Chuwi",
+            "display_size": "\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-se/lapbook-se-228x228.jpg",
             "price": "29000",
             "product_link": "https://www.startech.com.bd/chuwi-lapbook-se",
             "product_title": "Chuwi Lapbook SE 13.3\" Full HD IPS Display",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         }
     ]
 }

@@ -1,24 +1,56 @@
 {
     "Products": [
         {
-            "brand": "chuwi",
-            "description": "Processor - Intel CDC N4100<br/>Processor Clock Speed - 1.10-2.40GHz<br/>Display Size - 13.3\"<br/>RAM - 4GB<br/>RAM Type - DDR4<br/>Storage - 32GB eMMC + 128GB SSD",
+            "brand": "Chuwi",
+            "description": [
+                "Processor - Intel CDC N4100",
+                "Processor Clock Speed - 1.10-2.40GHz",
+                "Display Size - 13.3\"",
+                "RAM - 4GB",
+                "RAM Type - DDR4",
+                "Storage - 32GB eMMC + 128GB SSD"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-lapbook-se-01.jpg",
             "model": "Chuwi Lapbook SE",
             "price": "29000",
             "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-lapbook-se-intel-cdc-n4100-notebook.html",
             "product_title": "Chuwi Lapbook SE Intel CDC N4100 (1.10GHz-2.40GHz, 4GB, 32GB eMMC + 128GB SSD) 13.3 FHD (1920x1080) Display, Backlit Keyboard, Win 10, Grey Notebook",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "ryanscomputers.com"
         },
         {
-            "brand": "chuwi",
-            "description": "Processor - Intel CDC N3450<br/>Processor Clock Speed - 1.10-2.20GHz<br/>Display Size - 14.1\"<br/>RAM - 8GB<br/>Storage - 128GB EMMC<br/>SSD Slot - 1 x M.2 Blank SSD Slot",
+            "brand": "Chuwi",
+            "description": [
+                "Processor - Intel CDC N3450",
+                "Processor Clock Speed - 1.10-2.20GHz",
+                "Display Size - 14.1\"",
+                "RAM - 8GB",
+                "Storage - 128GB EMMC",
+                "SSD Slot - 1 x M.2 Blank SSD Slot"
+            ],
+            "display_size": "14.1\"",
+            "display_type": "FHD LED",
+            "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-lapbook-air-01_1.jpg",
             "model": "Chuwi Lapbook Air",
             "price": "36000",
             "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-lapbook-air-intel-cdc-n3450-notebook.html",
             "product_title": "Chuwi Lapbook Air Intel CDC N3450 (1.10GHz-2.20GHz, 8GB, 128GB eMMC) 14.1 Inch FHD (1920x1080) Display, Backlit Keyboard, Win 10, Full Metal Body Grey Notebook",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "128GB"
+            },
+            "website": "ryanscomputers.com"
         }
     ]
 }

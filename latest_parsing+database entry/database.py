@@ -5,12 +5,12 @@ from pymongo import MongoClient
 
 
 client = MongoClient('localhost', 27017)
-db = client['project2']
+db = client['project-test']
 ryans_collection = db['webs_ryans']
 startech_collection = db['webs_startech']
 mapping_collection = db['webs_mapping']
 
-brands = ['acer','apple','asus','chuwi','dell','hp','ilife','lenovo','microsoft','msi']
+brands = ['Acer', 'Apple', 'Asus', 'Chuwi', 'Dell', 'HP', 'iLife', 'Lenovo', 'Microsoft', 'MSI']
 
 ryans_collection.drop()
 startech_collection.drop()
@@ -31,9 +31,9 @@ for brand in brands:
         startech_product_list
     )
 
-ryans_path = "./json/ryans/laptop/fujitsu.json"
+ryans_path = "./json/ryans/laptop/Fujitsu.json"
 
-startech_path = "./json/startech/laptop/razer.json"
+startech_path = "./json/startech/laptop/Razer.json"
 
 ryans_product_list = json.loads(open(ryans_path).read())['Products']
 startech_product_list = json.loads(open(startech_path).read())['Products']
@@ -46,27 +46,26 @@ startech_collection.insert_many(
 )
 
 
-
-products = ryans_collection.find()
+ryans = ryans_collection.find()
 flag = 0
-for product in products:
+for r in ryans:
 
-    model = product['model']+" "
-    temp = startech_collection.find()
-    flag=0
-    for t in temp:
-        if model in t['product_title']:
-            flag+=1
+    model = r['model']+" "
+    startech = startech_collection.find()
+    flag = 0
+    for s in startech:
+        if model in s['product_title']:
+            # print(r['product_link'])
+            # print(s['product_link'])
+            r_display = r['display_size'][:-1]
+            s_display = s['display_size'][:-1]
+
+            flag += 1
             mapping_collection.insert_one({
-                "ryans": product['_id'],
-                "startech": t['_id']
+                "ryans": r['_id'],
+                "startech": s['_id']
             })
 
-
-    # if flag > 0: print("1 to {} relation".format(flag))
-
+    # print("1 to {} relation".format(flag))
 
 
-# ryans_collection.drop()
-# startech_collection.drop()
-# mapping_collection.drop()

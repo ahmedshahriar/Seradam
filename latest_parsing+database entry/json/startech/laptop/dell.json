@@ -1,756 +1,1513 @@
 {
     "Products": [
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3462/dell-cdc-3462-228x228.jpg",
             "price": "29800",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3462-cdc-laptop",
             "product_title": "Dell Inspiron 14-3462 Celeron Dual Core 14\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3462/dell-3462-1-228x228.jpg",
-            "price": "29800",
+            "price": "29200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-pqc-3462-laptop",
             "product_title": "Dell Inspiron 14-3462 Pentium Quad Core 14\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3573/3573-2-228x228.jpg",
             "price": "27500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3573-cdc-laptop",
             "product_title": "Dell Inspiron 15-3573 Celeron Dual Core Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3573/3573-2-228x228.jpg",
             "price": "27500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3473-cdc-laptop",
             "product_title": "Dell Inspiron 14-3473 Celeron Dual Core Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/DELL VOSTRO 3468-Black-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/DELL%20VOSTRO%203468-Black-228x228.jpg",
             "price": "37000",
             "product_link": "https://www.startech.com.bd/dell-vostro-3468-7th-gen-i3",
             "product_title": "Dell Vostro 3468 7th Gen i3 14\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1000GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3573/3573-2-228x228.jpg",
             "price": "29800",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3573-pqc-laptop",
             "product_title": "Dell Inspiron 15-3573 Pentium Quad Core Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3567/3567-228x228.jpg",
-            "price": "40000",
+            "price": "35100",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3567-i3-7th-gen-laptop",
             "product_title": "Dell Inspiron 3567 7th Gen Core i3 Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3576/dell-3576-black-228x228.jpg",
-            "price": "44000",
+            "price": "38900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3576-i3-laptop",
             "product_title": "Dell Inspiron 15-3576 Core i3 8th Gen 15.6\" HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5482/5482-4-228x228.jpg",
-            "price": "66000",
+            "price": "58200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5482-core-i3-laptop",
             "product_title": "Dell Inspiron 5482 2-in-1 Core i3 14\" Full HD Touch Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5570/dell-5570-2-228x228.jpg",
-            "price": "46500",
+            "price": "41400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-i3-8th-gen-laptop",
             "product_title": "Dell Inspiron 5570 Core i3 8th Gen Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3480/dell-3480-228x228.png",
-            "price": "45500",
+            "price": "38600",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3480-i5-laptop",
             "product_title": "Dell Inspiron 14-3480 8th Gen Core i3 Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3580/dell-3580-228x228.png",
-            "price": "45500",
+            "price": "38600",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3580-i3-laptop",
             "product_title": "Dell Inspiron 15-3580 8th Gen Core i3 Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3580/dell-3580-228x228.png",
-            "price": "75000",
+            "price": "67400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3580-i7-laptop",
             "product_title": "Dell Inspiron 15-3580 8th Gen Core i7 2TB HDD 15.6\" Full HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5480/dell-5480-228x228.jpg",
-            "price": "63000",
+            "price": "57200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5480-i5-laptop",
             "product_title": "Dell Inspiron 14-5480 Core i5 8th Gen 14.0\" FHD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3580/dell-3580-228x228.png",
-            "price": "57200",
+            "price": "52200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3580-i5-laptop",
             "product_title": "Dell Inspiron 15-3580 8th Gen Core i5 15.6\" Full HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-5480/5480-228x228.jpg",
             "price": "62500",
             "product_link": "https://www.startech.com.bd/dell-latitude-5480-core-i5-laptop",
             "product_title": "Dell Latitude 5480 Core i5 7th Gen 14\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3476/inspiron-3476-228x228.jpg",
-            "price": "51500",
+            "price": "47900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3476-i5-laptop",
             "product_title": "Dell Inspiron 14-3476 Core i5 8th Gen Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3568/3568-228x228.jpg",
-            "price": "37000",
+            "price": "42500",
             "product_link": "https://www.startech.com.bd/dell-vostro-3568-core-i3-7th-gen-laptop",
             "product_title": "Dell Vostro 3568 7th Gen Core i3 15.6\" HD Laptop ",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/vostro-5370-8gb/vostro-13-5370-2-228x228.jpg",
             "price": "72000",
             "product_link": "https://www.startech.com.bd/dell-vostro-5370-4gb-laptop",
             "product_title": "DELL VOSTRO 5370 Core i5 8th Gen 13\" Full HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3490/3490-2-228x228.jpg",
             "price": "64500",
             "product_link": "https://www.startech.com.bd/dell-latitude-3490-core-i5-laptop",
             "product_title": "Dell Latitude 3490 Core i5 8th Gen 14\" HD Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/7370/Dell-13-7370-1-228x228.JPG",
-            "price": "88000",
+            "price": "87400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-13-7370-8th-gen-i5-laptop",
             "product_title": "Dell Inspiron 13 7370 Core i5 8th Gen 13.3\" Full HD Laptop ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-7490/latitude-7490-228x228.jpg",
             "price": "118000",
             "product_link": "https://www.startech.com.bd/dell-latitude-7490-core-i7-8th-gen-laptop",
             "product_title": "Dell Latitude 7490 Core i7 8th Gen. 8GB 14\" HD Laptop",
-            "status": "available"
+            "ram": "",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3580/dell-3580-228x228.png",
-            "price": "75500",
+            "price": "67900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3580-i7-256gb-ssd-laptop",
             "product_title": "Dell Inspiron 15-3580 Core i7 256GB SSD 15.6\" Full HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3567/dell-3567-1-228x228.jpg",
             "price": "60000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3567-core-i7-laptop",
             "product_title": "Dell Inspiron 3567 Core i7 7th Gen 8GB Ram 15.6\" Laptop ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5570/5570-228x228.jpg",
             "price": "84000",
             "product_link": "https://www.startech.com.bd/dell-5570-core-i7-2tb-hdd-laptop",
             "product_title": "Dell Inspiron 15 5570 Core i7 8th Gen 15.6\" Full HD Laptop with Genuine Win 10 ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/8th-gen/i7-laptop/dell-15-5570-1-228x228.jpg",
             "price": "88500",
             "product_link": "https://www.startech.com.bd/dell-inspiron--5570-8th-gen-i7-laptop",
             "product_title": "Dell Inspiron 5570 Core i7 8th Gen 15.6\" Full HD Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "2TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/7370/Dell-13-7370-1-228x228.JPG",
             "price": "104500",
             "product_link": "https://www.startech.com.bd/dell-Inspiron-13-7370-8th-gen-i7-laptop",
             "product_title": "Dell Inspiron 13 7370 Core i7 8th Gen 256GB SSD Full HD 13.3\" Laptop ",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3480/dell-3480-228x228.png",
-            "price": "52000",
+            "price": "46400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3480-i5-laptop",
             "product_title": "Dell Inspiron 14-3480 8th Gen Core i5 Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5480/dell-5480-228x228.jpg",
-            "price": "70500",
+            "price": "69900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5480-i5-2gb-graphics-card",
             "product_title": "Dell Inspiron 5480 Core i5 8th Gen 14.0\" FHD Laptop With 2GB Graphics",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5480/dell-5480-228x228.jpg",
-            "price": "73000",
+            "price": "64400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5480-core-i5-256gb-ssd-laptop",
             "product_title": "Dell Inspiron 5480 Core i5 8th Gen 256GB SSD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/8th-gen/i5-laptop/dell-15-5570-1-228x228.jpg",
-            "price": "64000",
+            "price": "61900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-i5-1tb-hdd-laptop",
             "product_title": "Dell Inspiron 5570 Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9370/9370-228x228.jpg",
-            "price": "155000",
+            "price": "153400",
             "product_link": "https://www.startech.com.bd/dell-xps-13-9370-i5-laptop",
             "product_title": "Dell XPS-9370 Core i5 8th Gen 13.3\" UHD Touch Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3480/dell-3480-228x228.png",
             "price": "56000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3480-i5-graphics-laptop",
             "product_title": "Dell Inspiron 14-3480 8th Gen Core i5 14\" HD Laptop With 2GB Graphics",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/7390/7390-1-228x228.jpg",
             "price": "133700",
             "product_link": "https://www.startech.com.bd/dell-latitude-7390-core-i5-laptop",
             "product_title": "Dell Latitude 7390 2-in-1 Core i5 8th Gen 13.3\" Full HD Touch Screen Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/7390/7390-8-228x228.jpg",
-            "price": "149000",
+            "price": "171400",
             "product_link": "https://www.startech.com.bd/dell-latitude-7390-core-i7-laptop",
             "product_title": "Dell Latitude 7390 Core i7 8th Gen 13.3\" Full HD  Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3476/inspiron-3476-228x228.jpg",
             "price": "66000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3476-core-i7-laptop",
             "product_title": "Dell Inspiron 14-3476 Core i7 8th Gen 14\" HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/8th-gen/i7-laptop/dell-15-5570-1-228x228.jpg",
-            "price": "74000",
+            "price": "66400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-i5-4gb-graphics-laptop",
             "product_title": "Dell Inspiron 5570 Core i5 8th Gen 15.6\" Full HD Laptop With 4GB  Graphics",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/8th-gen/i7-laptop/dell-15-5570-1-228x228.jpg",
-            "price": "88000",
+            "price": "78900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-core-i7-laptop",
             "product_title": "Dell Inspiron 5570 Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9370/9370-228x228.jpg",
             "price": "175000",
             "product_link": "https://www.startech.com.bd/dell-xps-13-9370-i7-laptop",
             "product_title": "Dell XPS-9370 Core i7 8th Gen 13.3\" UHD Touch Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiration-7588/dell-7588-228x228.jpg",
             "price": "156000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-7588-i7-gaming-laptop",
             "product_title": "Dell Inspiron G7 15-7588 Core i7 8th Gen 6gb Graphics 15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-3480/dell-3480-228x228.png",
-            "price": "66500",
+            "price": "65900",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3480-core-i7-laptop",
             "product_title": "Dell Inspiron 14-3480 8th Gen Core i7 14\" HD Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5480/dell-5480-228x228.jpg",
-            "price": "74500",
+            "price": "66400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5480-i5-graphics-laptop",
             "product_title": "Dell Inspiron 14-5480 Core i5 8th Gen 14.0\" Full HD Laptop With 2GB Graphics",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5480/dell-5480-228x228.jpg",
             "price": "92000",
             "product_link": "https://www.startech.com.bd/dell-nspiron-14-5480-core-i7-laptop",
             "product_title": "Dell Inspiron 14-5480 Core i7 8th Gen 14.0\" Full HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "55000",
             "product_link": "https://www.startech.com.bd/dell-n5567-7th-gen-i5-2gb-graphics-and-windows",
             "product_title": "Dell Inspiron n5567 7th Gen Core i5 15.6\" Laptop with Windows",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "54000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-5567-i5-7th-gen-8gb-ram",
             "product_title": "Dell Inspiron n5567 7th Gen i5 15.6\" HD Laptop with 2GB Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/DELL INSPIRON 14-3467 i3 7th Gen-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/DELL%20INSPIRON%2014-3467%20i3%207th%20Gen-228x228.jpg",
             "price": "44000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3467-i5-7th-gen",
             "product_title": "Dell Inspiron n3467 7th Gen Core i5 14\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3576/dell-3576-black-228x228.jpg",
             "price": "52000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3576-i5-laptop",
             "product_title": "Dell Inspiron 15-3576 Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9575/9575-228x228.jpg",
             "price": "155000",
             "product_link": "https://www.startech.com.bd/dell-xps-15-9575-core-i7-laptop",
             "product_title": "Dell XPS 15-9575 Core i7 15.6\" Full HD Touch screen UltraBook",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5482/5482-4-228x228.jpg",
             "price": "115000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5482-core-i7-touch-laptop",
             "product_title": "Dell Inspiron 5482 14\" 2-in-1 Core i7 Full HD Touch Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5482/5482-grey-228x228.png",
-            "price": "88000",
+            "price": "78400",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5482-i5-laptop",
             "product_title": "Dell Inspiron 5482 14\" Core i5 Full HD Touch Laptop With Genuine Windows 10",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-3567 i3/DELL Inspiron 15-3567-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-3567%20i3/DELL%20Inspiron%2015-3567-1-228x228.jpg",
             "price": "46500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3567-i5-7th-gen",
             "product_title": "Dell Inspiron n3567 7th Gen Core i5  15.6\" HD Laptop with AMD Radeon\u2122 2GB Graphics ",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-3567 i3/DELL Inspiron 15-3567-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-3567%20i3/DELL%20Inspiron%2015-3567-1-228x228.jpg",
             "price": "45500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3567-core-i5-laptop",
             "product_title": "Dell Inspiron n3567 7th Gen Core i5 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-14-5468/inspiron-14-5468-228x228.jpg",
             "price": "40000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-5468-7th-gen-i5-laptop",
             "product_title": "Dell Inspiron 14-5468 7th Gen i5 14\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3467/1-228x228.jpg",
             "price": "33000",
-            "product_link": "https://www.startech.com.bd/dell-inspiron-14-3467-i3-laptop ",
+            "product_link": "https://www.startech.com.bd/dell-inspiron-14-3467-i3-laptop%20",
             "product_title": "Dell Inspiron 14-3467 6th Gen Core i3 14\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-7577/dell-inspiron-7577-228x228.jpg",
             "price": "116000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-7577-core-i7-gaming-laptop",
             "product_title": "Dell Inspiron 15-7577 Core i7 7th Gen 15.6\" Full HD Gaming laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "68500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-5567-2tb-hdd-laptop",
             "product_title": "Dell Inspiron 5567 7th Gen Core i7 8GB Ram 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "37200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-5567-i3-7th",
             "product_title": "Dell Inspiron n5567 7th Gen Core i3 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/vostro/dell_vostro-228x228.jpg",
             "price": "67500",
             "product_link": "https://www.startech.com.bd/dell-vostro-5468-7th-gen-i7-4gb-graphics",
             "product_title": "Dell Vostro 5468 7th Gen Core i7 8GB Ram 14\" HD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/DELL Vostro 5468 7th Generation Intel Core i5-22-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/DELL%20Vostro%205468%207th%20Generation%20Intel%20Core%20i5-22-228x228.jpg",
             "price": "54000",
             "product_link": "https://www.startech.com.bd/dell-vostro-5468-i5-laptop",
             "product_title": "Dell Vostro 5468 7th Gen i5 14\" Laptop with 2GB Graphics",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5471/dell-5471-2-228x228.jpg",
             "price": "92000",
             "product_link": "https://www.startech.com.bd/dell-vostro-5471-i7-laptop",
             "product_title": "Dell Vostro 5471 8th Gen Core i7 14\" Full HD Laptop with Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5570/dell-5570-3-228x228.jpg",
             "price": "39700",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-core-i3-8th-gen-laptop",
             "product_title": "Dell Inspiron 15 5570 Core i3 8th Gen 15.6\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3573/3552-1-228x228.jpg",
             "price": "26300",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3552",
             "product_title": "Dell Inspiron n3552 Pentium Quad Core 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/dell-5379/5379-10-228x228.jpg",
             "price": "76000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-13-5379-core-i5-8th-gen-laptop",
             "product_title": "Dell inspiron 13-5379 Core i5 8th Gen 13.3 Full HD Touch Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3476/inspiron-3476-228x228.jpg",
             "price": "38700",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3476-i3-laptop",
             "product_title": "Dell Inspiron 14-3476 Core i3 8th Gen 14.0\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3476/inspiron-3476-228x228.jpg",
             "price": "56000",
             "product_link": "https://www.startech.com.bd/dell-3476-core-i5-graphics-laptop",
             "product_title": "Dell Inspiron 14-3476 Core i5 8th Gen 2GB Graphics 14.0\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-14-5468/inspiron-14-5468-228x228.jpg",
             "price": "32800",
             "product_link": "https://www.startech.com.bd/dell-nspiron-5468-i3-laptop",
             "product_title": "Dell Inspiron 14-5468 6th Gen Core i3 14\" HD Laptop",
-            "status": "available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-3567 i3/DELL Inspiron 15-3567-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-3567%20i3/DELL%20Inspiron%2015-3567-1-228x228.jpg",
             "price": "33500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3567-i3",
             "product_title": "Dell Inspiron 3567 7th Gen Core i3 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5570/dell-5570-228x228.jpg",
             "price": "57000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-5570-i5-graphics-laptop",
             "product_title": "Dell Inspiron 5570 Core i5 8th Gen 15.6\" Full HD Laptop With 2GB Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "120GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "53800",
             "product_link": "https://www.startech.com.bd/Dell-5567-core-i5-4gb-ram-2gb-graphics-laptop",
             "product_title": "Dell Inspiron n5567 7th Gen i5 15.6\" Laptop with 2GB Graphics",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "56000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-5567-i5-4gb-graphics",
             "product_title": "Dell Inspiron n5567 7th Gen i5 15.6\" Laptop with 4GB Graphics",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell INSPIRON 15-5567 i3-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20INSPIRON%2015-5567%20i3-228x228.jpg",
             "price": "52300",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-5567-core-i5-2tb-hdd-graphics-laptop",
             "product_title": "Dell Inspiron n5567 i5 7th Gen 4GB Ram 2 TB HDD With Graphics 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/dell-3578/vostro-3000-228x228.jpg",
             "price": "49000",
             "product_link": "https://www.startech.com.bd/dell-vostro-3578-core-i5-laptop",
             "product_title": "Dell Vostro 15\u20133578 Core i5 8th Gen 15.6\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/3478/3478-228x228.jpg",
             "price": "57000",
             "product_link": "https://www.startech.com.bd/dell-vostro-3478-core-i5-laptop",
             "product_title": "Dell Vostro 3478 8th Gen Core i5 14\" HD Laptop With Graphics",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/vostro-5471/vostro-5471-228x228.jpg",
             "price": "80000",
             "product_link": "https://www.startech.com.bd/dell-vostro-5471-core-i5-8th-gen-graphics-laptop",
             "product_title": "Dell Vostro 5471 Core i5 8th Gen 14\" Full HD with Graphics Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell i5/55-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%20i5/55-228x228.jpg",
             "price": "68500",
             "product_link": "https://www.startech.com.bd/dell-vostro-5568-i7-laptop",
             "product_title": "Dell Vostro 5568 7th Gen Core i7 8GB Ram 15.6\" HD Laptop ",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/5471/dell-5471-2-228x228.jpg",
             "price": "59500",
             "product_link": "https://www.startech.com.bd/dell-vostro-5471-core-i5-8th-gen-laptop",
             "product_title": "Dell Vostro 5471 Core i5 8th Gen 14\" Full HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell i5/55-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%20i5/55-228x228.jpg",
             "price": "54000",
             "product_link": "https://www.startech.com.bd/dell-vostro-5568-i5-2gb-graphics-laptop",
             "product_title": "Dell Vostro 5568 7th Gen Core i5 4GB Ram 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9570/xps-9570-228x228.jpg",
             "price": "157000",
             "product_link": "https://www.startech.com.bd/dell-xps-9570-core-i7-256gb-ssd-laptop",
             "product_title": "Dell XPS 9570 Core i7 8th Gen 256GB SSD 15.6\" Full HD Laptop With Windows 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9570/xps-9570-228x228.jpg",
             "price": "175000",
             "product_link": "https://www.startech.com.bd/dell-xps-9570-i7-laptop",
             "product_title": "Dell XPS 9570 Core i7 8th Gen 15.6\" Full HD Display UltraBook",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "",
+            "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-7577/dell-inspiron-7577-228x228.jpg",
             "price": "138000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-7577-core-i7-16gb-ram-graphics-gaming-laptop",
             "product_title": "Dell Inspiron 15-7577 Core i7 7th Gen 16GB Ram 1060 6 GB Graphics 15.6\" UHD Gaming laptop",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-7566/DELL Inspiron 15-7566-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-7566/DELL%20Inspiron%2015-7566-228x228.jpg",
             "price": "72300",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-7566-6th-gen-i5",
             "product_title": "Dell Inspiron n7566 6th Gen Core i5 15.6\" Full HD Gaming Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-7566/DELL Inspiron 15-7566-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-7566/DELL%20Inspiron%2015-7566-228x228.jpg",
             "price": "91500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-7567-7th-gen-i5",
             "product_title": "Dell Inspiron n7567 7th Gen Core i5 4GB Ram 15.6\" FHD Gaming Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-3567 i3/DELL Inspiron 15-3567-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-3567%20i3/DELL%20Inspiron%2015-3567-1-228x228.jpg",
             "price": "46500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-3567-8gb-ram-i5-laptop",
             "product_title": "Dell Inspiron n3567 7th Gen i5 8GB Ram 15.6\" Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/DELL INSPIRON 14-3467 i3 7th Gen-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/DELL%20INSPIRON%2014-3467%20i3%207th%20Gen-228x228.jpg",
             "price": "34200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-14-3467-i3-7th-gen",
             "product_title": "Dell Inspiron n3467 7th Gen i3 14\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell 7th Gen/Dell Vostro N3468 7th Gen-228x228.JPG",
+            "brand": "Dell",
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%207th%20Gen/Dell%20Vostro%20N3468%207th%20Gen-228x228.JPG",
             "price": "45500",
             "product_link": "https://www.startech.com.bd/dell-vostro-n3468-7th-gen",
             "product_title": "Dell Vostro 3468 7th Gen Core i5 14\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell Inspiron 15-3552/Dell Inspiron 15-3552 Celeron-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%20Inspiron%2015-3552/Dell%20Inspiron%2015-3552%20Celeron-1-228x228.jpg",
             "price": "24500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3552-celeron",
             "product_title": "Dell Inspiron n3552 Celeron Dual Core 15.6\" HD Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-3567 i3/Inspiron 15 3567-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-3567%20i3/Inspiron%2015%203567-228x228.jpg",
             "price": "32200",
             "product_link": "https://www.startech.com.bd/dell-inspiron-15-3567-i3-6th-gen",
             "product_title": "Dell Inspiron n3567 6th Gen i3 15.6\" Laptop",
-            "status": "not available"
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-7566/DELL Inspiron 15-7566-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-7566/DELL%20Inspiron%2015-7566-228x228.jpg",
             "price": "109500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-7567-i7-28gb-ssd-graphics-laptop",
             "product_title": "Dell Inspiron 7567 7th Gen Core i7 8GB Ram With Graphics 15.6\" Gaming Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/dell-5379/5379-10-228x228.jpg",
             "price": "86000",
             "product_link": "https://www.startech.com.bd/dell-inspiron-13-5379-core-i7-8th-gen-laptop",
             "product_title": "Dell inspiron 13-5379 Core i7 8th Gen 13.3 Full HD Touch Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell XPS 13-9360/Dell XPS 13-9360-1-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/Dell%20XPS%2013-9360/Dell%20XPS%2013-9360-1-228x228.jpg",
             "price": "136000",
             "product_link": "https://www.startech.com.bd/dell-xps-13-9360-i7",
             "product_title": "Dell XPS 13-9360 Core i7 7th Gen 8GB Ram 256GB SSD 13.3\"  FHD Laptop",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-9575/9575-228x228.jpg",
             "price": "210000",
             "product_link": "https://www.startech.com.bd/dell-xps-9575512gb-ssd-i7-laptop",
             "product_title": "Dell XPS 15-9575 Core i7 15.6\" 4K (3840x1960 Touch screen UltraBook",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL Inspiron 15-7566/DELL Inspiron 15-7566-228x228.jpg",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/DELL%20Inspiron%2015-7566/DELL%20Inspiron%2015-7566-228x228.jpg",
             "price": "119500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-7567-i7-with-graphics-ssd-windows-laptop",
             "product_title": "Dell Inspiron 7567 7th Gen Core i7 16GB Ram 1TB+256GB SSD With Graphics 15.6\" Gaming Laptop",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiration-7588/dell-7588-228x228.jpg",
             "price": "105000",
             "product_link": "https://www.startech.com.bd/dell-7588-i7-4gb-graphics-laptop",
             "product_title": "Dell Inspiron G7 15-7588 Core i7 8th Gen15.6\" Full HD Gaming Laptop With Genuine Win 10",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "dell",
+            "brand": "Dell",
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/dell/7370/Dell-13-7370-1-228x228.JPG",
             "price": "119500",
             "product_link": "https://www.startech.com.bd/dell-inspiron-13-7370-i7-8th-gen-512gb-ssd",
             "product_title": "Dell Inspiron 13 7370 Core i7 8th Gen 512GB SSD Full HD 13.3\" Laptop ",
-            "status": "not available"
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "512GB"
+            },
+            "website": "startech.com.bd"
         }
     ]
 }

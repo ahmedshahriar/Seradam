@@ -1,140 +1,212 @@
 {
     "Products": [
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "10\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-go/surface-go-228x228.png",
+            "price": "60000",
+            "product_link": "https://www.startech.com.bd/microsoft-surface-go-laptop",
+            "product_title": "Microsoft Surface Go Pentium 8GB Ram 128GB SSD 10 Inch Touch Laptop With Windows 10 (MCZ-00001)",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
             "price": "95500",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro6-core-i5-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram 128GB SSD",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
             "price": "106500",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro6-i5-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram-128GB SSD with Type Cover keyboard",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
             "price": "120000",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-256gb-ssd",
             "product_title": "Microsoft Surface Pro 6, 8th Gen Core i5, 8GB, 256GB SSD, 12.3 Inch (2736x1824) Touch Display, Win 10, Black ",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "13.5\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-book-2/book2-228x228.jpg",
             "price": "120500",
             "product_link": "https://www.startech.com.bd/microsoft-surface-book-2-core-i5-256gb-ssd",
             "product_title": "Microsoft surface book 2 Core i5 8GB Ram 256GB SSD",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
             "price": "133500",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-Core-i5-keyboard-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram 256GB SSD with Type Cover keyboard",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
             "price": "149000",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-8th-gen-core-i7-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 8GB Ram 256GB SSD 12.3 Inch Touch Laptop",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
             "price": "160000",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-Core-i7-keyboard-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 8GB Ram 256GB SSD with Type Cover keyboard",
-            "status": "available"
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
             "price": "190000",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-512gb-ssd-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 16GB Ram 512GB SSD 12.3 Inch Multitouch Laptop",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
             "price": "201000",
             "product_link": "https://www.startech.com.bd/microsoft-surfac-pro-6-i7-touch-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 16GB Ram 512GB SSD with Type Cover keyboard",
-            "status": "available"
+            "ram": "16GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/microsoft/surface-dial/surface-dial-228x228.jpg",
-            "price": "11000",
-            "product_link": "https://www.startech.com.bd/microsoft-surface-dial",
-            "product_title": "Microsoft Surface Dial",
-            "status": "available"
-        },
-        {
-            "brand": "microsoft",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/microsoft/surface-pen-stylet-pluma/surface-pen-stylet-pluma-228x228.jpg",
-            "price": "11000",
-            "product_link": "https://www.startech.com.bd/surface-pen-stylet-pluma",
-            "product_title": "Microsoft Surface Pen Stylet Pluma",
-            "status": "available"
-        },
-        {
-            "brand": "microsoft",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/microsoft/surface-black/black-228x228.jpg",
-            "price": "11000",
-            "product_link": "https://www.startech.com.bd/microsoft-surface-pro-black-keyboard",
-            "product_title": "Microsoft Surface Pro Type Cover Keyboard - Black",
-            "status": "available"
-        },
-        {
-            "brand": "microsoft",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/alcantara/alcantara-228x228.jpg",
-            "price": "13999",
-            "product_link": "https://www.startech.com.bd/surface-pro-ffq-00001-signature-cover",
-            "product_title": "Microsoft Surface Pro Alcantara Signature Type Cover Keyboard",
-            "status": "available"
-        },
-        {
-            "brand": "microsoft",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/microsoft/surface-dock/surface-dock-5-228x228.jpg",
-            "price": "18500",
-            "product_link": "https://www.startech.com.bd/microsoft-surface-dock",
-            "product_title": "Microsoft Surface Dock",
-            "status": "not available"
-        },
-        {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
             "price": "103500",
             "product_link": "https://www.startech.com.bd/surface-pro-2017-core-i5",
             "product_title": "Microsoft Surface Pro 7th Gen Core i5, 8GB Ram, 256GB SSD",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
             "price": "90000",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-i5-128gb-ssd",
             "product_title": "Microsoft Surface Pro 7th Gen Core i5, 8GB Ram, 128GB SSD",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
         },
         {
-            "brand": "microsoft",
+            "brand": "Microsoft",
+            "display_size": "12.3\"",
+            "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
             "price": "135000",
             "product_link": "https://www.startech.com.bd/surface-pro-core-i7-laptop",
             "product_title": "Microsoft Surface Pro 7th gen Core i7 8GB Ram, 256GB SSD",
-            "status": "not available"
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
         }
     ]
 }
