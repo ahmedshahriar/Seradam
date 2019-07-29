@@ -17,7 +17,6 @@ import Checkbox from "@material-ui/core/Checkbox";
 //sortby
 import NativeSelect from "@material-ui/core/NativeSelect";
 
-//price
 const useStyles = makeStyles(theme => ({
   root: {
     padding: 15
@@ -55,6 +54,8 @@ const MenuProps = {
   }
 };
 
+let flag = 0;
+
 export default function Filter(props) {
   //console.log(props.filterPrice);
   const classes = useStyles();
@@ -62,21 +63,25 @@ export default function Filter(props) {
   let max = props.filterPrice[props.filterPrice.length - 1];
   //price
   const [price, setPrice] = React.useState([min, max]);
-
   const handleChangePrice = (event, newValue) => {
     setPrice(newValue);
+    flag = 1;
   };
 
   //brand
-  const [brandName, setbrandName] = React.useState([]);
+  const [brandName, setBrandName] = React.useState(props.filterBrandNames);
   function handleChangeBrand(event) {
-    setbrandName(event.target.value);
+    setBrandName(event.target.value);
+    flag = 1;
+    //console.log(brandName);
   }
 
   //site
-  const [siteName, setsiteName] = React.useState([]);
+  const [siteName, setsiteName] = React.useState(props.filterSiteNames);
   function handleChangeSite(event) {
     setsiteName(event.target.value);
+    flag = 1;
+    //console.log(siteName);
   }
 
   //sortby
@@ -90,6 +95,11 @@ export default function Filter(props) {
       [name]: event.target.value
     });
   };
+
+  if (flag) {
+    props.filterResults(price, brandName, siteName);
+    flag = 0;
+  }
 
   return (
     <Container component="main">

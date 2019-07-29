@@ -1,7 +1,7 @@
 import React from "react";
 import { Route } from "react-router-dom";
 import Home from "./containers/home";
-import SearchResults from "./containers/test_searchresults";
+import SearchResults from "./containers/searchResults";
 
 const BaseRouter = () => (
   <div>

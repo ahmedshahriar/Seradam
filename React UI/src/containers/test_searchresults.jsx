@@ -236,7 +236,7 @@ class SearchResults extends Component {
   };
 
   FilterResults = (price, brandName, siteName) => {
-    const filterResults = [];
+    let filterResults = [];
     //console.log(price);
     //console.log(brandName);
     //console.log(siteName);
@@ -249,22 +249,50 @@ class SearchResults extends Component {
         }
       }
     }
+
     //filtering sites
     let site = [];
-    for (const items of filterResults) {
-      for (const x of items.website) {
+    let fres = [];
+    for (const a of filterResults) {
+      site = [];
+      for (const x of a.website) {
         for (const item of siteName) {
           if (x.sitename === item) {
             if (!site.includes(x)) site.push(x);
           }
         }
-        items.website = site;
-        site = [];
+      }
+      if (site.length > 0) {
+        if (!fres.includes(a)) {
+          a.website = site;
+          fres.push(a);
+        }
       }
     }
-    //console.log(site);
+    filterResults = fres;
+
+    //filtering price
+    site = [];
+    fres = [];
+    for (const a of filterResults) {
+      site = [];
+      for (const x of a.website) {
+        if (x.price >= price[0] && x.price <= price[1]) {
+          if (!site.includes(x)) site.push(x);
+        }
+      }
+      if (site.length > 0) {
+        if (!fres.includes(a)) {
+          a.website = site;
+          fres.push(a);
+        }
+      }
+    }
+    filterResults = fres;
+
     this.setState({ filterResults });
-    console.log(this.state.filterResults);
+    //console.log(this.state.searchResults);
+    //console.log(filterResults);
   };
 
   render() {

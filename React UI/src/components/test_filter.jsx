@@ -65,6 +65,7 @@ export default function Filter(props) {
   const [price, setPrice] = React.useState([min, max]);
   const handleChangePrice = (event, newValue) => {
     setPrice(newValue);
+    flag = 1;
   };
 
   //brand
