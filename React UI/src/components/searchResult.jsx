@@ -50,7 +50,7 @@ TabContainer.propTypes = {
   children: PropTypes.node.isRequired
 };
 
-export default function SimpleExpansionPanel(props) {
+export default function SearchResult(props) {
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
 
@@ -58,53 +58,52 @@ export default function SimpleExpansionPanel(props) {
     setValue(newValue);
   }
 
-  function FormatSite1() {
-    return props.searchResult.site1price === undefined ? (
-      ""
-    ) : (
+  function PrintDescription() {
+    return (
       <React.Fragment>
-        <Typography variant="body2" gutterBottom>
-          <Button size="small" variant="contained" color="primary" fullWidth>
-            <Link href={props.searchResult.site1url} color="inherit">
-              {props.searchResult.site1name} <br />
-              {props.searchResult.site1price}
-            </Link>
-          </Button>
-        </Typography>
+        <ul>
+          {props.searchResult.description.map(description => (
+            <li>{description}</li>
+          ))}
+        </ul>
       </React.Fragment>
     );
   }
 
-  function FormatSite2() {
-    return props.searchResult.site2price === undefined ? (
-      ""
-    ) : (
+  function PrintUrlButton() {
+    return (
       <React.Fragment>
-        <Typography variant="body2" gutterBottom>
-          <Button size="small" variant="contained" color="primary" fullWidth>
-            <Link href={props.searchResult.site2url} color="inherit">
-              {props.searchResult.site2name} <br />
-              {props.searchResult.site2price}
-            </Link>
-          </Button>
-        </Typography>
+        {props.searchResult.website.map(urlbutton => (
+          <Typography variant="body2" gutterBottom>
+            <Button size="small" variant="contained" color="primary" fullWidth>
+              <Link
+                href={urlbutton.p_link}
+                target="_blank"
+                rel="noreferrer"
+                color="inherit"
+              >
+                {urlbutton.sitename} <br />
+                {urlbutton.price} ৳
+                <br />
+                {urlbutton.status}
+              </Link>
+            </Button>
+          </Typography>
+        ))}
       </React.Fragment>
     );
   }
 
-  function FormatSite3() {
-    return props.searchResult.site3price === undefined ? (
-      ""
-    ) : (
+  function PrintImage() {
+    return (
       <React.Fragment>
-        <Typography variant="body2" gutterBottom>
-          <Button size="small" variant="contained" color="primary" fullWidth>
-            <Link href={props.searchResult.site3url} color="inherit">
-              {props.searchResult.site3name} <br />
-              {props.searchResult.site3price}
-            </Link>
-          </Button>
-        </Typography>
+        {props.searchResult.website.map(site => (
+          <img
+            className={classes.image}
+            alt={site.sitename}
+            src={site.img_link}
+          />
+        ))}
       </React.Fragment>
     );
   }
@@ -123,8 +122,8 @@ export default function SimpleExpansionPanel(props) {
                 <ButtonBase className={classes.image}>
                   <img
                     className={classes.img}
-                    alt={props.searchResult.name}
-                    src={props.searchResult.imageUrl}
+                    alt=""
+                    src={props.searchResult.website[0].img_link}
                   />
                 </ButtonBase>
               </Grid>
@@ -139,19 +138,17 @@ export default function SimpleExpansionPanel(props) {
                 >
                   <Grid item xs zeroMinWidth>
                     <Typography gutterBottom variant="subtitle1">
-                      {props.searchResult.name}
+                      <b>{props.searchResult.title}</b>
                     </Typography>
                     <Typography variant="body2" gutterBottom>
-                      {props.searchResult.desc}
+                      <PrintDescription />
                     </Typography>
                   </Grid>
                 </Grid>
                 <center>
                   <Grid item xs container direction="column" spacing={2}>
                     <Grid item xs borderBottom={5}>
-                      <FormatSite1 />
-                      <FormatSite2 />
-                      <FormatSite3 />
+                      <PrintUrlButton />
                       <Typography variant="body2" gutterBottom>
                         <Button
                           size="small"
@@ -177,7 +174,12 @@ export default function SimpleExpansionPanel(props) {
                         color="primary"
                         fullWidth
                       >
-                        <Link href="https://google.com/" color="inherit">
+                        <Link
+                          href={props.searchResult.website[0].p_link}
+                          target="_blank"
+                          rel="noreferrer"
+                          color="inherit"
+                        >
                           Best Deal →
                         </Link>
                       </Button>
@@ -197,18 +199,20 @@ export default function SimpleExpansionPanel(props) {
             </AppBar>
           </ExpansionPanelDetails>
           {value === 0 && (
-            <TabContainer>{props.searchResult.desc}</TabContainer>
+            <TabContainer>
+              <PrintDescription />
+            </TabContainer>
           )}
           {value === 1 && (
             <TabContainer>
-              <img
-                className={classes.img}
-                alt={props.searchResult.name}
-                src={props.searchResult.imageUrl}
-              />
+              <PrintImage />
             </TabContainer>
           )}
-          {value === 2 && <TabContainer>Deals</TabContainer>}
+          {value === 2 && (
+            <TabContainer>
+              <PrintUrlButton />
+            </TabContainer>
+          )}
         </ExpansionPanel>
       </div>
     </Container>

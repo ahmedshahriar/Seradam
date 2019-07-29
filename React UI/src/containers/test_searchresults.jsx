@@ -3,7 +3,7 @@ import AppBar from "../components/myAppBar";
 import Footer from "../components/footer";
 import AdvancedSearchBar from "../components/advancedSearchBar";
 import SearchResult from "../components/searchResult";
-import Filter from "../components/filter";
+import Filter from "../components/test_filter";
 import axios from "axios";
 
 class SearchResults extends Component {
