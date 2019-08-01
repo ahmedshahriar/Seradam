@@ -1,4 +1,7 @@
 import React from "react";
+import { connect } from "react-redux";
+import * as actions from "../store/actions/auth";
+//import { Redirect } from "react-router-dom";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import CssBaseline from "@material-ui/core/CssBaseline";
@@ -37,8 +40,20 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function SignIn() {
+function SignIn(props) {
   const classes = useStyles();
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    props.onAuth(e.target.username.value, e.target.password.value);
+    //props.history.push("/");
+    //console.log(e.target.email.value);
+  }
+
+  let errorMessage = null;
+  if (props.error) {
+    errorMessage = <p>{props.error.message}</p>;
+  }
 
   return (
     <Container component="main" maxWidth="xs">
@@ -50,16 +65,17 @@ export default function SignIn() {
         <Typography component="h1" variant="h5">
           Sign in
         </Typography>
-        <form className={classes.form} noValidate>
+        <Typography>{errorMessage}</Typography>
+        <form onSubmit={handleSubmit} className={classes.form} noValidate>
           <TextField
             variant="outlined"
             margin="normal"
             required
             fullWidth
-            id="email"
-            label="Email Address"
-            name="email"
-            autoComplete="email"
+            id="username"
+            label="Username"
+            name="username"
+            autoComplete="username"
             autoFocus
           />
           <TextField
@@ -103,3 +119,22 @@ export default function SignIn() {
     </Container>
   );
 }
+
+const mapStateToProps = state => {
+  return {
+    loading: state.loading,
+    error: state.error
+  };
+};
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onAuth: (username, password) =>
+      dispatch(actions.authLogin(username, password))
+  };
+};
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(SignIn);

@@ -5,9 +5,10 @@ import SearchBar from "../components/searchBar";
 
 class HomePage extends Component {
   render() {
+    //console.log(this.props);
     return (
       <React.Fragment>
-        <AppBar />
+        <AppBar {...this.props} />
         <SearchBar />
         <Footer />
       </React.Fragment>

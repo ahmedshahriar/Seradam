@@ -1,4 +1,7 @@
 import React from "react";
+import { connect } from "react-redux";
+import * as actions from "../store/actions/auth";
+import { withRouter } from "react-router-dom";
 import SignIn from "./signIn";
 import SignUp from "./signUp";
 import Popover from "@material-ui/core/Popover";
@@ -17,7 +20,8 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function MyAppBar() {
+function MyAppBar(props) {
+  //console.log(props);
   const classes = useStyles();
 
   const [anchorEl, setAnchorEl] = React.useState(null);
@@ -51,50 +55,83 @@ export default function MyAppBar() {
           <Typography variant="h6" className={classes.title}>
             SeraDam.Com
           </Typography>
-          <Button aria-describedby={id} color="inherit" onClick={handleClick}>
-            Login
-          </Button>
-          <Popover
-            id={id}
-            open={open}
-            anchorEl={anchorEl}
-            onClose={handleClose}
-            anchorOrigin={{
-              vertical: "bottom",
-              horizontal: "center"
-            }}
-            transformOrigin={{
-              vertical: "top",
-              horizontal: "center"
-            }}
-          >
-            <Typography className={classes.typography}>
-              <SignIn />
-            </Typography>
-          </Popover>
-          <Button aria-describedby={id1} color="inherit" onClick={handleClick1}>
-            Sign Up
-          </Button>
-          <Popover
-            id={id1}
-            open={open1}
-            anchorEl={anchorEl1}
-            onClose={handleClose1}
-            anchorOrigin={{
-              vertical: "bottom",
-              horizontal: "center"
-            }}
-            transformOrigin={{
-              vertical: "top",
-              horizontal: "center"
-            }}
-          >
-            <Typography className={classes.typography}>
-              <SignUp />
-            </Typography>
-          </Popover>
+          {props.isAuthenticated ? (
+            <Button
+              aria-describedby={id}
+              color="inherit"
+              onClick={props.logout}
+            >
+              Logout
+            </Button>
+          ) : (
+            <React.Fragment>
+              <Button
+                aria-describedby={id}
+                color="inherit"
+                onClick={handleClick}
+              >
+                Login
+              </Button>
+              <Popover
+                id={id}
+                open={open}
+                anchorEl={anchorEl}
+                onClose={handleClose}
+                anchorOrigin={{
+                  vertical: "bottom",
+                  horizontal: "center"
+                }}
+                transformOrigin={{
+                  vertical: "top",
+                  horizontal: "center"
+                }}
+              >
+                <Typography className={classes.typography}>
+                  <SignIn />
+                </Typography>
+              </Popover>
+              <Button
+                aria-describedby={id1}
+                color="inherit"
+                onClick={handleClick1}
+              >
+                Sign Up
+              </Button>
+              <Popover
+                id={id1}
+                open={open1}
+                anchorEl={anchorEl1}
+                onClose={handleClose1}
+                anchorOrigin={{
+                  vertical: "bottom",
+                  horizontal: "center"
+                }}
+                transformOrigin={{
+                  vertical: "top",
+                  horizontal: "center"
+                }}
+              >
+                <Typography className={classes.typography}>
+                  <SignUp />
+                </Typography>
+              </Popover>
+            </React.Fragment>
+          )}
         </Toolbar>
       </AppBar>
     </div>
   );
 }
+
+const mapDispatchToProps = dispatch => {
+  return {
+    logout: () => dispatch(actions.logout())
+  };
+};
+
+export default withRouter(
+  connect(
+    null,
+    mapDispatchToProps
+  )(MyAppBar)
+);

@@ -48,7 +48,7 @@ class SearchResults extends Component {
         id: 2,
         brand: "Lenovo",
         title:
-          'HP 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
+          'Lenovo 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
         description: [
           "Processor - Intel PQC N5000",
           "Processor Clock Speed - 1.1-2.7GHz",
@@ -118,7 +118,7 @@ class SearchResults extends Component {
         id: 2,
         brand: "Lenovo",
         title:
-          'HP 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
+          'Lenovo 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
         description: [
           "Processor - Intel PQC N5000",
           "Processor Clock Speed - 1.1-2.7GHz",
@@ -199,15 +199,19 @@ class SearchResults extends Component {
     allSiteNames: ["StarTech", "Pickaboo", "Kiksha", "Google"]
   };
 
-  /*
   componentDidMount() {
-    axios.get('http://google.com/').then(res => {
-      this.setState({
-        searchResults=res.data
+    axios
+      .get(
+        "http://581293a8.ngrok.io/api/mapping/?brand=Acer&graphics_memory=8GB"
+      )
+      .then(res => {
+        // this.setState({
+        //   searchResults=res.data
+        // });
+        var a = res.content;
+        console.log(a);
       });
-    })
   }
-  */
 
   FilterSiteNames = () => {
     const result = [];
@@ -298,7 +302,7 @@ class SearchResults extends Component {
   render() {
     return (
       <React.Fragment>
-        <AppBar />
+        <AppBar {...this.props} />
         <AdvancedSearchBar
           category={this.state.category}
           allBrandNames={this.state.allBrandNames}
