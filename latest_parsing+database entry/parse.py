@@ -4,8 +4,8 @@ start = time.time()
 from ryans import *
 from startech import *
 
-# startech_parse_all_laptop()
-# ryans_parse_all_laptop()
+startech_parse_all_laptop()
+ryans_parse_all_laptop()
 
 
 

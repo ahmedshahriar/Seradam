@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
+from urllib.parse import urlencode
 import json
 import pprint
 
@@ -128,20 +129,33 @@ def ryans_analyze_storage(storage_text):
     return storage
 
 
+def ryans_analyze_processor(processor_text):
+    processor = ""
+    search = "Intel Core i"
+    if search in processor_text:
+        search_pos = processor_text.find(search)
+        key_pos = search_pos + len(search)
+        processor = search + processor_text[key_pos]
+
+    return processor
+
+
 def ryans_parse_laptop_list(url,brand):
 
     print("Ryans laptop parsing-"+brand)
     json_file = "./json/ryans/laptop/"+brand+".json"
 
+
     write_file = open(json_file, 'w')
     total_products = []
+    procecor = []
     page = 1
     print("page : ",end="")
-
     while url:
         print("page {}".format(page))
         page += 1
 
+        # html = urlopen(Request(url, headers=hdr))
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
@@ -161,6 +175,12 @@ def ryans_parse_laptop_list(url,brand):
             else:
                 price = str(product.find('div', {'class': 'price-box'}).span.span.text).replace("Tk ", '').replace(',', '')
 
+            try:
+                price = int(price)
+            except:
+                price = price
+
+
             details = ryans_parse_single_laptop_details(product_url)
 
             # doing this because in some product's details this filed may be missing
@@ -179,6 +199,7 @@ def ryans_parse_laptop_list(url,brand):
 
             status = "available"
 
+            print(details['Processor'])
             product_records = {
                 "status": status,
                 "img_link": img_link,
@@ -197,6 +218,7 @@ def ryans_parse_laptop_list(url,brand):
                 "website": "ryanscomputers.com"
             }
             total_products.append(product_records)
+            # total_products.append(details['Processor'])
         url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
         if url:
             url = url.get('href')

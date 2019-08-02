@@ -25,7 +25,7 @@ SECRET_KEY = '8a^e56u^0jxau#+tepm^%069%@rrlp0a!wh!=iy0!%aegk3ex2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0757a60f.ngrok.io','127.0.0.1']
 
 
 # Application definition
@@ -38,9 +38,19 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'rest_framework.authtoken',
+    'rest_auth',
+    'django.contrib.sites',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
+    'rest_auth.registration',
+
     'webs',
-    'corsheaders'
+    'corsheaders',
+
 ]
+SITE_ID = 1
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -81,7 +91,7 @@ WSGI_APPLICATION = 'django_mongo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'project2'
+        'NAME': 'project3'
     }
 }
 
@@ -130,7 +140,38 @@ REST_FRAMEWORK = {
     # or allow read-only access for unauthenticated users.
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
-    ]
+    ],
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.TokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+    ),
+    'TEST_REQUEST_DEFAULT_FORMAT': 'json'  # Use application/json instead of multipart/form-data requests in tests.
 }
 
+
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'hacker32079@gmail.com'
+EMAIL_HOST_PASSWORD = '@pwhacked'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
+
 CORS_ORIGIN_ALLOW_ALL=True
+
+ACCOUNT_EMAIL_VERIFICATION = "none"
+ACCOUNT_AUTHENTICATION_METHOD = "username"
+ACCOUNT_EMAIL_REQUIRED = False
+ACCOUNT_USERNAME_REQUIRED = True
+
+
+# for email
+
+# ACCOUNT_EMAIL_VERIFICATION = "optional"
+# ACCOUNT_AUTHENTICATION_METHOD = "email"
+# ACCOUNT_EMAIL_REQUIRED = True
+#
+# ACCOUNT_USERNAME_REQUIRED = False
+
+
+# ACCOUNT_CONFIRM_EMAIL_ON_GET = True
+
