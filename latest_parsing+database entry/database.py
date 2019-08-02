@@ -5,10 +5,10 @@ from pymongo import MongoClient
 
 
 client = MongoClient('localhost', 27017)
-db = client['project3']
-ryans_collection = db['webs_ryans']
-startech_collection = db['webs_startech']
-mapping_collection = db['webs_mapping']
+db = client['project']
+ryans_collection = db['products_ryans']
+startech_collection = db['products_startech']
+mapping_collection = db['products_mapping']
 
 brands = ['Acer', 'Apple', 'Asus', 'Chuwi', 'Dell', 'HP', 'iLife', 'Lenovo', 'Microsoft', 'MSI']
 
@@ -20,7 +20,6 @@ mapping_collection.drop()
 for brand in brands:
     ryans_path = "./json/ryans/laptop/"+brand+".json"
     startech_path = "./json/startech/laptop/"+brand+".json"
-
     ryans_product_list = json.loads(open(ryans_path).read())['Products']
     startech_product_list = json.loads(open(startech_path).read())['Products']
 
@@ -34,10 +33,10 @@ for brand in brands:
 ryans_path = "./json/ryans/laptop/Fujitsu.json"
 
 startech_path = "./json/startech/laptop/Razer.json"
-
+#
 ryans_product_list = json.loads(open(ryans_path).read())['Products']
 startech_product_list = json.loads(open(startech_path).read())['Products']
-
+#
 ryans_collection.insert_many(
     ryans_product_list
 )
@@ -55,7 +54,9 @@ for r in ryans:
         {
             "brand": r['brand'],
             'ram': r['ram'],
-            'graphics_memory': r['graphics_memory']
+            'graphics_memory': r['graphics_memory'],
+            'processor': r['processor'],
+            'storage': r['storage']
         })
     flag = 0
     print()
@@ -69,29 +70,29 @@ for r in ryans:
             mapped = True
             flag += 1
             mapping_collection.insert_one({
-                "brand" : r['brand'],
-                "description" : r['description'],
-                "display_size" : r['display_size'],
-                "display_type" : r['display_type'],
-                "graphics_memory" : r['graphics_memory'],
-                "img_link" : r['img_link'],
-                "model" : r['model'],
-                "product_title" : r['product_title'],
-                "ram" : r['ram'],
-                "ram_type" : r['ram_type'],
-                "storage" : r['storage'],
-                "websites" : [
+                "brand": r['brand'],
+                "description": r['description'],
+                "display_size": r['display_size'],
+                "graphics_memory": r['graphics_memory'],
+                "img_link": r['img_link'],
+                "product_title": r['product_title'],
+                "ram": r['ram'],
+                "ram_type": r['ram_type'],
+                "storage": r['storage'],
+                "websites": [
                     {
-                        "website_name" : r['website'],
-                        "price" : r['price'],
-                        "product_link" : r['product_link'],
-                        "status" : r['status']
+                        "website_name": r['website'],
+                        "price": r['price'],
+                        "product_link": r['product_link'],
+                        "status": r['status'],
+                        "img_link": r['img_link']
                     },
                     {
-                        "website_name" : s['website'],
-                        "price" : s['price'],
-                        "product_link" : s['product_link'],
-                        "status" : s['status']
+                        "website_name": s['website'],
+                        "price": s['price'],
+                        "product_link": s['product_link'],
+                        "status": s['status'],
+                        "img_link": s['img_link']
                     }
                 ]
                 # _id = models.CharField(primary_key=True, max_length=100)
@@ -102,11 +103,9 @@ for r in ryans:
             "brand": r['brand'],
             "description": r['description'],
             "display_size": r['display_size'],
-            "display_type": r['display_type'],
             "graphics_memory": r['graphics_memory'],
             "img_link": r['img_link'],
-            "model": r['model'],
-            "product_title": s['product_title'],
+            "product_title": r['product_title'],
             "ram": r['ram'],
             "ram_type": r['ram_type'],
             "storage": r['storage'],
@@ -115,8 +114,9 @@ for r in ryans:
                     "website_name": r['website'],
                     "price": r['price'],
                     "product_link": r['product_link'],
-                    "status": r['status']
-                }
+                    "status": r['status'],
+                    "img_link": r['img_link']
+                },
             ]
             # _id = models.CharField(primary_key=True, max_length=100)
 

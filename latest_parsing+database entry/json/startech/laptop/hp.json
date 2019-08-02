@@ -2,10 +2,19 @@
     "Products": [
         {
             "brand": "HP",
+            "description": [
+                "Processor - AMD E2",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/db0000au/db0000au-228x228.jpg",
-            "price": "26500",
+            "price": 26500,
+            "processor": "AMD E2",
             "product_link": "https://www.startech.com.bd/hp-15-db0000au-amd-dual-core-laptop",
             "product_title": "HP 15-db0000au AMD Dual Core E2-9000e 15.6\" HD Laptop",
             "ram": "4GB",
@@ -18,26 +27,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-cm0001au/cm0001au-228x228.jpg",
-            "price": "26500",
-            "product_link": "https://www.startech.com.bd/hp-cm0001au-laptop",
-            "product_title": "HP 14-cm0001au AMD Dual Core 14\" HD Laptop With Genuine Windows 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - AMD E2",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0001au/da0001au-228x228.jpg",
-            "price": "26500",
+            "price": 26500,
+            "processor": "AMD E2",
             "product_link": "https://www.startech.com.bd/hp-db0001au-amd-dual-core-laptop",
             "product_title": "HP 15-db0001au AMD Dual Core E2-9000e 15.6\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
@@ -50,10 +52,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - AMD E2",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0002au/db0002au-228x228.jpg",
-            "price": "26500",
+            "price": 26500,
+            "processor": "AMD E2",
             "product_link": "https://www.startech.com.bd/hp-db0002au-amd-dual-core-laptop",
             "product_title": "HP 15-db0002au AMD Dual Core E2-9000e 15.6\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
@@ -66,90 +77,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0021tu/da0021tu-228x228.jpg",
-            "price": "28000",
-            "product_link": "https://www.startech.com.bd/hp-da0021tu-cdc-laptop",
-            "product_title": "HP 15-da0021tu Celeron Dual Core 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0019tu/da0019tu-228x228.jpg",
-            "price": "28000",
-            "product_link": "https://www.startech.com.bd/hp-da0019tu-cdc-laptop",
-            "product_title": "HP 15-da0019tu Celeron Dual Core 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0020tu/da0020tu-228x228.jpg",
-            "price": "28000",
-            "product_link": "https://www.startech.com.bd/hp-da0020tu-cdc-laptop",
-            "product_title": "HP 15-da0020tu Celeron Dual Core 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck0004tu/hp-14-ck0004tu-1-228x228.jpg",
-            "price": "32000",
-            "product_link": "https://www.startech.com.bd/hp-14-ck0004tu-pentium-quad-core-laptop",
-            "product_title": "HP 14-ck0004TU Pentium Quad Core Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck0003tu/ck0003tu-228x228.jpg",
-            "price": "32000",
-            "product_link": "https://www.startech.com.bd/hp-14-ck0003tu-pqc-laptop",
-            "product_title": "HP 14-ck0003TU Pentium Quad Core Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14.1\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/240-g6/240-g6-228x228.jpg",
-            "price": "26500",
+            "price": 26500,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/hp-240-g6-cdc-laptop",
             "product_title": "HP 240 G6 Celeron Dual Core 14.1\" HD Laptop",
             "ram": "4GB",
@@ -162,76 +102,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g7/250-g7-228x228.png",
-            "price": "38800",
-            "product_link": "https://www.startech.com.bd/hp-250-g7-core-i3-laptop",
-            "product_title": "HP 250 G7 Core i3 7th Gen 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - AMD E2",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs732tu/bs732tu-228x228.jpg",
-            "price": "39800",
-            "product_link": "https://www.startech.com.bd/hp-bs732tu-core-i3-laptop",
-            "product_title": "HP 14-bs732tu Core i3 7th Gen 14\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0004tu/da0004tu-228x228.jpg",
-            "price": "39800",
-            "product_link": "https://www.startech.com.bd/hp-15-da0004tu-core-i3-laptop",
-            "product_title": "HP 15-da0004tu Core i3 7th Gen 15.6\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cm0096au/14-cm0096au-1-228x228.jpg",
-            "price": "40300",
-            "product_link": "https://www.startech.com.bd/hp-14-cm0096au-amd-ryzen3-laptop",
-            "product_title": "HP 14-cm0096au AMD Ryzen3 2200U 14\" Windows 10 Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0022tu/da0022tu-228x228.jpg",
-            "price": "32000",
-            "product_link": "https://www.startech.com.bd/hp-da0022tu-pqc-laptop",
-            "product_title": "HP 15-da0022tu Pentium Quad Core 15.6\" HD Laptop With Genuine WIn 10",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-cm0001au/cm0001au-228x228.jpg",
+            "price": 26500,
+            "processor": "AMD E2",
+            "product_link": "https://www.startech.com.bd/hp-cm0001au-laptop",
+            "product_title": "HP 14-cm0001au AMD Dual Core 14\" HD Laptop With Genuine Windows 10",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -242,12 +127,21 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0023tu/da0023tu-228x228.jpg",
-            "price": "32000",
-            "product_link": "https://www.startech.com.bd/hp-da0023tpqc-laptop",
-            "product_title": "HP 15-da0023tu Pentium Quad Core 15.6\" HD Laptop With Genuine WIn 10",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0021tu/da0021tu-228x228.jpg",
+            "price": 28000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-da0021tu-cdc-laptop",
+            "product_title": "HP 15-da0021tu Celeron Dual Core 15.6\" HD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -258,10 +152,69 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0019tu/da0019tu-228x228.jpg",
+            "price": 28000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-da0019tu-cdc-laptop",
+            "product_title": "HP 15-da0019tu Celeron Dual Core 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0020tu/da0020tu-228x228.jpg",
+            "price": 28000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-da0020tu-cdc-laptop",
+            "product_title": "HP 15-da0020tu Celeron Dual Core 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0024tu/da0024tu-228x228.jpg",
-            "price": "32000",
+            "price": 32000,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/hp-da0024tu-pqc-laptop",
             "product_title": "HP 15-da0024tu Pentium Quad Core 15.6\" HD Laptop With Genuine WIn 10",
             "ram": "4GB",
@@ -274,10 +227,244 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0023tu/da0023tu-228x228.jpg",
+            "price": 32000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-da0023tpqc-laptop",
+            "product_title": "HP 15-da0023tu Pentium Quad Core 15.6\" HD Laptop With Genuine WIn 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0022tu/da0022tu-228x228.jpg",
+            "price": 32000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-da0022tu-pqc-laptop",
+            "product_title": "HP 15-da0022tu Pentium Quad Core 15.6\" HD Laptop With Genuine WIn 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck0004tu/hp-14-ck0004tu-1-228x228.jpg",
+            "price": 32000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-14-ck0004tu-pentium-quad-core-laptop",
+            "product_title": "HP 14-ck0004TU Pentium Quad Core Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Others",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck0003tu/ck0003tu-228x228.jpg",
+            "price": 32000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/hp-14-ck0003tu-pqc-laptop",
+            "product_title": "HP 14-ck0003TU Pentium Quad Core Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/240-g7/240-g7-228x228.jpg",
+            "price": 38800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-240-g7-i3-7th-genlaptop",
+            "product_title": "HP 240 G7 Core i3 7th Gen 14.1\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g7/250-g7-228x228.png",
+            "price": 38800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-250-g7-core-i3-laptop",
+            "product_title": "HP 250 G7 Core i3 7th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0004tu/da0004tu-228x228.jpg",
+            "price": 39800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-15-da0004tu-core-i3-laptop",
+            "product_title": "HP 15-da0004tu Core i3 7th Gen 15.6\" HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs732tu/bs732tu-228x228.jpg",
+            "price": 39800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-bs732tu-core-i3-laptop",
+            "product_title": "HP 14-bs732tu Core i3 7th Gen 14\" HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cm0096au/14-cm0096au-1-228x228.jpg",
+            "price": 40300,
+            "processor": "AMD Ryzen 3",
+            "product_link": "https://www.startech.com.bd/hp-14-cm0096au-amd-ryzen3-laptop",
+            "product_title": "HP 14-cm0096au AMD Ryzen3 2200U 14\" Windows 10 Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/db0187au/db0187au-1-228x228.jpg",
-            "price": "40300",
+            "price": 40300,
+            "processor": "AMD Ryzen 3",
             "product_link": "https://www.startech.com.bd/hp-15-db0187au-amd-ryzen3-2200u-laptop",
             "product_title": "HP 15-db0187au AMD Ryzen3 2200U 15.6\" Windows 10 Laptop",
             "ram": "4GB",
@@ -290,26 +477,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck006tu/ck006tu-228x228.jpg",
-            "price": "44000",
-            "product_link": "https://www.startech.com.bd/hp-ck0006TU-core-i3-laptop",
-            "product_title": "HP 14-ck0006TU Core i3 8th Gen 14\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck005tu/ck0005tu-200x200-228x228.jpg",
-            "price": "44000",
+            "price": 44000,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-ck0005tu-i3-laptop",
             "product_title": "HP 14-ck0005TU Core i3 8th Gen 14\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
@@ -322,12 +502,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1015tu%20/da1015tu-228x228.jpg",
-            "price": "45000",
-            "product_link": "https://www.startech.com.bd/hp-15-da1015tu-i3-laptop",
-            "product_title": "HP 15-da1015TU Core i3 8th Gen 15.6\" HD Laptop",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck006tu/ck006tu-228x228.jpg",
+            "price": 44000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-ck0006TU-core-i3-laptop",
+            "product_title": "HP 14-ck0006TU Core i3 8th Gen 14\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -338,42 +527,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1014tu/da1014tu-228x228.jpg",
-            "price": "45000",
-            "product_link": "https://www.startech.com.bd/hp-da1014tu-core-i3-laptop",
-            "product_title": "HP 15-da1014tu Core i3 8th Gen 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1019tu/da1019tu-228x228.jpg",
-            "price": "45000",
-            "product_link": "https://www.startech.com.bd/hp-15-da1019tu-i3-laptop",
-            "product_title": "HP 15-da1019TU Core i3 8th Gen 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cm0097au/cm0097au-1-228x228.jpg",
-            "price": "44800",
+            "price": 44800,
+            "processor": "AMD Ryzen 5",
             "product_link": "https://www.startech.com.bd/hp-14-cm0097au-amd-ryzen5-2500u-laptop",
             "product_title": "HP 14-cm0097au AMD Ryzen5 2500U 14\" Windows 10 Laptop",
             "ram": "4GB",
@@ -386,10 +552,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/db0188au/db0188au-1-228x228.jpg",
-            "price": "44800",
+            "price": 44800,
+            "processor": "AMD Ryzen 5",
             "product_link": "https://www.startech.com.bd/hp-15-db0188au-amd-ryzen5-laptop",
             "product_title": "HP 15-db0188au AMD Ryzen5 2500U 15.6\" Windows 10 Laptop",
             "ram": "4GB",
@@ -402,10 +577,94 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1014tu/da1014tu-228x228.jpg",
+            "price": 45000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-da1014tu-core-i3-laptop",
+            "product_title": "HP 15-da1014tu Core i3 8th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1015tu%20/da1015tu-228x228.jpg",
+            "price": 45000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-15-da1015tu-i3-laptop",
+            "product_title": "HP 15-da1015TU Core i3 8th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1019tu/da1019tu-228x228.jpg",
+            "price": 45000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-15-da1019tu-i3-laptop",
+            "product_title": "HP 15-da1019TU Core i3 8th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14.1\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP-348-G3-2-228x228.jpg",
-            "price": "46300",
+            "price": 46300,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-348-g4-7th-gen-i3",
             "product_title": "HP 348 G4 7th Gen i3 14.1\" HD Business Series Laptop",
             "ram": "4GB",
@@ -418,26 +677,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5/440-g5-1-228x228.jpg",
-            "price": "50500",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-i3-8th-gen-laptop",
-            "product_title": "HP Probook 440 G5 Core i3 8th Gen 14\" HD Business Series Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/7th%20Gen/HP%20Pavilion%2014-bf016tu/HP%20Pavilion%20-%2014-bf016tu-228x228.jpg",
-            "price": "50000",
+            "price": 50000,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-pavilion-15-cc023tu",
             "product_title": "HP Pavilion 15-cc023TU 7th Gen Core i3 15.6\" Full HD Laptop",
             "ram": "4GB",
@@ -450,10 +702,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
-            "price": "50000",
+            "price": 50000,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g5-Core-i3-laptop",
             "product_title": "HP Probook 450 G5 Core i3 7th Gen Business Series Laptop",
             "ram": "4GB",
@@ -466,12 +727,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0005tu/cu0005tu-228x228.jpg",
-            "price": "51000",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0005tu-i3-laptop",
-            "product_title": "HP Pavilion 15-cu0005tu Core i3 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5/440-g5-1-228x228.jpg",
+            "price": 50500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-i3-8th-gen-laptop",
+            "product_title": "HP Probook 440 G5 Core i3 8th Gen 14\" HD Business Series Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -482,10 +752,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/450-g5-228x228.png",
-            "price": "50500",
+            "price": 50500,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g5-8th-gen-i3-laptop",
             "product_title": "HP Probook 450 G5 Core i3 8th Gen Laptop",
             "ram": "4GB",
@@ -498,10 +777,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0005tu/cu0005tu-228x228.jpg",
+            "price": 51000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0005tu-i3-laptop",
+            "product_title": "HP Pavilion 15-cu0005tu Core i3 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14-ce1007TU/14-ce1007TU-228x228.jpg",
-            "price": "51500",
+            "price": 51500,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1007tu-core-i3-8th-gen-laptop",
             "product_title": "HP Pavilion 14-ce1007TU Core i3 8th Gen 14\" Full HD Laptop With Win 10",
             "ram": "4GB",
@@ -514,28 +827,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce0017tu/0017tu-228x228.jpg",
-            "price": "45500",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce0017tu-core-i3-laptop",
-            "product_title": "HP Pavilion 14-ce0017TU Core i3 8th Gen 14\" Full HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1016tu/da1016tu-228x228.jpg",
-            "price": "53900",
-            "product_link": "https://www.startech.com.bd/hp-15-da1016tu-core-i5-laptop",
-            "product_title": "HP 15-da1016tu Core i5 8th Gen 15.6\" HD Laptop",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-3-228x228.jpg",
+            "price": 51500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-core-i3-laptop",
+            "product_title": "HP Probook 440 G6 Core i3 8th Gen 14.1 Inch HD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -546,10 +852,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - ",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
+            "price": 51500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i3-laptop",
+            "product_title": "HP Probook 450 G6 Core i3 8th Gen 15.6 Inch HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck1002tu/ck1002tu-228x228.jpg",
-            "price": "53900",
+            "price": 53900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-14-ck1002tu-i5-laptop",
             "product_title": "HP 14-ck1002TU Core i5 8th Gen 14\" HD Laptop",
             "ram": "4GB",
@@ -562,10 +902,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck1001tu/ck1001tx-228x228.jpg",
-            "price": "53900",
+            "price": 53900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-14-ck1001tu-i5-laptop",
             "product_title": "HP 14-ck1001tu Core i5 8th Gen 14\" HD Laptop",
             "ram": "4GB",
@@ -578,10 +927,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1018tu/da1018tu-228x228.jpg",
-            "price": "53900",
+            "price": 53900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-15-da1018tu-i5-laptop",
             "product_title": "HP 15-da1018tu Core i5 8th Gen 15.6\" HD Laptop",
             "ram": "4GB",
@@ -594,10 +952,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1017tu/da1017tu-228x228.jpg",
-            "price": "53900",
+            "price": 53900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-15-da1017tu-coe-i5-lapotp",
             "product_title": "HP 15-da1017tu Core i5 8th Gen 15.6\" HD Laptop",
             "ram": "4GB",
@@ -610,44 +977,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs118tx/bs118tx-228x228.jpg",
-            "price": "55700",
-            "product_link": "https://www.startech.com.bd/hp-14-bs118tx-core-i5-laptop",
-            "product_title": "HP 14-bs118tx 8th Gen Core i5 2GB Graphics 14\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs117tx/bs711tx-228x228.jpg",
-            "price": "55700",
-            "product_link": "https://www.startech.com.bd/hp-bs117tx-core-i5-laptop",
-            "product_title": "HP 14-bs117tx 8th Gen Core i5 2GB Graphics 14\" HD Laptop With Genuine Win 10 (Gold)",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0006tu/cu0006tu-228x228.jpg",
-            "price": "56700",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0006tu-core-i5-laptop",
-            "product_title": "HP Pavilion 15-cu0006tu Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1016tu/da1016tu-228x228.jpg",
+            "price": 53900,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-15-da1016tu-core-i5-laptop",
+            "product_title": "HP 15-da1016tu Core i5 8th Gen 15.6\" HD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -658,26 +1002,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14.1\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
-            "price": "57700",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-core-i5-8th-gen-notebook-pc",
-            "product_title": "HP Probook 440 G6 Core i5 8th Gen 14.1 Inch HD Notebook PC",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
-            "price": "55700",
+            "price": 55700,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g5-core-i5-laptop",
             "product_title": "HP Probook 450 G5 Core i5 8th Gen Business Series Laptop",
             "ram": "4GB",
@@ -690,12 +1027,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "57700",
-            "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i5-8th-gen-notebook-pc",
-            "product_title": "HP Probook 450 G6 Core i5 8th Gen 15.6 Inch HD Notebook PC",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs118tx/bs118tx-228x228.jpg",
+            "price": 55700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-14-bs118tx-core-i5-laptop",
+            "product_title": "HP 14-bs118tx 8th Gen Core i5 2GB Graphics 14\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -706,10 +1052,69 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/bs117tx/bs711tx-228x228.jpg",
+            "price": 55700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-bs117tx-core-i5-laptop",
+            "product_title": "HP 14-bs117tx 8th Gen Core i5 2GB Graphics 14\" HD Laptop With Genuine Win 10 (Gold)",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0006tu/cu0006tu-228x228.jpg",
+            "price": 56700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0006tu-core-i5-laptop",
+            "product_title": "HP Pavilion 15-cu0006tu Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck1003tx/ck1003tx-228x228.jpg",
-            "price": "57200",
+            "price": 57200,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-14-ck1003tx-i5-graphics-laptop",
             "product_title": "HP 14-ck1003tx Core i5 8th Gen 14\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
@@ -722,10 +1127,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1019tx/da1019tx-228x228.jpg",
-            "price": "57200",
+            "price": 57200,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-da1019tx-i5-graphics-laptop",
             "product_title": "HP 15-da1019tx Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop",
             "ram": "4GB",
@@ -738,10 +1152,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1021tx/da1021tx-228x228.jpg",
-            "price": "57200",
+            "price": 57200,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-15-da1021tx-i5-graphics-laptop",
             "product_title": "HP 15-DA1021TX Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop",
             "ram": "4GB",
@@ -754,10 +1177,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1020tx/da1020tx-228x228.jpg",
-            "price": "57200",
+            "price": 57200,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-da1020tx-i5-graphics-laptop",
             "product_title": "HP 15-DA1020TX Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop",
             "ram": "4GB",
@@ -770,10 +1202,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ck1002tx/ck1002tx-228x228.jpg",
-            "price": "57200",
+            "price": 57200,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-14-ck1002tx-i5-laptop",
             "product_title": "HP 14-ck1002TX Core i5 8th Gen 14\" HD Laptop",
             "ram": "4GB",
@@ -786,12 +1227,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1002tu/cu1002tu-228x228.jpg",
-            "price": "58400",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1002tu-core-i5-laptop",
-            "product_title": "HP Pavilion 15-cu1002TU Core i5 8th Gen 15.6\" Full HD Laptop",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
+            "price": 57700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-core-i5-8th-gen-notebook-pc",
+            "product_title": "HP Probook 440 G6 Core i5 8th Gen 14.1 Inch HD Notebook PC",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -802,10 +1252,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
+            "price": 57700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i5-8th-gen-notebook-pc",
+            "product_title": "HP Probook 450 G6 Core i5 8th Gen 15.6 Inch HD Notebook PC",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce1006tu/ce1006tu-228x228.jpg",
-            "price": "58400",
+            "price": 58400,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1006tu-i5-laptop",
             "product_title": "HP Pavilion 14-ce1006tu Core i5 8th Gen 14\" Full HD Laptop",
             "ram": "4GB",
@@ -818,12 +1302,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i5-gfx/probook-440-g5-2-228x228.jpg",
-            "price": "59700",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i5-graphics-laptop",
-            "product_title": "HP Probook 440 G5 Core i5 8th Gen HD Business Series 14\" HD Laptop with Graphics",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1002tu/cu1002tu-228x228.jpg",
+            "price": 58400,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1002tu-core-i5-laptop",
+            "product_title": "HP Pavilion 15-cu1002TU Core i5 8th Gen 15.6\" Full HD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -834,10 +1327,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "59500",
+            "price": 59500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i5-8gb-ram-laptop",
             "product_title": "HP Probook 450 G6 Core i5 8th Gen 8GB Ram 15.6 Inch HD Laptop",
             "ram": "8GB",
@@ -850,10 +1352,94 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-3-228x228.jpg",
+            "price": 59500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-i5-8gb-ram-laptop",
+            "product_title": "HP Probook 440 G6 Core i5 8th Gen 8GB Ram 14.1 Inch HD Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i5-gfx/probook-440-g5-2-228x228.jpg",
+            "price": 59700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i5-graphics-laptop",
+            "product_title": "HP Probook 440 G5 Core i5 8th Gen HD Business Series 14\" HD Laptop with Graphics",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-3-228x228.jpg",
+            "price": 60500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-256gb-ssd-core-i5-laptop",
+            "product_title": "HP Probook 440 G6 Core i5 8th Gen 256GB SSD 14.1 Inch HD Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14.1\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
-            "price": "60900",
+            "price": 60900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-440-g6-core-i5-notebook-pc",
             "product_title": "HP Probook 440 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 14.1 Inch HD Notebook PC",
             "ram": "4GB",
@@ -866,10 +1452,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "60900",
+            "price": 60900,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i5-notebook-pc",
             "product_title": "HP Probook 450 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 15.6 Inch HD Notebook PC",
             "ram": "4GB",
@@ -882,76 +1477,21 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
             "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1003/cu1003tx-228x228.png",
-            "price": "63000",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1003tx-core-i5-laptop",
-            "product_title": "HP Pavilion 15-cu1003TX Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1005tx/15-cu1005tx-228x228.jpg",
-            "price": "63000",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1005tx-core-i5-laptop",
-            "product_title": "HP Pavilion 15-cu1005TX Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce1044tx/ce1044tx-228x228.jpg",
-            "price": "63000",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1044tx-core-i5-laptop",
-            "product_title": "HP Pavilion 14-ce1044TX Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/pavilion-15-cu1006tx/2-228x228.jpg",
-            "price": "63000",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1045tx-core-i5-laptop",
-            "product_title": "HP Pavilion 14-ce1045TX Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i7-8th/probook-440-g5-1-228x228.jpg",
-            "price": "70000",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i7-laptop",
-            "product_title": "HP Probook 440 G5 Core i7 8th Gen 14\" HD Laptop With Graphics",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1003tx/da1003tx-1-228x228.jpg",
+            "price": 61500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-da1003tx-core-i5-laptop",
+            "product_title": "HP 15-da1003tx Core i5 8th Gen Laptop With NVIDIA MX130 4GB Graphics",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -962,26 +1502,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/645-g4/645-g4-228x228.jpg",
-            "price": "64500",
-            "product_link": "https://www.startech.com.bd/hp-probook-645-g4-laptop",
-            "product_title": "Hp probook 645 G4 AMD Ryzen7 2700u 14\" HD Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "62500",
+            "price": 62500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g6-i5-256gb-ssd-laptop",
             "product_title": "HP Probook 450 G6 Core i5 8th Gen 256GB SSD 15.6\" HD Laptop",
             "ram": "8GB",
@@ -994,10 +1527,169 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1003/cu1003tx-228x228.png",
+            "price": 63000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1003tx-core-i5-laptop",
+            "product_title": "HP Pavilion 15-cu1003TX Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1005tx/15-cu1005tx-228x228.jpg",
+            "price": 63000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1005tx-core-i5-laptop",
+            "product_title": "HP Pavilion 15-cu1005TX Core i5 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce1044tx/ce1044tx-228x228.jpg",
+            "price": 63000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1044tx-core-i5-laptop",
+            "product_title": "HP Pavilion 14-ce1044TX Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/pavilion-15-cu1006tx/2-228x228.jpg",
+            "price": 63000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1045tx-core-i5-laptop",
+            "product_title": "HP Pavilion 14-ce1045TX Core i5 8th Gen 14\" Full HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/645-g4/645-g4-228x228.jpg",
+            "price": 64500,
+            "processor": "AMD Ryzen 7",
+            "product_link": "https://www.startech.com.bd/hp-probook-645-g4-laptop",
+            "product_title": "Hp probook 645 G4 AMD Ryzen7 2700u 14\" HD Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i7-8th/probook-440-g5-1-228x228.jpg",
+            "price": 70000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i7-laptop",
+            "product_title": "HP Probook 440 G5 Core i7 8th Gen 14\" HD Laptop With Graphics",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5/440-g5-228x228.jpg",
-            "price": "70700",
+            "price": 70700,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-440-g5-i5-laptop",
             "product_title": "HP Probook 440 G5 Core i5 8th Gen (1 TB HDD + 256 GB SSD) 14.1\" HD Laptop",
             "ram": "8GB",
@@ -1011,10 +1703,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
-            "price": "70700",
+            "price": 70700,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g5-ssd-laptop",
             "product_title": "HP Probook 450 G5 Core i5 8th Gen (1 TB HDD + 256 GB SSD) 15.6\" HD Laptop",
             "ram": "8GB",
@@ -1028,42 +1729,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20Probook%20440%20G3%20i3-228x228.jpg",
-            "price": "64000",
-            "product_link": "https://www.startech.com.bd/hp-probook-430-g4-i7-laptop",
-            "product_title": "HP Probook 430 G4 i7 7th Gen 13.3\" Business Series Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1022tx/da1022tx-228x228.jpg",
-            "price": "74000",
-            "product_link": "https://www.startech.com.bd/hp-da1022tx-core-i7-laptop",
-            "product_title": "HP 15-da1022tx Core i7 8th Gen 15.6\" l HD Laptop With Genuine Win 10",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0012tx/cu0012tx-228x228.jpg",
-            "price": "74000",
+            "price": 74000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-pavilion-cu0012tx-core-i7-laptop",
             "product_title": "HP Pavilion 15-cu0012tx Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
             "ram": "8GB",
@@ -1076,10 +1754,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da1022tx/da1022tx-228x228.jpg",
+            "price": 74000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-da1022tx-core-i7-laptop",
+            "product_title": "HP 15-da1022tx Core i7 8th Gen 15.6\" l HD Laptop With Genuine Win 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce1047tx/ce1047tx-228x228.jpg",
-            "price": "76500",
+            "price": 76500,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce1047tx-core-i7-laptop",
             "product_title": "HP Pavilion 14-ce1047tx Core i7 8th Gen 14\" Full HD Laptop With Genuine Windows 10",
             "ram": "8GB",
@@ -1092,10 +1804,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
+            "price": 79000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-probook-450-g5core-i7-laptop",
+            "product_title": "HP Probook 450 G5 Core i7 8th Gen 15.6\" HD Business Series Laptop with 2GB Graphics",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-x360-440-g1/hp-probook-x360-440-g1-1-228x228.jpg",
-            "price": "79500",
+            "price": 79500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-x360-440-g1-i5-8th-gen-laptop",
             "product_title": "HP ProBook x360 440 G1 i5 8th Gen 14\" Touch Laptop",
             "ram": "8GB",
@@ -1108,10 +1854,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
-            "price": "80800",
+            "price": 80800,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-probook-440-g6-core-i7-8th-gen-notebook-pc",
             "product_title": "HP Probook 440 G6 Core i7 8th Gen NVidia MX130 Graphics 14.1 Inch HD Notebook PC",
             "ram": "8GB",
@@ -1124,10 +1879,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "80800",
+            "price": 80800,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g6-core-i7-8th-gen-notebook-pc",
             "product_title": "HP Probook 450 G6 Core i7 8th Gen NVIDIA GeForce MX130 Graphics 15.6 Inch HD Notebook PC",
             "ram": "8GB",
@@ -1140,10 +1904,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1004tx/1004tx-228x228.png",
-            "price": "81500",
+            "price": 81500,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1004tx-core-i7-laptop",
             "product_title": "HP Pavilion 15-cu1004TX Core i7 8th Gen AMD Radeon 530 15.6\" Full HD Laptop With Genuine Win 10",
             "ram": "8GB",
@@ -1156,10 +1929,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1005tx/15-cu1005tx-228x228.jpg",
-            "price": "81500",
+            "price": 81500,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu1006tx-core-i7-laptop",
             "product_title": "HP Pavilion 15-cu1006TX Core i7 8th Gen 15.6\" Full HD Laptop With Genuine Win 10",
             "ram": "8GB",
@@ -1172,10 +1954,44 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i7-8th/probook-440-g5-1-228x228.jpg",
+            "price": 85000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-i7-windows10-pro-laptop",
+            "product_title": "HP Probook 440 G5 Core i7 8th Gen 14\" HD Laptop With Genuine Win 10 Pro",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "86000",
+            "price": 86000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-probook-450-g6-256gb-ssd-Laptop",
             "product_title": "HP Probook 450 G6 Core i7 8th Gen (1TB HDD + 256GB SSD) 15.6 Inch HD Laptop",
             "ram": "8GB",
@@ -1189,10 +2005,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "14\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
-            "price": "86000",
+            "price": 86000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-probook-440-g6-256gb-ssd-laptop",
             "product_title": "HP Probook 440 G6 Core i7 8th Gen (1TB HDD + 256GB SSD) 14.1 Inch HD Notebook PC",
             "ram": "8GB",
@@ -1206,10 +2031,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-x360-440-g1/hp-probook-x360-440-g1-1-228x228.jpg",
-            "price": "89500",
+            "price": 89500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-x360-440-g1-i5-8th-gen-512gb-ssd-touch-laptop",
             "product_title": "HP ProBook x360 440 G1 i5 8th Gen 512GB SSD 14\" Touch Laptop",
             "ram": "8GB",
@@ -1222,58 +2056,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i7-8th/probook-440-g5-1-228x228.jpg",
-            "price": "85000",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-i7-windows10-pro-laptop",
-            "product_title": "HP Probook 440 G5 Core i7 8th Gen 14\" HD Laptop With Genuine Win 10 Pro",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-830-g5/hp-elitebook-830-g5-1-228x228.jpg",
-            "price": "92700",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-830-g5-ultrabook",
-            "product_title": "HP EliteBook 830 G5 Core i5 8th Gen Ultrabook",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-13-ag0031au/envy-x360-13-ag0031au-1-228x228.jpg",
-            "price": "94500",
-            "product_link": "https://www.startech.com.bd/hp-envy-x360-13-ag0031au-ryzen5-2500u-laptop",
-            "product_title": "HP ENVY x360 13-ag0031au Ryzen5 2500U 13.3\" Touch Laptop with Genuine Win 10",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "13.3\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1020tx/ah1020tx-silver-1-228x228.jpg",
-            "price": "90000",
+            "price": 90000,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-envy-13-ah1020tx-laptop",
             "product_title": "HP ENVY 13-ah1020tx Core i5 8th Gen NVidia MX150 Graphics 13.3\" FHD Laptop With Genuine Windows 10",
             "ram": "8GB",
@@ -1286,12 +2081,21 @@
         },
         {
             "brand": "HP",
-            "display_size": "14.1\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-840-g5/hp-elitebook-840-g5-14-in-1-228x228.jpg",
-            "price": "98500",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-840-g5-8th-gen-graphics-ultrabook",
-            "product_title": "HP EliteBook 840 G5 Core i5 8th Gen Graphics Ultrabook",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-830-g5/hp-elitebook-830-g5-1-228x228.jpg",
+            "price": 92700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-830-g5-ultrabook",
+            "product_title": "HP EliteBook 830 G5 Core i5 8th Gen Ultrabook",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -1302,10 +2106,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.5\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.5\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20EliteBook/HP%20EliteBook%20820%20G4%20i5/HP%20EliteBook%20820%20G4%20Notebook%20PC-1-228x228.jpg",
-            "price": "94000",
+            "price": 94000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-elitebook-820-4-i7",
             "product_title": "HP EliteBook 820 G4 i7 12.5\" FHD Business Series Ultrabook",
             "ram": "8GB",
@@ -1318,43 +2131,69 @@
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cx0111tx/cx0111tx-228x228.jpg",
-            "price": "112000",
-            "product_link": "https://www.startech.com.bd/hp-gaming-pavilion-15-cx0110tx-i7-laptop",
-            "product_title": "HP Gaming Pavilion - 15-cx0110tx Core i7 8th Gen GTX 1050Ti 4GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "description": [
+                "Processor - AMD Ryzen 5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-13-ag0031au/envy-x360-13-ag0031au-1-228x228.jpg",
+            "price": 94500,
+            "processor": "AMD Ryzen 5",
+            "product_link": "https://www.startech.com.bd/hp-envy-x360-13-ag0031au-ryzen5-2500u-laptop",
+            "product_title": "HP ENVY x360 13-ag0031au Ryzen5 2500U 13.3\" Touch Laptop with Genuine Win 10",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
-                "HDD": "1TB",
                 "SSD": "256GB"
             },
             "website": "startech.com.bd"
         },
         {
             "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-830-g5/hp-elitebook-830-g5-1-228x228.jpg",
-            "price": "109500",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-830-g5-i7-8th-gen-ultrabook",
-            "product_title": "HP EliteBook 830 G5 Core i7 8th Gen Ultrabook",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-840-g5/hp-elitebook-840-g5-14-in-1-228x228.jpg",
+            "price": 98500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-840-g5-8th-gen-graphics-ultrabook",
+            "product_title": "HP EliteBook 840 G5 Core i5 8th Gen Graphics Ultrabook",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
-                "SSD": "512GB"
+                "SSD": "256GB"
             },
             "website": "startech.com.bd"
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 360GB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "13.3\"",
             "graphics_memory": "2GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-13-ah0028tx/envy-13-ah0028tx-228x228.jpg",
-            "price": "104000",
+            "price": 104000,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-envy-13-ah0028tx-8th-gen-i5-laptop",
             "product_title": "HP Envy 13-ah0028TX i5 8th Gen Graphics Laptop with Genuine Win 10",
             "ram": "8GB",
@@ -1367,395 +2206,19 @@
         },
         {
             "brand": "HP",
-            "display_size": "14.1\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
-            "price": "64700",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-i5-8th-gen-notebook-pc",
-            "product_title": "HP Probook 440 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 14.1 Inch HD Notebook PC",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-13-ah0017tu/hp-envy-13-ah0017tu-1-228x228.jpg",
-            "price": "118000",
-            "product_link": "https://www.startech.com.bd/hp-envy-13-ah0017tu-i7-8th-gen-laptop",
-            "product_title": "HP Envy 13-ah0017TU i7 8th Gen Laptop with Genuine Win 10",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "360GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-13-ag0031au/envy-x360-13-ag0031au-1-228x228.jpg",
-            "price": "123000",
-            "product_link": "https://www.startech.com.bd/hp-envy-x360-13-ag0032au-laptop",
-            "product_title": "HP ENVY x360 13-ag0032au Ryzen7 2700U 13.3\" Touch Laptop with Genuine Win 10",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "3GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cx0111tx/cx0111tx-228x228.jpg",
-            "price": "129000",
-            "product_link": "https://www.startech.com.bd/hp-gaming-pavilion-cx0111tx-i7-laptop",
-            "product_title": "HP Gaming Pavilion 15-cx0111tx Core i7 8th Gen GTX 1060 3GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/hp-laptop/ac028tu/ac028tu-228x228.jpg",
-            "price": "130000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ae516tu-laptop",
-            "product_title": "HP Spectre x360 13-ae516tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/spectre-x360-ap0074tu/spectre-x360-13-ap0074tu-1-228x228.jpg",
-            "price": "146000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0074tu-i7-touch-laptop",
-            "product_title": "HP Spectre X360 - 13-ap0074TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/spectre-x360-ap0073tu/spectre-x360-ap0073tu-228x228.png",
-            "price": "146000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0073tu-i7-touch-laptop",
-            "product_title": "HP Spectre X360 - 13-ap0073TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/zbook-15u-g5%20/zbook-g5-1-228x228.jpg",
-            "price": "140000",
-            "product_link": "https://www.startech.com.bd/hp-zbook-15u-g5-workstation",
-            "product_title": "HP ZBook 15u G5 8th Gen Core i7 15.6\" Full HD Mobile Workstation With Genuine Win 10",
-            "ram": "16GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0077tu/ap0077tu-blue-228x228.jpg",
-            "price": "157000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0076tu-i7-laptop",
-            "product_title": "HP Spectre x360 13-ap0076tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0075tu/ap0075tu-2-228x228.jpg",
-            "price": "157000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-convertible-ap0075tu-laptop",
-            "product_title": "HP SPECTRE X360 Convertible 13-ap0075TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0077tu/ap0077tu-blue-228x228.jpg",
-            "price": "174000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0077tu-i7-laptop",
-            "product_title": "HP Spectre x360 - 13-ap0077tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "16GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-x360-1030-g2/hp-x360-1030-g2-228x228.jpeg",
-            "price": "160000",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-x360-1030-g2-core-i7-laptop",
-            "product_title": "HP EliteBook x360 1030 G2 Core i7 7th Gen 13.3\" Touch screen Business series ultrabook",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g6/250g6-228x228.jpg",
-            "price": "34300",
-            "product_link": "https://www.startech.com.bd/hp-250-g6-core-i3-7th-gen-laptop",
-            "product_title": "HP 250 G6 Core i3 7th Gen 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14.1\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/240-g7/240-g7-228x228.jpg",
-            "price": "38800",
-            "product_link": "https://www.startech.com.bd/hp-240-g7-i3-7th-genlaptop",
-            "product_title": "HP 240 G7 Core i3 7th Gen 14.1\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0002tu/da0002tu-228x228.jpg",
-            "price": "38000",
-            "product_link": "https://www.startech.com.bd/hp-15-da0002tu-i3-laptop",
-            "product_title": "Hp 15-da0002TU Core i3 8th Gen 15.6\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/HP-15-da0003tu/da000tu-228x228.jpg",
-            "price": "39300",
-            "product_link": "https://www.startech.com.bd/hp-15-da0003tu-core-i3-laptop",
-            "product_title": "HP 15-da0003tu Core i3 8th Gen 15.6\" HD Laptop ",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i3-7th/probook-440-g5-1-228x228.jpg",
-            "price": "45000",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-laptop",
-            "product_title": "HP ProBook 440 G5 i3 7th Gen 14\" HD Business Series Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14.1\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP-348-G3-2-228x228.jpg",
-            "price": "45500",
-            "product_link": "https://www.startech.com.bd/hp-348-g4-i5-7th-gen-laptop",
-            "product_title": "HP 348 G4 i5 7th Gen Business Series Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i3-gfx/probook-440-g5-1-228x228.jpg",
-            "price": "45500",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i3-graphics-laptop",
-            "product_title": "HP ProBook 440 G5 Core i3 7th Gen 14\" HD Business Series Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0022tu/da0022tu-500x500-228x228.jpg",
-            "price": "48900",
-            "product_link": "https://www.startech.com.bd/hp-da0022tx-i5-laptop",
-            "product_title": "HP 15-da0022tx Core i5 8th Gen 2 GB Graphics 15.6\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0020tx/da0020tx-228x228.jpg",
-            "price": "49000",
-            "product_link": "https://www.startech.com.bd/hp-da0020tx-core-i5-laptop",
-            "product_title": "HP 15-da0020tx Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop With Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
-            "price": "79000",
-            "product_link": "https://www.startech.com.bd/hp-probook-450-g5core-i7-laptop",
-            "product_title": "HP Probook 450 G5 Core i7 8th Gen 15.6\" HD Business Series Laptop with Graphics",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0021tx%20/da0021tx-228x228.jpg",
-            "price": "49700",
-            "product_link": "https://www.startech.com.bd/hp-15-da0021tx-core-i5-laptop",
-            "product_title": "HP 15-da0021tx Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop With Genuine Win 10",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
-            "price": "57800",
-            "product_link": "https://www.startech.com.bd/hp-probook-450-g6-i5-8th-gen-notebook-pc",
-            "product_title": "HP Probook 450 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 15.6 Inch HD Notebook PC",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 4GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cx0109tx/cx0109tx-228x228.jpg",
-            "price": "106800",
+            "price": 106800,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/hp-gaming-pavilion-cx0109tx-i7-laptop",
             "product_title": "HP Gaming Pavilion - 15-cx0109tx Core i7 8th Gen GTX 1050 4GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
             "ram": "8GB",
@@ -1769,47 +2232,24 @@
         },
         {
             "brand": "HP",
-            "display_size": "12.5\"",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20EliteBook/HP%20EliteBook%20820%20G4%20i5/HP%20EliteBook%20820%20G4%20Notebook%20PC-1-228x228.jpg",
-            "price": "71000",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-820-g4-i5",
-            "product_title": "HP EliteBook 820 G4 i5 12.5\" Business Series Ultrabook",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-830-g5/hp-elitebook-830-g5-1-228x228.jpg",
+            "price": 109500,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-830-g5-i7-8th-gen-ultrabook",
+            "product_title": "HP EliteBook 830 G5 Core i7 8th Gen Ultrabook",
             "ram": "8GB",
             "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20EliteBook/HP%20EliteBook%20840%20G4/HP%20EliteBook%20840%20G4-228x228.jpg",
-            "price": "72500",
-            "product_link": "https://www.startech.com.bd/hp-elitebook-840-g4-i5",
-            "product_title": "HP EliteBook 840 G4 i5 14\" Business Series Ultrabook",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-x360-440-g1/hp-probook-x360-440-g1-1-228x228.jpg",
-            "price": "91000",
-            "product_link": "https://www.startech.com.bd/hp-probook-x360-440-g1-i7-8th-gen-laptop",
-            "product_title": "HP ProBook x360 440 G1 i7 8th Gen 512GB SSD 14\" Touch Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
+            "status": "available",
             "storage": {
                 "SSD": "512GB"
             },
@@ -1817,79 +2257,126 @@
         },
         {
             "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/7th%20Gen/HP%20Envy%2013-ad066tu/HP%20Envy%2013-ad066tu-228x228.jpg",
-            "price": "109000",
-            "product_link": "https://www.startech.com.bd/hp-envy-13-ad163tu-8th-gen-laptop",
-            "product_title": "HP Envy 13-ad163TU 8th Gen Core i7 WIN 10 13.3\" Full HD Laptop",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cx0111tx/cx0111tx-228x228.jpg",
+            "price": 112000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-gaming-pavilion-15-cx0110tx-i7-laptop",
+            "product_title": "HP Gaming Pavilion - 15-cx0110tx Core i7 8th Gen GTX 1050Ti 4GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
             "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "not available",
+            "ram_type": "DDR4",
+            "status": "available",
             "storage": {
+                "HDD": "1TB",
                 "SSD": "256GB"
             },
             "website": "startech.com.bd"
         },
         {
             "brand": "HP",
-            "display_size": "15.6\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP-Omen/ce031tx/ce013tx-3-228x228.jpg",
-            "price": "134500",
-            "product_link": "https://www.startech.com.bd/hp-omen-ce030tx-i7-4gb-graphics-laptop",
-            "product_title": "HP Omen ce030tx Core i7 7th Gen 15.6\" Full HD Gaming Laptop",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 360GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-13-ah0017tu/hp-envy-13-ah0017tu-1-228x228.jpg",
+            "price": 118000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-envy-13-ah0017tu-i7-8th-gen-laptop",
+            "product_title": "HP Envy 13-ah0017TU i7 8th Gen Laptop with Genuine Win 10",
             "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
+            "ram_type": "DDR3",
+            "status": "available",
             "storage": {
-                "SSD": "128GB"
+                "SSD": "360GB"
             },
             "website": "startech.com.bd"
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-13-ag0031au/envy-x360-13-ag0031au-1-228x228.jpg",
+            "price": 123000,
+            "processor": "AMD Ryzen 7",
+            "product_link": "https://www.startech.com.bd/hp-envy-x360-13-ag0032au-laptop",
+            "product_title": "HP ENVY x360 13-ag0032au Ryzen7 2700U 13.3\" Touch Laptop with Genuine Win 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 3GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "3GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cx0111tx/cx0111tx-228x228.jpg",
+            "price": 129000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-gaming-pavilion-cx0111tx-i7-laptop",
+            "product_title": "HP Gaming Pavilion 15-cx0111tx Core i7 8th Gen GTX 1060 3GB Graphics 15.6\" Full HD Laptop With Genuine Win 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/hp-laptop/ac028tu/ac028tu-228x228.jpg",
-            "price": "155000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ae517tu-i7-laptop",
-            "product_title": "HP Spectre x360 13-ae517tu i7 8th Gen 13.3\" Full HD Touch Laptop",
-            "ram": "16GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/af515tu/af515tu-228x228.jpg",
-            "price": "155000",
-            "product_link": "https://www.startech.com.bd/hp-spectre-13-af515tu-core-i7-laptop",
-            "product_title": "HP Spectre 13-af515tu Core i7 8th Gen 13.3\" Full HD IPS Laptop",
+            "price": 130000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ae516tu-laptop",
+            "product_title": "HP Spectre x360 13-ae516tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
             "ram": "8GB",
             "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1007tu/ah1007tu-gold-228x228.jpg",
-            "price": "93000",
-            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1007tu-i5-laptop",
-            "product_title": "HP ENVY 13-ah1007tu Core i5 8th Gen Laptop With Genuine Windows 10",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "not available",
+            "status": "available",
             "storage": {
                 "SSD": "256GB"
             },
@@ -1897,12 +2384,196 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 2GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
-            "price": "59700",
-            "product_link": "https://www.startech.com.bd/hp-probook-450-g5-core-i5-graphics-laptop",
-            "product_title": "HP Probook 450 G5 Core i5 8th Gen Business Series Laptop With Graphics",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/zbook-15u-g5%20/zbook-g5-1-228x228.jpg",
+            "price": 140000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-zbook-15u-g5-workstation",
+            "product_title": "HP ZBook 15u G5 8th Gen Core i7 15.6\" Full HD Mobile Workstation With Genuine Win 10",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/spectre-x360-ap0074tu/spectre-x360-13-ap0074tu-1-228x228.jpg",
+            "price": 146000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0074tu-i7-touch-laptop",
+            "product_title": "HP Spectre X360 - 13-ap0074TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/spectre-x360-ap0073tu/spectre-x360-ap0073tu-228x228.png",
+            "price": 146000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0073tu-i7-touch-laptop",
+            "product_title": "HP Spectre X360 - 13-ap0073TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0077tu/ap0077tu-blue-228x228.jpg",
+            "price": 157000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0076tu-i7-laptop",
+            "product_title": "HP Spectre x360 13-ap0076tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0075tu/ap0075tu-2-228x228.jpg",
+            "price": 157000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-convertible-ap0075tu-laptop",
+            "product_title": "HP SPECTRE X360 Convertible 13-ap0075TU Core i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/elitebook-x360-1030-g2/hp-x360-1030-g2-228x228.jpeg",
+            "price": 160000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-x360-1030-g2-core-i7-laptop",
+            "product_title": "HP EliteBook x360 1030 G2 Core i7 7th Gen 13.3\" Touch screen Business series ultrabook",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ap0077tu/ap0077tu-blue-228x228.jpg",
+            "price": 174000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ap0077tu-i7-laptop",
+            "product_title": "HP Spectre x360 - 13-ap0077tu Core i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g6/250g6-228x228.jpg",
+            "price": 34300,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-250-g6-core-i3-7th-gen-laptop",
+            "product_title": "HP 250 G6 Core i3 7th Gen 15.6\" HD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "not available",
@@ -1913,29 +2584,22 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1004tx/1004tx-228x228.png",
-            "price": "80500",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0009tx-i7-laptop",
-            "product_title": "HP Pavilion 15-cu0009tx Core i7 8th Gen 4GB Graphics 15.6\" Full HD Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "14.1\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-3-228x228.jpg",
-            "price": "54000",
-            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-i5-8gb-ram-laptop",
-            "product_title": "HP Probook 440 G6 Core i5 8th Gen 8GB Ram 14.1 Inch HD Laptop",
-            "ram": "8GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0002tu/da0002tu-228x228.jpg",
+            "price": 38000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-15-da0002tu-i3-laptop",
+            "product_title": "Hp 15-da0002TU Core i3 8th Gen 15.6\" HD Laptop With Genuine Win 10",
+            "ram": "4GB",
             "ram_type": "DDR4",
             "status": "not available",
             "storage": {
@@ -1945,10 +2609,19 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0025tu/da0025tu-228x228.jpg",
-            "price": "38000",
+            "price": 38000,
+            "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/hp-da0025tu-i3-8th-gen-laptop",
             "product_title": "HP 15-da0025tu Core i3 8th Gen 15.6\" HD Laptop With Genuine Win 10",
             "ram": "4GB",
@@ -1961,45 +2634,22 @@
         },
         {
             "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1006tu/ah1006tu-1-228x228.jpg",
-            "price": "85500",
-            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1006tu-i5-laptop",
-            "product_title": "HP ENVY 13-ah1006tu Core i5 8th Gen Laptop With Genuine Windows 10",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1007tu/ah1007tu-gold-228x228.jpg",
-            "price": "102000",
-            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1008tu-i7-laptop",
-            "product_title": "HP ENVY 13-ah1008tu Core i7 8th Gen Laptop With Genuine Windows 10",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "15.6\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0013tx/cu0013tx-228x228.jpg",
-            "price": "80500",
-            "product_link": "https://www.startech.com.bd/hp-pavilion-cu0013tx-i7-laptop",
-            "product_title": "HP Pavilion 15-cu0013tx Core i7 8th Gen 15.6\" Full HD laptop With 4GB Graphics and Genuine Win 10",
-            "ram": "8GB",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/HP-15-da0003tu/da000tu-228x228.jpg",
+            "price": 39300,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-15-da0003tu-core-i3-laptop",
+            "product_title": "HP 15-da0003tu Core i3 8th Gen 15.6\" HD Laptop ",
+            "ram": "4GB",
             "ram_type": "DDR4",
             "status": "not available",
             "storage": {
@@ -2009,10 +2659,193 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i3-7th/probook-440-g5-1-228x228.jpg",
+            "price": 45000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-laptop",
+            "product_title": "HP ProBook 440 G5 i3 7th Gen 14\" HD Business Series Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP-348-G3-2-228x228.jpg",
+            "price": 45500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-348-g4-i5-7th-gen-laptop",
+            "product_title": "HP 348 G4 i5 7th Gen Business Series Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g5-i3-gfx/probook-440-g5-1-228x228.jpg",
+            "price": 45500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i3-graphics-laptop",
+            "product_title": "HP ProBook 440 G5 Core i3 7th Gen 14\" HD Business Series Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i3",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ce0017tu/0017tu-228x228.jpg",
+            "price": 45500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-14-ce0017tu-core-i3-laptop",
+            "product_title": "HP Pavilion 14-ce0017TU Core i3 8th Gen 14\" Full HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0022tu/da0022tu-500x500-228x228.jpg",
+            "price": 48900,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-da0022tx-i5-laptop",
+            "product_title": "HP 15-da0022tx Core i5 8th Gen 2 GB Graphics 15.6\" HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0020tx/da0020tx-228x228.jpg",
+            "price": 49000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-da0020tx-core-i5-laptop",
+            "product_title": "HP 15-da0020tx Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop With Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0021tx%20/da0021tx-228x228.jpg",
+            "price": 49700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-15-da0021tx-core-i5-laptop",
+            "product_title": "HP 15-da0021tx Core i5 8th Gen 2GB Graphics 15.6\" HD Laptop With Genuine Win 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/hp-probook-440-g5-i5/probook-440-g5-1-228x228.jpg",
-            "price": "55700",
+            "price": 55700,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/hp-probook-440-g5-core-i5-laptop",
             "product_title": "HP Probook 440 G5 Core i5 8th Gen HD Business Series Laptop",
             "ram": "4GB",
@@ -2025,10 +2858,69 @@
         },
         {
             "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-450-g6/450-g6-1-228x228.jpg",
+            "price": 57800,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-450-g6-i5-8th-gen-notebook-pc",
+            "product_title": "HP Probook 450 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 15.6 Inch HD Notebook PC",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/450-g5/hp-450-g5-1-228x228.jpg",
+            "price": 59700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-450-g5-core-i5-graphics-laptop",
+            "product_title": "HP Probook 450 G5 Core i5 8th Gen Business Series Laptop With Graphics",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - AMD Ryzen 7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/645-g4/645-g4-228x228.jpg",
-            "price": "59800",
+            "price": 59800,
+            "processor": "AMD Ryzen 7",
             "product_link": "https://www.startech.com.bd/hp-probook-645-g4-256gb-ssd-laptop",
             "product_title": "Hp probook 645 G4 AMD Ryzen7 2700u 256GB SSD Laptop",
             "ram": "8GB",
@@ -2036,6 +2928,356 @@
             "status": "not available",
             "storage": {
                 "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.5\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "12.5\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20EliteBook/HP%20EliteBook%20820%20G4%20i5/HP%20EliteBook%20820%20G4%20Notebook%20PC-1-228x228.jpg",
+            "price": 71000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-820-g4-i5",
+            "product_title": "HP EliteBook 820 G4 i5 12.5\" Business Series Ultrabook",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20EliteBook/HP%20EliteBook%20840%20G4/HP%20EliteBook%20840%20G4-228x228.jpg",
+            "price": 72500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-elitebook-840-g4-i5",
+            "product_title": "HP EliteBook 840 G4 i5 14\" Business Series Ultrabook",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu0013tx/cu0013tx-228x228.jpg",
+            "price": 80500,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-cu0013tx-i7-laptop",
+            "product_title": "HP Pavilion 15-cu0013tx Core i7 8th Gen 15.6\" Full HD laptop With 4GB Graphics and Genuine Win 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/cu1004tx/1004tx-228x228.png",
+            "price": 80500,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-pavilion-15-cu0009tx-i7-laptop",
+            "product_title": "HP Pavilion 15-cu0009tx Core i7 8th Gen 4GB Graphics 15.6\" Full HD Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1006tu/ah1006tu-1-228x228.jpg",
+            "price": 85500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1006tu-i5-laptop",
+            "product_title": "HP ENVY 13-ah1006tu Core i5 8th Gen Laptop With Genuine Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-x360-440-g1/hp-probook-x360-440-g1-1-228x228.jpg",
+            "price": 91000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-probook-x360-440-g1-i7-8th-gen-laptop",
+            "product_title": "HP ProBook x360 440 G1 i7 8th Gen 512GB SSD 14\" Touch Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1007tu/ah1007tu-gold-228x228.jpg",
+            "price": 93000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1007tu-i5-laptop",
+            "product_title": "HP ENVY 13-ah1007tu Core i5 8th Gen Laptop With Genuine Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/ah1007tu/ah1007tu-gold-228x228.jpg",
+            "price": 102000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-envy-13-ah1008tu-i7-laptop",
+            "product_title": "HP ENVY 13-ah1008tu Core i7 8th Gen Laptop With Genuine Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/7th%20Gen/HP%20Envy%2013-ad066tu/HP%20Envy%2013-ad066tu-228x228.jpg",
+            "price": 109000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-envy-13-ad163tu-8th-gen-laptop",
+            "product_title": "HP Envy 13-ad163TU 8th Gen Core i7 WIN 10 13.3\" Full HD Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 128GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP-Omen/ce031tx/ce013tx-3-228x228.jpg",
+            "price": 134500,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-omen-ce030tx-i7-4gb-graphics-laptop",
+            "product_title": "HP Omen ce030tx Core i7 7th Gen 15.6\" Full HD Gaming Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 16GB",
+                "RAM Type- DDR3",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/hp-laptop/ac028tu/ac028tu-228x228.jpg",
+            "price": 155000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-x360-13-ae517tu-i7-laptop",
+            "product_title": "HP Spectre x360 13-ae517tu i7 8th Gen 13.3\" Full HD Touch Laptop",
+            "ram": "16GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/af515tu/af515tu-228x228.jpg",
+            "price": 155000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-spectre-13-af515tu-core-i7-laptop",
+            "product_title": "HP Spectre 13-af515tu Core i7 8th Gen 13.3\" Full HD IPS Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14.1\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/probook-440-g6/probook-440-g6-1-228x228.jpg",
+            "price": 64700,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/hp-probook-440-g6-i5-8th-gen-notebook-pc",
+            "product_title": "HP Probook 440 G6 Core i5 8th Gen NVIDIA GeForce MX130 Graphics 14.1 Inch HD Notebook PC",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "HP",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/hp%20laptop/HP%20Probook%20440%20G3%20i3-228x228.jpg",
+            "price": 64000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/hp-probook-430-g4-i7-laptop",
+            "product_title": "HP Probook 430 G4 i7 7th Gen 13.3\" Business Series Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
             },
             "website": "startech.com.bd"
         }

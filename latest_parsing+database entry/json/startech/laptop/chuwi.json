@@ -2,10 +2,18 @@
     "Products": [
         {
             "brand": "Chuwi",
+            "description": [
+                "Processor - Others",
+                "Display Size - \"",
+                "RAM - 4GB",
+                "HDD - 64GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-228x228.jpg",
-            "price": "19900",
+            "price": 19900,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/chuwi-herobook",
             "product_title": "Chuwi HeroBook 14.1\" HD Laptop With Genuine Windows 10",
             "ram": "4GB",
@@ -18,10 +26,19 @@
         },
         {
             "brand": "Chuwi",
+            "description": [
+                "Processor - Others",
+                "Display Size - \"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-air/air-228x228.jpg",
-            "price": "36000",
+            "price": 36000,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/chuwi-lapbook-air",
             "product_title": "Chuwi LapBook Air 14.1 inch Full HD Display",
             "ram": "8GB",
@@ -34,10 +51,19 @@
         },
         {
             "brand": "Chuwi",
+            "description": [
+                "Processor - Others",
+                "Display Size - \"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/lapbook-se/lapbook-se-228x228.jpg",
-            "price": "29000",
+            "price": 29000,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/chuwi-lapbook-se",
             "product_title": "Chuwi Lapbook SE 13.3\" Full HD IPS Display",
             "ram": "4GB",

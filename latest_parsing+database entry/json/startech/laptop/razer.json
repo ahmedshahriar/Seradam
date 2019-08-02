@@ -2,10 +2,19 @@
     "Products": [
         {
             "brand": "Razer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 6GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "6GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-15/base-main-228x228.PNG",
-            "price": "212000",
+            "price": 212000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/razer-blade-15-base-gaming-laptop",
             "product_title": "Razer Blade 15 Core i7 9th Gen 15.6\u2033 Full HD Gaming Laptop With RTX 2060 6GB Graphics",
             "ram": "16GB",
@@ -18,10 +27,19 @@
         },
         {
             "brand": "Razer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 8GB"
+            ],
             "display_size": "15.6\"",
             "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-advance/blade-2-228x228.jpg",
-            "price": "253000",
+            "price": 253000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/razer-blade-15-advance-core-i7-gaming-laptop",
             "product_title": "Razer Blade 15 (Advance) Core i7 9th Gen 15.6\u2033 Full HD Gaming Laptop With RTX 2070 Max-Q 8GB Graphics",
             "ram": "16GB",
@@ -34,10 +52,19 @@
         },
         {
             "brand": "Razer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 17.3\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 8GB"
+            ],
             "display_size": "17.3\"",
             "graphics_memory": "8GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-pro-17/razer-blade-pro-17-228x228.jpg",
-            "price": "312000",
+            "price": 312000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/razer-blade-pro-17-gaming-laptop",
             "product_title": "Razer Blade Pro 17 Core i7 9th Gen 17.3\u2033 Full HD Gaming Laptop With RTX 2080 Max-Q 8GB Graphics",
             "ram": "16GB",

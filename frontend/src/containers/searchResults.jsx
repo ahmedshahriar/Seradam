@@ -198,18 +198,21 @@ class SearchResults extends Component {
     ],
     allSiteNames: ["StarTech", "Pickaboo", "Kiksha", "Google"]
   };
-
+	
+	
+	
   componentDidMount() {
     axios
       .get(
-        "http://581293a8.ngrok.io/api/mapping/?brand=Acer&graphics_memory=8GB"
+        "http://127.0.0.1:8000/api/mapping/?brand=Acer&graphics_memory=8GB"
       )
       .then(res => {
         // this.setState({
         //   searchResults=res.data
         // });
-        var a = res.content;
-        console.log(a);
+        var a = res.data;
+		var websites = a[0].websites;
+        console.log(websites);
       });
   }
 

@@ -2,10 +2,18 @@
     "Products": [
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Others",
+                "Display Size - 10\"",
+                "RAM - 8GB",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "10\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-go/surface-go-228x228.png",
-            "price": "60000",
+            "price": 60000,
+            "processor": "Others",
             "product_link": "https://www.startech.com.bd/microsoft-surface-go-laptop",
             "product_title": "Microsoft Surface Go Pentium 8GB Ram 128GB SSD 10 Inch Touch Laptop With Windows 10 (MCZ-00001)",
             "ram": "8GB",
@@ -18,10 +26,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
-            "price": "95500",
+            "price": 95500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro6-core-i5-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram 128GB SSD",
             "ram": "8GB",
@@ -34,10 +51,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
-            "price": "106500",
+            "price": 106500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro6-i5-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram-128GB SSD with Type Cover keyboard",
             "ram": "8GB",
@@ -50,10 +76,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
-            "price": "120000",
+            "price": 120000,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-256gb-ssd",
             "product_title": "Microsoft Surface Pro 6, 8th Gen Core i5, 8GB, 256GB SSD, 12.3 Inch (2736x1824) Touch Display, Win 10, Black ",
             "ram": "8GB",
@@ -66,10 +101,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.5\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "13.5\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-book-2/book2-228x228.jpg",
-            "price": "120500",
+            "price": 120500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-book-2-core-i5-256gb-ssd",
             "product_title": "Microsoft surface book 2 Core i5 8GB Ram 256GB SSD",
             "ram": "8GB",
@@ -82,10 +126,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
-            "price": "133500",
+            "price": 133500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-Core-i5-keyboard-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i5 8GB Ram 256GB SSD with Type Cover keyboard",
             "ram": "8GB",
@@ -98,10 +151,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
-            "price": "149000",
+            "price": 149000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-8th-gen-core-i7-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 8GB Ram 256GB SSD 12.3 Inch Touch Laptop",
             "ram": "8GB",
@@ -114,10 +176,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
-            "price": "160000",
+            "price": 160000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-Core-i7-keyboard-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 8GB Ram 256GB SSD with Type Cover keyboard",
             "ram": "8GB",
@@ -130,10 +201,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.3\"",
+                "RAM - 16GB",
+                "RAM Type- DDR3",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-2-228x228.jpg",
-            "price": "190000",
+            "price": 188000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-6-512gb-ssd-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 16GB Ram 512GB SSD 12.3 Inch Multitouch Laptop",
             "ram": "16GB",
@@ -146,10 +226,19 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.3\"",
+                "RAM - 16GB",
+                "RAM Type- DDR3",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/pro-6/surface-pro6-1-228x228.jpg",
-            "price": "201000",
+            "price": 201000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/microsoft-surfac-pro-6-i7-touch-laptop",
             "product_title": "Microsoft Surface Pro 6 8th Gen Core i7 16GB Ram 512GB SSD with Type Cover keyboard",
             "ram": "16GB",
@@ -162,10 +251,18 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
-            "price": "103500",
+            "price": 103500,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/surface-pro-2017-core-i5",
             "product_title": "Microsoft Surface Pro 7th Gen Core i5, 8GB Ram, 256GB SSD",
             "ram": "8GB",
@@ -178,10 +275,18 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
-            "price": "90000",
+            "price": 90000,
+            "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/microsoft-surface-pro-i5-128gb-ssd",
             "product_title": "Microsoft Surface Pro 7th Gen Core i5, 8GB Ram, 128GB SSD",
             "ram": "8GB",
@@ -194,10 +299,18 @@
         },
         {
             "brand": "Microsoft",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 12.3\"",
+                "RAM - 8GB",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
             "display_size": "12.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-pro/surface-pro-228x228.jpg",
-            "price": "135000",
+            "price": 135000,
+            "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/surface-pro-core-i7-laptop",
             "product_title": "Microsoft Surface Pro 7th gen Core i7 8GB Ram, 256GB SSD",
             "ram": "8GB",

@@ -130,13 +130,57 @@ def ryans_analyze_storage(storage_text):
 
 
 def ryans_analyze_processor(processor_text):
-    processor = ""
-    search = "Intel Core i"
-    if search in processor_text:
-        search_pos = processor_text.find(search)
-        key_pos = search_pos + len(search)
-        processor = search + processor_text[key_pos]
+    # print(processor_text)
+    processor = "Others"
 
+    search1 = "Intel Core i"
+    search2 = "AMD Ryzen"
+    search3 = "Intel Core M"
+
+    if "Intel" in processor_text:
+
+        if search1 in processor_text:
+            search_pos = processor_text.find(search1)
+            key_pos = search_pos + len(search1)
+            processor = search1 + processor_text[key_pos]
+        elif "Intel Cor i" in processor_text:
+            search_pos = processor_text.find("Intel Cor i")
+            key_pos = search_pos + len("Intel Cor i")
+            processor = "Intel Core i" + processor_text[key_pos]
+        elif "Intel Corei" in processor_text:
+            search_pos = processor_text.find("Intel Corei")
+            key_pos = search_pos + len("Intel Corei")
+            processor = "Intel Core i" + processor_text[key_pos]
+        elif "i3" in processor_text:
+            processor = "Intel Core i3"
+        elif "i5" in processor_text:
+            processor = "Intel Core i5"
+        elif "i7" in processor_text:
+            processor = "Intel Core i7"
+
+    if search2 in processor_text:
+        search_pos = processor_text.find(search2)
+        key_pos = search_pos + len(search2) + 1
+        processor = search2 + " " + processor_text[key_pos]
+
+    if search3 in processor_text:
+        search_pos = processor_text.find(search3)
+        key_pos = search_pos + len(search3)
+        processor = search3 + processor_text[key_pos]
+
+    if "AMD" in processor_text:
+        if "E2" in processor_text:
+            processor = "AMD E2"
+        if "A4" in processor_text:
+            processor = "AMD A4"
+        if "A9" in processor_text:
+            processor = "AMD A9"
+        if "A6" in processor_text:
+            processor = "AMD A6"
+        if "E1" in processor_text:
+            processor = "AMD E1"
+
+    # print(processor)
     return processor
 
 
@@ -145,17 +189,14 @@ def ryans_parse_laptop_list(url,brand):
     print("Ryans laptop parsing-"+brand)
     json_file = "./json/ryans/laptop/"+brand+".json"
 
-
     write_file = open(json_file, 'w')
     total_products = []
-    procecor = []
     page = 1
-    print("page : ",end="")
+    print("page : ", end="")
     while url:
         print("page {}".format(page))
         page += 1
 
-        # html = urlopen(Request(url, headers=hdr))
         html = urlopen(url)
         data = html.read()
         soup = BeautifulSoup(data, 'html.parser')
@@ -180,10 +221,13 @@ def ryans_parse_laptop_list(url,brand):
             except:
                 price = price
 
-
             details = ryans_parse_single_laptop_details(product_url)
 
+            processor = ""
+
             # doing this because in some product's details this filed may be missing
+            if "Processor" in details.keys():
+                processor = ryans_analyze_processor(details["Processor"])
             if "RAM type" in details.keys():
                 ram_type = details['RAM type'].split(' ')[0]
             else:
@@ -199,7 +243,6 @@ def ryans_parse_laptop_list(url,brand):
 
             status = "available"
 
-            print(details['Processor'])
             product_records = {
                 "status": status,
                 "img_link": img_link,
@@ -215,10 +258,10 @@ def ryans_parse_laptop_list(url,brand):
                 "display_size": display_size,
                 "display_type": details['Display Type'],
                 "storage": storage,
+                "processor": processor,
                 "website": "ryanscomputers.com"
             }
             total_products.append(product_records)
-            # total_products.append(details['Processor'])
         url = soup.find('a', {'class': 'next i-next', 'title': 'Next'})
         if url:
             url = url.get('href')
@@ -241,7 +284,6 @@ def ryans_parse_all_laptop():
     url = "https://ryanscomputers.com/laptop-notebook/apple-laptop-all.html"
     brand = 'Apple'
     ryans_parse_laptop_list(url, brand)
-
 
     url = "https://ryanscomputers.com/laptop-notebook/asus-laptop-price-all.html"
     brand = 'Asus'

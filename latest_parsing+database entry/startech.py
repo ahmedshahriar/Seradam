@@ -188,6 +188,61 @@ def startech_analyze_storage(storage_text):
     return storage
 
 
+def startech_analyze_processor(processor_text):
+    processor = "Others"
+
+    search1 = "Intel Core i"
+    search2 = "AMD Ryzen"
+    search3 = "Intel Core M"
+
+    if "Intel" in processor_text:
+
+        if search1 in processor_text:
+            search_pos = processor_text.find(search1)
+            key_pos = search_pos + len(search1)
+            processor = search1 + processor_text[key_pos]
+        elif "Intel Cor i" in processor_text:
+            search_pos = processor_text.find("Intel Cor i")
+            key_pos = search_pos + len("Intel Cor i")
+            processor = "Intel Core i" + processor_text[key_pos]
+        elif "Intel Corei" in processor_text:
+            search_pos = processor_text.find("Intel Corei")
+            key_pos = search_pos + len("Intel Corei")
+            processor = "Intel Core i" + processor_text[key_pos]
+        elif "i3" in processor_text:
+            processor = "Intel Core i3"
+        elif "i5" in processor_text:
+            processor = "Intel Core i5"
+        elif "i7" in processor_text:
+            processor = "Intel Core i7"
+
+
+    if search2 in processor_text:
+        search_pos = processor_text.find(search2)
+        key_pos = search_pos + len(search2) + 1
+        processor = search2 + " " + processor_text[key_pos]
+
+    if search3 in processor_text:
+        search_pos = processor_text.find(search3)
+        key_pos = search_pos + len(search3)
+        processor = search3 + processor_text[key_pos]
+
+    if "AMD" in processor_text:
+        if "E2" in processor_text:
+            processor = "AMD E2"
+        if "A4" in processor_text:
+            processor = "AMD A4"
+        if "A9" in processor_text:
+            processor = "AMD A9"
+        if "A6" in processor_text:
+            processor = "AMD A6"
+        if "E1" in processor_text:
+            processor = "AMD E1"
+
+
+    return processor
+
+
 def startech_parse_laptop_list(url,brand):
 
     print("Startech laptop parsing-"+brand)
@@ -213,13 +268,23 @@ def startech_parse_laptop_list(url,brand):
             img_link = product.find('div',{'class': 'img-holder'}).a.img['src']
             title = product.find('h4', {'class': 'product-name'}).a.text
             price = product.find('div', {'class': 'price space-between'}).span.text.replace('৳','').replace(',','')
+
+            try:
+                price = int(price)
+            except:
+                price = price
+
+
             product_url = product_url.replace(' ','%20')
+            print(product_url)
             img_link = img_link.replace(' ','%20')
 
             """
                 description parsing is not working well, data fetching partially. 
                 description = product.find('duv', {'class': 'descriptions'})
+                doing it manually
             """
+            description = []
 
             status = product.find('i',{'class' : 'fa fa-shopping-cart'})
 
@@ -232,6 +297,22 @@ def startech_parse_laptop_list(url,brand):
 
             if len(details) == 0:
                 continue
+
+            processor = ""
+            if "Processor" in details.keys():
+
+                details["Processor"] = details["Processor"].replace("®",'')
+                details["Processor"] = details["Processor"].replace("™",'')
+                processor = startech_analyze_processor(details["Processor"])
+
+                description.append("Processor - " + processor)
+            else:
+                print("no processor")
+
+            display_size = ""
+            if "Display" in details.keys():
+                display_size = startech_analyze_display_size(details["Display"])
+                description.append("Display Size - " + display_size)
 
             ram = ""
             ram_type = ""
@@ -252,15 +333,27 @@ def startech_parse_laptop_list(url,brand):
 
                 if len(size) > 0:
                     ram = size[::-1] + "GB"
+                    description.append("RAM - " + ram)
 
                 if 'DDR4' in ram_text:
                     ram_type = "DDR4"
+                    description.append("RAM Type- " + ram_type)
+
                 if 'DDR3' in ram_text:
                     ram_type = "DDR3"
+                    description.append("RAM Type- " + ram_type)
 
-            display_size = ""
-            if "Display" in details.keys():
-                display_size = startech_analyze_display_size(details["Display"])
+            storage = dict()
+            if "Storage" in details.keys():
+                storage = startech_analyze_storage(details["Storage"])
+                data = ""
+                if "HDD" in storage.keys():
+                    data += "HDD - " + storage["HDD"] + " "
+                if "SSD" in storage.keys():
+                    data += "SSD - " + storage["SSD"] + " "
+                if "SSH" in storage.keys():
+                    data += "SSH - " + storage["SSH"] + " "
+                description.append(data)
 
             graphics_memory = ""
 
@@ -283,10 +376,8 @@ def startech_parse_laptop_list(url,brand):
                             break
 
                     graphics_memory = size[::-1]+"GB"
+                description.append("Graphics Memory - "+graphics_memory)
 
-            storage = dict()
-            if "Storage" in details.keys():
-                storage = startech_analyze_storage(details["Storage"])
 
             product_records ={
                 "status": status,
@@ -294,12 +385,14 @@ def startech_parse_laptop_list(url,brand):
                 "price": price,
                 "product_link": product_url,
                 "product_title": title,
-                "brand": brand,
+                "description": description,
                 "ram": ram,
                 "ram_type": ram_type,
-                "display_size": display_size,
+                "brand": brand,
                 "graphics_memory": graphics_memory,
+                "display_size": display_size,
                 "storage": storage,
+                "processor": processor,
                 "website": "startech.com.bd"
             }
 
@@ -378,5 +471,4 @@ def startech_parse_all_laptop():
     url = "https://www.startech.com.bd/laptop-notebook/laptop/chuwi"
     brand = 'Chuwi'
     startech_parse_laptop_list(url, brand)
-
 
