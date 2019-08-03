@@ -8,146 +8,8 @@ import axios from "axios";
 
 class SearchResults extends Component {
   state = {
-    searchResults: [
-      {
-        id: 1,
-        brand: "HP",
-        title:
-          "HP 15-DB0000AU AMD DUAL CORE E2-9000e (1.5-2.0GHz, 4GB DDR4, 500GB, DVD-RW) 15.6 Inch Black Notebook with Win-10 Home #4JN12PA",
-        description: [
-          "Processor - AMD DUAL CORE E2-9000e",
-          "Processor Clock Speed - 1.5-2.0GHz",
-          'Display Size - 15.6"',
-          "RAM - 4GB",
-          "RAM Type - DDR4 2400MHz",
-          "Storage - 500GB HDD",
-          "Operating System - Windows 10 Home"
-        ],
-        website: [
-          {
-            sitename: "Ryan",
-            price: 26000,
-            img_link:
-              "https://ryanscomputers.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15-db0000au.jpg",
-            p_link:
-              "https://ryanscomputers.com/hp-15-db0000au-amd-dual-core-e2-9000e-1-5-2-0ghz-4gb-ddr4-500gb-dvd-rw-15-6-inch-black-notebook-with-win-10-home-2-yr-warranty-4jn12pa.html",
-            status: "Available"
-          },
-          {
-            sitename: "Startech",
-            price: 26500,
-            img_link:
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/db0000au/db0000au-500x500.jpg",
-            p_link:
-              "https://www.startech.com.bd/hp-15-db0000au-amd-dual-core-laptop",
-            status: "Not Available"
-          }
-        ]
-      },
-      {
-        id: 2,
-        brand: "Lenovo",
-        title:
-          'Lenovo 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
-        description: [
-          "Processor - Intel PQC N5000",
-          "Processor Clock Speed - 1.1-2.7GHz",
-          'Display Size - 15.6"',
-          "RAM - 4GB",
-          "RAM Type - DDR4",
-          "Storage - 500GB HDD"
-        ],
-        website: [
-          {
-            sitename: "Ryan",
-            price: 32500,
-            img_link:
-              "https://ryanscomputers.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15-bs074tx-silver-2_2.jpg",
-            p_link:
-              "https://ryanscomputers.com/hp-15-da0023tu-intel-pqc-n5000-1-1-2-7ghz-4gb-ddr4-500gb-dvd-rw-15-6-inch-hd-1366-x-768-display-silver-notebook-with-win-10-home-4kz21pa.html",
-            status: "Not Available"
-          },
-          {
-            sitename: "Startech",
-            price: 32000,
-            img_link:
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0023tu/da0023tu-500x500.jpg",
-            p_link: "https://www.startech.com.bd/hp-da0023tpqc-laptop",
-            status: "Available"
-          }
-        ]
-      }
-    ],
-    filterResults: [
-      {
-        id: 1,
-        brand: "HP",
-        title:
-          "HP 15-DB0000AU AMD DUAL CORE E2-9000e (1.5-2.0GHz, 4GB DDR4, 500GB, DVD-RW) 15.6 Inch Black Notebook with Win-10 Home #4JN12PA",
-        description: [
-          "Processor - AMD DUAL CORE E2-9000e",
-          "Processor Clock Speed - 1.5-2.0GHz",
-          'Display Size - 15.6"',
-          "RAM - 4GB",
-          "RAM Type - DDR4 2400MHz",
-          "Storage - 500GB HDD",
-          "Operating System - Windows 10 Home"
-        ],
-        website: [
-          {
-            sitename: "Ryan",
-            price: 26000,
-            img_link:
-              "https://ryanscomputers.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15-db0000au.jpg",
-            p_link:
-              "https://ryanscomputers.com/hp-15-db0000au-amd-dual-core-e2-9000e-1-5-2-0ghz-4gb-ddr4-500gb-dvd-rw-15-6-inch-black-notebook-with-win-10-home-2-yr-warranty-4jn12pa.html",
-            status: "Available"
-          },
-          {
-            sitename: "Startech",
-            price: 26500,
-            img_link:
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/db0000au/db0000au-500x500.jpg",
-            p_link:
-              "https://www.startech.com.bd/hp-15-db0000au-amd-dual-core-laptop",
-            status: "Not Available"
-          }
-        ]
-      },
-      {
-        id: 2,
-        brand: "Lenovo",
-        title:
-          'Lenovo 15-da0023tu Pentium Quad Core 15.6" HD Laptop With Genuine WIn 10',
-        description: [
-          "Processor - Intel PQC N5000",
-          "Processor Clock Speed - 1.1-2.7GHz",
-          'Display Size - 15.6"',
-          "RAM - 4GB",
-          "RAM Type - DDR4",
-          "Storage - 500GB HDD"
-        ],
-        website: [
-          {
-            sitename: "Ryan",
-            price: 32500,
-            img_link:
-              "https://ryanscomputers.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/15-bs074tx-silver-2_2.jpg",
-            p_link:
-              "https://ryanscomputers.com/hp-15-da0023tu-intel-pqc-n5000-1-1-2-7ghz-4gb-ddr4-500gb-dvd-rw-15-6-inch-hd-1366-x-768-display-silver-notebook-with-win-10-home-4kz21pa.html",
-            status: "Not Available"
-          },
-          {
-            sitename: "Startech",
-            price: 32000,
-            img_link:
-              "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/da0023tu/da0023tu-500x500.jpg",
-            p_link: "https://www.startech.com.bd/hp-da0023tpqc-laptop",
-            status: "Available"
-          }
-        ]
-      }
-    ],
+    searchResults: [],
+    filterResults: [],
     category: [
       { label: "Afghanistan" },
       { label: "Aland Islands" },
@@ -198,21 +60,83 @@ class SearchResults extends Component {
     ],
     allSiteNames: ["StarTech", "Pickaboo", "Kiksha", "Google"]
   };
-	
-	
-	
+
   componentDidMount() {
     axios
       .get(
-        "http://127.0.0.1:8000/api/mapping/?brand=Acer&graphics_memory=8GB"
+        "http://2288a47b.ngrok.io/products/mapping/?brand=Acer&graphics_memory=4GB"
       )
       .then(res => {
-        // this.setState({
-        //   searchResults=res.data
-        // });
-        var a = res.data;
-		var websites = a[0].websites;
-        console.log(websites);
+        for (var i = 0; i < res.data.length; i++) {
+          var s = res.data[i].websites;
+          var websites = [];
+          var last_found = 0;
+
+          var website_len = "website_name".length;
+          var price_len = "price".length;
+          var product_link_len = "product_link".length;
+          var status_len = "status".length;
+          var img_link_len = "img_link".length;
+
+          while (s.indexOf("OrderedDict", last_found) != -1) {
+            last_found = s.indexOf("OrderedDict", last_found);
+
+            var website_name_start_pos =
+              s.indexOf("website_name", last_found) + website_len + 4;
+            var website_name_size =
+              s.indexOf("'", website_name_start_pos) - website_name_start_pos;
+            var website_name = s.substr(
+              website_name_start_pos,
+              website_name_size
+            );
+            last_found = website_name_size + website_name_start_pos;
+
+            var price_start_pos =
+              s.indexOf("price", last_found) + price_len + 3;
+            var price_size = s.indexOf(")", price_start_pos) - price_start_pos;
+            var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
+            var price = parseInt(price_str);
+            last_found = price_size + price_start_pos;
+
+            var product_link_start_pos =
+              s.indexOf("product_link", last_found) + product_link_len + 4;
+            var product_link_size =
+              s.indexOf("'", product_link_start_pos) - product_link_start_pos;
+            var product_link = s.substr(
+              product_link_start_pos,
+              product_link_size
+            );
+            last_found = product_link_size + product_link_start_pos;
+
+            var status_start_pos =
+              s.indexOf("status", last_found) + status_len + 4;
+            var status_size =
+              s.indexOf("'", status_start_pos) - status_start_pos;
+            var status = s.substr(status_start_pos, status_size);
+            last_found = status_size + status_start_pos;
+
+            var img_link_start_pos =
+              s.indexOf("img_link", last_found) + img_link_len + 4;
+            var img_link_size =
+              s.indexOf("'", img_link_start_pos) - img_link_start_pos;
+            var img_link = s.substr(img_link_start_pos, img_link_size);
+            last_found = img_link_size + img_link_start_pos;
+
+            var result = {
+              sitename: website_name,
+              price: price,
+              img_link: img_link,
+              p_link: product_link,
+              status: status
+            };
+            websites.push(result);
+          }
+          res.data[i].websites = websites;
+        }
+        this.setState({
+          searchResults: res.data,
+          filterResults: res.data
+        });
       });
   }
 
@@ -220,7 +144,7 @@ class SearchResults extends Component {
     const result = [];
     const map = new Map();
     for (const items of this.state.searchResults) {
-      for (const item of items.website)
+      for (const item of items.websites)
         if (!map.has(item.sitename)) {
           map.set(item.sitename, true); // set any value to Map
           result.push(item.sitename);
@@ -233,7 +157,7 @@ class SearchResults extends Component {
     const result = [];
     const map = new Map();
     for (const items of this.state.searchResults) {
-      for (const item of items.website)
+      for (const item of items.websites)
         if (!map.has(item.price)) {
           map.set(item.price, true); // set any value to Map
           result.push(item.price);
@@ -243,26 +167,26 @@ class SearchResults extends Component {
   };
 
   FilterResults = (price, brandName, siteName) => {
-    let filterResults = [];
-    //console.log(price);
-    //console.log(brandName);
-    //console.log(siteName);
+    var newResults = [];
+    console.log(price);
+    console.log(brandName);
+    console.log(siteName);
 
     //filtering brand
     for (const items of this.state.searchResults) {
       for (const item of brandName) {
         if (items.brand === item) {
-          if (!filterResults.includes(items)) filterResults.push(items);
+          if (!newResults.includes(items)) newResults.push(items);
         }
       }
     }
 
     //filtering sites
-    let site = [];
-    let fres = [];
-    for (const a of filterResults) {
+    var site = [];
+    var fres = [];
+    for (const a of newResults) {
       site = [];
-      for (const x of a.website) {
+      for (const x of a.websites) {
         for (const item of siteName) {
           if (x.sitename === item) {
             if (!site.includes(x)) site.push(x);
@@ -271,38 +195,54 @@ class SearchResults extends Component {
       }
       if (site.length > 0) {
         if (!fres.includes(a)) {
-          a.website = site;
+          a.websites = site;
           fres.push(a);
         }
       }
     }
-    filterResults = fres;
+
+    // for (var i = 0; i < newResults.length; i++) {
+    //   site = [];
+    //   for (var j = 0; j < newResults[i].websites.length; i++) {
+    //     for (var k = 0; k < siteName.length; k++) {
+    //       if (newResults[i].websites[j].sitename == siteName[k]) {
+    //         if (!site.includes(newResults[i].websites[j]))
+    //           site.push(newResults[i].websites[j]);
+    //       }
+    //     }
+    //   }
+    //   if (site.length) {
+    //     newResults[i].websites = site;
+    //   }
+    // }
+    newResults = fres;
 
     //filtering price
     site = [];
     fres = [];
-    for (const a of filterResults) {
+    for (const a of newResults) {
       site = [];
-      for (const x of a.website) {
+      for (const x of a.websites) {
         if (x.price >= price[0] && x.price <= price[1]) {
           if (!site.includes(x)) site.push(x);
         }
       }
       if (site.length > 0) {
         if (!fres.includes(a)) {
-          a.website = site;
+          a.websites = site;
           fres.push(a);
         }
       }
     }
-    filterResults = fres;
+    newResults = fres;
 
-    this.setState({ filterResults });
+    this.setState({ filterResults: newResults });
     //console.log(this.state.searchResults);
     //console.log(filterResults);
   };
 
   render() {
+    //console.log(this.state.searchResults);
     return (
       <React.Fragment>
         <AppBar {...this.props} />

@@ -58,22 +58,22 @@ export default function SearchResult(props) {
     setValue(newValue);
   }
 
-  function PrintDescription() {
-    return (
-      <React.Fragment>
-        <ul>
-          {props.searchResult.description.map(description => (
-            <li>{description}</li>
-          ))}
-        </ul>
-      </React.Fragment>
-    );
-  }
+  // function PrintDescription() {
+  //   return (
+  //     <React.Fragment>
+  //       <ul>
+  //         {props.searchResult.description.map(description => (
+  //           <li>{description}</li>
+  //         ))}
+  //       </ul>
+  //     </React.Fragment>
+  //   );
+  // }
 
   function PrintUrlButton() {
     return (
       <React.Fragment>
-        {props.searchResult.website.map(urlbutton => (
+        {props.searchResult.websites.map(urlbutton => (
           <Typography variant="body2" gutterBottom>
             <Button size="small" variant="contained" color="primary" fullWidth>
               <Link
@@ -97,7 +97,7 @@ export default function SearchResult(props) {
   function PrintImage() {
     return (
       <React.Fragment>
-        {props.searchResult.website.map(site => (
+        {props.searchResult.websites.map(site => (
           <img
             className={classes.image}
             alt={site.sitename}
@@ -123,7 +123,7 @@ export default function SearchResult(props) {
                   <img
                     className={classes.img}
                     alt=""
-                    src={props.searchResult.website[0].img_link}
+                    src={props.searchResult.websites[0].img_link}
                   />
                 </ButtonBase>
               </Grid>
@@ -138,10 +138,10 @@ export default function SearchResult(props) {
                 >
                   <Grid item xs zeroMinWidth>
                     <Typography gutterBottom variant="subtitle1">
-                      <b>{props.searchResult.title}</b>
+                      <b>{props.searchResult.product_title}</b>
                     </Typography>
                     <Typography variant="body2" gutterBottom>
-                      <PrintDescription />
+                      {props.searchResult.description}
                     </Typography>
                   </Grid>
                 </Grid>
@@ -175,7 +175,7 @@ export default function SearchResult(props) {
                         fullWidth
                       >
                         <Link
-                          href={props.searchResult.website[0].p_link}
+                          href={props.searchResult.websites[0].p_link}
                           target="_blank"
                           rel="noreferrer"
                           color="inherit"
@@ -199,9 +199,7 @@ export default function SearchResult(props) {
             </AppBar>
           </ExpansionPanelDetails>
           {value === 0 && (
-            <TabContainer>
-              <PrintDescription />
-            </TabContainer>
+            <TabContainer>{props.searchResult.description}</TabContainer>
           )}
           {value === 1 && (
             <TabContainer>

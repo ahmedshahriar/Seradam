@@ -109,8 +109,8 @@ export default function Filter(props) {
             <Paper className={classes.root}>
               <Typography gutterBottom>Price</Typography>
               <Slider
-                min={props.filterPrice[0]}
-                max={props.filterPrice[props.filterPrice.length - 1]}
+                min={min}
+                max={max}
                 value={price}
                 onChange={handleChangePrice}
                 valueLabelDisplay="auto"
