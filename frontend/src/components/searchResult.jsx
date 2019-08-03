@@ -60,17 +60,17 @@ export default function SearchResult(props) {
     setValue(newValue);
   }
 
-  // function PrintDescription() {
-  //   return (
-  //     <React.Fragment>
-  //       <ul>
-  //         {props.searchResult.description.map(description => (
-  //           <li>{description}</li>
-  //         ))}
-  //       </ul>
-  //     </React.Fragment>
-  //   );
-  // }
+  function PrintDescription() {
+    return (
+      <React.Fragment>
+        <ul>
+          {props.searchResult.description.map(description => (
+            <li>{description}</li>
+          ))}
+        </ul>
+      </React.Fragment>
+    );
+  }
 
   function PrintUrlButton() {
     return (
@@ -148,7 +148,7 @@ export default function SearchResult(props) {
                       <b>{props.searchResult.product_title}</b>
                     </Typography>
                     <Typography variant="body2" gutterBottom>
-                      {props.searchResult.description}
+                      <PrintDescription />
                     </Typography>
                   </Grid>
                 </Grid>
@@ -220,7 +220,9 @@ export default function SearchResult(props) {
             </AppBar>
           </ExpansionPanelDetails>
           {value === 0 && (
-            <TabContainer>{props.searchResult.description}</TabContainer>
+            <TabContainer>
+              <PrintDescription />
+            </TabContainer>
           )}
           {value === 1 && (
             <TabContainer>

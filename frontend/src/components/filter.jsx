@@ -59,7 +59,7 @@ let flag = 0;
 export default function Filter(props) {
   //console.log(props.filterPrice);
   const classes = useStyles();
-  let min = 0;
+  let min = props.filterPrice[0];
   let max = props.filterPrice[1];
   //price
   const [price, setPrice] = React.useState([min, max]);
@@ -109,9 +109,8 @@ export default function Filter(props) {
             <Paper className={classes.root}>
               <Typography gutterBottom>Price</Typography>
               <Slider
-                // min={props.filterPrice[0]}
-                min={min}
-                max={max}
+                min={props.filterPrice[0]}
+                max={props.filterPrice[1]}
                 value={price}
                 onChange={handleChangePrice}
                 valueLabelDisplay="auto"

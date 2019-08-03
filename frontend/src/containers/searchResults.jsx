@@ -4,6 +4,7 @@ import Footer from "../components/footer";
 import AdvancedSearchBar from "../components/advancedSearchBar";
 import SearchResult from "../components/searchResult";
 import Filter from "../components/filter";
+import Typography from "@material-ui/core/Typography";
 import axios from "axios";
 
 class SearchResults extends Component {
@@ -63,12 +64,16 @@ class SearchResults extends Component {
 
   componentDidMount() {
     var key = this.getQueryVariable("search");
-    console.log(key);
+    //console.log(key);
     axios
       .get(`http://365b70d4.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var s = res.data[i].websites;
+          var d = res.data[i].description;
+          var des_lenght = d.length;
+          d = d.substr(2, des_lenght - 4).split(",");
+          //console.log(d);
           var websites = [];
           var last_found = 0;
 
@@ -132,6 +137,7 @@ class SearchResults extends Component {
             websites.push(result);
           }
           res.data[i].websites = websites;
+          res.data[i].description = d;
         }
         this.setState({
           searchResults: res.data,
@@ -247,11 +253,11 @@ class SearchResults extends Component {
     //filtering price
     site = [];
     fres = [];
-    if (price[0] != undefined) {
+    if (price[0] != undefined && price[1] != undefined) {
       for (const a of newResults) {
         site = [];
         for (const x of a.websites) {
-          if (x.price <= price[0]) {
+          if (x.price >= price[0] && x.price <= price[1]) {
             if (!site.includes(x)) site.push(x);
           }
         }
@@ -279,21 +285,29 @@ class SearchResults extends Component {
           allBrandNames={this.state.allBrandNames}
           allSiteNames={this.state.allSiteNames}
         />
-        <Filter
-          filterResults={this.FilterResults}
-          filterPrice={this.GetMinMaxPrice()}
-          filterBrandNames={[
-            ...new Set(this.state.searchResults.map(x => x.brand))
-          ]}
-          filterSiteNames={this.FilterSiteNames()}
-        />
-        {this.state.filterResults.map(searchResult => (
-          <SearchResult
-            key={searchResult.id}
-            searchResult={searchResult}
-            {...this.props}
-          />
-        ))}
+        {this.state.searchResults.length ? (
+          <React.Fragment>
+            <Filter
+              filterResults={this.FilterResults}
+              filterPrice={this.GetMinMaxPrice()}
+              filterBrandNames={[
+                ...new Set(this.state.searchResults.map(x => x.brand))
+              ]}
+              filterSiteNames={this.FilterSiteNames()}
+            />
+            {this.state.filterResults.map(searchResult => (
+              <SearchResult
+                key={searchResult.id}
+                searchResult={searchResult}
+                {...this.props}
+              />
+            ))}
+          </React.Fragment>
+        ) : (
+          <Typography align="center">
+            <b>No Result Found</b>
+          </Typography>
+        )}
         <Footer />
       </React.Fragment>
     );
