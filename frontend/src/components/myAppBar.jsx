@@ -10,6 +10,7 @@ import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
+import Link from "@material-ui/core/Link";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -56,13 +57,25 @@ function MyAppBar(props) {
             SeraDam.Com
           </Typography>
           {props.isAuthenticated ? (
-            <Button
-              aria-describedby={id}
-              color="inherit"
-              onClick={props.logout}
-            >
-              Logout
-            </Button>
+            <React.Fragment>
+              <Link
+                href="/wishlist"
+                target="_blank"
+                rel="noreferrer"
+                color="inherit"
+              >
+                <Button aria-describedby="wishlist" color="inherit">
+                  WishList
+                </Button>
+              </Link>
+              <Button
+                aria-describedby="logout"
+                color="inherit"
+                onClick={props.logout}
+              >
+                Logout
+              </Button>
+            </React.Fragment>
           ) : (
             <React.Fragment>
               <Button

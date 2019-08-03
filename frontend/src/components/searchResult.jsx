@@ -14,6 +14,7 @@ import PropTypes from "prop-types";
 import AppBar from "@material-ui/core/AppBar";
 import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
+import Snackbar from "../components/snackbar";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -51,6 +52,7 @@ TabContainer.propTypes = {
 };
 
 export default function SearchResult(props) {
+  //console.log(props.searchResult);
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
 
@@ -75,19 +77,24 @@ export default function SearchResult(props) {
       <React.Fragment>
         {props.searchResult.websites.map(urlbutton => (
           <Typography variant="body2" gutterBottom>
-            <Button size="small" variant="contained" color="primary" fullWidth>
-              <Link
-                href={urlbutton.p_link}
-                target="_blank"
-                rel="noreferrer"
-                color="inherit"
+            <Link
+              href={urlbutton.p_link}
+              target="_blank"
+              rel="noreferrer"
+              color="inherit"
+            >
+              <Button
+                size="small"
+                variant="contained"
+                color="primary"
+                fullWidth
               >
                 {urlbutton.sitename} <br />
                 {urlbutton.price} ৳
                 <br />
                 {urlbutton.status}
-              </Link>
-            </Button>
+              </Button>
+            </Link>
           </Typography>
         ))}
       </React.Fragment>
@@ -164,26 +171,40 @@ export default function SearchResult(props) {
                 <Grid item xs container direction="column" spacing={2}>
                   <Grid item xs>
                     <Typography
-                      style={{ marginTop: 100 }}
+                      style={{ marginTop: 65 }}
                       variant="body2"
                       gutterBottom
                     >
-                      <Button
-                        size="large"
-                        variant="contained"
-                        color="primary"
-                        fullWidth
+                      <Link
+                        href={props.searchResult.websites[0].p_link}
+                        target="_blank"
+                        rel="noreferrer"
+                        color="inherit"
                       >
-                        <Link
-                          href={props.searchResult.websites[0].p_link}
-                          target="_blank"
-                          rel="noreferrer"
-                          color="inherit"
+                        <Button
+                          size="large"
+                          variant="contained"
+                          color="primary"
+                          fullWidth
                         >
                           Best Deal →
-                        </Link>
-                      </Button>
+                        </Button>
+                      </Link>
                     </Typography>
+                    {props.isAuthenticated ? (
+                      <Typography variant="body2" gutterBottom>
+                        <Button
+                          size="small"
+                          variant="contained"
+                          color="secondary"
+                          fullWidth
+                        >
+                          <Snackbar {...props.searchResult} />
+                        </Button>
+                      </Typography>
+                    ) : (
+                      ""
+                    )}
                   </Grid>
                 </Grid>
               </Grid>

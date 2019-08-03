@@ -2,6 +2,7 @@ import React from "react";
 import { Route } from "react-router-dom";
 import Home from "./containers/home";
 import SearchResults from "./containers/searchResults";
+import WishList from "./containers/wishLists";
 
 function BaseRouter(props) {
   //console.log(props);
@@ -9,9 +10,10 @@ function BaseRouter(props) {
     <div>
       <Route exact path="/" render={() => <Home {...props} />} />
       <Route exact path="/search" render={() => <SearchResults {...props} />} />
+      <Route exact path="/wishlist" render={() => <WishList {...props} />} />
       <Route
         exact
-        path="/:search/:category/:brand/:site"
+        path="/search/?search=:search&category=:category"
         component={SearchResults}
       />
     </div>

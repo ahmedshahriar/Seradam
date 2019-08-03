@@ -62,10 +62,10 @@ class SearchResults extends Component {
   };
 
   componentDidMount() {
+    var key = this.getQueryVariable("search");
+    console.log(key);
     axios
-      .get(
-        "http://2288a47b.ngrok.io/products/mapping/?brand=Acer&graphics_memory=4GB"
-      )
+      .get(`http://365b70d4.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var s = res.data[i].websites;
@@ -137,8 +137,26 @@ class SearchResults extends Component {
           searchResults: res.data,
           filterResults: res.data
         });
+      })
+      .catch(err => {
+        console.log(err);
       });
   }
+
+  getQueryVariable = variable => {
+    var query = window.location.search.substring(1);
+    //console.log(query); //"app=article&act=news_content&aid=160990"
+    var vars = query.split("&");
+    //console.log(vars); //[ 'app=article', 'act=news_content', 'aid=160990' ]
+    for (var i = 0; i < vars.length; i++) {
+      var pair = vars[i].split("=");
+      //console.log(pair); //[ 'app', 'article' ][ 'act', 'news_content' ][ 'aid', '160990' ]
+      if (pair[0] == variable) {
+        return pair[1];
+      }
+    }
+    return false;
+  };
 
   FilterSiteNames = () => {
     const result = [];
@@ -168,37 +186,47 @@ class SearchResults extends Component {
 
   FilterResults = (price, brandName, siteName) => {
     var newResults = [];
+    var site = [];
+    var fres = [];
     console.log(price);
     console.log(brandName);
     console.log(siteName);
 
     //filtering brand
-    for (const items of this.state.searchResults) {
-      for (const item of brandName) {
-        if (items.brand === item) {
-          if (!newResults.includes(items)) newResults.push(items);
-        }
-      }
-    }
-
-    //filtering sites
-    var site = [];
-    var fres = [];
-    for (const a of newResults) {
-      site = [];
-      for (const x of a.websites) {
-        for (const item of siteName) {
-          if (x.sitename === item) {
-            if (!site.includes(x)) site.push(x);
+    if (brandName.length > 0) {
+      for (const items of this.state.searchResults) {
+        for (const item of brandName) {
+          if (items.brand === item) {
+            if (!newResults.includes(items)) newResults.push(items);
           }
         }
       }
-      if (site.length > 0) {
-        if (!fres.includes(a)) {
-          a.websites = site;
-          fres.push(a);
+    } else {
+      newResults = this.state.searchResults;
+    }
+
+    //filtering sites
+
+    if (siteName.length > 0) {
+      for (const a of newResults) {
+        site = [];
+        for (const x of a.websites) {
+          for (const item of siteName) {
+            if (x.sitename === item) {
+              if (!site.includes(x)) site.push(x);
+            }
+          }
+        }
+        if (site.length > 0) {
+          if (!fres.includes(a)) {
+            a.websites = site;
+            fres.push(a);
+          }
         }
       }
+      newResults = fres;
+    } else {
+      newResults = this.state.searchResults;
     }
 
     // for (var i = 0; i < newResults.length; i++) {
@@ -215,26 +243,27 @@ class SearchResults extends Component {
     //     newResults[i].websites = site;
     //   }
     // }
-    newResults = fres;
 
     //filtering price
     site = [];
     fres = [];
-    for (const a of newResults) {
-      site = [];
-      for (const x of a.websites) {
-        if (x.price >= price[0] && x.price <= price[1]) {
-          if (!site.includes(x)) site.push(x);
+    if (price[0] != undefined) {
+      for (const a of newResults) {
+        site = [];
+        for (const x of a.websites) {
+          if (x.price <= price[0]) {
+            if (!site.includes(x)) site.push(x);
+          }
+        }
+        if (site.length > 0) {
+          if (!fres.includes(a)) {
+            a.websites = site;
+            fres.push(a);
+          }
         }
       }
-      if (site.length > 0) {
-        if (!fres.includes(a)) {
-          a.websites = site;
-          fres.push(a);
-        }
-      }
+      newResults = fres;
     }
-    newResults = fres;
 
     this.setState({ filterResults: newResults });
     //console.log(this.state.searchResults);
@@ -242,7 +271,6 @@ class SearchResults extends Component {
   };
 
   render() {
-    //console.log(this.state.searchResults);
     return (
       <React.Fragment>
         <AppBar {...this.props} />
@@ -260,7 +288,11 @@ class SearchResults extends Component {
           filterSiteNames={this.FilterSiteNames()}
         />
         {this.state.filterResults.map(searchResult => (
-          <SearchResult key={searchResult.id} searchResult={searchResult} />
+          <SearchResult
+            key={searchResult.id}
+            searchResult={searchResult}
+            {...this.props}
+          />
         ))}
         <Footer />
       </React.Fragment>
