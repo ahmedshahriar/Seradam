@@ -1,5 +1,4 @@
 
-from products.models import *
 from .serializers import *
 from django.http import JsonResponse
 
@@ -80,6 +79,12 @@ class MappingListView(ListAPIView):
         ram = self.request.query_params.get('ram', None)
         display_size = self.request.query_params.get('display_size', None)
 
+        key = self.request.query_params.get('key', None)
+
+        print(key)
+        if key is not None:
+            # queryset = Mapping.objects.raw_query({ "product_title": { "$regex": key } })
+            queryset = Mapping.objects.filter(product_title__icontains=key)
         # graphics_memory = self.request.
 
         if graphics_memory is not None:
@@ -99,6 +104,10 @@ class MappingListView(ListAPIView):
             queryset = queryset.filter(display_size=display_size)
 
         return queryset
+
+# class WishlistListView(viewsets.ModelViewSet):
+#     serializer_class = WishlistSerializer
+#     queryset = Wishlist.objects.all()
 
 
 # class StartechDetailView(RetrieveAPIView):

@@ -1,7 +1,8 @@
 from rest_framework import serializers
 from products.models import *
 
-#
+
+
 class StartechSerializer(serializers.ModelSerializer):
     class Meta:
         model = Startech
@@ -24,3 +25,9 @@ class MappingSerializer(serializers.ModelSerializer):
         fields = ("brand", "description", "display_size", "graphics_memory", "img_link",
                   "product_title", "ram", "ram_type", "storage", "websites")
 
+
+# class WishlistSerializer(serializers.ModelSerializer):
+#     class Meta:
+#         model = Wishlist
+#
+#         fields = ("website_name", "product_link","price")

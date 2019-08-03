@@ -25,7 +25,7 @@ SECRET_KEY = 'cddxnj#f4ynz6*#0y=8b%)_pwm_tb_2ug(+7bbya=0xzbx+%gz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dc3bd2c1.ngrok.io','127.0.0.1']
+ALLOWED_HOSTS = ['365b70d4.ngrok.io','127.0.0.1']
 
 
 # Application definition
@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'rest_auth.registration',
     'products',
+    'wishlist',
     'corsheaders',
 ]
 SITE_ID = 1
@@ -137,7 +138,10 @@ REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
     # or allow read-only access for unauthenticated users.
     'DEFAULT_PERMISSION_CLASSES': [
-        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+        'rest_framework.permissions.AllowAny',
+        # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',
+
+        # 'rest_framework.permissions.AllowAny',
     ],
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework.authentication.TokenAuthentication',
@@ -164,7 +168,7 @@ ACCOUNT_USERNAME_REQUIRED = True
 
 # for email
 
-# ACCOUNT_EMAIL_VERIFICATION = "optional"
+# ACCOUNT_EMAIL_VERIFICATION = "none"
 # ACCOUNT_AUTHENTICATION_METHOD = "email"
 # ACCOUNT_EMAIL_REQUIRED = True
 #
