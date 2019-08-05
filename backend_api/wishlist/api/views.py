@@ -1,35 +1,37 @@
 
 from .serializers import *
-from django.http import JsonResponse
-
-
-from rest_framework import viewsets
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.response import Response
+from rest_framework.authentication import SessionAuthentication, BasicAuthentication
+from rest_framework import viewsets, status
 
 
 class WishlistViewSet(viewsets.ModelViewSet):
-    """
-    A viewset for viewing and editing user instances.
-    """
-    print("1")
+
+    permission_classes = [IsAuthenticated]
+    print("authentication pass")
+    # authentication_classes = [SessionAuthentication, BasicAuthentication]
     serializer_class = WishlistSerializer
-    print("2")
-    queryset = Wishlist.objects.all()
-    print("3")
+
     def get_queryset(self):
-        print("4")
-        queryset = Wishlist.objects.all()
-        print("5")
+        queryset = Wishlist.objects.filter(user=self.request.user.id)
         return queryset
 
+    def create(self, request, *args, **kwargs):
 
-# class RyansViewSet(viewsets.ModelViewSet):
-#     """
-#     A viewset for viewing and editing user instances.
-#     """
-#     serializer_class = RyansSerializer
-#     queryset = Ryans.objects.filter(graphics_memory='Shared')
+        data = request.data
+        data['user'] = self.request.user.id
+        serializer = self.get_serializer(data=data)
+        serializer.is_valid(raise_exception=True)
+        self.perform_create(serializer)
+        headers = self.get_success_headers(serializer.data)
 
-#
+        print("before")
+        print(headers)
+        print(type(headers))
+        return Response(serializer.data, status=status.HTTP_201_CREATED, headers=headers)
+
+
 from rest_framework.generics import (
     ListAPIView,
     RetrieveAPIView,
@@ -46,28 +48,4 @@ class WishlistListView(ListAPIView):
 class WishlistDetailView(RetrieveAPIView):
     serializer_class = WishlistSerializer
     queryset = Wishlist.objects.all()
-
-# class StartechDetailView(RetrieveAPIView):
-#     queryset = Startech.objects.all()
-#     serializer_class = StartechSerializer
-#
-#
-# class WishlistCreateView(CreateAPIView):
-#
-#     serializer_class = WishlistSerializer
-#     queryset = Wishlist.objects.all()
-
-# class StartechUpdateView(UpdateAPIView):
-#     queryset = Startech.objects.all()
-#     serializer_class = StartechSerializer
-#
-#
-# class StartechDeleteView(DestroyAPIView):
-#     queryset = Startech.objects.all()
-#     serializer_class = StartechSerializer
-#
-#
-
-
-
 

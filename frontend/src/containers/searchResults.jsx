@@ -66,17 +66,54 @@ class SearchResults extends Component {
     var key = this.getQueryVariable("search");
     //console.log(key);
     axios
-      .get(`https://ab1307df.ngrok.io/products/mapping/?key=${key}`)
+      .get(`http://127.0.0.1:8000/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
-          var s = res.data[i].websites;
-          var d = res.data[i].description;
-          var des_lenght = d.length;
-          d = d.substr(2, des_lenght - 4).split(",");
-          //console.log(d);
-          var websites = [];
+          var d = "";
+      var p = res.data[i].description;
+      
+		  var new_desc="";
+		  
+		  
+		  for(var l=0;l<p.length;l++){
+			  if(p[l]!="'") {
+				  //console.log(i);
+		      d+=p[l];
+			  }
+		  }
+		  		  
+		  var des_lenght = d.length;
+          d = d.substr(1, des_lenght - 2);
+		  
+		  d = d.split(",").map(function(item) {
+			return item.trim();
+		  });
+		  
+		  var storage={};
+	      var temp = res.data[i].storage;
+		  var last=0;
+		  
+		  while(temp.indexOf("'",last)!=-1){
+			last = temp.indexOf("'",last)+1;
+			var next =temp.indexOf("'",last); 
+			var type = temp.substr(last,next-last);
+			last=next+1;
+		  
+			last = temp.indexOf("'",last)+1;
+			var next =temp.indexOf("'",last); 
+			var size = temp.substr(last,next-last);
+			last=next+1;
+			//console.log(type + " : "+size);
+			storage[type]=size;
+				
+		  }
+		  //console.log(storage);
+		  
+		  
+		  var websites = [];
           var last_found = 0;
-
+		  var s = res.data[i].websites;
+          
           var website_len = "website_name".length;
           var price_len = "price".length;
           var product_link_len = "product_link".length;
@@ -96,8 +133,7 @@ class SearchResults extends Component {
             );
             last_found = website_name_size + website_name_start_pos;
 
-            var price_start_pos =
-              s.indexOf("price", last_found) + price_len + 3;
+            var price_start_pos =s.indexOf("price", last_found) + price_len + 3;
             var price_size = s.indexOf(")", price_start_pos) - price_start_pos;
             var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
             var price = parseInt(price_str);
@@ -138,6 +174,7 @@ class SearchResults extends Component {
           }
           res.data[i].websites = websites;
           res.data[i].description = d;
+          res.data[i].storage = storage;
         }
         this.setState({
           searchResults: res.data,

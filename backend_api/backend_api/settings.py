@@ -25,7 +25,7 @@ SECRET_KEY = 'cddxnj#f4ynz6*#0y=8b%)_pwm_tb_2ug(+7bbya=0xzbx+%gz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['365b70d4.ngrok.io','127.0.0.1']
+ALLOWED_HOSTS = ['ab1307df.ngrok.io','127.0.0.1','localhost']
 
 
 # Application definition
@@ -58,10 +58,17 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.auth.middleware.RemoteUserMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'corsheaders.middleware.CorsMiddleware'
 ]
+
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.RemoteUserBackend',
+    'django.contrib.auth.backends.ModelBackend',
+]
+
 
 ROOT_URLCONF = 'backend_api.urls'
 

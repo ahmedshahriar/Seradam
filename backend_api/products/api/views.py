@@ -1,7 +1,7 @@
 
 from .serializers import *
 from django.http import JsonResponse
-
+from rest_framework.response import Response
 
 from rest_framework import viewsets
 
@@ -102,8 +102,27 @@ class MappingListView(ListAPIView):
         if display_size is not None:
             print("display_size : " + display_size)
             queryset = queryset.filter(display_size=display_size)
+        data = queryset.first()
+        print(data.product_title)
+        return queryset
+
+
+class TestListView(ListAPIView):
+    queryset = Mapping.objects.all()
+    serializer_class = MappingSerializer
+
+    def get_queryset(self):
+
+        queryset = Mapping.objects.all()
 
         return queryset
+
+    def post(self, request):
+
+        print(request.data)
+        return Response(request.data)
+
+
 
 # class WishlistListView(viewsets.ModelViewSet):
 #     serializer_class = WishlistSerializer

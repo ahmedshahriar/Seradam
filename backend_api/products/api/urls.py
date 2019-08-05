@@ -21,6 +21,7 @@ urlpatterns =[
     path('ryans/', RyansListView.as_view()),
     # path('mapping/', get_list)
     path('mapping/', MappingListView.as_view()),
+    path('test/', TestListView.as_view()),
     # path('wishlist/',M)
     # path('ryans/',RyansListView.as_view()),
     # path('ryans/<pk>/',RyansDetailView.as_view()),

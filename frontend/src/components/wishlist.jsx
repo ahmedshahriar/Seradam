@@ -60,17 +60,17 @@ export default function WishList(props) {
     setValue(newValue);
   }
 
-  // function PrintDescription() {
-  //   return (
-  //     <React.Fragment>
-  //       <ul>
-  //         {props.searchResult.description.map(description => (
-  //           <li>{description}</li>
-  //         ))}
-  //       </ul>
-  //     </React.Fragment>
-  //   );
-  // }
+  function PrintDescription() {
+    return (
+      <React.Fragment>
+        <ul>
+          {props.searchResult.description.map(description => (
+            <li>{description}</li>
+          ))}
+        </ul>
+      </React.Fragment>
+    );
+  }
 
   function PrintUrlButton() {
     return (
@@ -78,7 +78,7 @@ export default function WishList(props) {
         {props.searchResult.websites.map(urlbutton => (
           <Typography variant="body2" gutterBottom>
             <Link
-              href={urlbutton.p_link}
+              href={urlbutton.product_link}
               target="_blank"
               rel="noreferrer"
               color="inherit"
@@ -89,7 +89,7 @@ export default function WishList(props) {
                 color="primary"
                 fullWidth
               >
-                {urlbutton.sitename} <br />
+                {urlbutton.website_name} <br />
                 {urlbutton.price} ৳
                 <br />
                 {urlbutton.status}
@@ -107,7 +107,7 @@ export default function WishList(props) {
         {props.searchResult.websites.map(site => (
           <img
             className={classes.image}
-            alt={site.sitename}
+            alt={site.website_name}
             src={site.img_link}
           />
         ))}
@@ -148,7 +148,7 @@ export default function WishList(props) {
                       <b>{props.searchResult.product_title}</b>
                     </Typography>
                     <Typography variant="body2" gutterBottom>
-                      {props.searchResult.description}
+                      <PrintDescription />
                     </Typography>
                   </Grid>
                 </Grid>
@@ -176,7 +176,7 @@ export default function WishList(props) {
                       gutterBottom
                     >
                       <Link
-                        href={props.searchResult.websites[0].p_link}
+                        href={props.searchResult.websites[0].product_link}
                         target="_blank"
                         rel="noreferrer"
                         color="inherit"
@@ -220,7 +220,9 @@ export default function WishList(props) {
             </AppBar>
           </ExpansionPanelDetails>
           {value === 0 && (
-            <TabContainer>{props.searchResult.description}</TabContainer>
+            <TabContainer>
+              <PrintDescription />
+            </TabContainer>
           )}
           {value === 1 && (
             <TabContainer>
