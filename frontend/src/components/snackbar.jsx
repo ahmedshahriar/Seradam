@@ -13,21 +13,23 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function SimpleSnackbar(props) {
+  //console.log(props);
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
 
   function handleClick() {
+    var token = localStorage.getItem("token");
+    //console.log(`Token ${token}`);
     //console.log(props);
     //console.log(localStorage.getItem("token"));
     axios
-      .post("http://365b70d4.ngrok.io/wishlist/", {
-        website_name: "Ryan",
-        product_link: "http://localhost:3000/",
-        price: 6000,
-        user: 2
+      .post("https://ab1307df.ngrok.io/wishlist/", props, {
+        headers: {
+          Authorization: `Token ${token}`
+        }
       })
       .then(res => {
-        console.log(res.data);
+        console.log(res);
       })
       .catch(err => {
         console.log(err);

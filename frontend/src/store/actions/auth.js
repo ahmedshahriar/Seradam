@@ -41,7 +41,7 @@ export const authLogin = (username, password) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("http://365b70d4.ngrok.io/rest-auth/login/", {
+      .post("https://ab1307df.ngrok.io/rest-auth/login/", {
         username: username,
         password: password
       })
@@ -63,7 +63,7 @@ export const authSignup = (fullname, username, password1, password2) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("http://365b70d4.ngrok.io/rest-auth/registration/", {
+      .post("https://ab1307df.ngrok.io/rest-auth/registration/", {
         fullname: fullname,
         username: username,
         password1: password1,

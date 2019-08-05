@@ -78,7 +78,7 @@ export default function SearchResult(props) {
         {props.searchResult.websites.map(urlbutton => (
           <Typography variant="body2" gutterBottom>
             <Link
-              href={urlbutton.p_link}
+              href={urlbutton.product_link}
               target="_blank"
               rel="noreferrer"
               color="inherit"
@@ -89,7 +89,7 @@ export default function SearchResult(props) {
                 color="primary"
                 fullWidth
               >
-                {urlbutton.sitename} <br />
+                {urlbutton.website_name} <br />
                 {urlbutton.price} ৳
                 <br />
                 {urlbutton.status}
@@ -107,7 +107,7 @@ export default function SearchResult(props) {
         {props.searchResult.websites.map(site => (
           <img
             className={classes.image}
-            alt={site.sitename}
+            alt={site.website_name}
             src={site.img_link}
           />
         ))}
@@ -176,7 +176,7 @@ export default function SearchResult(props) {
                       gutterBottom
                     >
                       <Link
-                        href={props.searchResult.websites[0].p_link}
+                        href={props.searchResult.websites[0].product_link}
                         target="_blank"
                         rel="noreferrer"
                         color="inherit"

@@ -66,7 +66,7 @@ class SearchResults extends Component {
     var key = this.getQueryVariable("search");
     //console.log(key);
     axios
-      .get(`http://365b70d4.ngrok.io/products/mapping/?key=${key}`)
+      .get(`https://ab1307df.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var s = res.data[i].websites;
@@ -128,10 +128,10 @@ class SearchResults extends Component {
             last_found = img_link_size + img_link_start_pos;
 
             var result = {
-              sitename: website_name,
+              website_name: website_name,
               price: price,
               img_link: img_link,
-              p_link: product_link,
+              product_link: product_link,
               status: status
             };
             websites.push(result);
@@ -169,9 +169,9 @@ class SearchResults extends Component {
     const map = new Map();
     for (const items of this.state.searchResults) {
       for (const item of items.websites)
-        if (!map.has(item.sitename)) {
-          map.set(item.sitename, true); // set any value to Map
-          result.push(item.sitename);
+        if (!map.has(item.website_name)) {
+          map.set(item.website_name, true); // set any value to Map
+          result.push(item.website_name);
         }
     }
     return result;
@@ -194,9 +194,9 @@ class SearchResults extends Component {
     var newResults = [];
     var site = [];
     var fres = [];
-    console.log(price);
-    console.log(brandName);
-    console.log(siteName);
+    //console.log(price);
+    //console.log(brandName);
+    //console.log(siteName);
 
     //filtering brand
     if (brandName.length > 0) {
@@ -218,7 +218,7 @@ class SearchResults extends Component {
         site = [];
         for (const x of a.websites) {
           for (const item of siteName) {
-            if (x.sitename === item) {
+            if (x.website_name === item) {
               if (!site.includes(x)) site.push(x);
             }
           }
@@ -305,7 +305,7 @@ class SearchResults extends Component {
           </React.Fragment>
         ) : (
           <Typography align="center">
-            <b>No Result Found</b>
+            <b>Fetching Your Results ...</b>
           </Typography>
         )}
         <Footer />
