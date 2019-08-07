@@ -59,6 +59,16 @@ function MyAppBar(props) {
           {props.isAuthenticated ? (
             <React.Fragment>
               <Link
+                href="/notification"
+                target="_blank"
+                rel="noreferrer"
+                color="inherit"
+              >
+                <Button aria-describedby="wishlist" color="inherit">
+                  Notification
+                </Button>
+              </Link>
+              <Link
                 href="/wishlist"
                 target="_blank"
                 rel="noreferrer"

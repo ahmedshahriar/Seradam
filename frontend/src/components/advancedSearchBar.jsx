@@ -250,9 +250,9 @@ export default function AdvancedSearchBar(props) {
                   MenuProps={MenuProps}
                 >
                   {props.allBrandNames.map(name => (
-                    <MenuItem key={name} value={name}>
-                      <Checkbox checked={brandName.indexOf(name) > -1} />
-                      <ListItemText primary={name} />
+                    <MenuItem key={name.brand} value={name.brand}>
+                      <Checkbox checked={brandName.indexOf(name.brand) > -1} />
+                      <ListItemText primary={name.brand} />
                     </MenuItem>
                   ))}
                 </Select>

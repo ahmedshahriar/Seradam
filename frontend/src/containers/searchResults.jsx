@@ -11,116 +11,65 @@ class SearchResults extends Component {
   state = {
     searchResults: [],
     filterResults: [],
-    category: [
-      { label: "Afghanistan" },
-      { label: "Aland Islands" },
-      { label: "Albania" },
-      { label: "Algeria" },
-      { label: "American Samoa" },
-      { label: "Andorra" },
-      { label: "Angola" },
-      { label: "Anguilla" },
-      { label: "Antarctica" },
-      { label: "Antigua and Barbuda" },
-      { label: "Argentina" },
-      { label: "Armenia" },
-      { label: "Aruba" },
-      { label: "Australia" },
-      { label: "Austria" },
-      { label: "Azerbaijan" },
-      { label: "Bahamas" },
-      { label: "Bahrain" },
-      { label: "Bangladesh" },
-      { label: "Barbados" },
-      { label: "Belarus" },
-      { label: "Belgium" },
-      { label: "Belize" },
-      { label: "Benin" },
-      { label: "Bermuda" },
-      { label: "Bhutan" },
-      { label: "Bolivia, Plurinational State of" },
-      { label: "Bonaire, Sint Eustatius and Saba" },
-      { label: "Bosnia and Herzegovina" },
-      { label: "Botswana" },
-      { label: "Bouvet Island" },
-      { label: "Brazil" },
-      { label: "British Indian Ocean Territory" },
-      { label: "Brunei Darussalam" }
-    ],
-    allBrandNames: [
-      "Intel",
-      "AMD",
-      "Asrock",
-      "Asus",
-      "Gigabyte",
-      "Corsair",
-      "Seasonic",
-      "Samsung",
-      "Sandisk",
-      "Seagate"
-    ],
-    allSiteNames: ["StarTech", "Pickaboo", "Kiksha", "Google"]
+    category: [{ label: "Laptop" }],
+    allBrandNames: [],
+    allSiteNames: ["ryanscomputers.com", "startech.com.bd"]
   };
 
   componentDidMount() {
     var key = this.getQueryVariable("search");
     //console.log(key);
     axios
-      .get(`http://127.0.0.1:8000/products/mapping/?key=${key}`)
+      .get(`https://d808c165.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var d = "";
-      var p = res.data[i].description;
-      
-		  var new_desc="";
-		  
-		  
-		  for(var l=0;l<p.length;l++){
-			  if(p[l]!="'") {
-				  //console.log(i);
-		      d+=p[l];
-			  }
-		  }
-		  		  
-		  var des_lenght = d.length;
+          var p = res.data[i].description;
+
+          for (var l = 0; l < p.length; l++) {
+            if (p[l] !== "'") {
+              //console.log(i);
+              d += p[l];
+            }
+          }
+
+          var des_lenght = d.length;
           d = d.substr(1, des_lenght - 2);
-		  
-		  d = d.split(",").map(function(item) {
-			return item.trim();
-		  });
-		  
-		  var storage={};
-	      var temp = res.data[i].storage;
-		  var last=0;
-		  
-		  while(temp.indexOf("'",last)!=-1){
-			last = temp.indexOf("'",last)+1;
-			var next =temp.indexOf("'",last); 
-			var type = temp.substr(last,next-last);
-			last=next+1;
-		  
-			last = temp.indexOf("'",last)+1;
-			var next =temp.indexOf("'",last); 
-			var size = temp.substr(last,next-last);
-			last=next+1;
-			//console.log(type + " : "+size);
-			storage[type]=size;
-				
-		  }
-		  //console.log(storage);
-		  
-		  
-		  var websites = [];
+
+          d = d.split(",").map(function(item) {
+            return item.trim();
+          });
+
+          var storage = {};
+          var temp = res.data[i].storage;
+          var last = 0;
+
+          while (temp.indexOf("'", last) !== -1) {
+            last = temp.indexOf("'", last) + 1;
+            var next = temp.indexOf("'", last);
+            var type = temp.substr(last, next - last);
+            last = next + 1;
+
+            last = temp.indexOf("'", last) + 1;
+            next = temp.indexOf("'", last);
+            var size = temp.substr(last, next - last);
+            last = next + 1;
+            //console.log(type + " : "+size);
+            storage[type] = size;
+          }
+          //console.log(storage);
+
+          var websites = [];
           var last_found = 0;
-		  var s = res.data[i].websites;
-          
+          var s = res.data[i].websites;
+
           var website_len = "website_name".length;
           var price_len = "price".length;
           var product_link_len = "product_link".length;
           var status_len = "status".length;
           var img_link_len = "img_link".length;
 
-          while (s.indexOf("OrderedDict", last_found) != -1) {
+          while (s.indexOf("OrderedDict", last_found) !== -1) {
             last_found = s.indexOf("OrderedDict", last_found);
 
             var website_name_start_pos =
@@ -133,7 +82,8 @@ class SearchResults extends Component {
             );
             last_found = website_name_size + website_name_start_pos;
 
-            var price_start_pos =s.indexOf("price", last_found) + price_len + 3;
+            var price_start_pos =
+              s.indexOf("price", last_found) + price_len + 3;
             var price_size = s.indexOf(")", price_start_pos) - price_start_pos;
             var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
             var price = parseInt(price_str);
@@ -184,6 +134,17 @@ class SearchResults extends Component {
       .catch(err => {
         console.log(err);
       });
+
+    axios
+      .get("https://d808c165.ngrok.io/products/brand/")
+      .then(res => {
+        this.setState({
+          allBrandNames: res.data
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
   }
 
   getQueryVariable = variable => {
@@ -194,7 +155,7 @@ class SearchResults extends Component {
     for (var i = 0; i < vars.length; i++) {
       var pair = vars[i].split("=");
       //console.log(pair); //[ 'app', 'article' ][ 'act', 'news_content' ][ 'aid', '160990' ]
-      if (pair[0] == variable) {
+      if (pair[0] === variable) {
         return pair[1];
       }
     }
@@ -290,7 +251,7 @@ class SearchResults extends Component {
     //filtering price
     site = [];
     fres = [];
-    if (price[0] != undefined && price[1] != undefined) {
+    if (price[0] !== undefined && price[1] !== undefined) {
       for (const a of newResults) {
         site = [];
         for (const x of a.websites) {
