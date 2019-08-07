@@ -23,7 +23,7 @@ export default function SimpleSnackbar(props) {
     //console.log(props);
     //console.log(localStorage.getItem("token"));
     axios
-      .post("http://127.0.0.1:8000/wishlist/", props, {
+      .post("https://c8e24411.ngrok.io/wishlist/", props, {
         headers: {
           Authorization: `Token ${token}`
         }

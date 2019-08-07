@@ -13,7 +13,7 @@ class WishLists extends Component {
     var token = localStorage.getItem("token");
 
     axios
-      .get("http://127.0.0.1:8000/wishlist/", {
+      .get("https://c8e24411.ngrok.io/wishlist/", {
         headers: {
           Authorization: `Token ${token}`
         }

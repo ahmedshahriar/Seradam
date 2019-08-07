@@ -45,13 +45,11 @@ const useStyles = makeStyles(theme => ({
     marginTop: theme.spacing(3)
   },
   submit: {
-    margin: theme.spacing(3, 0, 2)
+    margin: theme.spacing(1)
   }
 }));
 
-const suggestions = [
-  { label: "Laptop" }
-];
+const suggestions = [{ label: "Laptop" }];
 
 function renderInput(inputProps) {
   const { InputProps, classes, ref, ...other } = inputProps;
@@ -127,12 +125,12 @@ export default function SearchBar() {
   const classes = useStyles();
 
   return (
-    <Container component="main" maxWidth="xs">
+    <Container component="main" maxWidth="md">
       <CssBaseline />
       <div className={classes.paper}>
         <form action="/search" className={classes.form} noValidate>
           <Grid container spacing={2}>
-            <Grid item xs={12} sm={6}>
+            <Grid item xs={12} sm={7}>
               <TextField
                 name="search"
                 variant="outlined"
@@ -143,7 +141,7 @@ export default function SearchBar() {
                 placeholder="Search here e.g Ram"
               />
             </Grid>
-            <Grid item xs={12} sm={6}>
+            <Grid item xs={12} sm={3}>
               <Downshift id="downshift-options">
                 {({
                   clearSelection,
@@ -205,16 +203,18 @@ export default function SearchBar() {
                 }}
               </Downshift>
             </Grid>
+            <Grid item xs={12} sm={2}>
+              <Button
+                type="submit"
+                fullWidth
+                variant="contained"
+                color="primary"
+                className={classes.submit}
+              >
+                Search
+              </Button>
+            </Grid>
           </Grid>
-          <Button
-            type="submit"
-            fullWidth
-            variant="contained"
-            color="primary"
-            className={classes.submit}
-          >
-            Search
-          </Button>
         </form>
       </div>
     </Container>

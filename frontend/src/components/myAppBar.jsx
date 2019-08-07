@@ -11,6 +11,12 @@ import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import Link from "@material-ui/core/Link";
+import ProfileMenu from "./profileMenu";
+import LockIcon from "@material-ui/icons/Lock";
+import RegIcon from "@material-ui/icons/AccessibilityNew";
+import NotificationIcon from "@material-ui/icons/Notifications";
+import WishListIcon from "@material-ui/icons/EventNote";
+import LogoutIcon from "@material-ui/icons/ExitToApp";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -58,6 +64,7 @@ function MyAppBar(props) {
           </Typography>
           {props.isAuthenticated ? (
             <React.Fragment>
+              <ProfileMenu />
               <Link
                 href="/notification"
                 target="_blank"
@@ -65,7 +72,7 @@ function MyAppBar(props) {
                 color="inherit"
               >
                 <Button aria-describedby="wishlist" color="inherit">
-                  Notification
+                  <NotificationIcon /> Notification
                 </Button>
               </Link>
               <Link
@@ -75,7 +82,7 @@ function MyAppBar(props) {
                 color="inherit"
               >
                 <Button aria-describedby="wishlist" color="inherit">
-                  WishList
+                  <WishListIcon /> WishList
                 </Button>
               </Link>
               <Button
@@ -83,7 +90,7 @@ function MyAppBar(props) {
                 color="inherit"
                 onClick={props.logout}
               >
-                Logout
+                <LogoutIcon /> Logout
               </Button>
             </React.Fragment>
           ) : (
@@ -93,7 +100,7 @@ function MyAppBar(props) {
                 color="inherit"
                 onClick={handleClick}
               >
-                Login
+                <LockIcon /> Login
               </Button>
               <Popover
                 id={id}
@@ -118,7 +125,7 @@ function MyAppBar(props) {
                 color="inherit"
                 onClick={handleClick1}
               >
-                Sign Up
+                <RegIcon /> Sign Up
               </Button>
               <Popover
                 id={id1}

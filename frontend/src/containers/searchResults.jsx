@@ -5,6 +5,7 @@ import AdvancedSearchBar from "../components/advancedSearchBar";
 import SearchResult from "../components/searchResult";
 import Filter from "../components/filter";
 import Typography from "@material-ui/core/Typography";
+import CircularProgress from "@material-ui/core/CircularProgress";
 import axios from "axios";
 
 class SearchResults extends Component {
@@ -13,14 +14,15 @@ class SearchResults extends Component {
     filterResults: [],
     category: [{ label: "Laptop" }],
     allBrandNames: [],
-    allSiteNames: ["ryanscomputers.com", "startech.com.bd"]
+    allSiteNames: ["ryanscomputers.com", "startech.com.bd"],
+    resultFound: true
   };
 
   componentDidMount() {
     var key = this.getQueryVariable("search");
     //console.log(key);
     axios
-      .get(`https://d808c165.ngrok.io/products/mapping/?key=${key}`)
+      .get(`https://c8e24411.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var d = "";
@@ -128,15 +130,19 @@ class SearchResults extends Component {
         }
         this.setState({
           searchResults: res.data,
-          filterResults: res.data
+          filterResults: res.data,
+          resultFound: true
         });
       })
       .catch(err => {
         console.log(err);
+        this.setState({
+          resultFound: false
+        });
       });
 
     axios
-      .get("https://d808c165.ngrok.io/products/brand/")
+      .get("https://c8e24411.ngrok.io/products/brand/")
       .then(res => {
         this.setState({
           allBrandNames: res.data
@@ -303,7 +309,11 @@ class SearchResults extends Component {
           </React.Fragment>
         ) : (
           <Typography align="center">
-            <b>Fetching Your Results ...</b>
+            {this.state.resultFound ? (
+              <CircularProgress disableShrink />
+            ) : (
+              <Typography align="center">"No Result Found"</Typography>
+            )}
           </Typography>
         )}
         <Footer />
