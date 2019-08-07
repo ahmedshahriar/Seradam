@@ -16,5 +16,5 @@ class WishlistSerializer(serializers.ModelSerializer):
         model = Wishlist
 
         fields = ("brand", "user", "display_size", "graphics_memory", "product_title",
-                  "img_link", "ram", "ram_type", "storage", "websites", "description")
+                  "img_link", "ram", "ram_type", "storage", "websites", "description", "id")
 

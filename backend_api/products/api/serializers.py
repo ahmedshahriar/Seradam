@@ -23,8 +23,13 @@ class MappingSerializer(serializers.ModelSerializer):
         model = Mapping
 
         fields = ("brand", "description", "display_size", "graphics_memory", "img_link",
-                  "product_title", "ram", "ram_type", "storage", "websites")
+                  "product_title", "ram", "ram_type", "storage", "websites","id")
 
+class BrandSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Mapping
+
+        fields = ("brand",)
 
 # class WishlistSerializer(serializers.ModelSerializer):
 #     class Meta:

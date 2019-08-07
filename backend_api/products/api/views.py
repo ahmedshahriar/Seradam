@@ -30,6 +30,11 @@ from rest_framework.generics import (
     UpdateAPIView
 )
 
+class BrandListView(ListAPIView):
+    serializer_class = BrandSerializer
+    queryset = Mapping.objects.values("brand").distinct()
+
+
 class StartechListView(ListAPIView):
 
     queryset = Startech.objects.all()
@@ -68,8 +73,31 @@ class StartechListView(ListAPIView):
 class MappingListView(ListAPIView):
     queryset = Mapping.objects.all()
     serializer_class = MappingSerializer
-
+    global id
     def get_queryset(self):
+
+        # queryset = Mapping.objects.filter(_id='5d486afff2dffe99bfdc309b').count()
+        queryset = Mapping.objects.filter(graphics_memory='8GB')
+        print(queryset)
+
+        id = queryset[0].id
+
+        # for i in queryset:
+        #     print(i._id)
+
+        print(id)
+        print(type(id))
+
+        queryset1 = Mapping.objects.filter(id=id)
+
+
+
+        print(queryset1)
+        print("before loop")
+        for q in queryset1:
+            print("found")
+        print("out of loop")
+        # print(queryset1)
 
         queryset = Mapping.objects.all()
 

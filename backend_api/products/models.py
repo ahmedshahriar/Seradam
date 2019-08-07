@@ -43,7 +43,6 @@ class Startech(models.Model):
     storage = models.DictField()
     website = models.CharField(max_length=100)
     _id = models.CharField(primary_key=True, max_length=100)
-
     # def __str__(self):
     #     # return "<a href='" +  self.product_link + "' target='blank'>" + self.product_title + "</a><br/>"
     #     return self.product_title
@@ -59,6 +58,7 @@ class Website(models.Model):
 
 
 class Mapping(models.Model):
+
     brand = models.CharField(max_length=50)
     description = models.ListField(models.CharField(max_length=500))
     display_size = models.CharField(max_length=10)
@@ -68,10 +68,11 @@ class Mapping(models.Model):
     ram = models.CharField(max_length=10)
     ram_type = models.CharField(max_length=100)
     storage = models.DictField()
-    _id = models.CharField(primary_key=True, max_length=100)
+    _id = models.CharField( max_length=100)
     websites = models.ListField(
         models.EmbeddedModelField(
             model_container=Website
         )
     )
+    id = models.IntegerField(primary_key=True)
 
