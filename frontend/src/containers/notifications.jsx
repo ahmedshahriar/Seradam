@@ -6,42 +6,25 @@ import axios from "axios";
 
 class WishLists extends Component {
   state = {
-    notifications: [
-      {
-        product_title: "Hp Probook G5",
-        website_name: "ryanscomputers.com",
-        product_link: "http://google.com",
-        old_price: 56500,
-        new_price: 55000,
-        time: "2019-8-7 9:26:7"
-      },
-      {
-        product_title: "Hp Probook G4",
-        website_name: "ryanscomputers.com",
-        product_link: "http://google.com",
-        old_price: 56500,
-        new_price: 55000,
-        time: "2019-8-7 9:26:7"
-      }
-    ]
+    notifications: []
   };
 
   componentDidMount() {
-    // var token = localStorage.getItem("token");
-    // axios
-    //   .get("http://127.0.0.1:8000/notification/", {
-    //     headers: {
-    //       Authorization: `Token ${token}`
-    //     }
-    //   })
-    //   .then(res => {
-    //     this.setState({
-    //       notifications: res.data
-    //     });
-    //   })
-    //   .catch(err => {
-    //     console.log(err);
-    //   });
+    var token = localStorage.getItem("token");
+    axios
+      .get("https://d64e77b6.ngrok.io/products/notification/", {
+        headers: {
+          Authorization: `Token ${token}`
+        }
+      })
+      .then(res => {
+        this.setState({
+          notifications: res.data
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
   }
 
   render() {

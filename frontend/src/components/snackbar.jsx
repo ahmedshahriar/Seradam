@@ -13,7 +13,17 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function SimpleSnackbar(props) {
-  //console.log(props);
+  //console.log(props.wishList);
+  var wish = false;
+  if (
+    props.wishList.some(
+      e => e.product_title === props.searchResult.product_title
+    )
+  ) {
+    wish = false;
+  } else {
+    wish = true;
+  }
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
 
@@ -23,7 +33,7 @@ export default function SimpleSnackbar(props) {
     //console.log(props);
     //console.log(localStorage.getItem("token"));
     axios
-      .post("https://c8e24411.ngrok.io/wishlist/", props, {
+      .post("https://d64e77b6.ngrok.io/wishlist/", props.searchResult, {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -47,39 +57,53 @@ export default function SimpleSnackbar(props) {
 
   return (
     <div>
-      <Button onClick={handleClick}>Add to Wishlist</Button>
-      <Snackbar
-        anchorOrigin={{
-          vertical: "bottom",
-          horizontal: "left"
-        }}
-        open={open}
-        autoHideDuration={3000}
-        onClose={handleClose}
-        ContentProps={{
-          "aria-describedby": "message-id"
-        }}
-        message={<span id="message-id">Product Added to Wishlist!</span>}
-        action={[
+      {wish ? (
+        <React.Fragment>
           <Button
-            key="undo"
-            color="secondary"
             size="small"
-            onClick={handleClose}
+            variant="contained"
+            color="secondary"
+            fullWidth
+            onClick={handleClick}
           >
-            UNDO
-          </Button>,
-          <IconButton
-            key="close"
-            aria-label="close"
-            color="inherit"
-            className={classes.close}
-            onClick={handleClose}
-          >
-            <CloseIcon />
-          </IconButton>
-        ]}
-      />
+            Add to Wishlist
+          </Button>
+          <Snackbar
+            anchorOrigin={{
+              vertical: "bottom",
+              horizontal: "left"
+            }}
+            open={open}
+            autoHideDuration={3000}
+            onClose={handleClose}
+            ContentProps={{
+              "aria-describedby": "message-id"
+            }}
+            message={<span id="message-id">Product Added to Wishlist!</span>}
+            action={[
+              <Button
+                key="undo"
+                color="secondary"
+                size="small"
+                onClick={handleClose}
+              >
+                UNDO
+              </Button>,
+              <IconButton
+                key="close"
+                aria-label="close"
+                color="inherit"
+                className={classes.close}
+                onClick={handleClose}
+              >
+                <CloseIcon />
+              </IconButton>
+            ]}
+          />
+        </React.Fragment>
+      ) : (
+        "Added To WishList!"
+      )}
     </div>
   );
 }

@@ -15,14 +15,30 @@ class SearchResults extends Component {
     category: [{ label: "Laptop" }],
     allBrandNames: [],
     allSiteNames: ["ryanscomputers.com", "startech.com.bd"],
-    resultFound: true
+    resultFound: true,
+    wishList: []
   };
 
   componentDidMount() {
     var key = this.getQueryVariable("search");
+    var token = localStorage.getItem("token");
     //console.log(key);
+    if (token) {
+      axios
+        .get("https://d64e77b6.ngrok.io/wishlist/", {
+          headers: {
+            Authorization: `Token ${token}`
+          }
+        })
+        .then(res => {
+          this.setState({
+            wishList: res.data
+          });
+        });
+    }
+
     axios
-      .get(`https://c8e24411.ngrok.io/products/mapping/?key=${key}`)
+      .get(`https://d64e77b6.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var d = "";
@@ -303,6 +319,7 @@ class SearchResults extends Component {
               <SearchResult
                 key={searchResult.id}
                 searchResult={searchResult}
+                wishList={this.state.wishList}
                 {...this.props}
               />
             ))}

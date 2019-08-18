@@ -52,7 +52,7 @@ TabContainer.propTypes = {
 };
 
 export default function SearchResult(props) {
-  //console.log(props.searchResult);
+  //console.log(props.wishList[0].product_title);
   const classes = useStyles();
   const [value, setValue] = React.useState(0);
 
@@ -193,14 +193,10 @@ export default function SearchResult(props) {
                     </Typography>
                     {props.isAuthenticated ? (
                       <Typography variant="body2" gutterBottom>
-                        <Button
-                          size="small"
-                          variant="contained"
-                          color="secondary"
-                          fullWidth
-                        >
-                          <Snackbar {...props.searchResult} />
-                        </Button>
+                        <Snackbar
+                          searchResult={props.searchResult}
+                          wishList={props.wishList}
+                        />
                       </Typography>
                     ) : (
                       ""

@@ -17,16 +17,21 @@ export default function SimpleSnackbar(props) {
   const [open, setOpen] = React.useState(false);
 
   function handleClick() {
-    //console.log(props);
-    //console.log(localStorage.getItem("token"));
-    // axios
-    //   .get("http://365b70d4.ngrok.io/")
-    //   .then(res => {
-    //     //work
-    //   })
-    //   .catch(err => {
-    //     console.log(err);
-    //   });
+    var token = localStorage.getItem("token");
+    //console.log(`Token ${token}`);
+    //console.log(props.id);
+    axios
+      .delete(`https://d64e77b6.ngrok.io/wishlist/${props.id}/`, {
+        headers: {
+          Authorization: `Token ${token}`
+        }
+      })
+      .then(res => {
+        console.log(res);
+      })
+      .catch(err => {
+        console.log(err);
+      });
     setOpen(true);
   }
 
