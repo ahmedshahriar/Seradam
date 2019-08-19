@@ -47,6 +47,7 @@ startech_collection.insert_many(
 
 ryans = ryans_collection.find()
 flag = 0
+id = 1
 for r in ryans:
 
     model = r['model']+" "
@@ -70,12 +71,13 @@ for r in ryans:
             mapped = True
             flag += 1
             mapping_collection.insert_one({
+                "id": id,
                 "brand": r['brand'],
                 "description": r['description'],
                 "display_size": r['display_size'],
                 "graphics_memory": r['graphics_memory'],
                 "img_link": r['img_link'],
-                "product_title": r['product_title'],
+                "product_title": s['product_title'],
                 "ram": r['ram'],
                 "ram_type": r['ram_type'],
                 "storage": r['storage'],
@@ -98,8 +100,10 @@ for r in ryans:
                 # _id = models.CharField(primary_key=True, max_length=100)
 
             })
+            id = id+ 1
     if not mapped:
         mapping_collection.insert_one({
+            "id": id,
             "brand": r['brand'],
             "description": r['description'],
             "display_size": r['display_size'],
@@ -121,6 +125,7 @@ for r in ryans:
             # _id = models.CharField(primary_key=True, max_length=100)
 
         })
+        id += 1
     print("1 to {} relation".format(flag))
 
 

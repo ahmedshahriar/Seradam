@@ -14,22 +14,30 @@ class WishlistViewSet(viewsets.ModelViewSet):
     serializer_class = WishlistSerializer
 
     def get_queryset(self):
+        print("get wishlist")
         queryset = Wishlist.objects.filter(user=self.request.user.id)
         return queryset
 
     def create(self, request, *args, **kwargs):
 
+        print("in create wishlist")
         data = request.data
+        mapping_id = data['id']
+        del data['id']
+        data['mapping_id'] = mapping_id
         data['user'] = self.request.user.id
         serializer = self.get_serializer(data=data)
         serializer.is_valid(raise_exception=True)
         self.perform_create(serializer)
         headers = self.get_success_headers(serializer.data)
-
-        print("before")
-        print(headers)
-        print(type(headers))
         return Response(serializer.data, status=status.HTTP_201_CREATED, headers=headers)
+
+
+    # def destroy(self, request, *args, **kwargs):
+    #     instance = self.get_object()
+    #     print(instance)
+    #     self.perform_destroy(instance)
+    #     return Response(status=status.HTTP_204_NO_CONTENT)
 
 
 from rest_framework.generics import (
@@ -39,6 +47,7 @@ from rest_framework.generics import (
     DestroyAPIView,
     UpdateAPIView
 )
+
 
 class WishlistListView(ListAPIView):
     serializer_class = WishlistSerializer

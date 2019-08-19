@@ -1,4 +1,5 @@
 from djongo import models
+from django.contrib.auth.models import User
 
 
 class Ryans(models.Model):
@@ -68,7 +69,7 @@ class Mapping(models.Model):
     ram = models.CharField(max_length=10)
     ram_type = models.CharField(max_length=100)
     storage = models.DictField()
-    _id = models.CharField( max_length=100)
+    _id = models.CharField(max_length=100)
     websites = models.ListField(
         models.EmbeddedModelField(
             model_container=Website
@@ -76,3 +77,18 @@ class Mapping(models.Model):
     )
     id = models.IntegerField(primary_key=True)
 
+
+class Search(models.Model):
+
+    user = models.ForeignKey(User,on_delete=models.CASCADE)
+    search_count = models.IntegerField(default=0)
+
+
+class Notification(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    product_title = models.CharField(max_length=1000)
+    product_link = models.URLField(max_length=1000)
+    website_name = models.CharField(max_length=100)
+    old_price = models.IntegerField(default=0)
+    new_price = models.IntegerField(default=0)
+    seen = models.BooleanField(default=False)

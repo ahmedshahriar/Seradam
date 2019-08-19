@@ -5,6 +5,7 @@ from products.models import Website
 
 class Wishlist(models.Model):
 
+    mapping_id = models.IntegerField(default=0)
     brand = models.CharField(max_length=50)
     description = models.ListField(models.CharField(max_length=500))
     user = models.ForeignKey(User, on_delete=models.CASCADE)

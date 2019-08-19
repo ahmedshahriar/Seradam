@@ -16,13 +16,16 @@ from rest_framework.routers import DefaultRouter
 from .views import *
 
 urlpatterns =[
-    path('startech/', StartechListView.as_view()),
-    # path('ryans/:name', RyansListView.as_view()),
-    path('ryans/', RyansListView.as_view()),
-    # path('mapping/', get_list)
     path('mapping/', MappingListView.as_view()),
     path('brand/', BrandListView.as_view()),
-    path('test/', TestListView.as_view()),
+    path('admin/', AdminListView.as_view()),
+    path('searchwishlist/', SearchWishlistView.as_view()),
+    path('notification/', NotificationListView.as_view()),
+    path('notificationwishlistcount/', NotificationWishlistCountView.as_view())
+
+
+
+
     # path('wishlist/',M)
     # path('ryans/',RyansListView.as_view()),
     # path('ryans/<pk>/',RyansDetailView.as_view()),

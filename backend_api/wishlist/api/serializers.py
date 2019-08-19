@@ -15,6 +15,6 @@ class WishlistSerializer(serializers.ModelSerializer):
     class Meta:
         model = Wishlist
 
-        fields = ("brand", "user", "display_size", "graphics_memory", "product_title",
+        fields = ("mapping_id", "brand", "user", "display_size", "graphics_memory", "product_title",
                   "img_link", "ram", "ram_type", "storage", "websites", "description", "id")
 
