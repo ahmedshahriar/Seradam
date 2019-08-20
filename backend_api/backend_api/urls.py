@@ -27,5 +27,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('products/', include('products.api.urls')),
     path('wishlist/', include('wishlist.api.urls')),
-    path('get_auth_token/', rest_framework_views.obtain_auth_token, name='get_auth_token')
+    path('get_auth_token/', rest_framework_views.obtain_auth_token, name='get_auth_token'),
+    path('auth/', include('products.urls'))
 ]

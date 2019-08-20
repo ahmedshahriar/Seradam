@@ -1,6 +1,6 @@
 from djongo import models
 from django.contrib.auth.models import User
-
+from datetime import datetime
 
 class Ryans(models.Model):
     brand = models.CharField(max_length=50)
@@ -92,3 +92,8 @@ class Notification(models.Model):
     old_price = models.IntegerField(default=0)
     new_price = models.IntegerField(default=0)
     seen = models.BooleanField(default=False)
+
+
+class SearchHit(models.Model):
+    date = models.DateTimeField(default=datetime.now)
+    count = models.IntegerField(default=0)

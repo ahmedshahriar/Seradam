@@ -68,8 +68,8 @@ class NotificationWishlistCountSerializer(serializers.Serializer):
     notification_count = serializers.IntegerField(default=0)
     wishlist_count = serializers.IntegerField(default=0)
 
-# class WishlistSerializer(serializers.ModelSerializer):
-#     class Meta:
-#         model = Wishlist
-#
-#         fields = ("website_name", "product_link","price")
+
+class SearchHitSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = SearchHit
+        fields = ("date","count")

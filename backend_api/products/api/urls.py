@@ -18,19 +18,12 @@ from .views import *
 urlpatterns =[
     path('mapping/', MappingListView.as_view()),
     path('brand/', BrandListView.as_view()),
-    path('admin/', AdminListView.as_view()),
-    path('searchwishlist/', SearchWishlistView.as_view()),
     path('notification/', NotificationListView.as_view()),
-    path('notificationwishlistcount/', NotificationWishlistCountView.as_view())
+    path('notificationwishlistcount/', NotificationWishlistCountView.as_view()),
 
-
-
-
-    # path('wishlist/',M)
-    # path('ryans/',RyansListView.as_view()),
-    # path('ryans/<pk>/',RyansDetailView.as_view()),
-    # path('create/', ArticleCreateView.as_view()),
-    # path('<pk>', ArticleDetailView.as_view()),
-    # path('<pk>/update/', ArticleUpdateView.as_view()),
-    # path('<pk>/delete/', ArticleDeleteView.as_view())
+    path('searchwishlistcountofuser/', AdminSearchWishCountOfUserListView.as_view()),
+    path('userregistrationgraph/', AdminUserRegistrationListView.as_view()),
+    path('brandproductswebsitesusercount/', AdminBrandProductsWebsitesUserCountListView.as_view()),
+    path('searchcountperday/', AdminSearchCountPerDayListView.as_view()),
+    path('searchcountperday1/', AdminSearchCountPerDayListView1.as_view())
 ]
