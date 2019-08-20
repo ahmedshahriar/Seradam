@@ -16,6 +16,8 @@
 
 */
 import React from "react";
+import axios from "axios";
+import Chartist from "chartist";
 // nodejs library to set properties for components
 import PropTypes from "prop-types";
 // react plugin for creating charts
@@ -54,8 +56,147 @@ import dashboardStyle from "../../assets/jss/material-dashboard-react/views/dash
 
 class Dashboard extends React.Component {
   state = {
-    value: 0
+    value: 0,
+    bpwu: [],
+    swcu: [],
+    usergraph: {},
+    searchcountgraph: {},
+    usergraphoptions: {},
+    searchcountgraphoptions: {},
+    isbpwu: false,
+    isswcu: false,
+    isusergraph: false,
+    issearchcountgraph: false
   };
+
+  componentDidMount() {
+    //brand products websites usercount
+    var token = localStorage.getItem("token");
+    axios
+      .get(
+        "https://1666378e.ngrok.io/products/brandproductswebsitesusercount/",
+        {
+          headers: {
+            Authorization: `Token ${token}`
+          }
+        }
+      )
+      .then(res => {
+        //console.log(res.data);
+        this.setState({
+          bpwu: res.data,
+          isbpwu: true
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
+    //user registration graph
+    axios
+      .get("https://1666378e.ngrok.io/products/userregistrationgraph/", {
+        headers: {
+          Authorization: `Token ${token}`
+        }
+      })
+      .then(res => {
+        var result = [];
+        var result1 = [];
+        var maxNum = 0;
+        var keys = Object.keys(res.data);
+        keys.forEach(function(key) {
+          result.push(res.data[key]);
+        });
+        maxNum = Math.max(...result);
+        result1.push(result);
+        //console.log(maxNum);
+        this.setState({
+          usergraph: {
+            labels: keys,
+            series: result1
+          },
+          usergraphoptions: {
+            axisX: {
+              showGrid: false
+            },
+            low: 0,
+            high: maxNum + 5,
+            chartPadding: {
+              top: 0,
+              right: 5,
+              bottom: 0,
+              left: 0
+            }
+          },
+          isusergraph: true
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
+
+    //search count per day
+    axios
+      .get("https://1666378e.ngrok.io/products/searchcountperday/", {
+        headers: {
+          Authorization: `Token ${token}`
+        }
+      })
+      .then(res => {
+        var result = [];
+        var result1 = [];
+        var maxNum = 0;
+        var keys = Object.keys(res.data);
+        keys.forEach(function(key) {
+          result.push(res.data[key]);
+        });
+        maxNum = Math.max(...result);
+        result1.push(result);
+        console.log(res.data);
+        this.setState({
+          searchcountgraph: {
+            labels: keys,
+            series: result1
+          },
+          searchcountgraphoptions: {
+            lineSmooth: Chartist.Interpolation.cardinal({
+              tension: 0
+            }),
+            low: 0,
+            high: maxNum + 5,
+            chartPadding: {
+              top: 0,
+              right: 0,
+              bottom: 0,
+              left: 0
+            }
+          },
+          issearchcountgraph: true
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
+
+    //search wishlist count of user
+    axios
+      .get("https://1666378e.ngrok.io/products/searchwishlistcountofuser/", {
+        headers: {
+          Authorization: `Token ${token}`
+        }
+      })
+      .then(res => {
+        var answer = res.data.map(el => Object.values(el));
+        //console.log(answer);
+        this.setState({
+          swcu: answer,
+          isswcu: true
+        });
+      })
+      .catch(err => {
+        console.log(err);
+      });
+  }
+
   handleChange = (event, value) => {
     this.setState({ value });
   };
@@ -67,80 +208,93 @@ class Dashboard extends React.Component {
     const { classes } = this.props;
     return (
       <div>
-        <GridContainer>
-          <GridItem xs={12} sm={6} md={3}>
-            <Card>
-              <CardHeader color="rose" stats icon>
-                <CardIcon color="rose">
-                  <Cloud />
-                </CardIcon>
-                <p className={classes.cardCategory}>Total Brands</p>
-                <h3 className={classes.cardTitle}>20</h3>
-              </CardHeader>
-              <CardFooter stats>
-                <div className={classes.stats}>
-                  <Danger>
-                    <Warning />
-                  </Danger>
-                  <a href="#pablo" onClick={e => e.preventDefault()}>
-                    Get more space
-                  </a>
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
-          <GridItem xs={12} sm={6} md={3}>
-            <Card>
-              <CardHeader color="success" stats icon>
-                <CardIcon color="success">
-                  <Store />
-                </CardIcon>
-                <p className={classes.cardCategory}>Total Products</p>
-                <h3 className={classes.cardTitle}>4999</h3>
-              </CardHeader>
-              <CardFooter stats>
-                <div className={classes.stats}>
-                  <DateRange />
-                  Last 24 Hours
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
-          <GridItem xs={12} sm={6} md={3}>
-            <Card>
-              <CardHeader color="warning" stats icon>
-                <CardIcon color="warning">
-                  <BugReport />
-                </CardIcon>
-                <p className={classes.cardCategory}>Websites</p>
-                <h3 className={classes.cardTitle}>5</h3>
-              </CardHeader>
-              <CardFooter stats>
-                <div className={classes.stats}>
-                  <LocalOffer />
-                  Tracked from Github
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
-          <GridItem xs={12} sm={6} md={3}>
-            <Card>
-              <CardHeader color="info" stats icon>
-                <CardIcon color="info">
-                  <Accessibility />
-                </CardIcon>
-                <p className={classes.cardCategory}>Users</p>
-                <h3 className={classes.cardTitle}>+45</h3>
-              </CardHeader>
-              <CardFooter stats>
-                <div className={classes.stats}>
-                  <Update />
-                  Just Updated
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
-        </GridContainer>
+        {this.state.isbpwu ? (
+          <GridContainer>
+            <GridItem xs={12} sm={6} md={3}>
+              <Card>
+                <CardHeader color="rose" stats icon>
+                  <CardIcon color="rose">
+                    <Cloud />
+                  </CardIcon>
+                  <p className={classes.cardCategory}>Total Brands</p>
+                  <h3 className={classes.cardTitle}>
+                    {this.state.bpwu[0].total_brands}
+                  </h3>
+                </CardHeader>
+                <CardFooter stats>
+                  <div className={classes.stats}>
+                    <Danger>
+                      <Warning />
+                    </Danger>
+                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                      Everyday Brand New!
+                    </a>
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+            <GridItem xs={12} sm={6} md={3}>
+              <Card>
+                <CardHeader color="success" stats icon>
+                  <CardIcon color="success">
+                    <Store />
+                  </CardIcon>
+                  <p className={classes.cardCategory}>Total Products</p>
+                  <h3 className={classes.cardTitle}>
+                    {this.state.bpwu[0].total_products}
+                  </h3>
+                </CardHeader>
+                <CardFooter stats>
+                  <div className={classes.stats}>
+                    <DateRange />
+                    Increasing Day by Day!
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+            <GridItem xs={12} sm={6} md={3}>
+              <Card>
+                <CardHeader color="warning" stats icon>
+                  <CardIcon color="warning">
+                    <BugReport />
+                  </CardIcon>
+                  <p className={classes.cardCategory}>Websites</p>
+                  <h3 className={classes.cardTitle}>
+                    {this.state.bpwu[0].total_websites}
+                  </h3>
+                </CardHeader>
+                <CardFooter stats>
+                  <div className={classes.stats}>
+                    <LocalOffer />
+                    Tracked from Database
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+            <GridItem xs={12} sm={6} md={3}>
+              <Card>
+                <CardHeader color="info" stats icon>
+                  <CardIcon color="info">
+                    <Accessibility />
+                  </CardIcon>
+                  <p className={classes.cardCategory}>Users</p>
+                  <h3 className={classes.cardTitle}>
+                    {this.state.bpwu[0].total_users}
+                  </h3>
+                </CardHeader>
+                <CardFooter stats>
+                  <div className={classes.stats}>
+                    <Update />
+                    Just Updated
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+          </GridContainer>
+        ) : (
+          ""
+        )}
+
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <Card chart>
@@ -169,86 +323,98 @@ class Dashboard extends React.Component {
               </CardFooter>
             </Card>
           </GridItem>
-          <GridItem xs={12} sm={12} md={4}>
-            <Card chart>
-              <CardHeader color="warning">
-                <ChartistGraph
-                  className="ct-chart"
-                  data={emailsSubscriptionChart.data}
-                  type="Bar"
-                  options={emailsSubscriptionChart.options}
-                  responsiveOptions={emailsSubscriptionChart.responsiveOptions}
-                  listener={emailsSubscriptionChart.animation}
-                />
-              </CardHeader>
-              <CardBody>
-                <h4 className={classes.cardTitle}>User Registration</h4>
-                <p className={classes.cardCategory}>
-                  <span className={classes.successText}>
-                    <ArrowUpward className={classes.upArrowCardCategory} /> 10%
-                  </span>{" "}
-                  more since last month.
-                </p>
-              </CardBody>
-              <CardFooter chart>
-                <div className={classes.stats}>
-                  <AccessTime /> updated 5 minutes ago
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
-          <GridItem xs={12} sm={12} md={4}>
-            <Card chart>
-              <CardHeader color="danger">
-                <ChartistGraph
-                  className="ct-chart"
-                  data={completedTasksChart.data}
-                  type="Line"
-                  options={completedTasksChart.options}
-                  listener={completedTasksChart.animation}
-                />
-              </CardHeader>
-              <CardBody>
-                <h4 className={classes.cardTitle}>Search Hits</h4>
-                <p className={classes.cardCategory}>
-                  <span className={classes.successText}>
-                    <ArrowUpward className={classes.upArrowCardCategory} /> 10%
-                  </span>{" "}
-                  more since last day.
-                </p>
-              </CardBody>
-              <CardFooter chart>
-                <div className={classes.stats}>
-                  <AccessTime /> updated just now
-                </div>
-              </CardFooter>
-            </Card>
-          </GridItem>
+
+          {this.state.isusergraph ? (
+            <GridItem xs={12} sm={12} md={4}>
+              <Card chart>
+                <CardHeader color="warning">
+                  <ChartistGraph
+                    className="ct-chart"
+                    data={this.state.usergraph}
+                    type="Bar"
+                    options={this.state.usergraphoptions}
+                    responsiveOptions={
+                      emailsSubscriptionChart.responsiveOptions
+                    }
+                    listener={emailsSubscriptionChart.animation}
+                  />
+                </CardHeader>
+                <CardBody>
+                  <h4 className={classes.cardTitle}>User Registration</h4>
+                  <p className={classes.cardCategory}>
+                    <span className={classes.successText}>
+                      <ArrowUpward className={classes.upArrowCardCategory} />{" "}
+                      10%
+                    </span>{" "}
+                    more since last month.
+                  </p>
+                </CardBody>
+                <CardFooter chart>
+                  <div className={classes.stats}>
+                    <AccessTime /> updated 5 minutes ago
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+          ) : (
+            ""
+          )}
+
+          {this.state.issearchcountgraph ? (
+            <GridItem xs={12} sm={12} md={4}>
+              <Card chart>
+                <CardHeader color="danger">
+                  <ChartistGraph
+                    className="ct-chart"
+                    data={this.state.searchcountgraph}
+                    type="Line"
+                    options={this.state.searchcountgraphoptions}
+                    listener={completedTasksChart.animation}
+                  />
+                </CardHeader>
+                <CardBody>
+                  <h4 className={classes.cardTitle}>Search Hits</h4>
+                  <p className={classes.cardCategory}>
+                    <span className={classes.successText}>
+                      <ArrowUpward className={classes.upArrowCardCategory} />{" "}
+                      10%
+                    </span>{" "}
+                    more since last day.
+                  </p>
+                </CardBody>
+                <CardFooter chart>
+                  <div className={classes.stats}>
+                    <AccessTime /> updated just now
+                  </div>
+                </CardFooter>
+              </Card>
+            </GridItem>
+          ) : (
+            ""
+          )}
         </GridContainer>
-        <GridContainer>
-          <GridItem xs={12} sm={12} md={12}>
-            <Card>
-              <CardHeader color="warning">
-                <h4 className={classes.cardTitleWhite}>User Stats</h4>
-                <p className={classes.cardCategoryWhite}>
-                  New users on 7th August, 2019
-                </p>
-              </CardHeader>
-              <CardBody>
-                <Table
-                  tableHeaderColor="warning"
-                  tableHead={["ID", "Name", "Search Count", "WishList Count"]}
-                  tableData={[
-                    ["1", "Dakota Rice", "200", "6"],
-                    ["2", "Minerva Hooper", "300", "15"],
-                    ["3", "Sage Rodriguez", "400", "20"],
-                    ["4", "Philip Chaney", "500", "27"]
-                  ]}
-                />
-              </CardBody>
-            </Card>
-          </GridItem>
-        </GridContainer>
+
+        {this.state.isswcu ? (
+          <GridContainer>
+            <GridItem xs={12} sm={12} md={12}>
+              <Card>
+                <CardHeader color="warning">
+                  <h4 className={classes.cardTitleWhite}>User Stats</h4>
+                  <p className={classes.cardCategoryWhite}>Real Time Stats!</p>
+                </CardHeader>
+                <CardBody>
+                  <Table
+                    tableHeaderColor="warning"
+                    tableHead={["Name", "Search Count", "WishList Count"]}
+                    tableData={this.state.swcu}
+                  />
+                </CardBody>
+              </Card>
+            </GridItem>
+          </GridContainer>
+        ) : (
+          ""
+        )}
       </div>
     );
   }

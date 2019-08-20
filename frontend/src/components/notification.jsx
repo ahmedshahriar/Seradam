@@ -15,6 +15,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function Notification(props) {
+  //console.log(props.notification.seen);
   const classes = useStyles();
 
   return (
@@ -22,22 +23,43 @@ export default function Notification(props) {
       <Container component="main">
         <div className={classes.root}>
           <Paper className={classes.root}>
-            <Typography variant="h5" component="h3">
-              <Link
-                href={props.notification.product_link}
-                target="_blank"
-                rel="noreferrer"
-                color="inherit"
-              >
-                {props.notification.product_title}
-              </Link>
-            </Typography>
-            <Typography component="p">
-              Website Name: <b>{props.notification.website_name}</b> Old Price:{" "}
-              <b>{props.notification.old_price}</b> New price:{" "}
-              <b>{props.notification.new_price}</b> Time Updated:{" "}
-              <b>{props.notification.time}</b>{" "}
-            </Typography>
+            {props.notification.seen ? (
+              <React.Fragment>
+                <Typography variant="h5" component="h3">
+                  <Link
+                    href={props.notification.product_link}
+                    target="_blank"
+                    rel="noreferrer"
+                    color="inherit"
+                  >
+                    {props.notification.product_title}
+                  </Link>
+                </Typography>
+                <Typography component="p">
+                  Website Name: <b>{props.notification.website_name}</b> Old
+                  Price: <b>{props.notification.old_price}</b> New price:{" "}
+                  <b>{props.notification.new_price}</b>{" "}
+                </Typography>
+              </React.Fragment>
+            ) : (
+              <React.Fragment>
+                <Typography variant="h5" component="h3" color="Secondary">
+                  <Link
+                    href={props.notification.product_link}
+                    target="_blank"
+                    rel="noreferrer"
+                    color="inherit"
+                  >
+                    {props.notification.product_title}
+                  </Link>
+                </Typography>
+                <Typography component="p">
+                  Website Name: <b>{props.notification.website_name}</b> Old
+                  Price: <b>{props.notification.old_price}</b> New price:{" "}
+                  <b>{props.notification.new_price}</b>{" "}
+                </Typography>
+              </React.Fragment>
+            )}
           </Paper>
         </div>
       </Container>

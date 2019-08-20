@@ -6,14 +6,33 @@ import axios from "axios";
 
 class WishLists extends Component {
   state = {
-    searchResults: []
+    searchResults: [],
+    appbarCount: []
   };
 
   componentDidMount() {
     var token = localStorage.getItem("token");
 
+    if (token) {
+      axios
+        .get("https://1666378e.ngrok.io/products/notificationwishlistcount/", {
+          headers: {
+            Authorization: `Token ${token}`
+          }
+        })
+        .then(res => {
+          //console.log(res.data);
+          this.setState({
+            appbarCount: res.data
+          });
+        })
+        .catch(err => {
+          console.log(err);
+        });
+    }
+
     axios
-      .get("https://d64e77b6.ngrok.io/wishlist/", {
+      .get("https://1666378e.ngrok.io/wishlist/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -136,7 +155,7 @@ class WishLists extends Component {
   render() {
     return (
       <React.Fragment>
-        <AppBar {...this.props} />
+        <AppBar {...this.props} appbar={this.state.appbarCount} />
         {this.state.searchResults.map(searchResult => (
           <SearchResult
             key={searchResult.id}

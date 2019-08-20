@@ -41,20 +41,23 @@ export const authLogin = (username, password) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("https://d64e77b6.ngrok.io/rest-auth/login/", {
+      .post("https://1666378e.ngrok.io/auth/", {
         username: username,
         password: password
       })
       .then(res => {
+        //console.log(res.data);
         const token = res.data.key;
+        const type = res.data.user_type;
         const expirationDate = new Date(new Date().getTime() + 3600 * 1000);
         localStorage.setItem("token", token);
+        localStorage.setItem("type", type);
         localStorage.setItem("expirationDate", expirationDate);
         dispatch(authSuccess(token));
         dispatch(checkAuthTimeout(3600));
       })
       .catch(err => {
-        dispatch(authFail(err));
+        dispatch(authFail("Username Or Password Error"));
       });
   };
 };
@@ -63,7 +66,7 @@ export const authSignup = (fullname, username, password1, password2) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("https://d64e77b6.ngrok.io/rest-auth/registration/", {
+      .post("https://1666378e.ngrok.io/rest-auth/registration/", {
         fullname: fullname,
         username: username,
         password1: password1,

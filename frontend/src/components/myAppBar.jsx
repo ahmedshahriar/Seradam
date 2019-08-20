@@ -17,6 +17,7 @@ import RegIcon from "@material-ui/icons/AccessibilityNew";
 import NotificationIcon from "@material-ui/icons/Notifications";
 import WishListIcon from "@material-ui/icons/EventNote";
 import LogoutIcon from "@material-ui/icons/ExitToApp";
+import Badge from "@material-ui/core/Badge";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -29,6 +30,10 @@ const useStyles = makeStyles(theme => ({
 
 function MyAppBar(props) {
   //console.log(props);
+  // if (props.appbar && props.appbar.length > 0) {
+  //   console.log(props.appbar);
+  // }
+
   const classes = useStyles();
 
   const [anchorEl, setAnchorEl] = React.useState(null);
@@ -71,9 +76,19 @@ function MyAppBar(props) {
                 rel="noreferrer"
                 color="inherit"
               >
-                <Button aria-describedby="wishlist" color="inherit">
-                  <NotificationIcon /> Notification
-                </Button>
+                {props.appbar && props.appbar.length > 0 ? (
+                  <Badge
+                    color="secondary"
+                    badgeContent={props.appbar[0].notification_count}
+                    className={classes.margin}
+                  >
+                    <Button aria-describedby="wishlist" color="inherit">
+                      <NotificationIcon /> Notification
+                    </Button>
+                  </Badge>
+                ) : (
+                  ""
+                )}
               </Link>
               <Link
                 href="/wishlist"
@@ -81,9 +96,19 @@ function MyAppBar(props) {
                 rel="noreferrer"
                 color="inherit"
               >
-                <Button aria-describedby="wishlist" color="inherit">
-                  <WishListIcon /> WishList
-                </Button>
+                {props.appbar && props.appbar.length > 0 ? (
+                  <Badge
+                    color="secondary"
+                    badgeContent={props.appbar[0].wishlist_count}
+                    className={classes.margin}
+                  >
+                    <Button aria-describedby="wishlist" color="inherit">
+                      <WishListIcon /> WishList
+                    </Button>
+                  </Badge>
+                ) : (
+                  ""
+                )}
               </Link>
               <Button
                 aria-describedby="logout"
@@ -117,7 +142,7 @@ function MyAppBar(props) {
                 }}
               >
                 <Typography className={classes.typography}>
-                  <SignIn />
+                  <SignIn history={props.history} />
                 </Typography>
               </Popover>
               <Button

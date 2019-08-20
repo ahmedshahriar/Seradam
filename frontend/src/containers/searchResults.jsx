@@ -16,7 +16,8 @@ class SearchResults extends Component {
     allBrandNames: [],
     allSiteNames: ["ryanscomputers.com", "startech.com.bd"],
     resultFound: true,
-    wishList: []
+    wishList: [],
+    appbarCount: []
   };
 
   componentDidMount() {
@@ -25,7 +26,25 @@ class SearchResults extends Component {
     //console.log(key);
     if (token) {
       axios
-        .get("https://d64e77b6.ngrok.io/wishlist/", {
+        .get("https://1666378e.ngrok.io/products/notificationwishlistcount/", {
+          headers: {
+            Authorization: `Token ${token}`
+          }
+        })
+        .then(res => {
+          //console.log(res.data);
+          this.setState({
+            appbarCount: res.data
+          });
+        })
+        .catch(err => {
+          console.log(err);
+        });
+    }
+
+    if (token) {
+      axios
+        .get("https://1666378e.ngrok.io/wishlist/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -38,7 +57,7 @@ class SearchResults extends Component {
     }
 
     axios
-      .get(`https://d64e77b6.ngrok.io/products/mapping/?key=${key}`)
+      .get(`https://1666378e.ngrok.io/products/mapping/?key=${key}`)
       .then(res => {
         for (var i = 0; i < res.data.length; i++) {
           var d = "";
@@ -299,7 +318,7 @@ class SearchResults extends Component {
   render() {
     return (
       <React.Fragment>
-        <AppBar {...this.props} />
+        <AppBar {...this.props} appbar={this.state.appbarCount} />
         <AdvancedSearchBar
           category={this.state.category}
           allBrandNames={this.state.allBrandNames}

@@ -19,6 +19,7 @@
 // // // javascript library for creating charts
 // #############################
 var Chartist = require("chartist");
+//import Chartist from "chartist";
 
 // ##############################
 // // // variables used to create animation on charts

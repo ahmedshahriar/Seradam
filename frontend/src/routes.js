@@ -4,6 +4,7 @@ import Home from "./containers/home";
 import SearchResults from "./containers/searchResults";
 import WishList from "./containers/wishLists";
 import Notifications from "./containers/notifications";
+import createHistory from "history/createBrowserHistory";
 
 import Admin from "./layouts/Admin";
 
@@ -14,7 +15,11 @@ function BaseRouter(props) {
   return (
     <div>
       <Route path="/admin" component={Admin} />
-      <Route exact path="/" render={() => <Home {...props} />} />
+      <Route
+        exact
+        path="/"
+        render={() => <Home {...props} history={createHistory} />}
+      />
       <Route exact path="/search" render={() => <SearchResults {...props} />} />
       <Route exact path="/wishlist" render={() => <WishList {...props} />} />
       <Route

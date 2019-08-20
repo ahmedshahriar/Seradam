@@ -129,7 +129,7 @@ const Sidebar = ({ ...props }) => {
         >
           {brand}
           <div className={classes.sidebarWrapper}>
-            {props.rtlActive ? <RTLNavbarLinks /> : <AdminNavbarLinks />}
+            {props.rtlActive ? <RTLNavbarLinks /> : ""}
             {links}
           </div>
           {image !== undefined ? (
