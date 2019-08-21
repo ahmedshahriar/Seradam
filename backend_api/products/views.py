@@ -1,7 +1,9 @@
 from rest_framework.authtoken.views import ObtainAuthToken
 from rest_framework.authtoken.models import Token
 from rest_framework.response import Response
+from .models import UserActivity
 
+from datetime import  datetime
 class CustomAuthToken(ObtainAuthToken):
 
     def post(self, request, *args, **kwargs):
@@ -15,6 +17,14 @@ class CustomAuthToken(ObtainAuthToken):
             user_type = "admin"
         else:
             user_type = "normaluser"
+
+        date = datetime.now()
+        # date = datetime(date.year, date.month, date.day)
+        if UserActivity.objects.filter(date=date, user=user.id):
+            pass
+        else:
+            instance = UserActivity(date=date, user=user)
+            instance.save()
 
         return Response({
             'key': token.key,

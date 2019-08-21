@@ -25,5 +25,6 @@ urlpatterns =[
     path('userregistrationgraph/', AdminUserRegistrationListView.as_view()),
     path('brandproductswebsitesusercount/', AdminBrandProductsWebsitesUserCountListView.as_view()),
     path('searchcountperday/', AdminSearchCountPerDayListView.as_view()),
-    path('searchcountperday1/', AdminSearchCountPerDayListView1.as_view())
+    path('searchhitbyhour/', AdminSearchCountPerDayListView.as_view()),
+    path('useractivity/', AdminUserActivityListView.as_view())
 ]

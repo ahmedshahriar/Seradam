@@ -7,5 +7,6 @@ admin.site.register(Ryans)
 admin.site.register(Search)
 admin.site.register(Notification)
 admin.site.register(SearchHit)
+admin.site.register(UserActivity)
 
 

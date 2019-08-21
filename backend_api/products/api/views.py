@@ -1,9 +1,9 @@
 from djongo.models import Sum,Max
 from django.db.models.functions import Coalesce
-
+from pprint import pprint
 from .serializers import *
 from rest_framework.response import Response
-from rest_framework.permissions import IsAdminUser,IsAuthenticated
+from rest_framework.permissions import IsAdminUser,IsAuthenticated,IsAuthenticatedOrReadOnly
 from rest_framework import views
 from products.models import Search
 from wishlist.models import Wishlist
@@ -76,16 +76,55 @@ class AdminSearchCountPerDayListView(views.APIView):
                     hour = 12
                 hour = str(hour) + "am"
             else:
-                hour = 12-(24-hour)
+                hour = 12 - (24 - hour)
                 if hour == 0:
                     hour = 12
-                hour = str( hour) + "pm"
+                hour = str(hour) + "pm"
 
-            hit = SearchHit.objects.filter(date__range=(end_date, start_date)).count()
+            hit = 0
+            # Coalesce(Sum('field'), 0)
+            try:
+                hit = SearchHit.objects.filter(date__range=(end_date, start_date)).aggregate(Sum('count'))
+                # hit = SearchHit.objects.filter(date__range=(end_date, start_date)).aggregate(Coalesce(Sum('count'), 0))
+                # hit = SearchHit.objects.filter(date__range=(end_date, start_date)).aggregate(Coalesce(models.Sum('count'), 0))
+                hit = hit["count__sum"]
+            except Exception as e:
+                hit = 0
+
             result[hour] = hit
 
             start_date = end_date
 
+        return Response(result)
+
+
+class AdminUserActivityListView(views.APIView):
+
+    permission_classes = [IsAdminUser]
+
+    def get(self, request):
+
+        result = dict()
+        start_date = datetime.now()
+        start_date = datetime(start_date.year, start_date.month, start_date.day)
+        for i in range(0, 7):
+            # print(start_date)
+            end_date = start_date + timedelta(hours=+24)
+            print(start_date)
+            print(end_date)
+            print(start_date.strftime("%A"))
+            hit = 0
+            # Coalesce(Sum('field'), 0)
+            try:
+                hit = UserActivity.objects.filter(date__range=(start_date, end_date)).count()
+
+            except Exception as e:
+                hit = 0
+            print(hit)
+            result[start_date.strftime("%A")] = hit
+            start_date = start_date + timedelta(hours=-24)
+
+        # pprint(result)
         return Response(result)
 
 
@@ -141,18 +180,15 @@ class AdminSearchWishCountOfUserListView(views.APIView):
         for user in users:
 
             name = User.objects.filter(id=user.user_id).values("username")[0]['username']
-
+            print(name)
+            name = name
+            print(user)
             # len(Mapping.objects.values("brand").distinct())
             result = {"name": name}
 
-            if Search.objects.filter(user_id=request.user.id):
-                search_count = Search.objects.filter(user_id=request.user.id)[0].search_count
-            else:
-                search_count = 0
+            wishlist_count = Wishlist.objects.filter(user_id=user.user.id).count()
 
-            wishlist_count = Wishlist.objects.filter(user_id=request.user.id).count()
-
-            result["search_count"] = search_count
+            result["search_count"] = user.search_count
             result["wishlist_count"] = wishlist_count
 
             results.append(result)
@@ -189,6 +225,7 @@ class NotificationListView(ListAPIView):
 class NotificationWishlistCountView(views.APIView):
 
     permission_classes = [IsAuthenticated]
+
     serializer_class = NotificationWishlistCountSerializer
 
     def get(self, request):
@@ -205,6 +242,8 @@ class NotificationWishlistCountView(views.APIView):
 
 
 class MappingListView(ListAPIView):
+
+    permission_classes = [IsAuthenticatedOrReadOnly]
     queryset = Mapping.objects.all()
     serializer_class = MappingSerializer
     def get_queryset(self):
@@ -216,27 +255,60 @@ class MappingListView(ListAPIView):
         ram_type = self.request.query_params.get('ram_type', None)
         ram = self.request.query_params.get('ram', None)
         display_size = self.request.query_params.get('display_size', None)
+        sites = self.request.query_params.get('site', None)
         key = self.request.query_params.get('key', None)
+        print("brand")
+        if brand is not None:
+            brand = brand.split(",")
+        else:
+            brand = []
+        print(brand)
+        print(type(brand))
+        print("sites")
+        if sites is not None:
+            sites = sites.split(",")
+        else:
+            sites = []
+        print(sites)
+        print(type(sites))
 
         if key is not None:
             print(key)
             queryset = Mapping.objects.filter(product_title__icontains=key)
-
+            print("after key")
+            pprint(queryset)
+            print("\n\n")
         if graphics_memory is not None:
-            print("graphics memory : " + graphics_memory)
+            # print("graphics memory : " + graphics_memory)
             queryset = queryset.filter(graphics_memory=graphics_memory)
-        if brand is not None:
-            print("brand : " + brand)
-            queryset = queryset.filter(brand=brand)
+            print("after graphics")
+            pprint(queryset)
+            print("\n\n")
+        if len(brand) > 0:
+            print(len(brand))
+            if brand[0] != 'false' and brand[0]!='':
+                print("printing count")
+                print(brand)
+                test_name_filter = {'brand__in': brand}
+                queryset = queryset.filter(**test_name_filter)
+                print("after brand")
+                pprint(queryset)
+                print("\n\n")
+
         if ram_type is not None:
-            print("ram tpye : " + ram_type)
+            # print("ram tpye : " + ram_type)
             queryset = queryset.filter(ram_type=ram_type)
+            print("after ram type")
+
+            pprint(queryset)
+            print("\n\n")
         if ram is not None:
-            print("ram : " + ram)
+            # print("ram : " + ram)
             queryset = queryset.filter(ram=ram)
         if display_size is not None:
-            print("display_size : " + display_size)
+            # print("display_size : " + display_size)
             queryset = queryset.filter(display_size=display_size)
+
 
         date = datetime.now()
         instance = SearchHit(date=date, count=1)
@@ -253,5 +325,10 @@ class MappingListView(ListAPIView):
             else:
                 instance = Search(user_id=id, search_count=1)
                 instance.save()
-
+        # print("sending----------------------------------------------------")
+        pprint(queryset)
+        # if queryset.count() == 0:
+        #     return Response({
+        #         "nodata": "nodata"
+        #     })
         return queryset

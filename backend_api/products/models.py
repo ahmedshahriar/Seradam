@@ -97,3 +97,8 @@ class Notification(models.Model):
 class SearchHit(models.Model):
     date = models.DateTimeField(default=datetime.now)
     count = models.IntegerField(default=0)
+
+
+class UserActivity(models.Model):
+    date = models.DateTimeField(default=datetime.now)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
