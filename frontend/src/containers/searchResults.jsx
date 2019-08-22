@@ -22,11 +22,14 @@ class SearchResults extends Component {
 
   componentDidMount() {
     var key = this.getQueryVariable("search");
+    var brand = this.getQueryVariable("brand");
+    var site = this.getQueryVariable("site");
+    var category = this.getQueryVariable("category");
     var token = localStorage.getItem("token");
-    //console.log(key);
+    //console.log(brand);
     if (token) {
       axios
-        .get("https://1666378e.ngrok.io/products/notificationwishlistcount/", {
+        .get("https://2077b488.ngrok.io/products/notificationwishlistcount/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -44,7 +47,7 @@ class SearchResults extends Component {
 
     if (token) {
       axios
-        .get("https://1666378e.ngrok.io/wishlist/", {
+        .get("https://2077b488.ngrok.io/wishlist/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -56,128 +59,279 @@ class SearchResults extends Component {
         });
     }
 
-    axios
-      .get(`https://1666378e.ngrok.io/products/mapping/?key=${key}`)
-      .then(res => {
-        for (var i = 0; i < res.data.length; i++) {
-          var d = "";
-          var p = res.data[i].description;
-
-          for (var l = 0; l < p.length; l++) {
-            if (p[l] !== "'") {
-              //console.log(i);
-              d += p[l];
+    if (token) {
+      axios
+        .get(
+          `https://2077b488.ngrok.io/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`,
+          {
+            headers: {
+              Authorization: `Token ${token}`
             }
           }
+        )
+        .then(res => {
+          for (var i = 0; i < res.data.length; i++) {
+            var d = "";
+            var p = res.data[i].description;
 
-          var des_lenght = d.length;
-          d = d.substr(1, des_lenght - 2);
+            for (var l = 0; l < p.length; l++) {
+              if (p[l] !== "'") {
+                //console.log(i);
+                d += p[l];
+              }
+            }
 
-          d = d.split(",").map(function(item) {
-            return item.trim();
+            var des_lenght = d.length;
+            d = d.substr(1, des_lenght - 2);
+
+            d = d.split(",").map(function(item) {
+              return item.trim();
+            });
+
+            var storage = {};
+            var temp = res.data[i].storage;
+            var last = 0;
+
+            while (temp.indexOf("'", last) !== -1) {
+              last = temp.indexOf("'", last) + 1;
+              var next = temp.indexOf("'", last);
+              var type = temp.substr(last, next - last);
+              last = next + 1;
+
+              last = temp.indexOf("'", last) + 1;
+              next = temp.indexOf("'", last);
+              var size = temp.substr(last, next - last);
+              last = next + 1;
+              //console.log(type + " : "+size);
+              storage[type] = size;
+            }
+            //console.log(storage);
+
+            var websites = [];
+            var last_found = 0;
+            var s = res.data[i].websites;
+
+            var website_len = "website_name".length;
+            var price_len = "price".length;
+            var product_link_len = "product_link".length;
+            var status_len = "status".length;
+            var img_link_len = "img_link".length;
+
+            while (s.indexOf("OrderedDict", last_found) !== -1) {
+              last_found = s.indexOf("OrderedDict", last_found);
+
+              var website_name_start_pos =
+                s.indexOf("website_name", last_found) + website_len + 4;
+              var website_name_size =
+                s.indexOf("'", website_name_start_pos) - website_name_start_pos;
+              var website_name = s.substr(
+                website_name_start_pos,
+                website_name_size
+              );
+              last_found = website_name_size + website_name_start_pos;
+
+              var price_start_pos =
+                s.indexOf("price", last_found) + price_len + 3;
+              var price_size =
+                s.indexOf(")", price_start_pos) - price_start_pos;
+              var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
+              var price = parseInt(price_str);
+              last_found = price_size + price_start_pos;
+
+              var product_link_start_pos =
+                s.indexOf("product_link", last_found) + product_link_len + 4;
+              var product_link_size =
+                s.indexOf("'", product_link_start_pos) - product_link_start_pos;
+              var product_link = s.substr(
+                product_link_start_pos,
+                product_link_size
+              );
+              last_found = product_link_size + product_link_start_pos;
+
+              var status_start_pos =
+                s.indexOf("status", last_found) + status_len + 4;
+              var status_size =
+                s.indexOf("'", status_start_pos) - status_start_pos;
+              var status = s.substr(status_start_pos, status_size);
+              last_found = status_size + status_start_pos;
+
+              var img_link_start_pos =
+                s.indexOf("img_link", last_found) + img_link_len + 4;
+              var img_link_size =
+                s.indexOf("'", img_link_start_pos) - img_link_start_pos;
+              var img_link = s.substr(img_link_start_pos, img_link_size);
+              last_found = img_link_size + img_link_start_pos;
+
+              var result = {
+                website_name: website_name,
+                price: price,
+                img_link: img_link,
+                product_link: product_link,
+                status: status
+              };
+              websites.push(result);
+            }
+            res.data[i].websites = websites;
+            res.data[i].description = d;
+            res.data[i].storage = storage;
+          }
+          this.setState({
+            searchResults: res.data,
+            filterResults: res.data
           });
-
-          var storage = {};
-          var temp = res.data[i].storage;
-          var last = 0;
-
-          while (temp.indexOf("'", last) !== -1) {
-            last = temp.indexOf("'", last) + 1;
-            var next = temp.indexOf("'", last);
-            var type = temp.substr(last, next - last);
-            last = next + 1;
-
-            last = temp.indexOf("'", last) + 1;
-            next = temp.indexOf("'", last);
-            var size = temp.substr(last, next - last);
-            last = next + 1;
-            //console.log(type + " : "+size);
-            storage[type] = size;
+          if (this.state.searchResults.length > 0) {
+            this.setState({
+              resultFound: true
+            });
+          } else {
+            this.setState({
+              resultFound: false
+            });
           }
-          //console.log(storage);
+          //console.log(this.state.searchResults);
+        })
+        .catch(err => {
+          console.log(err);
+          this.setState({
+            resultFound: false
+          });
+        });
+    } else {
+      axios
+        .get(
+          `https://2077b488.ngrok.io/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`
+        )
+        .then(res => {
+          for (var i = 0; i < res.data.length; i++) {
+            var d = "";
+            var p = res.data[i].description;
 
-          var websites = [];
-          var last_found = 0;
-          var s = res.data[i].websites;
+            for (var l = 0; l < p.length; l++) {
+              if (p[l] !== "'") {
+                //console.log(i);
+                d += p[l];
+              }
+            }
 
-          var website_len = "website_name".length;
-          var price_len = "price".length;
-          var product_link_len = "product_link".length;
-          var status_len = "status".length;
-          var img_link_len = "img_link".length;
+            var des_lenght = d.length;
+            d = d.substr(1, des_lenght - 2);
 
-          while (s.indexOf("OrderedDict", last_found) !== -1) {
-            last_found = s.indexOf("OrderedDict", last_found);
+            d = d.split(",").map(function(item) {
+              return item.trim();
+            });
 
-            var website_name_start_pos =
-              s.indexOf("website_name", last_found) + website_len + 4;
-            var website_name_size =
-              s.indexOf("'", website_name_start_pos) - website_name_start_pos;
-            var website_name = s.substr(
-              website_name_start_pos,
-              website_name_size
-            );
-            last_found = website_name_size + website_name_start_pos;
+            var storage = {};
+            var temp = res.data[i].storage;
+            var last = 0;
 
-            var price_start_pos =
-              s.indexOf("price", last_found) + price_len + 3;
-            var price_size = s.indexOf(")", price_start_pos) - price_start_pos;
-            var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
-            var price = parseInt(price_str);
-            last_found = price_size + price_start_pos;
+            while (temp.indexOf("'", last) !== -1) {
+              last = temp.indexOf("'", last) + 1;
+              var next = temp.indexOf("'", last);
+              var type = temp.substr(last, next - last);
+              last = next + 1;
 
-            var product_link_start_pos =
-              s.indexOf("product_link", last_found) + product_link_len + 4;
-            var product_link_size =
-              s.indexOf("'", product_link_start_pos) - product_link_start_pos;
-            var product_link = s.substr(
-              product_link_start_pos,
-              product_link_size
-            );
-            last_found = product_link_size + product_link_start_pos;
+              last = temp.indexOf("'", last) + 1;
+              next = temp.indexOf("'", last);
+              var size = temp.substr(last, next - last);
+              last = next + 1;
+              //console.log(type + " : "+size);
+              storage[type] = size;
+            }
+            //console.log(storage);
 
-            var status_start_pos =
-              s.indexOf("status", last_found) + status_len + 4;
-            var status_size =
-              s.indexOf("'", status_start_pos) - status_start_pos;
-            var status = s.substr(status_start_pos, status_size);
-            last_found = status_size + status_start_pos;
+            var websites = [];
+            var last_found = 0;
+            var s = res.data[i].websites;
 
-            var img_link_start_pos =
-              s.indexOf("img_link", last_found) + img_link_len + 4;
-            var img_link_size =
-              s.indexOf("'", img_link_start_pos) - img_link_start_pos;
-            var img_link = s.substr(img_link_start_pos, img_link_size);
-            last_found = img_link_size + img_link_start_pos;
+            var website_len = "website_name".length;
+            var price_len = "price".length;
+            var product_link_len = "product_link".length;
+            var status_len = "status".length;
+            var img_link_len = "img_link".length;
 
-            var result = {
-              website_name: website_name,
-              price: price,
-              img_link: img_link,
-              product_link: product_link,
-              status: status
-            };
-            websites.push(result);
+            while (s.indexOf("OrderedDict", last_found) !== -1) {
+              last_found = s.indexOf("OrderedDict", last_found);
+
+              var website_name_start_pos =
+                s.indexOf("website_name", last_found) + website_len + 4;
+              var website_name_size =
+                s.indexOf("'", website_name_start_pos) - website_name_start_pos;
+              var website_name = s.substr(
+                website_name_start_pos,
+                website_name_size
+              );
+              last_found = website_name_size + website_name_start_pos;
+
+              var price_start_pos =
+                s.indexOf("price", last_found) + price_len + 3;
+              var price_size =
+                s.indexOf(")", price_start_pos) - price_start_pos;
+              var price_str = "0" + s.substr(price_start_pos, price_size); //adding 0, so that it convert to 0 if any problem occurs
+              var price = parseInt(price_str);
+              last_found = price_size + price_start_pos;
+
+              var product_link_start_pos =
+                s.indexOf("product_link", last_found) + product_link_len + 4;
+              var product_link_size =
+                s.indexOf("'", product_link_start_pos) - product_link_start_pos;
+              var product_link = s.substr(
+                product_link_start_pos,
+                product_link_size
+              );
+              last_found = product_link_size + product_link_start_pos;
+
+              var status_start_pos =
+                s.indexOf("status", last_found) + status_len + 4;
+              var status_size =
+                s.indexOf("'", status_start_pos) - status_start_pos;
+              var status = s.substr(status_start_pos, status_size);
+              last_found = status_size + status_start_pos;
+
+              var img_link_start_pos =
+                s.indexOf("img_link", last_found) + img_link_len + 4;
+              var img_link_size =
+                s.indexOf("'", img_link_start_pos) - img_link_start_pos;
+              var img_link = s.substr(img_link_start_pos, img_link_size);
+              last_found = img_link_size + img_link_start_pos;
+
+              var result = {
+                website_name: website_name,
+                price: price,
+                img_link: img_link,
+                product_link: product_link,
+                status: status
+              };
+              websites.push(result);
+            }
+            res.data[i].websites = websites;
+            res.data[i].description = d;
+            res.data[i].storage = storage;
           }
-          res.data[i].websites = websites;
-          res.data[i].description = d;
-          res.data[i].storage = storage;
-        }
-        this.setState({
-          searchResults: res.data,
-          filterResults: res.data,
-          resultFound: true
+          this.setState({
+            searchResults: res.data,
+            filterResults: res.data
+          });
+          if (this.state.searchResults.length > 0) {
+            this.setState({
+              resultFound: true
+            });
+          } else {
+            this.setState({
+              resultFound: false
+            });
+          }
+          //console.log(this.state.searchResults);
+        })
+        .catch(err => {
+          console.log(err);
+          this.setState({
+            resultFound: false
+          });
         });
-      })
-      .catch(err => {
-        console.log(err);
-        this.setState({
-          resultFound: false
-        });
-      });
+    }
 
     axios
-      .get("https://c8e24411.ngrok.io/products/brand/")
+      .get("https://2077b488.ngrok.io/products/brand/")
       .then(res => {
         this.setState({
           allBrandNames: res.data

@@ -11,7 +11,7 @@ import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import Link from "@material-ui/core/Link";
-import ProfileMenu from "./profileMenu";
+//import ProfileMenu from "./profileMenu";
 import LockIcon from "@material-ui/icons/Lock";
 import RegIcon from "@material-ui/icons/AccessibilityNew";
 import NotificationIcon from "@material-ui/icons/Notifications";
@@ -33,6 +33,9 @@ function MyAppBar(props) {
   // if (props.appbar && props.appbar.length > 0) {
   //   console.log(props.appbar);
   // }
+
+  const type = localStorage.getItem("type");
+  //console.log(type);
 
   const classes = useStyles();
 
@@ -69,47 +72,63 @@ function MyAppBar(props) {
           </Typography>
           {props.isAuthenticated ? (
             <React.Fragment>
-              <ProfileMenu />
-              <Link
-                href="/notification"
-                target="_blank"
-                rel="noreferrer"
-                color="inherit"
-              >
-                {props.appbar && props.appbar.length > 0 ? (
-                  <Badge
-                    color="secondary"
-                    badgeContent={props.appbar[0].notification_count}
-                    className={classes.margin}
+              {type === "normaluser" ? (
+                <React.Fragment>
+                  {/* <ProfileMenu /> */}
+                  <Link
+                    href="/notification"
+                    target="_blank"
+                    rel="noreferrer"
+                    color="inherit"
                   >
-                    <Button aria-describedby="wishlist" color="inherit">
-                      <NotificationIcon /> Notification
-                    </Button>
-                  </Badge>
-                ) : (
-                  ""
-                )}
-              </Link>
-              <Link
-                href="/wishlist"
-                target="_blank"
-                rel="noreferrer"
-                color="inherit"
-              >
-                {props.appbar && props.appbar.length > 0 ? (
-                  <Badge
-                    color="secondary"
-                    badgeContent={props.appbar[0].wishlist_count}
-                    className={classes.margin}
+                    {props.appbar && props.appbar.length > 0 ? (
+                      <Badge
+                        color="secondary"
+                        badgeContent={props.appbar[0].notification_count}
+                        className={classes.margin}
+                      >
+                        <Button aria-describedby="wishlist" color="inherit">
+                          <NotificationIcon /> Notification
+                        </Button>
+                      </Badge>
+                    ) : (
+                      ""
+                    )}
+                  </Link>
+                  <Link
+                    href="/wishlist"
+                    target="_blank"
+                    rel="noreferrer"
+                    color="inherit"
                   >
-                    <Button aria-describedby="wishlist" color="inherit">
-                      <WishListIcon /> WishList
-                    </Button>
-                  </Badge>
-                ) : (
-                  ""
-                )}
-              </Link>
+                    {props.appbar && props.appbar.length > 0 ? (
+                      <Badge
+                        color="secondary"
+                        badgeContent={props.appbar[0].wishlist_count}
+                        className={classes.margin}
+                      >
+                        <Button aria-describedby="wishlist" color="inherit">
+                          <WishListIcon /> WishList
+                        </Button>
+                      </Badge>
+                    ) : (
+                      ""
+                    )}
+                  </Link>
+                </React.Fragment>
+              ) : (
+                <Link
+                  href="/admin"
+                  target="_blank"
+                  rel="noreferrer"
+                  color="inherit"
+                >
+                  <Button aria-describedby="wishlist" color="inherit">
+                    Admin Panel
+                  </Button>
+                </Link>
+              )}
+
               <Button
                 aria-describedby="logout"
                 color="inherit"

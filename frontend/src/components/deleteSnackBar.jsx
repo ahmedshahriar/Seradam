@@ -21,7 +21,7 @@ export default function SimpleSnackbar(props) {
     //console.log(`Token ${token}`);
     //console.log(props.id);
     axios
-      .delete(`https://1666378e.ngrok.io/wishlist/${props.id}/`, {
+      .delete(`https://2077b488.ngrok.io/wishlist/${props.id}/`, {
         headers: {
           Authorization: `Token ${token}`
         }

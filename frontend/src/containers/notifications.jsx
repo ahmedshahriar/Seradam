@@ -3,6 +3,7 @@ import AppBar from "../components/myAppBar";
 import Footer from "../components/footer";
 import Notification from "../components/notification";
 import axios from "axios";
+//import { Redirect } from "react-router-dom";
 
 class WishLists extends Component {
   state = {
@@ -11,9 +12,15 @@ class WishLists extends Component {
   };
 
   componentDidMount() {
+    //console.log(this.props);
     var token = localStorage.getItem("token");
+    var type = localStorage.getItem("type");
+    if (type !== "normaluser") {
+      //console.log(this.props.history);
+      //this.props.history("push", "/");
+    }
     axios
-      .get("https://1666378e.ngrok.io/products/notification/", {
+      .get("https://2077b488.ngrok.io/products/notification/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -30,7 +37,7 @@ class WishLists extends Component {
 
     if (token) {
       axios
-        .get("https://1666378e.ngrok.io/products/notificationwishlistcount/", {
+        .get("https://2077b488.ngrok.io/products/notificationwishlistcount/", {
           headers: {
             Authorization: `Token ${token}`
           }

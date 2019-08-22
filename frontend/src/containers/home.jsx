@@ -13,7 +13,7 @@ class HomePage extends Component {
     var token = localStorage.getItem("token");
     if (token) {
       axios
-        .get("https://1666378e.ngrok.io/products/notificationwishlistcount/", {
+        .get("https://2077b488.ngrok.io/products/notificationwishlistcount/", {
           headers: {
             Authorization: `Token ${token}`
           }

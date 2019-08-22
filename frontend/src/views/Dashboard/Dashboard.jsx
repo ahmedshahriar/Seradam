@@ -30,7 +30,6 @@ import Warning from "@material-ui/icons/Warning";
 import DateRange from "@material-ui/icons/DateRange";
 import LocalOffer from "@material-ui/icons/LocalOffer";
 import Update from "@material-ui/icons/Update";
-import ArrowUpward from "@material-ui/icons/ArrowUpward";
 import AccessTime from "@material-ui/icons/AccessTime";
 import Accessibility from "@material-ui/icons/Accessibility";
 import BugReport from "@material-ui/icons/BugReport";
@@ -70,11 +69,16 @@ class Dashboard extends React.Component {
   };
 
   componentDidMount() {
+    //console.log(this.props);
     //brand products websites usercount
     var token = localStorage.getItem("token");
+    var type = localStorage.getItem("type");
+    if (type !== "admin") {
+      this.props.history.push("/");
+    }
     axios
       .get(
-        "https://1666378e.ngrok.io/products/brandproductswebsitesusercount/",
+        "https://2077b488.ngrok.io/products/brandproductswebsitesusercount/",
         {
           headers: {
             Authorization: `Token ${token}`
@@ -93,7 +97,7 @@ class Dashboard extends React.Component {
       });
     //user registration graph
     axios
-      .get("https://1666378e.ngrok.io/products/userregistrationgraph/", {
+      .get("https://2077b488.ngrok.io/products/userregistrationgraph/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -136,7 +140,7 @@ class Dashboard extends React.Component {
 
     //search count per day
     axios
-      .get("https://1666378e.ngrok.io/products/searchcountperday/", {
+      .get("https://2077b488.ngrok.io/products/searchcountperday/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -151,7 +155,7 @@ class Dashboard extends React.Component {
         });
         maxNum = Math.max(...result);
         result1.push(result);
-        console.log(res.data);
+        //console.log(res.data);
         this.setState({
           searchcountgraph: {
             labels: keys,
@@ -179,7 +183,7 @@ class Dashboard extends React.Component {
 
     //search wishlist count of user
     axios
-      .get("https://1666378e.ngrok.io/products/searchwishlistcountofuser/", {
+      .get("https://2077b488.ngrok.io/products/searchwishlistcountofuser/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -205,6 +209,10 @@ class Dashboard extends React.Component {
     this.setState({ value: index });
   };
   render() {
+    //console.log(this.state.isAdmin);
+    // if (!this.state.isAdmin) {
+    //   this.props.history.push("/");
+    // }
     const { classes } = this.props;
     return (
       <div>
@@ -296,25 +304,19 @@ class Dashboard extends React.Component {
         )}
 
         <GridContainer>
-          <GridItem xs={12} sm={12} md={4}>
+          <GridItem xs={12} sm={12} md={12}>
             <Card chart>
               <CardHeader color="success">
                 <ChartistGraph
                   className="ct-chart"
                   data={dailySalesChart.data}
-                  type="Line"
+                  type="Bar"
                   options={dailySalesChart.options}
                   listener={dailySalesChart.animation}
                 />
               </CardHeader>
               <CardBody>
                 <h4 className={classes.cardTitle}>Active Users</h4>
-                <p className={classes.cardCategory}>
-                  <span className={classes.successText}>
-                    <ArrowUpward className={classes.upArrowCardCategory} /> 10%
-                  </span>{" "}
-                  increase users on today.
-                </p>
               </CardBody>
               <CardFooter chart>
                 <div className={classes.stats}>
@@ -325,7 +327,7 @@ class Dashboard extends React.Component {
           </GridItem>
 
           {this.state.isusergraph ? (
-            <GridItem xs={12} sm={12} md={4}>
+            <GridItem xs={12} sm={12} md={12}>
               <Card chart>
                 <CardHeader color="warning">
                   <ChartistGraph
@@ -341,13 +343,6 @@ class Dashboard extends React.Component {
                 </CardHeader>
                 <CardBody>
                   <h4 className={classes.cardTitle}>User Registration</h4>
-                  <p className={classes.cardCategory}>
-                    <span className={classes.successText}>
-                      <ArrowUpward className={classes.upArrowCardCategory} />{" "}
-                      10%
-                    </span>{" "}
-                    more since last month.
-                  </p>
                 </CardBody>
                 <CardFooter chart>
                   <div className={classes.stats}>
@@ -361,26 +356,19 @@ class Dashboard extends React.Component {
           )}
 
           {this.state.issearchcountgraph ? (
-            <GridItem xs={12} sm={12} md={4}>
+            <GridItem xs={12} sm={12} md={12}>
               <Card chart>
                 <CardHeader color="danger">
                   <ChartistGraph
                     className="ct-chart"
                     data={this.state.searchcountgraph}
-                    type="Line"
+                    type="Bar"
                     options={this.state.searchcountgraphoptions}
                     listener={completedTasksChart.animation}
                   />
                 </CardHeader>
                 <CardBody>
                   <h4 className={classes.cardTitle}>Search Hits</h4>
-                  <p className={classes.cardCategory}>
-                    <span className={classes.successText}>
-                      <ArrowUpward className={classes.upArrowCardCategory} />{" "}
-                      10%
-                    </span>{" "}
-                    more since last day.
-                  </p>
                 </CardBody>
                 <CardFooter chart>
                   <div className={classes.stats}>
