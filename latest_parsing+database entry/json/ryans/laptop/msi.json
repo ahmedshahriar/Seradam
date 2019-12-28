@@ -3,50 +3,17 @@
         {
             "brand": "MSI",
             "description": [
-                "Generation - 8th Gen",
-                "Processor - Intel Core i5 8250U",
-                "Processor Clock Speed - 1.6-3.4GHz",
-                "Display Size - 14\"",
-                "RAM - 8GB",
-                "RAM Type - DDR4",
-                "Storage - 512GB NVMe SSD"
-            ],
-            "display_size": "14\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/p/s/ps42-8m-1_1.jpg",
-            "model": "MSI PS42 8M",
-            "price": 79990,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ps42-8m-8th-gen-intel-core-i5-8250u-notebook.html",
-            "product_title": "MSI PS42 8M 8th Gen Intel Core i5 8250U (1.6GHz-3.4GHz, 8GB DDR4, 512GB NVMe SSD) 14 Inch FHD (1920x1080) Display, Win-10, White Backlight keyboard, Black Prestige Series Notebook",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor - Intel Core i5 8300H",
-                "Generation - 8th Gen",
-                "Processor Clock Speed - 2.3-4.0GHz",
-                "Display Size - 15.6\"",
-                "RAM - 8GB",
-                "RAM Type - DDR4"
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i5 9300H\nProcessor Clock Speed - 2.40-4.10GHz\nDisplay Size - 15.6 inch\nRAM - 8GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB HDD"
             ],
             "display_size": "15.6\"",
             "display_type": "FHD LED",
             "graphics_memory": "4GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/f/gf63-8rc-01.jpg",
-            "model": "MSI GF63 8RC",
-            "price": 87000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gf63-thin-9rc-02.jpg",
+            "model": "MSI GF63 Thin 9RC",
+            "price": 81000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf63-8rc-8th-gen-intel-core-i5-notebook.html",
-            "product_title": "MSI GF63 8RC 8th Gen Intel Core i5 8300H (2.3GHz-4.0GHz, 8GB, 1TB) GTX 1050 4GB Graphics, 15.6 Inch FHD (1920x1080) Display, Steel series Backlit Keyboard, win 10, Gaming Notebook.",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf63-thin-9rc-9th-gen-intel-core-i5-9300h-notebook.html",
+            "product_title": "MSI GF63 Thin 9RC 9th Gen Intel Core i5 9300H (2.40GHz-4.10GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 1TB HDD) Nvidia GTX 1050 Ti 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) 60Hz Display, Free Dos, Black Gaming Notebook #9S7-16R312-489",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -58,283 +25,66 @@
         {
             "brand": "MSI",
             "description": [
-                "Generation - 8th Gen",
-                "Processor - Intel Core i7 8550U",
-                "Processor Clock Speed - 1.8-4.0GHz",
-                "Display Size - 14\"",
-                "RAM - 8GB",
-                "RAM Type - DDR4",
-                "Storage - 512GB NVMe SSD"
-            ],
-            "display_size": "14\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/p/s/ps42-8m-1.jpg",
-            "model": "MSI PS42 8M",
-            "price": 89990,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ps42-8m-8th-gen-intel-core-i7-8550u-1-8ghz-4-0ghz-8gb-ddr4-512gb-nvme-ssd-14-inch-fhd-1920x1080-display-win-10-white-backlight-keyboard-black-prestige-series-notebook.html",
-            "product_title": "MSI PS42 8M 8th Gen Intel Core i7 8550U (1.8GHz-4.0GHz, 8GB DDR4, 512GB NVMe SSD) 14 Inch FHD (1920x1080) Display, Win 10, White Backlight keyboard, Black Prestige Series Notebook",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor - Intel Core i7 8750H",
-                "Generation - 8th Gen",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.6\"",
-                "RAM - 8GB",
-                "RAM Type - DDR4 2666MHz"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "4GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/f/gf63-8rd-01.jpg",
-            "model": "MSI GF63 8RD",
-            "price": 104900,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf63-8rd-8th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GF63 8RD 8th Gen Intel Core i7 8750H (2.2GHZ-4.1GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 128GB SSD + 1TB) GeForce GTX 1050 Ti 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Red Backlight Keyboard, Black Gaming Notebook with Air Gami",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor Generation - 9th Gen",
-                "Processor - Intel Core i5 9300H",
-                "Processor Clock Speed - 2.40-4.10GHz",
-                "Display Size - 15.6\"",
-                "RAM - 8GB",
-                "RAM Type - DDR4 2666MHz",
-                "Storage - 512GB SSD"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "4GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/f/gf63-thin-9sc-01_1.jpg",
-            "model": "MSI GF63 Thin 9SC",
-            "price": 106000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf63-thin-9sc-9th-gen-intel-core-i5-9300h-gaming-notebook.html",
-            "product_title": "MSI GF63 Thin 9SC 9th Gen Intel Core i5 9300H (2.40GHz-4.10GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 512GB SSD NVIDIA GTX 1650 4GB GDDR5 Graphics, 15.6 Inch FHD (1920x1080) 60Hz Display, Win 10, Black Gaming Notebook with Air Gaming Backpack",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor - Intel Core i7 8750H",
-                "Generation - 8th Gen",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "6GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/l/gl63-8re-2_3.jpg",
-            "model": "MSI GL63 8SD",
-            "price": 134900,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gl63-8sd-8th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GL63 8SD 8th Gen Intel Core i7 8750H (2.2GHz-4.1GHz, 16GB (2x 8GB) DDR4, 128GB SSD + 1TB HDD) nVidia GTX 1660 Ti 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Black Gaming Notebook with Air Gaming Backpack.",
-            "ram": "16GB (2 x 8GB)",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor Generation - 9th Gen",
-                "Processor - Intel Core i7 9750H",
-                "Processor Clock Speed - 2.60-4.50GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4 2666MHz",
-                "Storage - 1TB HDD + 256GB SSD"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "6GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/l/gl63-9sek-01_1.jpg",
-            "model": "MSI GL63 9SDK",
-            "price": 145000,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gl63-9sdk-9th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GL63 9SDK 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 256GB SSD + 1TB HDD NVIDIA GTX 1660 Ti 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Black Gaming Notebook with Air Gaming Backpac",
-            "ram": "16GB (2 x 8GB)",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor Generation - 9th Gen",
-                "Processor - Intel Core i7 9750H",
-                "Processor Clock Speed - 2.60-4.50GHz",
-                "Display Size - 17.3\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4 2666MHz",
-                "Storage - 1TB HDD + 256GB SSD"
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 17.3 inch\nRAM - 8GB\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB HDD + 128GB NvME SSD"
             ],
             "display_size": "17.3\"",
             "display_type": "FHD LED",
-            "graphics_memory": "6GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/l/gl73-9sek-02.jpg",
-            "model": "MSI GL73 9SEK",
-            "price": 153000,
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gf75-thin-9sc-02.jpg",
+            "model": "MSI GF75 Thin 9SC",
+            "price": 111000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gl73-9sek-9th-gen-intel-core-i7-gaming.html",
-            "product_title": "MSI GL73 9SEK 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 256GB SSD + 1TB HDD NVIDIA RTX 2060 6GB GDDR6 Graphics, 17.3 Inch FHD (1920x1080) Display, Win 10, Black Gaming Notebook with Air Gaming Backpack",
-            "ram": "16GB (2 x 8GB)",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gf75-thin-9sc-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GF75 Thin 9SC 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 8GB DDR4 2666MHz, 1TB HDD + 128GB NvME SSD) Nvidia GTX 1650 4GB GDDR5 Graphics, 17.3 Inch FHD (1920x1080) 60Hz Display, Free Dos, Black Gaming Notebook #9S7-17F212-248",
+            "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
                 "HDD": "1TB",
-                "SSD": "256GB"
+                "SSD": "128GB"
             },
             "website": "ryanscomputers.com"
         },
         {
             "brand": "MSI",
             "description": [
-                "Processor Generation - 9th Gen",
-                "Processor - Intel Core i7 9750H",
-                "Processor Clock Speed - 2.60-4.50GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4 2666MHz",
-                "Storage - 1TB HDD + 256GB SSD"
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 15.6 inch\nRAM - 16GB (2 x 8GB)\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 1TB NvME SSD"
             ],
             "display_size": "15.6\"",
             "display_type": "FHD LED",
             "graphics_memory": "6GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/l/gl63-9sek-01.jpg",
-            "model": "MSI GL63 9SEK",
-            "price": 153000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-ge65-raider-9se-02.jpg",
+            "model": "MSI GE65 Raider 9SE",
+            "price": 187000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gl63-9sek-9th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GL63 9SEK 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 256GB SSD + 1TB HDD NVIDIA RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 120Hz Display, Win 10, Black Gaming Notebook with Air Gaming Back",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ge65-raider-9se-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GE65 Raider 9SE 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 1TB NvME SSD) Nvidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 240Hz Display, Free Dos, Black Gaming Notebook #9S7-16U112-209",
             "ram": "16GB (2 x 8GB)",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
-                "HDD": "1TB",
-                "SSD": "256GB"
+                "SSD": "1TB"
             },
             "website": "ryanscomputers.com"
         },
         {
             "brand": "MSI",
             "description": [
-                "Processor - Intel Core i7 8750H",
-                "Generation - 8th Gen",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4"
+                "Processor Generation - 9th Gen\nProcessor - Intel Core i7 9750H\nProcessor Clock Speed - 2.60-4.50GHz\nDisplay Size - 15.6 inch\nRAM - 16GB (2 x 8GB)\nRAM Type - DDR4\nRAM Bus (MHz) - 2666MHz\nStorage - 512GB NvME SSD"
             ],
             "display_size": "15.6\"",
             "display_type": "FHD LED",
             "graphics_memory": "6GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/e/ge63-raider-8rf-1_2.jpg",
-            "model": "MSI GL63 8SE",
-            "price": 154500,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/s/msi-gs65-stealth-9se-02.jpg",
+            "model": "MSI GS65 Stealth 9SE",
+            "price": 201000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gl63-8se-8th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GL63 8SE 8th Gen Intel Core i7 8750H (2.2GHz-4.1GHz, 16GB (2x 8GB) DDR4, 256GB SSD + 1TB HDD) nVidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) Display, Win 10, Black Gaming Notebook with Air Gaming Backpack.",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-gs65-stealth-9se-9th-gen-intel-core-i7-9750h-notebook.html",
+            "product_title": "MSI GS65 Stealth 9SE 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 512GB NvME SSD) Nvidia RTX 2060 6GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 240Hz Display, Free Dos, Black Gaming Notebook #9S7-16Q411-109",
             "ram": "16GB (2 x 8GB)",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
-                "HDD": "1TB",
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor Generation - 9th Gen",
-                "Processor - Intel Core i7 9750H",
-                "Processor Clock Speed - 2.60-4.50GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4 2666MHz",
-                "Storage - 1TB HDD + 512GB SSD"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "8GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/e/ge63-raider-rgb-9sf-01.jpg",
-            "model": "MSI GE63 Raider RGB 9SF",
-            "price": 208000,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ge63-raider-rgb-9sf-9th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GE63 Raider RGB 9SF 9th Gen Intel Core i7 9750H (2.60GHz-4.50GHz, Intel HM370 Chipset, 16GB (2x8GB) DDR4 2666MHz, 512GB SSD + 1TB HDD NVIDIA RTX 2070 8GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 144Hz Display, Win 10, Black Gaming Notebook with Air G",
-            "ram": "16GB (2 x 8GB)",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "MSI",
-            "description": [
-                "Processor - Intel Core i7 8750H",
-                "Generation - 8th Gen",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.6\"",
-                "RAM - 16GB (2 x 8GB)",
-                "RAM Type - DDR4"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "8GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/g/e/ge63-raider-8rf-1_1.jpg",
-            "model": "MSI GE63 Raider RGB 8SF",
-            "price": 213000,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/msi/msi-ge63-raider-rgb-8sf-8th-gen-intel-core-i7-notebook.html",
-            "product_title": "MSI GE63 Raider RGB 8SF 8th Gen Intel Core i7 8750H (2.2GHz-4.1GHz, 16GB (2x 8GB) DDR4, 512GB SSD + 1TB HDD) nVidia RTX 2070 8GB GDDR6 Graphics, 15.6 Inch FHD (1920x1080) 144Hz Display, Win 10, Black Gaming Notebook",
-            "ram": "16GB (2 x 8GB)",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB",
                 "SSD": "512GB"
             },
             "website": "ryanscomputers.com"

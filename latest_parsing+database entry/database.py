@@ -30,16 +30,16 @@ for brand in brands:
         startech_product_list
     )
 
-ryans_path = "./json/ryans/laptop/Fujitsu.json"
+# ryans_path = "./json/ryans/laptop/Fujitsu.json"
+# ryans_product_list = json.loads(open(ryans_path).read())['Products']
+# ryans_collection.insert_many(
+#     ryans_product_list
+# )
 
 startech_path = "./json/startech/laptop/Razer.json"
-#
-ryans_product_list = json.loads(open(ryans_path).read())['Products']
 startech_product_list = json.loads(open(startech_path).read())['Products']
 #
-ryans_collection.insert_many(
-    ryans_product_list
-)
+
 startech_collection.insert_many(
     startech_product_list
 )

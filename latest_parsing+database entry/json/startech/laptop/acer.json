@@ -4,6 +4,56 @@
             "brand": "Acer",
             "description": [
                 "Processor - Others",
+                "Display Size - 11.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "11.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a311-31/a311-31-228x228.jpg",
+            "price": 23800,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a311-31-cdc-laptop",
+            "product_title": "Acer Aspire 3 A311-31 Celeron Dual Core 11.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - AMD A4",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/acer-aspire-a315-21-46zb-laptop/acer-aspire-a315-21-46zb-laptop-228x228.jpg",
+            "price": 24800,
+            "processor": "AMD A4",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-21-46zb-laptop",
+            "product_title": "Acer Aspire A315-21 46ZB AMD-A4-9120E 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Others",
                 "Display Size - 15.6\"",
                 "RAM - 4GB",
                 "RAM Type- DDR3",
@@ -13,7 +63,7 @@
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
-            "price": 23200,
+            "price": 24000,
             "processor": "Others",
             "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-cdc-laptop",
             "product_title": "Acer Aspire A315-31 C421 Intel Celeron Dual Core 15.6\" HD Laptop",
@@ -28,7 +78,7 @@
         {
             "brand": "Acer",
             "description": [
-                "Processor - AMD E2",
+                "Processor - Intel Core i3",
                 "Display Size - 15.6\"",
                 "RAM - 4GB",
                 "RAM Type- DDR4",
@@ -37,11 +87,11 @@
             ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-21/acer-a315-21-228x228.jpg",
-            "price": 24500,
-            "processor": "AMD E2",
-            "product_link": "https://www.startech.com.bd/acer-aspire-a315-21-amd-laptop",
-            "product_title": "Acer Aspire A315-21 28F1 AMD E2-9000 15.6\" HD Laptop",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-54/a315-55-228x228.jpg",
+            "price": 36800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-54k-34sc-laptop",
+            "product_title": "Acer Aspire 3 A315-54K 34SC Core i3 7th Gen 15.6\" HD Laptop With Windows 10",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -54,49 +104,24 @@
             "brand": "Acer",
             "description": [
                 "Processor - Others",
-                "Display Size - 15.6\"",
+                "Display Size - 14\"",
                 "RAM - 4GB",
                 "RAM Type- DDR3",
                 "HDD - 1TB ",
                 "Graphics Memory - Shared"
             ],
-            "display_size": "15.6\"",
+            "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
-            "price": 26000,
+            "price": 29500,
             "processor": "Others",
-            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-pqc-laptop",
-            "product_title": "Acer Aspire A315-31 P8GP PQC 15.6\" laptop",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-p9v3-pqc-laptop",
+            "product_title": "Acer Aspire A314-31 P9V3 PQC 14\" laptop",
             "ram": "4GB",
             "ram_type": "DDR3",
             "status": "available",
             "storage": {
                 "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Others",
-                "Display Size - 11.6\"",
-                "RAM - 4GB",
-                "RAM Type- DDR4",
-                "HDD - 500GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "11.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a311-31/a311-31-228x228.jpg",
-            "price": 26000,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/acer-aspire-a311-31-cdc-laptop",
-            "product_title": "Acer Aspire 3 A311-31 Celeron Dual Core 11.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
             },
             "website": "startech.com.bd"
         },
@@ -113,7 +138,32 @@
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3%20Processor/315-228x228.png",
-            "price": 37700,
+            "price": 34800,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-e5-576-core-i3-laptop",
+            "product_title": "Acer Aspire E5-576 Core i3 7th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR3",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3%20Processor/315-228x228.png",
+            "price": 34000,
             "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/acer-aspire-e5-576-i3-laptop",
             "product_title": "Acer Aspire E5-576 Core i3 7th Gen 15.6\" HD Laptop",
@@ -131,22 +181,197 @@
                 "Processor - Intel Core i3",
                 "Display Size - 15.6\"",
                 "RAM - 4GB",
-                "RAM Type- DDR3",
+                "RAM Type- DDR4",
                 "HDD - 1TB ",
                 "Graphics Memory - Shared"
             ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/i3%20Processor/315-228x228.png",
-            "price": 38200,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-54/aspire-a315-54-228x228.jpg",
+            "price": 39000,
             "processor": "Intel Core i3",
-            "product_link": "https://www.startech.com.bd/acer-aspire-e5-576-core-i3-laptop",
-            "product_title": "Acer Aspire E5-576 Core i3 7th Gen 15.6\" HD Laptop",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-54-laptop",
+            "product_title": "Acer Aspire A315-54 Core i3 8th Gen 15.6\" HD Laptop",
             "ram": "4GB",
-            "ram_type": "DDR3",
+            "ram_type": "DDR4",
             "status": "available",
             "storage": {
                 "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-54/5-a515-54-38wn-228x228.jpg",
+            "price": 40500,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-5-a515-54-38wn-laptop",
+            "product_title": "Acer Aspire 5 A515-54 38WN Core i3 8th Gen 15.6\" HD Laptop with Windows 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-55g-34h0/aspire-a315-55g-34h0-228x228.jpg",
+            "price": 47000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-55g-34h0-2gb-graphics-laptop",
+            "product_title": "Acer Aspire A315-55G 34H0 Core i3 8th Gen MX230 2GB 15.6\" HD Laptop with Genuine Windows 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-55g-10/aspire-a315-55g-10-3-228x228.jpg",
+            "price": 50000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-55g-10-gen-i3-laptop",
+            "product_title": "Acer Aspire A315-55G Core i3 10th Gen MX230 2GB 15.6\" HD Laptop with Genuine Windows 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-55g/a315-55g-4-228x228.jpg",
+            "price": 56000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-55g-mx-230-laptop",
+            "product_title": "Acer Aspire A315-55G Core i5 8th Gen 15.6\" FHD Nvidia GeForce MX230 Graphics Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a515-53/aspire-a515-53-228x228.jpg",
+            "price": 49000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-53-55hk-laptop",
+            "product_title": "Acer Aspire A515-53 55HK Core i5 8th Gen 15.6\" FHD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 2TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-54g/aspire-a315-54g-228x228.jpg",
+            "price": 70500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-54g-10-gen-i5-laptop",
+            "product_title": "Acer Aspire A515-54G Core i5 10th Gen MX250 2GB 15.6\" FHD Laptop with Genuine Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-53-n17c4/a315-53-n17c4-1-228x228.jpg",
+            "price": 24500,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/acer-aspire-3-a315-53-n17c4-celeron-dual-core-laptop",
+            "product_title": "Acer Aspire 3 A315-53 N17C4 Celeron Dual Core 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "500GB"
             },
             "website": "startech.com.bd"
         },
@@ -163,10 +388,85 @@
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/e5-476/E5-476-228x228.jpg",
-            "price": 43000,
+            "price": 37600,
             "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/acer-aspire-e5-476-core-i3-laptop",
             "product_title": "Acer Aspire E5-476 Core i3 8th Gen 14\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire/5-a515-52g-36xn/5-a515-52g-36xn-1-228x228.jpg",
+            "price": 48300,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/acer-aspire-5-a515-52g-36xn-laptop",
+            "product_title": "Acer Aspire 5 A515-52G 36XN Core i3 8th Gen MX130 15.6\" HD Laptop With Genuine Windows 10",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 14\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/swift/sf314-55g-52t4/sf314-55g-52t4-3-228x228.jpg",
+            "price": 73000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf314-55g-52t4-laptop",
+            "product_title": "Acer Swift SF314-55G 52T4 Core i5 8th gen Nvidia MX250 14\" FHD Laptop with Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire/a315-55g-54as/a315-55g-54as-1-228x228.jpg",
+            "price": 55800,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-55g-54as-laptop",
+            "product_title": "Acer Aspire 3 A315-55G 54AS Core i5 8th Gen MX230 15.6\" Full HD Laptop With Genuine Windows 10",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -187,11 +487,11 @@
             ],
             "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-53/a315-53-228x228.jpg",
-            "price": 46500,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a315-54-5389/aspire-a315-54-5389-228x228.jpg",
+            "price": 47800,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/acer-aspire-3-a315-53-i5-laptop",
-            "product_title": "Acer Aspire 3 A315-53 Core i5 8th Gen 15.6\" HD Laptop",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-54-5389-i5-laptop",
+            "product_title": "Acer Aspire A315-54 5389 Core i5 8th Gen 15.6\" FHD Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -204,44 +504,19 @@
             "brand": "Acer",
             "description": [
                 "Processor - Intel Core i5",
-                "Display Size - 15.6\"",
-                "RAM - 8GB",
-                "RAM Type- DDR4",
-                "HDD - 1TB ",
-                "Graphics Memory - 2GB"
-            ],
-            "display_size": "15.6\"",
-            "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a515-52g/aspire-a515-52g-1-228x228.jpg",
-            "price": 60500,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/acer-aspire-a515-52g-laptop",
-            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop ",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 15.6\"",
+                "Display Size - (15.6\"",
                 "RAM - 8GB",
                 "RAM Type- DDR4",
                 "HDD - 2TB ",
                 "Graphics Memory - 2GB"
             ],
-            "display_size": "15.6\"",
+            "display_size": "(15.6\"",
             "graphics_memory": "2GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-52g/aspire-5-a515-52g-228x228.jpg",
-            "price": 65500,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire/a515-54g-59ez/a515-54g-59ez-2-228x228.jpg",
+            "price": 66000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/acer-a515-52g-i5-2gb-graphics-laptop",
-            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop With Graphics",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-54g-59ez-core-i5-laptop",
+            "product_title": "Acer Aspire 5 A515-54G 59EZ Core i5 8th Gen MX250 15.6\" Full HD Laptop With Genuine Windows 10",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -263,10 +538,35 @@
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
-            "price": 79000,
+            "price": 75500,
             "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-59e4-i5-8th-gen-ips-full-hd-gaming-laptop",
             "product_title": "Acer Nitro AN515-52 59E4 i5 8th Gen 15.6\" IPS Full HD Backlit Keyboard Gaming Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - AMD Ryzen 5",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/acer-nitro/5-an515-43-2-228x228.jpg",
+            "price": 76000,
+            "processor": "AMD Ryzen 5",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-an515-43-r2ph-amd-ryzen5-3550h-gaming-laptop",
+            "product_title": "Acer Nitro 5 AN515-43 R2PH AMD Ryzen 5 3550H 15.6\" FHD IPS Gaming Laptop With Windows 10",
             "ram": "8GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -288,7 +588,7 @@
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
-            "price": 86000,
+            "price": 79000,
             "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-i5-laptop",
             "product_title": "Acer Nitro AN515-52 Core i5 (128GB SSD + 1TB HDD) 15.6\" Full HD Gaming Laptop",
@@ -314,7 +614,7 @@
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ph315/ph315-228x228.jpg",
-            "price": 92500,
+            "price": 92300,
             "processor": "Intel Core i5",
             "product_link": "https://www.startech.com.bd/acer-ph315-51-i5-laptop",
             "product_title": "Acer Predator Helios 300 PH315-51 Core i5 8th Gen 15.6\" Full HD IPS Gaming Laptop",
@@ -324,6 +624,83 @@
             "storage": {
                 "HDD": "1TB",
                 "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/nitro-5-an515-54/nitro-5-an515-54-1-228x228.jpg",
+            "price": 90000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-an515-54-gaming-laptop",
+            "product_title": "Acer Nitro 5 AN515-54 59LV Core i5 9th Gen GTX 1650 Graphics 15.6\" FHD Gaming Laptop with Windows 10 ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/nitro-5-an515-54/nitro-5-an515-54-1-228x228.jpg",
+            "price": 94800,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-an515-54-52mj-laptop",
+            "product_title": "Acer Nitro 5 AN515-54 52MJ Core i5 9th Gen (256GB SSD+1TB HDD) 15.6\" FHD Gaming Laptop with Windows 10 ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 6GB"
+            ],
+            "display_size": "",
+            "graphics_memory": "6GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/acer-nitro-7-an715-51-510a-laptop/acer-nitro-7-an715-51-510a-laptop-228x228.jpg",
+            "price": 120500,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-nitro-7-an715-51-510a-laptop",
+            "product_title": "Acer Nitro 7 AN715-51 510A 9th Gen Core i5 (256GB SSD + 1TB HDD) 15.6\" FHD Gaming Laptop",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
             },
             "website": "startech.com.bd"
         },
@@ -340,7 +717,7 @@
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/an515-52-59e4/acer-nitro-an515-52-59e4-i5-1-228x228.jpg",
-            "price": 96000,
+            "price": 95000,
             "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/acer-nitro-an515-52-i7-gaming-laptop",
             "product_title": "Acer Nitro AN515-52 Core i7 15.6\" Full HD Gaming Laptop With Graphics",
@@ -366,7 +743,7 @@
             "display_size": "15.6\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ph315/ph315-228x228.jpg",
-            "price": 111000,
+            "price": 114000,
             "processor": "Intel Core i7",
             "product_link": "https://www.startech.com.bd/acer-ph315-51-core-i7-laptop",
             "product_title": "Acer Predator Helios 300 PH315-51 Core i7 15.6\" Full HD IPS Gaming Laptop",
@@ -377,6 +754,55 @@
                 "HDD": "1TB",
                 "SSD": "128GB"
             },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB SSD - 256GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/nitro-5/an515-54-79wr/an515-54-79wr-1-228x228.jpg",
+            "price": 111800,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/acer-nitro-5-an515-54-79wr-gaming-laptop",
+            "product_title": "Acer Nitro 5 AN515-54 79WR Core i7 9th Gen ( 256GB SSD + 1TB HDD) GTX 1650 15.6\" Full HD Gaming Laptop With Genuine Windows 10",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB",
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/ACER%20ASPIRE%20SWIFT7%20SF13%2051-M96X-1/ACER%20ASPIRE%20SWIFT7%20SF13%2051-M96X-3-228x228.jpg",
+            "price": 115000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/acer-aspire-swift-7-sf13-51-m96x",
+            "product_title": "Acer Swift SF713-51 7th gen Core i7 13.3\" Full HD Ultrabook",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {},
             "website": "startech.com.bd"
         },
         {
@@ -401,56 +827,6 @@
             "status": "not available",
             "storage": {
                 "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Others",
-                "Display Size - 14\"",
-                "RAM - 4GB",
-                "RAM Type- DDR3",
-                "HDD - 1TB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
-            "price": 26000,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-p9v3-pqc-laptop",
-            "product_title": "Acer Aspire A314-31 P9V3 PQC 14\" laptop",
-            "ram": "4GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Others",
-                "Display Size - 15.6\"",
-                "RAM - 4GB",
-                "RAM Type- DDR3",
-                "HDD - 500GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "15.6\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/cdc/es1-533/acer-s533-228x228.jpeg",
-            "price": 22700,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/acer-aspire-es1-533-cdc-laptop",
-            "product_title": "Acer Aspire ES1-533 Intel Celeron Dual Core 15.6\" HD Laptop",
-            "ram": "4GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {
-                "HDD": "500GB"
             },
             "website": "startech.com.bd"
         },
@@ -692,13 +1068,13 @@
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/tmp-249-g3-m/travelmate-p2-228x228.jpg",
-            "price": 37500,
+            "price": 39000,
             "processor": "Intel Core i3",
             "product_link": "https://www.startech.com.bd/acer-tmp-249-g3-m-i3-laptop",
             "product_title": "Acer Travelmate TMP249-G3-M Core i3 8th gen Laptop",
             "ram": "4GB",
             "ram_type": "DDR4",
-            "status": "not available",
+            "status": "available",
             "storage": {
                 "HDD": "1TB"
             },
@@ -1158,54 +1534,6 @@
             "brand": "Acer",
             "description": [
                 "Processor - Intel Core i5",
-                "Display Size - 14.0\"",
-                "RAM - 4GB",
-                "RAM Type- DDR4",
-                "",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "14.0\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer%20Aspire%20SWIFT3%20SF314%2051-53XD%20i5%207th%20Gen-1-228x228.jpg",
-            "price": 67000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/acer-aspire-swift-sf314-52-i5-7th-gen-512gb",
-            "product_title": "Acer Swift SF314-52 7th Gen i5 14\" Ultrabook with 512GB SSD",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {},
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Intel Core i7",
-                "Display Size - 15.6\"",
-                "RAM - 8GB",
-                "RAM Type- DDR4",
-                "HDD - 2TB ",
-                "Graphics Memory - 4GB"
-            ],
-            "display_size": "15.6\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Acer%20Aspire%20F5-573-228x228.jpg",
-            "price": 68000,
-            "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/acer-aspire-f5-573-i7",
-            "product_title": "Acer Aspire F5-573G 6th Gen Core i7 15.6\" Laptop",
-            "ram": "8GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {
-                "HDD": "2TB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Intel Core i5",
                 "Display Size - 15.6\"",
                 "RAM - 8GB",
                 "RAM Type- DDR4",
@@ -1355,29 +1683,6 @@
         {
             "brand": "Acer",
             "description": [
-                "Processor - Intel Core i7",
-                "Display Size - 14.0\"",
-                "RAM - 4GB",
-                "RAM Type- DDR4",
-                "",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "14.0\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer%20Aspire%20SWIFT3%20SF314%2051-53XD%20i5%207th%20Gen-1-228x228.jpg",
-            "price": 85000,
-            "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/acer-swift-sf314-52-8th-gen-laptop",
-            "product_title": "Acer Swift SF314-52 8th Gen Core i7 14\" FULL HD Ultrabook",
-            "ram": "4GB",
-            "ram_type": "DDR4",
-            "status": "not available",
-            "storage": {},
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
                 "Processor - Intel Core i5",
                 "Display Size - 15.6\"",
                 "RAM - 8GB",
@@ -1424,29 +1729,6 @@
                 "HDD": "1TB",
                 "SSD": "128GB"
             },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Acer",
-            "description": [
-                "Processor - Intel Core i7",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/ACER%20ASPIRE%20SWIFT7%20SF13%2051-M96X-1/ACER%20ASPIRE%20SWIFT7%20SF13%2051-M96X-3-228x228.jpg",
-            "price": 122000,
-            "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/acer-aspire-swift-7-sf13-51-m96x",
-            "product_title": "Acer Swift SF713-51 7th gen Core i7 13.3\" Full HD Ultrabook",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "not available",
-            "storage": {},
             "website": "startech.com.bd"
         },
         {
@@ -1570,6 +1852,204 @@
             "product_link": "https://www.startech.com.bd/acer-predator-g9-793-73hr-i7-16gb-ram-6gb-graphics-with-ssd-laptop",
             "product_title": "Acer Predator G9-793 73HR 7th Gen Core i7 15.6\" IPS Full HD Laptop",
             "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-53/a315-53-228x228.jpg",
+            "price": 42800,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-3-a315-53-i5-laptop",
+            "product_title": "Acer Aspire 3 A315-53 Core i5 8th Gen 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - AMD E2",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a315-21/acer-a315-21-228x228.jpg",
+            "price": 24500,
+            "processor": "AMD E2",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-21-amd-laptop",
+            "product_title": "Acer Aspire A315-21 28F1 AMD E2-9000 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR3",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/CDC/315-31-cdc-228x228.png",
+            "price": 26000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a315-31-pqc-laptop",
+            "product_title": "Acer Aspire A315-31 P8GP PQC 15.6\" laptop",
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 1TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-a515-52g/aspire-a515-52g-1-228x228.jpg",
+            "price": 56300,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-aspire-a515-52g-laptop",
+            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop ",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 2TB ",
+                "Graphics Memory - 2GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "2GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a515-52g/aspire-5-a515-52g-228x228.jpg",
+            "price": 59000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/acer-a515-52g-i5-2gb-graphics-laptop",
+            "product_title": "Acer Aspire A515-52G 8th Gen Core i5 15.6\" Full HD Laptop With Graphics",
+            "ram": "8GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "HDD": "2TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Others",
+                "Display Size - 15.6\"",
+                "RAM - 4GB",
+                "RAM Type- DDR3",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/cdc/es1-533/acer-s533-228x228.jpeg",
+            "price": 22700,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/acer-aspire-es1-533-cdc-laptop",
+            "product_title": "Acer Aspire ES1-533 Intel Celeron Dual Core 15.6\" HD Laptop",
+            "ram": "4GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 14.0\"",
+                "RAM - 4GB",
+                "RAM Type- DDR4",
+                "",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.0\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Swift/Acer%20Aspire%20SWIFT3%20SF314%2051-53XD%20i5%207th%20Gen-1-228x228.jpg",
+            "price": 69800,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/acer-swift-sf314-52-8th-gen-laptop",
+            "product_title": "Acer Swift SF314-52 8th Gen Core i7 14\" FULL HD Ultrabook",
+            "ram": "4GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {},
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Acer",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.6\"",
+                "RAM - 8GB",
+                "RAM Type- DDR4",
+                "HDD - 2TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.6\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/acer/Acer%20Aspire%20F5-573-228x228.jpg",
+            "price": 68000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/acer-aspire-f5-573-i7",
+            "product_title": "Acer Aspire F5-573G 6th Gen Core i7 15.6\" Laptop",
+            "ram": "8GB",
             "ram_type": "DDR4",
             "status": "not available",
             "storage": {

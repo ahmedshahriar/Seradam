@@ -3,54 +3,66 @@
         {
             "brand": "Chuwi",
             "description": [
-                "Processor - Intel CDC N4100",
-                "Processor Clock Speed - 1.10-2.40GHz",
-                "Display Size - 13.3\"",
-                "RAM - 4GB",
-                "RAM Type - DDR4",
-                "Storage - 32GB eMMC + 128GB SSD"
+                "Processor - Intel Atom X5 E8000\nProcessor Clock Speed - 1.04-2.0GHz\nDisplay Size - 14.1 inch\nRAM - 4GB\nStorage - 64GB EMMC\nSSD Expansion Slot - 1 x M.2 Blank SSD Slot\nGraphics Chipset - Intel HD Graphics\nGraphics Memory - Shared"
             ],
-            "display_size": "13.3\"",
-            "display_type": "FHD LED",
+            "display_size": "14.1\"",
+            "display_type": "HD LED",
             "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-lapbook-se-01.jpg",
-            "model": "Chuwi Lapbook SE",
-            "price": 29000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-herobook-01.jpg",
+            "model": "Chuwi HeroBook",
+            "price": 23300,
             "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-lapbook-se-intel-cdc-n4100-notebook.html",
-            "product_title": "Chuwi Lapbook SE Intel CDC N4100 (1.10GHz-2.40GHz, 4GB, 32GB eMMC + 128GB SSD) 13.3 FHD (1920x1080) Display, Backlit Keyboard, Win 10, Grey Notebook",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-herobook-intel-atom-x5-e8000-laptop.html",
+            "product_title": " Chuwi HeroBook Intel Atom X5 E8000 (1.04GHz-2.0GHz, 4GB, 64GB eMMC, 1x M.2 Slot) 14.1 Inch HD (1366x768) Display, Win 10, Grey Notebook (128GB SSD Included in Package) ",
             "ram": "4GB",
-            "ram_type": "DDR4",
+            "ram_type": "",
             "status": "available",
             "storage": {
-                "SSD": "128GB"
+                "HDD": "64GB"
             },
             "website": "ryanscomputers.com"
         },
         {
             "brand": "Chuwi",
             "description": [
-                "Processor - Intel CDC N3450",
-                "Processor Clock Speed - 1.10-2.20GHz",
-                "Display Size - 14.1\"",
-                "RAM - 8GB",
-                "Storage - 128GB EMMC",
-                "SSD Slot - 1 x M.2 Blank SSD Slot"
+                "Processor - Intel X5 Z8350\nProcessor Clock Speed - 1.44GHz\nDisplay Size - 10.1 inch\nRAM - 4GB\nStorage - 64GB eMMC\nGraphics Chipset - Intel HD Graphics Gen8\nGraphics Memory - Shared\nOperating System - Windows 10 Home"
             ],
-            "display_size": "14.1\"",
-            "display_type": "FHD LED",
+            "display_size": "10.1\"",
+            "display_type": "WUXGA + IPS WLED Touch",
             "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-lapbook-air-01_1.jpg",
-            "model": "Chuwi Lapbook Air",
-            "price": 36000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-hi10-air-01.jpg",
+            "model": "Chuwi Hi10 Air",
+            "price": 25000,
             "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-lapbook-air-intel-cdc-n3450-notebook.html",
-            "product_title": "Chuwi Lapbook Air Intel CDC N3450 (1.10GHz-2.20GHz, 8GB, 128GB eMMC) 14.1 Inch FHD (1920x1080) Display, Backlit Keyboard, Win 10, Full Metal Body Grey Notebook",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-hi10-air-2-in-1-intel-x5-z8350-1-44ghz-notebook.html",
+            "product_title": "Chuwi Hi10 Air 2 in 1 Intel X5 Z8350 (1.44GHz, 4GB, 64GB eMMC) 10.1 Inch WUXGA (1920x1200) IPS Touch Display, Active Pen, Detachable Keyboard, Win 10, Gray Notebook",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "64GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Chuwi",
+            "description": [
+                "Processor - Intel Core M3 6Y30\nProcessor Clock Speed - 0.9-2.2GHz\nDisplay Size - 13.3 inch\nRAM - 8GB\nStorage - 256GB SSD\nGraphics Chipset - Intel HD Graphics 515\nGraphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "FHD IPS LED",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/h/chuwi-aerobook-01.jpg",
+            "model": "Chuwi AeroBook",
+            "price": 46000,
+            "processor": "Intel Core M3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/chuwi/chuwi-aerobook-intel-core-m3-6y30-notebook.html",
+            "product_title": "Chuwi AeroBook Intel Core M3 6Y30 (0.9GHz-2.2GHz, 8GB, 256GB SSD, No-ODD) 13.3 Inch FHD (1920x1080) IPS Display, Backlit Keyboard, Win 10, Gray Notebook",
             "ram": "8GB",
             "ram_type": "",
             "status": "available",
             "storage": {
-                "HDD": "128GB"
+                "SSD": "256GB"
             },
             "website": "ryanscomputers.com"
         }

@@ -29,7 +29,7 @@ class SearchResults extends Component {
     //console.log(brand);
     if (token) {
       axios
-        .get("https://2077b488.ngrok.io/products/notificationwishlistcount/", {
+        .get("http://127.0.0.1:8000/products/notificationwishlistcount/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -47,7 +47,7 @@ class SearchResults extends Component {
 
     if (token) {
       axios
-        .get("https://2077b488.ngrok.io/wishlist/", {
+        .get("http://127.0.0.1:8000/wishlist/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -62,7 +62,7 @@ class SearchResults extends Component {
     if (token) {
       axios
         .get(
-          `https://2077b488.ngrok.io/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`,
+          `http://127.0.0.1:8000/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`,
           {
             headers: {
               Authorization: `Token ${token}`
@@ -199,7 +199,7 @@ class SearchResults extends Component {
     } else {
       axios
         .get(
-          `https://2077b488.ngrok.io/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`
+          `http://127.0.0.1:8000/products/mapping/?key=${key}&brand=${brand}&category=${category}&site=${site}`
         )
         .then(res => {
           for (var i = 0; i < res.data.length; i++) {
@@ -331,7 +331,7 @@ class SearchResults extends Component {
     }
 
     axios
-      .get("https://2077b488.ngrok.io/products/brand/")
+      .get("http://127.0.0.1:8000/products/brand/")
       .then(res => {
         this.setState({
           allBrandNames: res.data

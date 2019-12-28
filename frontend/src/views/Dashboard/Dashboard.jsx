@@ -78,7 +78,7 @@ class Dashboard extends React.Component {
     }
     axios
       .get(
-        "https://2077b488.ngrok.io/products/brandproductswebsitesusercount/",
+        "http://127.0.0.1:8000/products/brandproductswebsitesusercount/",
         {
           headers: {
             Authorization: `Token ${token}`
@@ -97,7 +97,7 @@ class Dashboard extends React.Component {
       });
     //user registration graph
     axios
-      .get("https://2077b488.ngrok.io/products/userregistrationgraph/", {
+      .get("http://127.0.0.1:8000/products/userregistrationgraph/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -140,7 +140,7 @@ class Dashboard extends React.Component {
 
     //search count per day
     axios
-      .get("https://2077b488.ngrok.io/products/searchcountperday/", {
+      .get("http://127.0.0.1:8000/products/searchcountperday/", {
         headers: {
           Authorization: `Token ${token}`
         }
@@ -183,7 +183,7 @@ class Dashboard extends React.Component {
 
     //search wishlist count of user
     axios
-      .get("https://2077b488.ngrok.io/products/searchwishlistcountofuser/", {
+      .get("http://127.0.0.1:8000/products/searchwishlistcountofuser/", {
         headers: {
           Authorization: `Token ${token}`
         }

@@ -3,24 +3,17 @@
         {
             "brand": "iLife",
             "description": [
-                "Model - I-life ZEDAir",
-                "Processor - Intel Atom Z3735F",
-                "Processor Clock Speed - 1.33-1.83GHz",
-                "Display Size - 14\"",
-                "RAM - 2GB",
-                "RAM Type - DDR3",
-                "HDD - 32GB eMMC",
-                "Operating System - Windows 10 Home"
+                "Model - I-life ZEDAir\nProcessor - Intel Atom Quad Core\nProcessor Clock Speed - 1.8GHz\nDisplay Size - 14\"\nRAM - 2GB\nRAM Type - DDR3\nHDD - 32GB eMMC\nOperating System - Windows 10 Home"
             ],
             "display_size": "14\"",
             "display_type": "LED",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/x/5/x5-z8350-silver-1_1.jpg",
             "model": "I-life ZEDAir",
-            "price": 16500,
+            "price": 18000,
             "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-intel-atom-14-inch-silver-notebook.html",
-            "product_title": "I-life ZEDAir Intel Atom Z3735F (1.33-1.83Ghz, 2GB DDR3, 32GB eMMC) 14 Inch, Win-10 Home, Silver Notebook",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-intel-atom-quad-core-1-8ghz-2gb-ddr3-32gb-emmc-14-inch-win-10-home-silver-notebook.html",
+            "product_title": "I-life ZEDAir Intel Atom Quad Core (1.8GHz, 2GB DDR3, 32GB eMMC) 14 Inch, Win-10 Home, Silver Notebook ",
             "ram": "2GB",
             "ram_type": "DDR3",
             "status": "available",
@@ -32,17 +25,17 @@
         {
             "brand": "iLife",
             "description": [
-                "\nModel - I-life ZEDAir \nProcessor Clock Speed - 1.33-1.83GHz\nHDD - 32GB eMMC\n2GB DDR3 Ram \nDisplay Size - 14\"\n"
+                "Processor - Intel Atom Quad Core D525\nProcessor Clock Speed - 1.80GHz\nDisplay Size - 14 Inch\nRAM - 2GB\nRAM Type - DDR3\nStorage - 32GB eMMC"
             ],
             "display_size": "14\"",
             "display_type": "LED",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/i/-/i-life-zed-air-grey-1.jpg",
             "model": "I-life ZEDAir",
-            "price": 16500,
+            "price": 18000,
             "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-intel-atom-14-inch-grey-notebook.html",
-            "product_title": "I-life ZEDAir Intel Atom Z3735F (1.33-1.83Ghz, 2GB DDR3, 32GB eMMC) 14 Inch, Win-10 Home, GREY Notebook",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-intel-atom-quad-core-1-8ghz-2gb-ddr3-32gb-emmc-14-inch-win-10-home-grey-notebook.html",
+            "product_title": "I-life ZEDAir Intel Atom Quad Core D525 (1.80GHz, 2GB DDR3, 32GB eMMC) 14 Inch, Win-10 Home, Grey Notebook ",
             "ram": "2GB",
             "ram_type": "DDR3",
             "status": "available",
@@ -54,39 +47,7 @@
         {
             "brand": "iLife",
             "description": [
-                "Processor - Dual Core Intel Celeron N3350",
-                "Processor Clock Speed - 1.1-2.4GHz",
-                "Display Size - 14.1\"",
-                "RAM - 6GB",
-                "RAM Type - DDR3",
-                "HDD - 500GB HDD"
-            ],
-            "display_size": "14.1\"",
-            "display_type": "HD TN LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/z/e/zedair-h6-1.jpg",
-            "model": "I-life ZedAir H6",
-            "price": 24000,
-            "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-h6-dual-core-intel-celeron-n3350-notebook.html",
-            "product_title": "I-life ZedAir H6 Dual Core Intel Celeron N3350 (1.1-2.4GHz, 6GB DDR3, 500GB SATA HDD) 14.1 Inch HD (1366x768) TN LED Diplay, 4800mAh Battery, Silver Notebook with Win-10 Home",
-            "ram": "6GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "HDD": "500GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "iLife",
-            "description": [
-                "Processor - Quad Core Intel Pentium N4200",
-                "Processor Clock Speed - 1.1-2.5GHz",
-                "Display Size - 13.3\"",
-                "RAM - 3GB",
-                "RAM Type - DDR3",
-                "HDD - 32GB eMMc"
+                "Processor - Intel PQC N4200\nProcessor Clock Speed - 1.1-2.5GHz\nDisplay Size - 13.3 inch\nRAM - 3GB\nRAM Type - DDR3\nStorage - 32GB eMMc + 128GB NVMe SSD\nGraphics Chipset - Intel HD Graphics 505"
             ],
             "display_size": "13.3\"",
             "display_type": "IPS FHD LED",
@@ -95,72 +56,13 @@
             "model": "I-life ZedAir 3",
             "price": 28000,
             "processor": "Others",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-3-quad-core-intel-pentium-n4200-1-1-2-5ghz-3gb-ddr3-32gb-emmc-128gb-nvme-ssd-fingerprint-13-3-inch-fhd-1920x1080-ips-diplay-4800mah-battery-silver-notebook-with-win-10-home.html",
-            "product_title": "I-life ZedAir 3 Quad Core Intel Pentium N4200 (1.1-2.5GHz, 3GB DDR3, 32GB eMMc, 128GB NVMe SSD, Fingerprint) 13.3 Inch FHD (1920x1080) IPS Diplay, 4800mAh Battery, Silver Notebook with Win-10 Home",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-3-intel-pqc-n4200-1-1-2-5ghz-3gb-ddr3-32gb-emmc-128gb-nvme-ssd-fingerprint-13-3-inch-fhd-1920x1080-ips-diplay-4800mah-battery-silver-notebook-with-win-10-home.html",
+            "product_title": " I-life ZedAir 3 Intel PQC N4200 (1.1-2.5GHz, 3GB DDR3, 32GB eMMc, 128GB NVMe SSD, Fingerprint) 13.3 Inch FHD (1920x1080) IPS Diplay, 4800mAh Battery, Silver Notebook with Win-10 Home ",
             "ram": "3GB",
             "ram_type": "DDR3",
             "status": "available",
             "storage": {
                 "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "iLife",
-            "description": [
-                "Processor - Intel Core i3",
-                "Processor Clock Speed - 2.0GHz",
-                "Display Size - 15.6\"",
-                "RAM - 4GB",
-                "RAM Type - DDR3",
-                "Storage - 1TB HDD",
-                "Graphics Chipset - Intel HD 5500 Graphics",
-                "Graphics Memory - Shared",
-                "Operating System - Windows 10 Home"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/x/cx3-b-02_2.jpg",
-            "model": "I-life ZEDAir CX3",
-            "price": 35000,
-            "processor": "Intel Core i3",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-cx3-intel-core-i3-notebook-14717.html",
-            "product_title": "I-life ZEDAir CX3 Intel Core i3 (2.0GHz, 4GB DDR3, 1TB SATA HDD) 15.6 Inch FHD (1920x1080) IPS LED Display, Intel HD 5500 Shared Graphics, 5000MaH Battery, Win-10 Home, Silver Notebook",
-            "ram": "4GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "iLife",
-            "description": [
-                "Processor - Intel Core i3",
-                "Processor Clock Speed - 2.0GHz",
-                "Display Size - 15.6\"",
-                "RAM - 4GB",
-                "RAM Type - DDR3",
-                "Storage - 1TB HDD",
-                "Graphics Chipset - Intel HD 5500 Graphics",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "15.6\"",
-            "display_type": "FHD LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/c/x/cx3-b-02.jpg",
-            "model": "I-life ZEDAir CX3",
-            "price": 35000,
-            "processor": "Intel Core i3",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/ilife-laptop-price-all/i-life-zedair-cx3-intel-core-i3-notebook.html",
-            "product_title": "I-life ZEDAir CX3 Intel Core i3 (2.0GHz, 4GB DDR3, 1TB SATA HDD) 15.6 Inch FHD (1920x1080) IPS LED Display, Intel HD 5500 Shared Graphics, 5000MaH Battery, Win-10 Home, Black Notebook",
-            "ram": "4GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "HDD": "1TB"
             },
             "website": "ryanscomputers.com"
         }

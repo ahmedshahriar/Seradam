@@ -41,7 +41,7 @@ export const authLogin = (username, password) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("https://2077b488.ngrok.io/auth/", {
+      .post("http://127.0.0.1:8000/auth/", {
         username: username,
         password: password
       })
@@ -66,7 +66,7 @@ export const authSignup = (fullname, username, password1, password2) => {
   return dispatch => {
     dispatch(authStart());
     axios
-      .post("https://2077b488.ngrok.io/rest-auth/registration/", {
+      .post("http://127.0.0.1:8000/rest-auth/registration/", {
         fullname: fullname,
         username: username,
         password1: password1,
