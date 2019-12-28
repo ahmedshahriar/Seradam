@@ -3,136 +3,17 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.8-2.9GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 1600MHz",
-                "HDD - 128GB SSD (PCIe Onboard)",
-                "Operating System - mac OS Sierra",
-                "Product Region: USA"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "LED",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-air-_2017_-2_1.jpg",
-            "model": "Apple Macbook Air (2017)",
-            "price": 84000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2017-dual-core-intel-core-i5-macbook.html",
-            "product_title": "Apple Macbook Air (2017) Dual Core Intel Core i5 (1.8-2.9GHz, 8GB 1600MHz LPDDR3, 128GB PCIe Onboard SSD) 13.3 Inch Silver MacBook #MQD32LL/A, MQD32ZP/A, MQD32PA/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 128GB SSD",
-                "Operating System - macOS Mojave"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mre82ll-1.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 108000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-1-6ghz-3-6ghz-8gb-128gb-ssd-13-3-inch-retina-display-space-gray-macbook-mre82ll-a.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 128GB SSD) 13.3 Inch Retina Display, Space Gray Macbook #MRE82LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 128GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mree2ll-01.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 108000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-1-6ghz-3-6ghz-8gb-128gb-ssd-13-3-inch-retina-display-gold-macbook-mree2ll-a.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 128GB SSD) 13.3 Inch Retina Display, Gold Macbook #MREE2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 128GB SSD",
-                "Operating System - macOS Mojave"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mrea2ll-s-01.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 108000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-1-6ghz-3-6ghz-8gb-128gb-ssd-13-3-inch-retina-display-silver-macbook-mrea2ll-a.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 128GB SSD) 13.3 Inch Retina Display, Silver Macbook #MREA2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 128GB SSD",
-                "Operating System - mac OS Sierra",
-                "Product Region: USA"
+                "Processor - Intel Core i5\nProcessor Clock Speed - 1.6-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nStorage - 128GB SSD"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-1.jpg",
-            "model": "Apple MacBook Pro (2017)",
-            "price": 112000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mvfh2ll-01.jpg",
+            "model": "Apple MacBook Air (2019)",
+            "price": 106000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-2-3ghz-3-6ghz-8gb-128gb-ssd-non-touchbar-13-3-inch-retina-display-space-gray-macbook-mpxq2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 128GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Space Gray Macbook #MPXQ2LL/A",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2019-intel-core-i5-macbook-15150.html",
+            "product_title": "Apple MacBook Air (2019) Intel Core i5 (1.6GHz-3.6GHz, 8GB, 128GB SSD) 13.3 Inch Retina Display, Touch ID, Space Gray Macbook #MVFH2LL/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
             "status": "available",
@@ -144,24 +25,17 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 128GB SSD",
-                "Operating System - macOS Sierra",
-                "Product Region: USA"
+                "Processor - Intel Core i5\nProcessor Clock Speed - 1.6-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nStorage - 128GB SSD\nGraphics Chipset - Intel UHD Graphics 617\nGraphics Memory - Shared"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-s-1.jpg",
-            "model": "Apple MacBook Pro (2017)",
-            "price": 112000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mvfm2ll-01.jpg",
+            "model": "Apple MacBook Air (2019)",
+            "price": 106000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-2-3ghz-3-6ghz-8gb-128gb-ssd-non-touchbar-13-3-inch-retina-display-silver-macbook-mpxr2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 128GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Silver Macbook #MPXR2LL/A",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2019-intel-core-i5-macbook-15151.html",
+            "product_title": "Apple MacBook Air (2019) Intel Core i5 (1.6GHz-3.6GHz, 8GB, 128GB SSD) 13.3 Inch Retina Display, Touch ID, Gold Macbook #MVFM2LL/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
             "status": "available",
@@ -173,22 +47,124 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Intel Core M3",
-                "Processor Clock Speed - 1.2-3.0GHz",
-                "Display Size - 12\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 1866MHz",
-                "Storage - 512GB SSD",
-                "Graphics Chipset - Intel HD Graphics 615",
-                "Graphics Memory - Shared",
-                "Operating System - macOS Mojave"
+                "Processor - Dual Core Intel Core M3\nProcessor Clock Speed - 1.2-3.0GHz\nDisplay Size - 12\"\nRAM - 8GB\nRAM Type - LPDDR3 1866MHz\nStorage - 256GB PCIe Onboard SSD\nGraphics Chipset - Intel HD Graphics 615\nGraphics Memory - Shared"
+            ],
+            "display_size": "12\"",
+            "display_type": "Retina",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mrqn2ll-01.jpg",
+            "model": "Apple MacBook (2018)",
+            "price": 113000,
+            "processor": "Intel Core M3",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-2018-dual-core-intel-core-m3-macbook.html",
+            "product_title": "Apple MacBook (2018) Dual Core Intel Core M3 (1.2GHz-3.0GHz, 8GB, 256GB SSD) 12 Inch Retina Display, Gold Macbook #MRQN2LL/A",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 1.6-3.6GHz\nDisplay Size - 13.3 inch\nRAM - 8GB\nRAM Type - LPDDR3 (Onboard)\nRAM Bus (MHz) - 2133MHz\nStorage - 256GB SSD"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "IPS Retina",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mre82ll-1_1.jpg",
+            "model": "Apple MacBook Air (2018)",
+            "price": 115000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-macbook-11568.html",
+            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Space Gray Macbook #MRE92LL/A",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5\nProcessor Clock Speed - 1.6-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nStorage - 256GB SSD\nGraphics Chipset - Intel UHD Graphics 617"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "Retina",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mvfn2ll-g-01.jpg",
+            "model": "Apple MacBook Air (2019)",
+            "price": 118000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2019-intel-core-i5-macbook-15149.html",
+            "product_title": " Apple MacBook Air (2019) Intel Core i5 (1.6GHz-3.6GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Touch ID, Gold Macbook #MVFN2LL/A ",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 2.3-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nHDD - 256GB SSD\nOperating System - macOS Sierra\nProduct Region: USA"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "Retina",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-1_2.jpg",
+            "model": "Apple MacBook Pro (2017)",
+            "price": 120000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-macbook-6618.html",
+            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 256GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Space Gray Macbook #MPXT2LL/A",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 2.3-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nHDD - 256GB SSD\nProduct Region: USA"
+            ],
+            "display_size": "13.3\"",
+            "display_type": "Retina",
+            "graphics_memory": "Shared",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/p/mpxu2lla.jpg",
+            "model": "Apple MacBook Pro 2017",
+            "price": 120000,
+            "processor": "Intel Core i5",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-macbook-8081.html",
+            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 256GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Silver Macbook #MPXU2LL/A",
+            "ram": "8GB",
+            "ram_type": "LPDDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core M3\nProcessor Clock Speed - 1.2-3.0GHz\nDisplay Size - 12\"\nRAM - 8GB\nRAM Type - LPDDR3 1866MHz\nStorage - 512GB SSD\nGraphics Chipset - Intel HD Graphics 615\nGraphics Memory - Shared\nOperating System - macOS Mojave"
             ],
             "display_size": "12\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/n/mnyl2ll-01.jpg",
             "model": "Apple Macbook",
-            "price": 122000,
+            "price": 120000,
             "processor": "Intel Core M3",
             "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-intel-core-m3-macbook.html",
             "product_title": "Apple Macbook Intel Core M3 (1.2GHz-3.0GHz, 8GB, 512GB) 12 Inch Retina Display, Gold Macbook #MNYL2LL/A",
@@ -203,162 +179,38 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 256GB SSD",
-                "Operating System - macOS Mojave"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mre82ll-1_1.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 123000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-1-6ghz-3-6ghz-8gb-256gb-ssd-13-3-inch-retina-display-space-gray-macbook-mre92ll-a.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Space Gray Macbook #MRE92LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 256GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mrea2ll-01_1.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 123000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-1-6ghz-3-6ghz-8gb-256gb-ssd-13-3-inch-retina-display-gold-macbook-mref2ll-a.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Gold Macbook #MREF2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 1.6-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 256GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mrec2ll-01.jpg",
-            "model": "Apple MacBook Air (2018)",
-            "price": 123000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-air-2018-dual-core-intel-core-i5-macbook.html",
-            "product_title": "Apple MacBook Air (2018) Dual Core Intel Core i5 (1.6GHz-3.6GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Silver MacBook #MREC2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 256GB SSD",
-                "Operating System - macOS Sierra",
-                "Product Region: USA\n"
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 2.3-3.6GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3\nRAM Bus (MHz) - 2133MHz\nStorage - 512GB SSD"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-1_2.jpg",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/z/0/z0uk0003a-01_1.jpg",
             "model": "Apple MacBook Pro (2017)",
-            "price": 125000,
+            "price": 130000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-2-3ghz-3-6ghz-8gb-256gb-ssd-non-touchbar-13-3-inch-retina-display-space-gray-macbook-mpxt2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 256GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Space Gray Macbook #MPXT2LL/A",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-macbook.html",
+            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 512GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Space Gray Macbook #Z0UK0003A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
             "status": "available",
             "storage": {
-                "SSD": "256GB"
+                "SSD": "512GB"
             },
             "website": "ryanscomputers.com"
         },
         {
             "brand": "Apple",
             "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.6GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 256GB SSD",
-                "Product Region: USA"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/p/mpxu2lla.jpg",
-            "model": "Apple MacBook Pro 2017",
-            "price": 125000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-dual-core-intel-core-i5-2-3ghz-3-6ghz-8gb-256gb-ssd-non-touchbar-13-3-inch-retina-display-silver-macbook-mpxu2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Dual Core Intel Core i5 (2.3GHz-3.6GHz, 8GB, 256GB SSD) Non-Touchbar, 13.3 Inch Retina Display, Silver Macbook #MPXU2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 3.1GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 256GB SSD",
-                "Operating System - mac OS Sierra",
-                "Product Region: USA\n"
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 3.1GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz\nHDD - 256GB SSD\nOperating System - mac OS Sierra\nProduct Region: USA"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-1_3.jpg",
             "model": "Apple MacBook Pro (2017)",
-            "price": 145000,
+            "price": 142000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-3-1ghz-8gb-256gb-ssd-touch-bar-and-touch-id-13-3-inch-retina-display-space-gray-macbook-mpxv2ll-a.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-macbook-6619.html",
             "product_title": "Apple MacBook Pro (2017) Intel Core i5 (3.1GHz, 8GB, 256GB SSD), Touch Bar and Touch ID, 13.3 Inch Retina Display, Space Gray Macbook #MPXV2LL/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
@@ -371,20 +223,16 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 3.1GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz"
+                "Processor - Dual Core Intel Core i5\nProcessor Clock Speed - 3.1GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-macbook-pro-mid-2017-s-1_2.jpg",
             "model": "Apple MacBook Pro (2017)",
-            "price": 145000,
+            "price": 142000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-3-1ghz-8gb-256gb-ssd-touch-bar-and-touch-id-13-3-inch-retina-display-silver-macbook-mpxx2ll-a.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-macbook.html",
             "product_title": "Apple MacBook Pro (2017) Intel Core i5 (3.1GHz, 8GB, 256GB SSD) Touch Bar and Touch ID, 13.3 Inch Retina Display, Silver Macbook #MPXX2LL/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
@@ -397,21 +245,16 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Quad Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.8GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 256GB SSD"
+                "Processor - Quad Core Intel Core i5\nProcessor Clock Speed - 2.3-3.8GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz (Onboard)\nStorage - 256GB SSD"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9q2ll-2.jpg",
             "model": "Apple Macbook Pro (2018)",
-            "price": 152000,
+            "price": 150000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-quad-core-intel-core-i5-2-3ghz-3-8ghz-8gb-256gb-ssd-13-3-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-mr9q2ll-a-mr9q2pa-a.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-quad-core-intel-core-i5-macbook-9813.html",
             "product_title": "Apple MacBook Pro (2018) Quad Core Intel Core i5 (2.3GHz-3.8GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MR9Q2LL/A, MR9Q2PA/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
@@ -424,131 +267,16 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Intel Core i5",
-                "Processor Clock Speed - 2.4-4.1GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 256GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mv902ll-02_2.jpg",
-            "model": "Apple MacBook Pro (2019)",
-            "price": 164000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-quad-core-intel-core-i5-2-4ghz-4-1ghz-8gb-256gb-ssd-13-3-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-mv962ll-a-mv962zp-a.html",
-            "product_title": "Apple MacBook Pro (2019) Quad Core Intel Core i5 (2.4GHz-4.1GHz, 8GB, 256GB SSD) 13.3 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MV962LL/A, MV962ZP/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 3.1-3.5GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "HDD - 512GB SSD",
-                "Operating System - macOS Sierra",
-                "Product Region: USA"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/a/macbook-pro-mid-3.jpg",
-            "model": "Apple MacBook Pro (2017)",
-            "price": 165000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-3-1ghz-3-5ghz-8gb-512gb-ssd-13-3-inch-retina-display-touchbar-and-touch-id-space-gray-macbook-mpxw2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Intel Core i5 (3.1GHz-3.5GHz, 8GB, 512GB SSD) 13.3 Inch Retina Display, Touchbar and Touch ID, Space Gray Macbook #MPXW2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Quad Core Intel Core i5",
-                "Processor Clock Speed - 2.3-3.8GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 512GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9u2ll-2_1.jpg",
-            "model": "Apple Macbook Pro (2018)",
-            "price": 165000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-quad-core-intel-core-i5-2-3ghz-3-8ghz-8gb-512gb-ssd-13-3-inch-retina-display-touch-bar-and-touch-id-silver-macbook-mr9v2ll-a.html",
-            "product_title": "Apple Macbook Pro (2018) Quad Core Intel Core i5 (2.3GHz-3.8GHz, 8GB, 512GB SSD) 13.3 Inch Retina Display, Touch Bar and Touch ID, Silver Macbook #MR9V2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Dual Core Intel Core i5",
-                "Processor Clock Speed - 3.1-3.5GHZ",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz",
-                "Storage - 512GB SSD"
-            ],
-            "display_size": "13.3\"",
-            "display_type": "Retina",
-            "graphics_memory": "Shared",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/p/mpxy2ll.jpg",
-            "model": "Apple MacBook Pro (2017)",
-            "price": 165000,
-            "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2017-intel-core-i5-3-1ghz-3-5ghz-8gb-512gb-ssd-13-3-inch-retina-display-touch-bar-and-touch-id-silver-macbook-mpxy2ll-a.html",
-            "product_title": "Apple MacBook Pro (2017) Intel Core i5 (3.1GHz-3.5GHZ, 8GB, 512GB SSD) 13.3 Inch Retina Display, Touch Bar and Touch ID, Silver MacBook #MPXY2LL/A",
-            "ram": "8GB",
-            "ram_type": "LPDDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Processor Clock Speed - 2.4-4.1GHz",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type - LPDDR3 2133MHz (Onboard)",
-                "Storage - 512GB SSD"
+                "Processor - Intel Core i5\nProcessor Clock Speed - 2.4-4.1GHz\nDisplay Size - 13.3\"\nRAM - 8GB\nRAM Type - LPDDR3 2133MHz (Onboard)\nStorage - 512GB SSD"
             ],
             "display_size": "13.3\"",
             "display_type": "Retina",
             "graphics_memory": "Shared",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mv902ll-02_3.jpg",
             "model": "Apple MacBook Pro (2019)",
-            "price": 182000,
+            "price": 172000,
             "processor": "Intel Core i5",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-quad-core-intel-core-i5-macbook-14000.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-quad-core-intel-core-i5-macbook-15150.html",
             "product_title": "Apple MacBook Pro (2019) Quad Core Intel Core i5 (2.4GHz-4.1GHz, 8GB, 512GB SSD) 13.3 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MV972LL/A, MV972ZP/A",
             "ram": "8GB",
             "ram_type": "LPDDR3",
@@ -561,21 +289,16 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Six Core Intel Core i7",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz (Onboard)",
-                "Storage - 256GB SSD"
+                "Processor - Six Core Intel Core i7\nProcessor Clock Speed - 2.2-4.1GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz (Onboard)\nStorage - 256GB SSD"
             ],
             "display_size": "15.4\"",
             "display_type": "IPS Retina",
             "graphics_memory": "4GB",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9q2ll-2_4.jpg",
             "model": "Apple MacBook Pro (2018)",
-            "price": 195700,
+            "price": 198000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-six-core-intel-core-i7-2-2ghz-4-1ghz-16gb-256gb-ssd-amd-radeon-pro-555x-4gb-graphics-15-4-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-mr932ll-a.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-six-core-intel-core-i7-macbook.html",
             "product_title": "Apple MacBook Pro (2018) Six Core Intel Core i7 (2.2GHz-4.1GHz, 16GB, 256GB SSD) AMD Radeon Pro 555X 4GB Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MR932LL/A",
             "ram": "16GB",
             "ram_type": "DDR4",
@@ -588,46 +311,14 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Six Core Intel Core i7",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz (Onboard)"
-            ],
-            "display_size": "15.4\"",
-            "display_type": "IPS Retina",
-            "graphics_memory": "4GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9u2ll-2_2.jpg",
-            "model": "Apple Macbook Pro (2018)",
-            "price": 195800,
-            "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-six-core-intel-core-i7-2-2ghz-4-1ghz-16gb-256gb-ssd-amd-radeon-pro-555x-4gb-graphics-15-4-inch-retina-display-touch-bar-and-touch-id-silver-macbook-mr962ll-a.html",
-            "product_title": "Apple Macbook Pro (2018) Six Core Intel Core i7 (2.2GHz-4.1GHz, 16GB, 256GB SSD) AMD Radeon Pro 555X 4GB Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Silver Macbook #MR962LL/A",
-            "ram": "16GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "ryanscomputers.com"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i7",
-                "Processor Clock Speed - 2.6-4.5GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz",
-                "Storage - 256GB SSD",
-                "Graphics Chipset - AMD Radeon Pro 555X GDDR5 Graphics"
+                "Processor - Intel Core i7\nProcessor Clock Speed - 2.6-4.5GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz\nStorage - 256GB SSD\nGraphics Chipset - AMD Radeon Pro 555X GDDR5 Graphics"
             ],
             "display_size": "15.4\"",
             "display_type": "Retina",
             "graphics_memory": "4GB",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mv902ll-02.jpg",
             "model": "Apple MacBook pro (2019)",
-            "price": 210000,
+            "price": 202000,
             "processor": "Intel Core i7",
             "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-6-core-intel-core-i7-macbook.html",
             "product_title": "Apple MacBook pro (2019) 6 Core Intel Core i7 (2.6GHz-4.5GHz, 16GB, 256GB SSD) AMD Radeon Pro 555X 4GB GDDR5 Graphics, 15.4 Inch Retina Displaly, Touch Bar and Touch ID, Space Gray Macbook #MV902LL/A, MV902ZP/A",
@@ -642,49 +333,38 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Six Core Intel Core i7",
-                "Processor Clock Speed - 2.6-4.3GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz (Onboard)",
-                "Storage - 512GB SSD"
+                "Processor - Intel Core i7\nProcessor Clock Speed - 2.6-4.5GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz\nStorage - 256GB SSD\nGraphics Chipset - AMD Radeon Pro 555X GDDR5 Graphics"
             ],
             "display_size": "15.4\"",
-            "display_type": "IPS Retina",
+            "display_type": "Retina",
             "graphics_memory": "4GB",
-            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9q2ll-2_6.jpg",
-            "model": "Apple MacBook Pro (2018)",
-            "price": 225000,
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mv922ll-01.jpg",
+            "model": "Apple MacBook pro (2019)",
+            "price": 202000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-six-core-intel-core-i7-2-6ghz-4-3ghz-16gb-512gb-ssd-amd-radeon-pro-560x-4gb-graphics-15-4-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-mr942ll-a.html",
-            "product_title": "Apple MacBook Pro (2018) Six Core Intel Core i7 (2.6GHz-4.3GHz, 16GB, 512GB SSD) AMD Radeon Pro 560X 4GB Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MR942LL/A",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-6-core-intel-core-i7-macbook-13991.html",
+            "product_title": "Apple MacBook pro (2019) 6 Core Intel Core i7 (2.6GHz-4.5GHz, 16GB, 256GB SSD) AMD Radeon Pro 555X 4GB GDDR5 Graphics, 15.4 Inch Retina Displaly, Touch Bar and Touch ID, Silver Macbook #MV922LL/A",
             "ram": "16GB",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
-                "SSD": "512GB"
+                "SSD": "256GB"
             },
             "website": "ryanscomputers.com"
         },
         {
             "brand": "Apple",
             "description": [
-                "Processor - Six Core Intel Core i7",
-                "Processor Clock Speed - 2.2-4.1GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz (Onboard)",
-                "Storage - 512GB SSD",
-                "Operating System - macOS High Sierra"
+                "Processor - Six Core Intel Core i7\nProcessor Clock Speed - 2.2-4.1GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz (Onboard)\nStorage - 512GB SSD\nOperating System - macOS High Sierra"
             ],
             "display_size": "15.4\"",
             "display_type": "IPS Retina",
             "graphics_memory": "4GB",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/z/0/z0v00005y-1.jpg",
             "model": "Apple MacBook Pro (2018)",
-            "price": 234000,
+            "price": 219000,
             "processor": "Intel Core i7",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-intel-core-i7-2-2ghz-4-1ghz-16gb-512gb-ssd-amd-radeon-pro-555x-4gb-graphics-15-4-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-z0v00005y.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-intel-core-i7-macbook.html",
             "product_title": "Apple MacBook Pro (2018) Intel Core i7 (2.2GHz-4.1GHz, 16GB, 512GB SSD) AMD Radeon Pro 555X 4GB Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Space Gray MacBook #Z0V00005Y",
             "ram": "16GB",
             "ram_type": "DDR4",
@@ -697,22 +377,38 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Intel Core i9",
-                "Processor Clock Speed - 2.3-4.8GHz",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type - DDR4 2400MHz",
-                "Storage - 512GB SSD",
-                "Graphics Chipset - AMD Radeon Pro 560X GDDR5 Graphics"
+                "Processor - Six Core Intel Core i7\nProcessor Clock Speed - 2.6-4.3GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz (Onboard)\nStorage - 512GB SSD"
+            ],
+            "display_size": "15.4\"",
+            "display_type": "IPS Retina",
+            "graphics_memory": "4GB",
+            "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/r/mr9q2ll-2_6.jpg",
+            "model": "Apple MacBook Pro (2018)",
+            "price": 220000,
+            "processor": "Intel Core i7",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2018-six-core-intel-core-i7-macbook-10686.html",
+            "product_title": "Apple MacBook Pro (2018) Six Core Intel Core i7 (2.6GHz-4.3GHz, 16GB, 512GB SSD) AMD Radeon Pro 560X 4GB Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MR942LL/A",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "ryanscomputers.com"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i9\nProcessor Clock Speed - 2.3-4.8GHz\nDisplay Size - 15.4\"\nRAM - 16GB\nRAM Type - DDR4 2400MHz\nStorage - 512GB SSD\nGraphics Chipset - AMD Radeon Pro 560X GDDR5 Graphics"
             ],
             "display_size": "15.4\"",
             "display_type": "Retina",
             "graphics_memory": "4GB",
             "img_link": "https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/m/v/mv902ll-02_1.jpg",
             "model": "Apple MacBook pro (2019)",
-            "price": 249000,
+            "price": 226000,
             "processor": "Intel Core i9",
-            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-8-core-intel-core-i9-2-3ghz-4-8ghz-16gb-512gb-ssd-amd-radeon-pro-560x-4gb-gddr5-graphics-15-4-inch-retina-display-touch-bar-and-touch-id-space-gray-macbook-mv912ll-a.html",
+            "product_link": "https://ryanscomputers.com/laptop-notebook/apple-laptop-all/apple-macbook-pro-2019-8-core-intel-core-i9-macbook.html",
             "product_title": "Apple MacBook Pro (2019) 8 Core Intel Core i9 (2.3GHz-4.8GHz, 16GB, 512GB SSD) AMD Radeon Pro 560X 4GB GDDR5 Graphics, 15.4 Inch Retina Display, Touch Bar and Touch ID, Space Gray Macbook #MV912LL/A",
             "ram": "16GB",
             "ram_type": "DDR4",

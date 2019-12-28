@@ -12,36 +12,11 @@
             ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-mqd32hn-500x500-228x228.jpg",
-            "price": 84000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/mvfm2ll-a/mvfm2ll-a-1-228x228.jpg",
+            "price": 106000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-13.3-inch-macbook-air-mqd32zp",
-            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 128GB SSD (MQD32LL/A,MQD32HN/A,MQD32ZP/A) 2017",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i7",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 128GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/zouu3ll--500x500-228x228.jpg",
-            "price": 94500,
-            "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/apple-mackbook-air-zouu3ll-a-laptop",
-            "product_title": "Apple MacBook Air Core i7 Z0UU3LL/A 13.3 inch 8GB Ram 128GB SSD",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mvfm2-gold-color-2019",
+            "product_title": "Apple Macbook Air 13.3 inch Core i5, 8GB Ram, 128GB SSD (MVFM2) GOLD Color (2019)",
             "ram": "8GB",
             "ram_type": "DDR3",
             "status": "available",
@@ -62,11 +37,86 @@
             ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
-            "price": 108000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/mvfh2ll-a/mvfh2ll-a-1-228x228.jpg",
+            "price": 106000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-air-128gb-ssd",
-            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MRE82LL/A Space Gray (2018)",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mvfh2-2019",
+            "product_title": "Apple Macbook Air 13.3 inch Core i5, 8GB Ram, 128GB SSD (MVFH2) Space Gray (2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/mvfj2ll-a/mvfj2ll-a-1-228x228.jpg",
+            "price": 118000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-MVFJ2-2019",
+            "product_title": "Apple Macbook Air 13.3 inch Core i5, 8GB Ram, 256GB SSD (MVFJ2) Space Gray (2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/mvfn2ll-a/mvfn2ll-a-1-228x228.jpg",
+            "price": 118000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mvfn2-2019",
+            "product_title": "Apple Macbook Air 13.3 inch Core i5, 8GB Ram, 256GB SSD (MVFN2) Gold (2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - ",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mpxr2ll-a/mpxr2ll-a-1-228x228.jpg",
+            "price": 105000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxr2-2017",
+            "product_title": "Apple MacBook Pro 13.3-inch Retina Display, Core i5-2.3 GHz, 8GB Ram, 128GB SSD (MPXR2) Silver (2017)",
             "ram": "8GB",
             "ram_type": "DDR3",
             "status": "available",
@@ -87,11 +137,11 @@
             ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
-            "price": 108000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/muhn2ll-a/muhn2ll-a-1-228x228.jpg",
+            "price": 118000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-air-mree2ll-a-core-i5",
-            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MREE2LL/A Gold (2018)",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-muhn2-2019",
+            "product_title": "Apple Macbook Pro 13.3 Inch Retina Display with Touch Bar, Core i5-1.4GHz, 8GB Ram, 128GB SSD (MUHN2) Space Gray (2019)",
             "ram": "8GB",
             "ram_type": "DDR3",
             "status": "available",
@@ -112,135 +162,13 @@
             ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
-            "price": 123000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/muhp2ll-a/muhp2ll-a-01-228x228.jpg",
+            "price": 135000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-air-mref2ll-a",
-            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MREF2LL/A) Gold 2018",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-muhp2-2019",
+            "product_title": "Apple Macbook Pro 13.3 Inch Retina Display with Touch Bar, Core i5-1.4GHz, 8GB Ram, 256GB SSD (MUHP2) Space Gray (2019)",
             "ram": "8GB",
             "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 256GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
-            "price": 123000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/macbook-air-core-i5-a1932",
-            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD Space Gray (MRE92LL/A) 2018",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Others",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 128GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
-            "price": 112000,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxq2zp-a-i5-laptop",
-            "product_title": "Apple MacBook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD, Space Gray MPXQ2LL/A (2017) ",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "SSD - 256GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
-            "price": 125000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-2017-mpxu2ll",
-            "product_title": "Apple Macbook Pro 13.3 inch Core i5, 8GB Ram, 256GB SSD Retina Display MPXU2LL/A (2017)",
-            "ram": "8GB",
-            "ram_type": "",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i9",
-                "Display Size - 15\"",
-                "RAM - 16GB",
-                "SSD - 256GB ",
-                "Graphics Memory - 4GB"
-            ],
-            "display_size": "15\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-2017-500x500-228x228.jpg",
-            "price": 215000,
-            "processor": "Intel Core i9",
-            "product_link": "https://www.startech.com.bd/apple-15-inch-core-i9-macbook-pro",
-            "product_title": "Apple MacBook Pro with 15\" Retina Display Core i9 16GB RAM and 256GB SSD-Z0V0MLL/A 2018",
-            "ram": "16GB",
-            "ram_type": "",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "SSD - 256GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/Apple%20Macbook%20Pro%2013.3-inch%20Retina%20Display-228x228.jpg",
-            "price": 125000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxt2ll-a-2017",
-            "product_title": "Apple Macbook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 256GB SSD, Space Gray MPXT2LL/A (2017)",
-            "ram": "8GB",
-            "ram_type": "",
             "status": "available",
             "storage": {
                 "SSD": "256GB"
@@ -260,15 +188,40 @@
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
-            "price": 152000,
+            "price": 150000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-13-inch-mr9q2ll-a-i5-laptop",
-            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 256GB SSD, Space Gray MR9Q2LL/A (2018)",
+            "product_link": "https://www.startech.com.bd/apple-mv962-i5-256gb-ssd-laptop",
+            "product_title": "Apple MacBook Pro 13.3\" Core i5-2.4 GHz 256GB SSD With Touch Bar (MV962, Space Gray, Mid 2019)",
             "ram": "8GB",
             "ram_type": "DDR3",
             "status": "available",
             "storage": {
                 "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": 165000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv972-i5-laptop",
+            "product_title": "Apple MacBook Pro 13.3\" Core i5-2.4GHz 512GB SSD With Touch Bar (MV972, Space Gray, Mid 2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
             },
             "website": "startech.com.bd"
         },
@@ -278,10 +231,10 @@
             "display_size": "",
             "graphics_memory": "",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-2019-mv902ll-a/mac-pro-spcae-grey-2019-228x228.jpg",
-            "price": 210000,
+            "price": 190000,
             "processor": "",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-core-i7-mv902ll-a",
-            "product_title": "Apple MacBook Pro 15.4 inch Core i7 16GB Ram 256GB SSD Retina Display (Space Gray, MV902LL/A)",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-core-i7-mv902",
+            "product_title": "Apple MacBook Pro 15.4 inch Core i7 2.60GHz 16GB Ram 256GB SSD Retina Display (Space Gray, MV902) 2019",
             "ram": "",
             "ram_type": "",
             "status": "available",
@@ -291,120 +244,20 @@
         {
             "brand": "Apple",
             "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 512GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
-            "price": 165000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr9r2lla-laptop",
-            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MR9R2LL/A (2018)",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 256GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
-            "price": 164000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-mv962zp-a-i5-256gb-ssd-laptop",
-            "product_title": "Apple MacBook Pro 13.3\" 8th Gen Core i5 256GB SSD With Touch Bar (MV962ZP/A, Space Gray, Mid 2019)",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
-                "SSD - 512GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
-            "price": 182000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv972ll-a-i5-laptop",
-            "product_title": "Apple MacBook Pro 13.3\" 8th Gen Core i5 512GB SSD With Touch Bar (MV972ZP/A, Space Gray, Mid 2019)",
-            "ram": "8GB",
-            "ram_type": "DDR3",
-            "status": "available",
-            "storage": {
-                "SSD": "512GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
                 "Processor - Intel Core i7",
-                "Display Size - 15.4\"",
+                "Display Size - \"",
                 "RAM - 16GB",
                 "RAM Type- DDR4",
                 "SSD - 256GB ",
                 "Graphics Memory - 4GB"
             ],
-            "display_size": "15.4\"",
-            "graphics_memory": "4GB",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-mr962ll-a-500x500-228x228.jpg",
-            "price": 196000,
-            "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/apple-mr962ll-a-core-i7-laptop",
-            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Silver MR962LL/A (2018)",
-            "ram": "16GB",
-            "ram_type": "DDR4",
-            "status": "available",
-            "storage": {
-                "SSD": "256GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [
-                "Processor - Intel Core i7",
-                "Display Size - 15.4\"",
-                "RAM - 16GB",
-                "RAM Type- DDR4",
-                "SSD - 256GB ",
-                "Graphics Memory - 4GB"
-            ],
-            "display_size": "15.4\"",
+            "display_size": "\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
-            "price": 196000,
+            "price": 190000,
             "processor": "Intel Core i7",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr932ll-a-i7-laptop",
-            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Space Gray MR932LL/A (2018)",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-2019",
+            "product_title": "Apple MacBook Pro 2019 15-inch Core i7-2.6GHz Retina Display with Touch Bar Silver MV922",
             "ram": "16GB",
             "ram_type": "DDR4",
             "status": "available",
@@ -426,16 +279,82 @@
             "display_size": "15.4\"",
             "graphics_memory": "4GB",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
-            "price": 256000,
+            "price": 226000,
             "processor": "Intel Core i9",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv912ll-a-laptop",
-            "product_title": "Apple MacBook Pro 15.4\" 9th Gen Core i9 with Touch Bar ( MV912LL/A , Space Gray, Mid 2019 )",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv912-laptop",
+            "product_title": "Apple MacBook Pro 15.4\" Core i9-2.3GHz with Touch Bar ( MV912 , Space Gray, Mid 2019 )",
             "ram": "16GB",
             "ram_type": "DDR4",
             "status": "available",
             "storage": {
                 "SSD": "512GB"
             },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 16\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "16\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mvvj2/mvvj2-01-228x228.jpg",
+            "price": 235000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mvvj2-late-2019",
+            "product_title": "Apple Macbook Pro 16-inch Retina Display with Touch Bar, Core i7-2.6 GHz, 16GB RAM, 512 GB SSD, Radeon Pro 5300M Graphics (MVVJ2) Space Gray (Late 2019)",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i9",
+                "Display Size - 16\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 1TB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "16\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mvvk2-2019/macbook-pro-mvvk2-2-228x228.jpg",
+            "price": 255000,
+            "processor": "Intel Core i9",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mvvk2-2019",
+            "product_title": "Apple Macbook Pro 2019 16-inch Retina Display with Touch Bar Core i9-2.3GHz 16GB Ram 1TB SSD Radeon Pro 4GB Graphics, Gray (MVVK2)",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "available",
+            "storage": {
+                "SSD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [],
+            "display_size": "",
+            "graphics_memory": "",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/Accessories/Apple/Apple%20Magic%20Mouse%202-1-228x228.jpg",
+            "price": 7900,
+            "processor": "",
+            "product_link": "https://www.startech.com.bd/apple-magic-mouse-2",
+            "product_title": "Apple (MLA02ZA/A) Magic Mouse 2",
+            "ram": "",
+            "ram_type": "",
+            "status": "available",
+            "storage": {},
             "website": "startech.com.bd"
         },
         {
@@ -452,6 +371,105 @@
             "ram_type": "",
             "status": "available",
             "storage": {},
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-mqd32hn-500x500-228x228.jpg",
+            "price": 81000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-13.3-inch-macbook-air-mqd32",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5-1.8GHz, 8GB Ram, 128GB SSD (MQD32) 2017",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
+            "price": 115000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mref2ll-a",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MREF2LL/A) Gold 2018",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-500x500-228x228.jpg",
+            "price": 97000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mqd42hna-2017",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MQD42HN/A / MQD42LL/A) 2017",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "SSD - 512GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-2017-500x500-228x228.jpg",
+            "price": 169000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxw2ll-a-2017",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MPXW2LL/A (2017) ",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
             "website": "startech.com.bd"
         },
         {
@@ -481,55 +499,23 @@
         },
         {
             "brand": "Apple",
-            "description": [],
-            "display_size": "",
-            "graphics_memory": "",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/apple-laptop/airpod-mmef2za/mmef2za-1-228x228.jpg",
-            "price": 15000,
-            "processor": "",
-            "product_link": "https://www.startech.com.bd/apple-mmef2za-a-airpod",
-            "product_title": "Apple MMEF2ZA/A Airpods",
-            "ram": "",
-            "ram_type": "",
-            "status": "available",
-            "storage": {},
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
-            "description": [],
-            "display_size": "",
-            "graphics_memory": "",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/Accessories/Apple/Apple%20Magic%20Mouse%202-1-228x228.jpg",
-            "price": 7900,
-            "processor": "",
-            "product_link": "https://www.startech.com.bd/apple-magic-mouse-2",
-            "product_title": "Apple (MLA02ZA/A) Magic Mouse 2",
-            "ram": "",
-            "ram_type": "",
-            "status": "available",
-            "storage": {},
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "Apple",
             "description": [
-                "Processor - Intel Core i5",
-                "Display Size - 13.3\"",
-                "RAM - 8GB",
-                "RAM Type- DDR3",
+                "Processor - Intel Core i7",
+                "Display Size - 15.4\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
                 "SSD - 256GB ",
-                "Graphics Memory - Shared"
+                "Graphics Memory - 4GB"
             ],
-            "display_size": "13.3\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/apple-macbook-air-500x500-228x228.jpg",
-            "price": 97000,
-            "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-air-mqd42hna-2017",
-            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD (MQD42HN/A / MQD42LL/A) 2017",
-            "ram": "8GB",
-            "ram_type": "DDR3",
+            "display_size": "15.4\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": 205000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr932ll-a-i7-laptop",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Space Gray MR932LL/A (2018)",
+            "ram": "16GB",
+            "ram_type": "DDR4",
             "status": "not available",
             "storage": {
                 "SSD": "256GB"
@@ -589,24 +575,373 @@
         {
             "brand": "Apple",
             "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": 220000,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/macbook-pro-retina-touchbar-i7",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 512GB SSD, Dedicated Graphics, Space Gray MR942LL/A (2018)",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i9",
+                "Display Size - 15.4\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 512GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.4\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mv932ll-a-228x228.jpg",
+            "price": 230000,
+            "processor": "Intel Core i9",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv932ll-a-laptop",
+            "product_title": "Apple MacBook Pro 15.4\" Core i9-2.3GHz with Touch Bar ( MV932LL/A ,Silver ,Mid 2019 )",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
                 "Processor - Intel Core i5",
                 "Display Size - 13.3\"",
                 "RAM - 8GB",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": 120000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-2017-mpxu2ll",
+            "product_title": "Apple Macbook Pro 13.3 inch Core i5, 8GB Ram, 256GB SSD Retina Display MPXU2LL/A (2017)",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
                 "SSD - 512GB ",
                 "Graphics Memory - Shared"
             ],
             "display_size": "13.3\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-macbook-pro-2017-500x500-228x228.jpg",
-            "price": 169000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": 179000,
             "processor": "Intel Core i5",
-            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxw2ll-a-2017",
-            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MPXW2LL/A (2017) ",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mr9r2lla-laptop",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 512GB SSD, Space Gray MR9R2LL/A (2018)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "512GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 15.4\"",
+                "RAM - 16GB",
+                "RAM Type- DDR4",
+                "SSD - 256GB ",
+                "Graphics Memory - 4GB"
+            ],
+            "display_size": "15.4\"",
+            "graphics_memory": "4GB",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/apple-mr962ll-a-500x500-228x228.jpg",
+            "price": 195800,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/apple-mr962ll-a-core-i7-laptop",
+            "product_title": "Apple MacBook Pro 15-inch Retina Display with Touch Bar, Core i7, 16GB Ram, 256GB SSD, Dedicated Graphics, Silver MR962LL/A (2018)",
+            "ram": "16GB",
+            "ram_type": "DDR4",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/grey-spcae-pro-500x500-500x500-228x228.jpg",
+            "price": 150000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-13-inch-mr9q2ll-a-i5-laptop",
+            "product_title": "Apple MacBook Pro 13-inch Retina Display with Touch Bar, Core i5, 8GB RAM, 256GB SSD, Space Gray MR9Q2LL/A (2018)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Others",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/pro-grey-500x500-228x228.jpg",
+            "price": 106000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxq2zp-a-i5-laptop",
+            "product_title": "Apple MacBook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD, Space Gray MPXQ2LL/A (2017) ",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/mvfk2ll-a/mvfk2ll-a-1-228x228.jpg",
+            "price": 106000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mvfk2-2019",
+            "product_title": "Apple Macbook Air 13.3 inch Core i5, 8GB Ram, 128GB SSD (MVFK2) Silver (2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
+            "price": 99000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-128gb-ssd",
+            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MRE82LL/A Space Gray (2018)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/gold-500x500-228x228.jpg",
+            "price": 108000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-air-mree2ll-a-core-i5",
+            "product_title": "Apple Macbook Air 13.3-inch Retina Display, Core i5, 8GB Ram, 128GB SSD MREE2LL/A Gold (2018)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/air-silver-228x228.jpg",
+            "price": 116000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/macbook-air-core-i5-a1932",
+            "product_title": "Apple Macbook Air 13.3-inch, Core i5, 8GB Ram, 256GB SSD Space Gray (MRE92LL/A) 2018",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i7",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 128GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/air/zouu3ll--500x500-228x228.jpg",
+            "price": 94500,
+            "processor": "Intel Core i7",
+            "product_link": "https://www.startech.com.bd/apple-mackbook-air-zouu3ll-a-laptop",
+            "product_title": "Apple MacBook Air Core i7 Z0UU3LL/A 13.3 inch 8GB Ram 128GB SSD",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "128GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/muhr2ll-a/muhr2ll-a-1-228x228.jpg",
+            "price": 137000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-muhr2ll-a-2019",
+            "product_title": "Apple Macbook Pro 13.3 Inch Retina Display with Touch Bar, Core i5-1.4 GHz, 8GB Ram, 256GB SSD (MUHR2LL/A) Silver (Mid 2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "RAM Type- DDR3",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mv992zp-a/mv992zp-a-228x228.jpg",
+            "price": 155000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mv992-2019",
+            "product_title": "Apple MacBook Pro 13.3-Inch Core i5-2.4 GHz, 8GB RAM, 256GB SSD With Touch Bar (MV992) Silver (Mid 2019)",
+            "ram": "8GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "SSD": "256GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "Apple",
+            "description": [
+                "Processor - Intel Core i5",
+                "Display Size - 13.3\"",
+                "RAM - 8GB",
+                "SSD - 256GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/Apple%20Macbook%20Pro%2013.3-inch%20Retina%20Display-228x228.jpg",
+            "price": 120000,
+            "processor": "Intel Core i5",
+            "product_link": "https://www.startech.com.bd/apple-macbook-pro-mpxt2ll-a-2017",
+            "product_title": "Apple Macbook Pro 13.3-inch Retina Display, Core i5, 8GB Ram, 256GB SSD, Space Gray MPXT2LL/A (2017)",
             "ram": "8GB",
             "ram_type": "",
             "status": "not available",
             "storage": {
-                "SSD": "512GB"
+                "SSD": "256GB"
             },
             "website": "startech.com.bd"
         }

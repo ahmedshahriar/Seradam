@@ -15,7 +15,7 @@ class WishLists extends Component {
 
     if (token) {
       axios
-        .get("https://2077b488.ngrok.io/products/notificationwishlistcount/", {
+        .get("http://127.0.0.1:8000/products/notificationwishlistcount/", {
           headers: {
             Authorization: `Token ${token}`
           }
@@ -32,7 +32,7 @@ class WishLists extends Component {
     }
 
     axios
-      .get("https://2077b488.ngrok.io/wishlist/", {
+      .get("http://127.0.0.1:8000/wishlist/", {
         headers: {
           Authorization: `Token ${token}`
         }

@@ -3,6 +3,102 @@
         {
             "brand": "iLife",
             "description": [
+                "Processor - Intel Core i3",
+                "Display Size - ",
+                "RAM - 4GB",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/i-life-zed-air-cx3/i-life-zed-air-cx3-228x228.png",
+            "price": 30000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/i-life-zed-air-cx3-laptop",
+            "product_title": "i-Life Zed Air CX3 Core i3 15.6\" Laptop with Free DOS",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - ",
+                "RAM - 4GB",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/i-life-zed-air-cx3/i-life-zed-air-cx3-2-228x228.jpg",
+            "price": 33000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/i-life-zed-air-cx3-i3-5th-gen-laptop",
+            "product_title": "i-Life Zed Air CX3 Core i3 5th Gen 15.6\" Full HD Laptop with Windows 10",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Intel Core i3",
+                "Display Size - ",
+                "RAM - 8GB",
+                "HDD - 1TB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/i-life-zed-air-cx3/i-life-zed-air-cx3-2-228x228.jpg",
+            "price": 34000,
+            "processor": "Intel Core i3",
+            "product_link": "https://www.startech.com.bd/i-life-zed-air-cx3-i3-5th-gen-8gb-ram-laptop",
+            "product_title": "i-Life Zed Air CX3 Core i3 5th Gen, 8GB RAM, 15.6\" Full HD Laptop",
+            "ram": "8GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "1TB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - 13.3\"",
+                "RAM - 4GB",
+                "HDD - 64GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "13.3\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-x2/zed-air-x2-1-228x228.jpg",
+            "price": 20000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/i-life-zed-air-x2-laptop",
+            "product_title": "i-Life Zed Air X2 Quad Core 13.3\" Full HD Laptop",
+            "ram": "4GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "64GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
                 "Processor - Others",
                 "Display Size - 14\"",
                 "RAM - 2GB",
@@ -12,63 +108,15 @@
             "display_size": "14\"",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air/zedair-228x228.jpg",
-            "price": 16500,
+            "price": 17800,
             "processor": "Others",
             "product_link": "https://www.startech.com.bd/i-life-zedair",
             "product_title": "i-Life Zed Air 14'' Quad Core Laptop",
             "ram": "2GB",
             "ram_type": "",
-            "status": "available",
+            "status": "not available",
             "storage": {
                 "SSD": "32GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "iLife",
-            "description": [
-                "Processor - Others",
-                "Display Size - ",
-                "RAM - 3GB",
-                "SSD - 128GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air3/zedair3-228x228.jpg",
-            "price": 28000,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/i-life-zedair-3",
-            "product_title": "i-Life ZedAir 3 Pentium Quad Core 13.3\" Full HD IPS Laptop with 128GB SSD",
-            "ram": "3GB",
-            "ram_type": "",
-            "status": "available",
-            "storage": {
-                "SSD": "128GB"
-            },
-            "website": "startech.com.bd"
-        },
-        {
-            "brand": "iLife",
-            "description": [
-                "Processor - Others",
-                "Display Size - 14\"",
-                "RAM - 2GB",
-                "HDD - 32GB ",
-                "Graphics Memory - Shared"
-            ],
-            "display_size": "14\"",
-            "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/i-Life/i-Life%20ZedAir%20H2/Zedair-H2-Silver-p1-228x228.jpg",
-            "price": 19999,
-            "processor": "Others",
-            "product_link": "https://www.startech.com.bd/i-life-zedair-h",
-            "product_title": "i-Life Zed Air H 14 Inch Laptop",
-            "ram": "2GB",
-            "ram_type": "",
-            "status": "available",
-            "storage": {
-                "HDD": "32GB"
             },
             "website": "startech.com.bd"
         },
@@ -100,24 +148,24 @@
             "brand": "iLife",
             "description": [
                 "Processor - Others",
-                "Display Size - 10.1\"",
-                "RAM - 2GB",
+                "Display Size - 15.6\"",
+                "RAM - 6GB",
                 "RAM Type- DDR3",
-                "HDD - 32GB ",
+                "HDD - 500GB ",
                 "Graphics Memory - Shared"
             ],
-            "display_size": "10.1\"",
+            "display_size": "15.6\"",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zedbook-w/zedbook-w-228x228.jpg",
-            "price": 15990,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-h3/zed-air-h3-01-228x228.jpg",
+            "price": 26500,
             "processor": "Others",
-            "product_link": "https://www.startech.com.bd/i-life-zed-book-w",
-            "product_title": "i-Life Zed Book W Atom Quad Core Z3735F 10.1\" IPS Touch Notebook With Genuine Win 10",
-            "ram": "2GB",
+            "product_link": "https://www.startech.com.bd/ilife-zed-air-h3-pentium-quad-core-laptop-windows-10",
+            "product_title": "I-Life Zed Air H3 Pentium Quad Core 15.6'' FHD Laptop With Windows 10",
+            "ram": "6GB",
             "ram_type": "DDR3",
             "status": "available",
             "storage": {
-                "HDD": "32GB"
+                "HDD": "500GB"
             },
             "website": "startech.com.bd"
         },
@@ -125,23 +173,23 @@
             "brand": "iLife",
             "description": [
                 "Processor - Others",
-                "Display Size - 14.1\"",
-                "RAM - 6GB",
-                "HDD - 500GB ",
+                "Display Size - ",
+                "RAM - 3GB",
+                "SSD - 128GB ",
                 "Graphics Memory - Shared"
             ],
-            "display_size": "14.1\"",
+            "display_size": "",
             "graphics_memory": "Shared",
-            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air/i-life-zedair-h6-laptop-228x228.jpg",
-            "price": 24000,
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air3/zedair3-228x228.jpg",
+            "price": 27800,
             "processor": "Others",
-            "product_link": "https://www.startech.com.bd/i-life-zedair-h6-laptop",
-            "product_title": "i-Life ZedAir H6 14.1\" HD Laptop",
-            "ram": "6GB",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-3",
+            "product_title": "i-Life ZedAir 3 Pentium Quad Core 13.3\" Full HD IPS Laptop with 128GB SSD",
+            "ram": "3GB",
             "ram_type": "",
-            "status": "available",
+            "status": "not available",
             "storage": {
-                "HDD": "500GB"
+                "SSD": "128GB"
             },
             "website": "startech.com.bd"
         },
@@ -157,15 +205,88 @@
             "display_size": "",
             "graphics_memory": "Shared",
             "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-plus/zedairplus-5-228x228.jpg",
-            "price": 24000,
+            "price": 24500,
             "processor": "Others",
             "product_link": "https://www.startech.com.bd/i-life-zed-air-plus-laptop",
             "product_title": "I-Life Zed Air Plus Celeron Dual Core 15.6\" Full HD Laptop",
             "ram": "6GB",
             "ram_type": "",
-            "status": "not available",
+            "status": "available",
             "storage": {
                 "HDD": "500GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - ",
+                "RAM - 2GB",
+                "RAM Type- DDR3",
+                "HDD - 32GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-note-prime/zed-note-prime-1-228x228.jpg",
+            "price": 21000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/i-life-zed-note-prime-fhd-touch-screen-laptop",
+            "product_title": "i-Life Zed Note Prime Celeron N3350 11.6\" Full HD Touch Screen Laptop",
+            "ram": "2GB",
+            "ram_type": "DDR3",
+            "status": "available",
+            "storage": {
+                "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - ",
+                "RAM - 2GB",
+                "HDD - 32GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-ultra/golden/zedair-ultra-gold-1-228x228.jpg",
+            "price": 17500,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/ilife-zed-air-ultra-celeron-n3350-laptop-windows-10",
+            "product_title": "I-Life Zed Air Ultra Celeron N3350 15.6\" Full HD Laptop With Windows 10(Gold)",
+            "ram": "2GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - ",
+                "RAM - 2GB",
+                "HDD - 32GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air-ultra/silver/zed-air-ultra-silver-1-228x228.jpg",
+            "price": 18500,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/ilife-zed-air-ultra-celeron-dual-core-n3350-laptop-with-windows-10",
+            "product_title": "I-Life Zed Air Ultra Celeron N3350 15.6\" Full HD Laptop With Windows 10(Silver)",
+            "ram": "2GB",
+            "ram_type": "",
+            "status": "available",
+            "storage": {
+                "HDD": "32GB"
             },
             "website": "startech.com.bd"
         },
@@ -190,6 +311,79 @@
             "status": "not available",
             "storage": {
                 "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - 10.1\"",
+                "RAM - 2GB",
+                "RAM Type- DDR3",
+                "HDD - 32GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "10.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zedbook-w/zedbook-w-228x228.jpg",
+            "price": 17000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/i-life-zed-book-w",
+            "product_title": "i-Life Zed Book W Atom Quad Core Z3735F 10.1\" IPS Touch Notebook With Genuine Win 10",
+            "ram": "2GB",
+            "ram_type": "DDR3",
+            "status": "not available",
+            "storage": {
+                "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - 14\"",
+                "RAM - 2GB",
+                "HDD - 32GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop-notebook/i-Life/i-Life%20ZedAir%20H2/Zedair-H2-Silver-p1-228x228.jpg",
+            "price": 19999,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-h",
+            "product_title": "i-Life Zed Air H 14 Inch Laptop",
+            "ram": "2GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "HDD": "32GB"
+            },
+            "website": "startech.com.bd"
+        },
+        {
+            "brand": "iLife",
+            "description": [
+                "Processor - Others",
+                "Display Size - 14.1\"",
+                "RAM - 6GB",
+                "HDD - 500GB ",
+                "Graphics Memory - Shared"
+            ],
+            "display_size": "14.1\"",
+            "graphics_memory": "Shared",
+            "img_link": "https://www.startech.com.bd/image/cache/catalog/laptop/i-life/zed-air/i-life-zedair-h6-laptop-228x228.jpg",
+            "price": 24000,
+            "processor": "Others",
+            "product_link": "https://www.startech.com.bd/i-life-zedair-h6-laptop",
+            "product_title": "i-Life ZedAir H6 14.1\" HD Laptop",
+            "ram": "6GB",
+            "ram_type": "",
+            "status": "not available",
+            "storage": {
+                "HDD": "500GB"
             },
             "website": "startech.com.bd"
         }

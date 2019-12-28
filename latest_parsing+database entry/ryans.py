@@ -241,6 +241,33 @@ def ryans_parse_laptop_list(url,brand):
             if "Storage" in details.keys():
                 storage = ryans_analyze_storage(details['Storage'])
 
+            if 'Graphics memory' in details.keys():
+                graphics_memory = details['Graphics memory']
+            else:
+                graphics_memory = ""
+
+            if 'description' in details.keys():
+                description = details['description']
+            else:
+                description = ""
+
+            if 'Model' in details.keys():
+                model = details['Model']
+            else:
+                model = ""
+
+            if 'RAM' in details.keys():
+                ram = details['RAM']
+            else:
+                ram = ""
+
+            if 'Display Type' in details.keys():
+                display_type = details['Display Type']
+            else:
+                display_type = ""
+
+
+
             status = "available"
 
             product_records = {
@@ -249,14 +276,14 @@ def ryans_parse_laptop_list(url,brand):
                 "price": price,
                 "product_link": product_url,
                 "product_title": title,
-                "description": details['description'],
-                "model": details['Model'],
-                "ram": details['RAM'],
+                "description": description,
+                "model": model,
+                "ram": ram,
                 "ram_type": ram_type,
                 "brand": brand,
-                "graphics_memory": details['Graphics memory'],
+                "graphics_memory": graphics_memory,
                 "display_size": display_size,
-                "display_type": details['Display Type'],
+                "display_type": display_type,
                 "storage": storage,
                 "processor": processor,
                 "website": "ryanscomputers.com"
@@ -313,11 +340,9 @@ def ryans_parse_all_laptop():
     brand = 'MSI'
     ryans_parse_laptop_list(url, brand)
 
-    url = "https://ryanscomputers.com/laptop-notebook/fujitsu.html"
-    brand = 'Fujitsu'
-    ryans_parse_laptop_list(url, brand)
-
     url = "https://ryanscomputers.com/laptop-notebook/chuwi.html"
     brand = 'Chuwi'
     ryans_parse_laptop_list(url, brand)
+
+
 
